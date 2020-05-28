@@ -64,7 +64,6 @@
 - [rofi-file-browser-extended](https://github.com/marvinkreis/rofi-file-browser-extended) - Use rofi to quickly open files
 - [mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [autocutsel](https://github.com/sigmike/autocutsel) - automated xcutsel
-- [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [xdo](https://github.com/baskerville/xdo) - Small X utility to perform elementary actions on windows
 - [i3lock](https://github.com/Lixxia/i3lock) - Personal copy of i3lock that displays a 12-hour clock and always shows unlock indicator.
 - [xmouseless](https://github.com/jbensmann/xmouseless) - A fast and simple way to control the mouse.
@@ -269,6 +268,7 @@
 
 ## Lua 
 
+- [mpv-quack](https://github.com/CounterPillow/mpv-quack) - mpv script for temporarily reducing audio volume after seeking
 - [nvim-lsp](https://github.com/neovim/nvim-lsp) - Nvim LSP client configurations
 - [nvimpager](https://github.com/lucc/nvimpager) - Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting
 - [koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
@@ -388,7 +388,7 @@
 - [milcheck](https://github.com/doums/milcheck) - A small binary that displays the status of your pacman mirrorlist in your terminal
 - [dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A 1:1 port of dmenu, rewritten in Rust
 - [handlr](https://github.com/chmln/handlr) - A better xdg-utils
-- [zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, network, and disk usage
+- [zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [gitui](https://github.com/extrawurst/gitui) - blazing fast terminal-ui for git written in rust
@@ -435,6 +435,8 @@
 
 ## Shell 
 
+- [pug](https://github.com/Ventto/pug) - Automatically Gist-synchronises Pacman & AUR installed package lists.
+- [zinit-configs](https://github.com/zdharma/zinit-configs) - Real-world configuration files (basically zshrc-s) holding Zinit (former Zplugin) invocations
 - [jumpapp](https://github.com/mkropat/jumpapp) - A run-or-raise application switcher for any X11 desktop
 - [linux-timemachine](https://github.com/cytopia/linux-timemachine) - Rsync-based OSX-like time machine for Linux, MacOS and BSD for atomic and resumable local and remote backups
 - [rofi-search](https://github.com/fogine/rofi-search) - Interactive Google / DuckDuckGo search via rofi
@@ -460,6 +462,7 @@
 - [mpvc](https://github.com/lwilletts/mpvc) - An mpc-like control interface for mpv.
 - [zsh-abbrev-alias](https://github.com/momo-lab/zsh-abbrev-alias) - This zsh plugin provides functionality similar to Vim's abbreviation expansion.
 - [zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [fontpreview](https://github.com/sdushantha/fontpreview) - 🔡 Highly customizable and minimal font previewer written in bash
 - [polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
