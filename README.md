@@ -38,6 +38,7 @@
 
 ## C 
 
+- [reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [gitid](https://github.com/Luiserebii/gitid) - A  simple, minimal command line tool allowing for easy management of git identities (username, email, and signing key (e.g GPG)).
@@ -234,6 +235,7 @@
 
 ## JavaScript 
 
+- [AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
 - [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing
 - [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
@@ -435,6 +437,8 @@
 
 ## Shell 
 
+- [anything-sync-daemon](https://github.com/graysky2/anything-sync-daemon) - Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system.
+- [profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
 - [pug](https://github.com/Ventto/pug) - Automatically Gist-synchronises Pacman & AUR installed package lists.
 - [zinit-configs](https://github.com/zdharma/zinit-configs) - Real-world configuration files (basically zshrc-s) holding Zinit (former Zplugin) invocations
 - [jumpapp](https://github.com/mkropat/jumpapp) - A run-or-raise application switcher for any X11 desktop
