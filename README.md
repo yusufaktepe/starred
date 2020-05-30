@@ -565,7 +565,7 @@
 - [vim-sandwich](https://github.com/machakann/vim-sandwich) - The set of operator and textobject plugins to search/select/edit sandwiched textobjects.
 - [targets.vim](https://github.com/wellle/targets.vim) - Vim plugin that provides additional text objects
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
-- [vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Use with nvim/vim's builtin terminal in the floating/popup window
+- [vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Use nvim/vim's builtin terminal in the floating/popup window
 - [indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
 - [srcery-vim](https://github.com/srcery-colors/srcery-vim) - Dark colorscheme for gvim and vim
