@@ -38,6 +38,7 @@
 
 ## C 
 
+- [sc-im](https://github.com/andmarti1424/sc-im) - SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents
 - [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -437,6 +438,7 @@
 
 ## Shell 
 
+- [git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [anything-sync-daemon](https://github.com/graysky2/anything-sync-daemon) - Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system.
 - [profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
 - [pug](https://github.com/Ventto/pug) - Automatically Gist-synchronises Pacman & AUR installed package lists.
