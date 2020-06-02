@@ -38,6 +38,7 @@
 
 ## C 
 
+- [netmon](https://github.com/mdomlop/netmon) - Simple console network traffic monitor.
 - [sc-im](https://github.com/andmarti1424/sc-im) - SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents
@@ -113,7 +114,7 @@
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [torodofi](https://github.com/pushsla/torodofi) - Simple markdown-compatible To-Do client driven by rofi
 - [spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
-- [ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ultra fast grep with interactive query UI: search file systems, text, source code, binary files, archives (cpio/tar/pax/zip), compressed files (zip/gz/Z/bz2/lzma/xz), documents, and more. A faster, user-friendly replacement for GNU/BSD grep.
+- [ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ultra fast grep with interactive query UI: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz), documents, fuzzy search, and more. A faster, user-friendly replacement for GNU/BSD grep.
 - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
@@ -170,6 +171,7 @@
 
 ## Go 
 
+- [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [round](https://github.com/mingrammer/round) - :cyclone: A command-line for rounding the images
 - [pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
@@ -186,7 +188,7 @@
 - [xurls](https://github.com/mvdan/xurls) - Extract urls from text
 - [fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
 - [archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
-- [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server. https://github.com/foxcpp/maddy/wiki/FAQ
+- [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [lab](https://github.com/zaquestion/lab) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
 - [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -387,6 +389,8 @@
 
 ## Rust 
 
+- [shotgun](https://github.com/neXromancers/shotgun) - Minimal X screenshot utility
+- [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
 - [milcheck](https://github.com/doums/milcheck) - A small binary that displays the status of your pacman mirrorlist in your terminal
 - [dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A 1:1 port of dmenu, rewritten in Rust
