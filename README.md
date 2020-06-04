@@ -38,6 +38,7 @@
 
 ## C 
 
+- [mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [netmon](https://github.com/mdomlop/netmon) - Simple console network traffic monitor.
 - [sc-im](https://github.com/andmarti1424/sc-im) - SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
@@ -171,6 +172,7 @@
 
 ## Go 
 
+- [path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin
 - [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [round](https://github.com/mingrammer/round) - :cyclone: A command-line for rounding the images
@@ -442,6 +444,7 @@
 
 ## Shell 
 
+- [zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
 - [git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [anything-sync-daemon](https://github.com/graysky2/anything-sync-daemon) - Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system.
 - [profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
