@@ -38,6 +38,7 @@
 
 ## C 
 
+- [dwl](https://github.com/djpohly/dwl) - dwm for Wayland
 - [mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [netmon](https://github.com/mdomlop/netmon) - Simple console network traffic monitor.
 - [sc-im](https://github.com/andmarti1424/sc-im) - SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
@@ -322,6 +323,7 @@
 
 ## Python 
 
+- [rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
 - [getrid](https://github.com/Nudin/getrid) - Simple terminal user interface to decide which packages to keep and which to get rid of
 - [vint](https://github.com/Vimjas/vint) - Fast and Highly Extensible Vim script Language Lint implemented in Python.
 - [terminal-colors](https://github.com/eikenb/terminal-colors) - Utility to test color capabilities of terminal.
