@@ -565,6 +565,7 @@
 
 ## Vim script 
 
+- [ferret](https://github.com/wincent/ferret) - 🐀 Enhanced multi-file search for Vim
 - [vim-markbar](https://github.com/Yilin-Yang/vim-markbar) - Display all accessible marks and their surrounding lines in a collapsible sidebar.
 - [codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
 - [limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
