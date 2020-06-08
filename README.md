@@ -228,6 +228,7 @@
 
 ## Haskell 
 
+- [ntfd](https://github.com/kamek-pf/ntfd) - A lightweight notification daemon for fancy desktop integrations
 - [kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
 - [linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
@@ -319,7 +320,7 @@
 ## Perl 
 
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application for searching and streaming videos from YouTube.
+- [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application for searching and playing videos from YouTube.
 
 ## Python 
 
