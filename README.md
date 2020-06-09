@@ -38,6 +38,8 @@
 
 ## C 
 
+- [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+- [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [dwl](https://github.com/djpohly/dwl) - dwm for Wayland
 - [mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [netmon](https://github.com/mdomlop/netmon) - Simple console network traffic monitor.
@@ -447,6 +449,7 @@
 
 ## Shell 
 
+- [yawhich-key](https://github.com/adelin-b/yawhich-key) - An universal which-key command to provide spacemacs-like shortcut tooltip on desktop and any windows
 - [zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
 - [git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
 - [anything-sync-daemon](https://github.com/graysky2/anything-sync-daemon) - Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system.
