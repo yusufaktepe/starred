@@ -38,6 +38,8 @@
 
 ## C 
 
+- [zathura](https://github.com/pwmt/zathura) - a document viewer
+- [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 - [jq](https://github.com/stedolan/jq) - Command-line JSON processor
 - [dwl](https://github.com/djpohly/dwl) - dwm for Wayland
@@ -175,6 +177,8 @@
 
 ## Go 
 
+- [gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
+- [i3keys](https://github.com/RasmusLindroth/i3keys) - Lists available bindings for i3 or Sway with a graphical or text keyboard
 - [path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin
 - [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -259,7 +263,7 @@
 - [pulp](https://github.com/koirand/pulp) - Pulp is a Hugo theme for getting a simple, easy-to-read blog site.
 - [nodejs-speech](https://github.com/googleapis/nodejs-speech) - Node.js client for Google Cloud Speech: Speech to text conversion powered by machine learning.
 - [browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
-- [surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - A SurfingKeys configuration which adds 200+ key mappings for 17+ unique sites and OmniBar search suggestions for 45+ sites
+- [surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - A SurfingKeys configuration which adds 125+ key mappings for 20+ unique sites & OmniBar search completions for 55+ sites
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [firefox-overlay-scrollbars-win10](https://github.com/endeavoursc/firefox-overlay-scrollbars-win10) - Firefox Quantum Overlay Scrollbars, styled to match Windows 10 native apps
 - [firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs) - **Stops working with FF v72.** Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement.
@@ -321,11 +325,13 @@
 
 ## Perl 
 
+- [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application for searching and playing videos from YouTube.
 
 ## Python 
 
+- [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
 - [rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
 - [getrid](https://github.com/Nudin/getrid) - Simple terminal user interface to decide which packages to keep and which to get rid of
 - [vint](https://github.com/Vimjas/vint) - Fast and Highly Extensible Vim script Language Lint implemented in Python.
