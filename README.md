@@ -38,6 +38,7 @@
 
 ## C 
 
+- [libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
 - [zathura](https://github.com/pwmt/zathura) - a document viewer
 - [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
@@ -331,6 +332,7 @@
 
 ## Python 
 
+- [searx](https://github.com/asciimoo/searx) - Privacy-respecting metasearch engine
 - [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
 - [rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
 - [getrid](https://github.com/Nudin/getrid) - Simple terminal user interface to decide which packages to keep and which to get rid of
