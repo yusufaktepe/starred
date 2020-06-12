@@ -157,7 +157,7 @@
 
 - [aether](https://github.com/josephhutch/aether) - A responsive and clean Hugo theme for blogs
 - [hyde](https://github.com/spf13/hyde) - Port of Mdo's excellent theme to Hugo
-- [hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🌩 A simple, clean, flexible Hugo theme
+- [hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🥛 A simple, clean, flexible Hugo theme
 - [ShellMagic](https://github.com/smokingcuke/ShellMagic) - My shell notes :memo:
 - [bilberry-hugo-theme](https://github.com/Lednerb/bilberry-hugo-theme) - Premium theme for the hugo site builder. DEMO:
 - [hugo-theme-zen](https://github.com/frjo/hugo-theme-zen) - A fast and clean Hugo theme with css-grid and Hugo pipes support.
@@ -577,6 +577,7 @@
 
 ## Vim script 
 
+- [vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
 - [ferret](https://github.com/wincent/ferret) - 🐀 Enhanced multi-file search for Vim
 - [vim-markbar](https://github.com/Yilin-Yang/vim-markbar) - Display all accessible marks and their surrounding lines in a collapsible sidebar.
 - [codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
