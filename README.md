@@ -249,6 +249,7 @@
 
 ## JavaScript 
 
+- [spotify-export](https://github.com/b0o/spotify-export) - Export a listing of your saved tracks as JSON
 - [AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
 - [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing
 - [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
