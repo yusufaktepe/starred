@@ -38,6 +38,7 @@
 
 ## C 
 
+- [wtype](https://github.com/atx/wtype) - xdotool type for wayland
 - [libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
 - [zathura](https://github.com/pwmt/zathura) - a document viewer
 - [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
@@ -118,6 +119,7 @@
 
 ## C++ 
 
+- [qlipmon](https://github.com/vcalv/qlipmon) - Clipboard manager server with rofi plugin and dbus interface
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [torodofi](https://github.com/pushsla/torodofi) - Simple markdown-compatible To-Do client driven by rofi
 - [spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
