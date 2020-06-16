@@ -38,6 +38,7 @@
 
 ## C 
 
+- [whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process
 - [wtype](https://github.com/atx/wtype) - xdotool type for wayland
 - [libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
 - [zathura](https://github.com/pwmt/zathura) - a document viewer
