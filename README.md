@@ -38,6 +38,7 @@
 
 ## C 
 
+- [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process
 - [wtype](https://github.com/atx/wtype) - xdotool type for wayland
 - [libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
@@ -181,6 +182,7 @@
 
 ## Go 
 
+- [dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
 - [gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
 - [i3keys](https://github.com/RasmusLindroth/i3keys) - Lists available bindings for i3 or Sway with a graphical or text keyboard
 - [path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin
@@ -408,6 +410,7 @@
 
 ## Rust 
 
+- [sctd](https://github.com/amir/sctd) - set color temperature daemon
 - [shotgun](https://github.com/neXromancers/shotgun) - Minimal X screenshot utility
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
@@ -461,6 +464,7 @@
 
 ## Shell 
 
+- [modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [yawhich-key](https://github.com/adelin-b/yawhich-key) - An universal which-key command to provide spacemacs-like shortcut tooltip on desktop and any windows
 - [zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
 - [git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
