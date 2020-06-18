@@ -415,7 +415,7 @@
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
 - [milcheck](https://github.com/doums/milcheck) - A small binary that displays the status of your pacman mirrorlist in your terminal
-- [dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A 1:1 port of dmenu, rewritten in Rust
+- [dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A pixel perfect port of dmenu, rewritten in Rust
 - [handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
