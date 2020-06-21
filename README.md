@@ -121,6 +121,7 @@
 
 ## C++ 
 
+- [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [qlipmon](https://github.com/vcalv/qlipmon) - Clipboard manager server with rofi plugin and dbus interface
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [torodofi](https://github.com/pushsla/torodofi) - Simple markdown-compatible To-Do client driven by rofi
