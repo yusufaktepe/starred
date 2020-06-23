@@ -38,6 +38,8 @@
 
 ## C 
 
+- [xprompt](https://github.com/phillbush/xprompt) - A dmenu rip-off with contextual completion
+- [shotkey](https://github.com/phenax/shotkey) - A suckless hot key daemon for X with configurable custom modes
 - [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process
 - [wtype](https://github.com/atx/wtype) - xdotool type for wayland
@@ -183,6 +185,7 @@
 
 ## Go 
 
+- [reflex](https://github.com/cespare/reflex) - Run a command when files change
 - [dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
 - [gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
 - [i3keys](https://github.com/RasmusLindroth/i3keys) - Lists available bindings for i3 or Sway with a graphical or text keyboard
@@ -586,6 +589,8 @@
 
 ## Vim script 
 
+- [git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
+- [lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
 - [ferret](https://github.com/wincent/ferret) - 🐀 Enhanced multi-file search for Vim
 - [vim-markbar](https://github.com/Yilin-Yang/vim-markbar) - Display all accessible marks and their surrounding lines in a collapsible sidebar.
