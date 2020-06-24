@@ -123,6 +123,7 @@
 
 ## C++ 
 
+- [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [qlipmon](https://github.com/vcalv/qlipmon) - Clipboard manager server with rofi plugin and dbus interface
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
