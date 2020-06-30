@@ -274,7 +274,6 @@
 - [external-application-button](https://github.com/andy-portmen/external-application-button) - Communicate with external applications of your OS through a toolbar button or context menu item.
 - [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [pulp](https://github.com/koirand/pulp) - Pulp is a Hugo theme for getting a simple, easy-to-read blog site.
-- [nodejs-speech](https://github.com/googleapis/nodejs-speech) - Node.js client for Google Cloud Speech: Speech to text conversion powered by machine learning.
 - [browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
 - [surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - A SurfingKeys configuration which adds 125+ key mappings for 20+ sites & OmniBar search suggestions for 55+ sites
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
@@ -575,6 +574,7 @@
 - [firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
 - [cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
+- [nodejs-speech](https://github.com/googleapis/nodejs-speech) - Node.js client for Google Cloud Speech: Speech to text conversion powered by machine learning.
 - [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
 - [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
