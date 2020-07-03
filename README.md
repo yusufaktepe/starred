@@ -38,6 +38,8 @@
 
 ## C 
 
+- [wayst](https://github.com/91861/wayst) - A simple terminal emulator
+- [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
 - [xprompt](https://github.com/phillbush/xprompt) - A dmenu rip-off with contextual completion
 - [shotkey](https://github.com/phenax/shotkey) - A suckless hot key daemon for X with configurable custom modes
 - [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
@@ -123,6 +125,7 @@
 
 ## C++ 
 
+- [ponymix](https://github.com/falconindy/ponymix) - CLI volume control for PulseAudio
 - [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [qlipmon](https://github.com/vcalv/qlipmon) - Clipboard manager server with rofi plugin and dbus interface
@@ -275,7 +278,7 @@
 - [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [pulp](https://github.com/koirand/pulp) - Pulp is a Hugo theme for getting a simple, easy-to-read blog site.
 - [browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
-- [surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - A SurfingKeys configuration which adds 125+ key mappings for 20+ sites & OmniBar search suggestions for 55+ sites
+- [surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - A SurfingKeys configuration which adds 125+ key mappings for 20+ sites & OmniBar search suggestions for 50+ sites
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [firefox-overlay-scrollbars-win10](https://github.com/endeavoursc/firefox-overlay-scrollbars-win10) - Firefox Quantum Overlay Scrollbars, styled to match Windows 10 native apps
 - [firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs) - **Stops working with FF v72.** Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement.
@@ -415,6 +418,7 @@
 
 ## Rust 
 
+- [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
 - [sctd](https://github.com/amir/sctd) - set color temperature daemon
 - [shotgun](https://github.com/neXromancers/shotgun) - Minimal X screenshot utility
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
