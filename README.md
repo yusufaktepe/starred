@@ -189,6 +189,7 @@
 
 ## Go 
 
+- [echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [reflex](https://github.com/cespare/reflex) - Run a command when files change
 - [dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
 - [gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
@@ -473,6 +474,7 @@
 
 ## Shell 
 
+- [rofi](https://github.com/adi1090x/rofi) - Rofi Based Custom Applets And Menus.
 - [modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [yawhich-key](https://github.com/adelin-b/yawhich-key) - An universal which-key command to provide spacemacs-like shortcut tooltip on desktop and any windows
 - [zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
@@ -486,7 +488,7 @@
 - [rofi-search](https://github.com/fogine/rofi-search) - Interactive Google / DuckDuckGo search via rofi
 - [aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [RofiFtw](https://github.com/BelkaDev/RofiFtw) - Rofi for the web: auto-completion of popular websearch APIs
-- [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H or FSH). Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes
+- [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes
 - [tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [Zsh-100-Commits-Club](https://github.com/zdharma/Zsh-100-Commits-Club) - Promote writing Zsh software not simple scripts
