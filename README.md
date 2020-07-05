@@ -263,6 +263,7 @@
 
 ## JavaScript 
 
+- [vivaldi_modding](https://github.com/luetage/vivaldi_modding) - Custom modifications for Vivaldi web browser.
 - [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [spotify-export](https://github.com/b0o/spotify-export) - Export a listing of your saved tracks as JSON
 - [AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
@@ -430,7 +431,7 @@
 - [zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-- [gitui](https://github.com/extrawurst/gitui) - blazing fast terminal-ui for git written in rust
+- [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [sfz](https://github.com/weihanglo/sfz) - A simple static file serving command-line tool written in Rust.
