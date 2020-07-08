@@ -38,6 +38,7 @@
 
 ## C 
 
+- [entr](https://github.com/eradman/entr) - A utility for running arbitrary commands when files change
 - [wayst](https://github.com/91861/wayst) - A simple terminal emulator
 - [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
 - [xprompt](https://github.com/phillbush/xprompt) - A dmenu rip-off with contextual completion
@@ -125,6 +126,7 @@
 
 ## C++ 
 
+- [input-modifier](https://github.com/tildearrow/input-modifier) - uinput based key bindings and macros tool for Linux
 - [ponymix](https://github.com/falconindy/ponymix) - CLI volume control for PulseAudio
 - [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
@@ -189,6 +191,7 @@
 
 ## Go 
 
+- [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [reflex](https://github.com/cespare/reflex) - Run a command when files change
 - [dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
@@ -420,6 +423,7 @@
 
 ## Rust 
 
+- [so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
 - [LuminS](https://github.com/wchang22/LuminS) - A fast and reliable alternative to rsync for synchronizing local files written in Rust
 - [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
 - [sctd](https://github.com/amir/sctd) - set color temperature daemon
