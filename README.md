@@ -240,6 +240,7 @@
 
 ## HTML 
 
+- [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [unicode-progress-bars](https://github.com/Changaco/unicode-progress-bars) - A generator of Unicode progress bars
 - [hugo-rocinante](https://github.com/mavidser/hugo-rocinante) - Minimal blog hugo theme for Hugo
 - [hugo-theme-anubis](https://github.com/Mitrichius/hugo-theme-anubis) - Anubis is a simple minimalist theme for Hugo blog engine
@@ -603,6 +604,7 @@
 
 ## Vim script 
 
+- [vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
 - [git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
