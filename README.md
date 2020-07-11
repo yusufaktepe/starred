@@ -38,6 +38,7 @@
 
 ## C 
 
+- [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, MQTT, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
 - [entr](https://github.com/eradman/entr) - A utility for running arbitrary commands when files change
 - [wayst](https://github.com/91861/wayst) - A simple terminal emulator
 - [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
@@ -168,16 +169,9 @@
 
 ## CSS 
 
-- [aether](https://github.com/josephhutch/aether) - A responsive and clean Hugo theme for blogs
-- [hyde](https://github.com/spf13/hyde) - Port of Mdo's excellent theme to Hugo
-- [hugo-paper](https://github.com/nanxiaobei/hugo-paper) - 🥛 A simple, clean, flexible Hugo theme
 - [ShellMagic](https://github.com/smokingcuke/ShellMagic) - My shell notes :memo:
-- [bilberry-hugo-theme](https://github.com/Lednerb/bilberry-hugo-theme) - Premium theme for the hugo site builder. DEMO:
-- [hugo-theme-zen](https://github.com/frjo/hugo-theme-zen) - A fast and clean Hugo theme with css-grid and Hugo pipes support.
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [erblog](https://github.com/ertuil/erblog) - A Hugo theme created by ertuil.
 - [gitweb-theme](https://github.com/kogakure/gitweb-theme) - An alternative theme for gitweb, strongly inspired by GitHub
-- [simplicity](https://github.com/eshlox/simplicity) - Hugo theme.
 - [CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox Quantum
 - [UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
@@ -243,13 +237,7 @@
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [unicode-progress-bars](https://github.com/Changaco/unicode-progress-bars) - A generator of Unicode progress bars
 - [hugo-rocinante](https://github.com/mavidser/hugo-rocinante) - Minimal blog hugo theme for Hugo
-- [hugo-theme-anubis](https://github.com/Mitrichius/hugo-theme-anubis) - Anubis is a simple minimalist theme for Hugo blog engine
-- [contrast-hugo](https://github.com/niklasbuschmann/contrast-hugo) - Minimalistic Hugo theme
-- [hugo-theme-meme](https://github.com/reuixiy/hugo-theme-meme) - You can’t spell aWEsoME without MEME! 😝
-- [hugo-black-and-light-theme](https://github.com/davidhampgonsalves/hugo-black-and-light-theme) - 
-- [hugo-kiera](https://github.com/avianto/hugo-kiera) - Kiera - A Hugo Theme for writing
 - [blank](https://github.com/Vimux/blank) - Starter Hugo theme for use as a template for building custom themes
-- [hugo-academic](https://github.com/gcushen/hugo-academic) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 
 ## Haskell 
 
@@ -282,7 +270,6 @@
 - [exportify](https://github.com/watsonbox/exportify) - Export Spotify playlists using the Web API
 - [external-application-button](https://github.com/andy-portmen/external-application-button) - Communicate with external applications of your OS through a toolbar button or context menu item.
 - [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
-- [pulp](https://github.com/koirand/pulp) - Pulp is a Hugo theme for getting a simple, easy-to-read blog site.
 - [browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
 - [surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - A SurfingKeys configuration which adds 125+ key mappings for 20+ sites & OmniBar search suggestions for 50+ sites
 - [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
@@ -481,6 +468,7 @@
 
 ## Shell 
 
+- [send_email.sh](https://github.com/kgizdov/send_email.sh) - Script to send an email in bare-bone environments with minimal requirements
 - [rofi](https://github.com/adi1090x/rofi) - Rofi Based Custom Applets And Menus.
 - [modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [yawhich-key](https://github.com/adelin-b/yawhich-key) - An universal which-key command to provide spacemacs-like shortcut tooltip on desktop and any windows
