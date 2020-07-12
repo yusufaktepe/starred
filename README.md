@@ -255,6 +255,7 @@
 
 ## JavaScript 
 
+- [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [vivaldi_modding](https://github.com/luetage/vivaldi_modding) - Custom modifications for Vivaldi web browser.
 - [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [spotify-export](https://github.com/b0o/spotify-export) - Export a listing of your saved tracks as JSON
