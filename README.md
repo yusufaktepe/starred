@@ -38,6 +38,7 @@
 
 ## C 
 
+- [edges](https://github.com/arisinfenix/edges) - A command-line tool to set up X11 hot-corners
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, MQTT, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
 - [entr](https://github.com/eradman/entr) - A utility for running arbitrary commands when files change
 - [wayst](https://github.com/91861/wayst) - A simple terminal emulator
@@ -593,6 +594,7 @@
 
 ## Vim script 
 
+- [emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
 - [vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
 - [git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
