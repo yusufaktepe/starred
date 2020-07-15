@@ -6,6 +6,7 @@
 ## Contents
 
   - [Awk](#awk)
+  - [Batchfile](#batchfile)
   - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
@@ -36,8 +37,13 @@
 
 - [translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 
+## Batchfile 
+
+- [duraconf](https://github.com/ioerror/duraconf) - duraconf - A collection of hardened configuration files for SSL/TLS services
+
 ## C 
 
+- [libnss_homehosts](https://github.com/bAndie91/libnss_homehosts) - Linux NSS library supports ~/.hosts
 - [edges](https://github.com/arisinfenix/edges) - A command-line tool to set up X11 hot-corners
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, MQTT, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
 - [entr](https://github.com/eradman/entr) - A utility for running arbitrary commands when files change
@@ -136,7 +142,7 @@
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [torodofi](https://github.com/pushsla/torodofi) - Simple markdown-compatible To-Do client driven by rofi
 - [spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
-- [ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ultra fast grep with interactive query UI: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz), documents, fuzzy search, and more. A faster, user-friendly replacement for GNU/BSD grep.
+- [ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ultra fast grep with interactive query UI: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents, fuzzy search, and more. A faster, user-friendly replacement for GNU/BSD grep.
 - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
@@ -235,6 +241,7 @@
 
 ## HTML 
 
+- [security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [unicode-progress-bars](https://github.com/Changaco/unicode-progress-bars) - A generator of Unicode progress bars
 - [hugo-rocinante](https://github.com/mavidser/hugo-rocinante) - Minimal blog hugo theme for Hugo
