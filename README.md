@@ -35,6 +35,7 @@
 
 ## Awk 
 
+- [shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
 - [translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 
 ## Batchfile 
@@ -43,6 +44,7 @@
 
 ## C 
 
+- [xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [libnss_homehosts](https://github.com/bAndie91/libnss_homehosts) - Linux NSS library supports ~/.hosts
 - [edges](https://github.com/arisinfenix/edges) - A command-line tool to set up X11 hot-corners
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, MQTT, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
@@ -192,6 +194,7 @@
 
 ## Go 
 
+- [may](https://github.com/robin-mbg/may) - CLI tool to easily list and manage git repositories all across your system.
 - [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [reflex](https://github.com/cespare/reflex) - Run a command when files change
@@ -348,6 +351,7 @@
 
 ## Python 
 
+- [i3-grid](https://github.com/justahuman1/i3-grid) - A i3wm grid controller for accelerated floating window management.
 - [searx](https://github.com/asciimoo/searx) - Privacy-respecting metasearch engine
 - [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
 - [rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
