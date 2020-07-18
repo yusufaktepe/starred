@@ -190,7 +190,7 @@
 
 ## Crystal 
 
-- [invidious](https://github.com/omarroth/invidious) - Invidious is an alternative front-end to YouTube
+- [invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
 ## Go 
 
@@ -495,7 +495,7 @@
 - [linux-timemachine](https://github.com/cytopia/linux-timemachine) - Rsync-based OSX-like time machine for Linux, MacOS and BSD for atomic and resumable local and remote backups
 - [rofi-search](https://github.com/fogine/rofi-search) - Interactive Google / DuckDuckGo search via rofi
 - [aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
-- [RofiFtw](https://github.com/BelkaDev/RofiFtw) - Rofi for the web: Real-time search suggestions of many popular web engines and APIs.
+- [RofiFtw](https://github.com/BelkaDev/RofiFtw) - Rofi for the web: Real-time search suggestions of many popular web engines APIs.
 - [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes
 - [tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
