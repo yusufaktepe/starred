@@ -136,6 +136,7 @@
 
 ## C++ 
 
+- [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - [input-modifier](https://github.com/tildearrow/input-modifier) - uinput based key bindings and macros tool for Linux
 - [ponymix](https://github.com/falconindy/ponymix) - CLI volume control for PulseAudio
 - [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
@@ -194,6 +195,7 @@
 
 ## Go 
 
+- [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [may](https://github.com/robin-mbg/may) - CLI tool to easily list and manage git repositories all across your system.
 - [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [echoip](https://github.com/mpolden/echoip) - IP address lookup service
