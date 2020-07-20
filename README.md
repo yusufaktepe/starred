@@ -581,7 +581,7 @@
 
 ## TeX 
 
-- [vimtex](https://github.com/lervag/vimtex) - A modern vim plugin for editing LaTeX files.
+- [vimtex](https://github.com/lervag/vimtex) - A modern Vim and neovim filetype plugin for LaTeX files.
 
 ## TypeScript 
 
