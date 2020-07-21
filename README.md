@@ -611,7 +611,7 @@
 - [vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
 - [git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
 - [lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
-- [vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root (identified by presence of known directory or file).
+- [vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
 - [ferret](https://github.com/wincent/ferret) - 🐀 Enhanced multi-file search for Vim
 - [vim-markbar](https://github.com/Yilin-Yang/vim-markbar) - Display all accessible marks and their surrounding lines in a collapsible sidebar.
 - [codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
