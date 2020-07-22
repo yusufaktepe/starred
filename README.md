@@ -418,7 +418,7 @@
 - [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
 - [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
-- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and Extending hosts files from several well-curated sources. You can optionally pick extensions to block Porn, Social Media, and other categories..
+- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
 
 ## Ruby 
 
@@ -434,7 +434,7 @@
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
 - [milcheck](https://github.com/doums/milcheck) - A small binary that displays the status of your pacman mirrorlist in your terminal
-- [dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A pixel perfect port of dmenu, rewritten in Rust
+- [dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A pixel perfect port of dmenu, rewritten in Rust with extensive plugin support
 - [handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
 - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
