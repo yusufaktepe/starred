@@ -330,6 +330,7 @@
 
 ## Others 
 
+- [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [vifm_devicons](https://github.com/cirala/vifm_devicons) - File and directory icons for Vifm (vi file manager)
 - [dotvifm](https://github.com/xaizek/dotvifm) - Vifm configuration files
 - [awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
