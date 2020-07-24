@@ -44,6 +44,8 @@
 
 ## C 
 
+- [xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
+- [xclickroot](https://github.com/phillbush/xclickroot) - click on root window and run a command
 - [xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [libnss_homehosts](https://github.com/bAndie91/libnss_homehosts) - Linux NSS library supports ~/.hosts
 - [edges](https://github.com/arisinfenix/edges) - A command-line tool to set up X11 hot-corners
@@ -254,6 +256,7 @@
 
 ## Haskell 
 
+- [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [ntfd](https://github.com/kamek-pf/ntfd) - A lightweight notification daemon for fancy desktop integrations
 - [kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
 - [linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
@@ -608,6 +611,8 @@
 
 ## Vim script 
 
+- [vim-lexical](https://github.com/reedes/vim-lexical) - Build on Vim’s spell/thes/dict completion
+- [vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing
 - [emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
 - [vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
 - [git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
