@@ -237,6 +237,7 @@
 - [git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
 - [go](https://github.com/golang/go) - The Go programming language
 - [massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
+- [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [gtran](https://github.com/skanehira/gtran) - Google translate CLI
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh), including shfmt
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -541,7 +542,6 @@
 - [bash-lib](https://github.com/cyberark/bash-lib) - Library for bash utility methods and tools
 - [pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
 - [history-search-multi-word](https://github.com/zdharma/history-search-multi-word) - Multi-word, syntax highlighted history searching for Zsh
-- [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [zconvey](https://github.com/zdharma/zconvey) - Send notifications and commands to all or selected Zshell instances
 - [fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
 - [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
