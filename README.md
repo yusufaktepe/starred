@@ -334,6 +334,7 @@
 
 ## Others 
 
+- [zsh4humans](https://github.com/romkatv/zsh4humans) - Zsh for Humans: Single-file configuration for Zsh with sane defaults
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [vifm_devicons](https://github.com/cirala/vifm_devicons) - File and directory icons for Vifm (vi file manager)
 - [dotvifm](https://github.com/xaizek/dotvifm) - Vifm configuration files
@@ -488,6 +489,7 @@
 
 ## Shell 
 
+- [torque](https://github.com/dylanaraps/torque) - 🚂 A TUI client for transmission written in pure bash.
 - [send_email.sh](https://github.com/kgizdov/send_email.sh) - Script to send an email in bare-bone environments with minimal requirements
 - [rofi](https://github.com/adi1090x/rofi) - Rofi Based Custom Applets And Menus.
 - [modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
