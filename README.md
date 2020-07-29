@@ -432,6 +432,7 @@
 
 ## Rust 
 
+- [heliocron](https://github.com/mfreeborn/heliocron) - A command line application written in Rust capable of delaying execution of other programs for time periods relative to sunrise and sunset.
 - [so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
 - [LuminS](https://github.com/wchang22/LuminS) - A fast and reliable alternative to rsync for synchronizing local files written in Rust
 - [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
