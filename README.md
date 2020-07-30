@@ -249,6 +249,7 @@
 
 ## HTML 
 
+- [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [unicode-progress-bars](https://github.com/Changaco/unicode-progress-bars) - A generator of Unicode progress bars
@@ -272,6 +273,7 @@
 
 ## JavaScript 
 
+- [snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [vivaldi_modding](https://github.com/luetage/vivaldi_modding) - Custom modifications for Vivaldi web browser.
 - [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
