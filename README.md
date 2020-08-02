@@ -116,7 +116,7 @@
 - [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing.
 - [dwm](https://github.com/LukeSmithxyz/dwm) - Luke's build of dwm
 - [vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vi[m]-like environment for managing objects within file systems, extended with some useful ideas from mutt.
-- [ly](https://github.com/nullgemm/ly) - TUI (ncurses-like) display manager
+- [ly](https://github.com/nullgemm/ly) - display manager with console UI
 - [xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
 - [celluloid](https://github.com/celluloid-player/celluloid) - A simple GTK+ frontend for mpv
 - [i3-easyfocus](https://github.com/cornerman/i3-easyfocus) - Focus and select windows in i3
@@ -361,6 +361,7 @@
 
 ## Python 
 
+- [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [i3-grid](https://github.com/justahuman1/i3-grid) - A i3wm grid controller for accelerated floating window management.
 - [searx](https://github.com/asciimoo/searx) - Privacy-respecting metasearch engine
 - [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
@@ -717,7 +718,7 @@
 - [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro) - Dotfiles for Manjaro
-- [suda.vim](https://github.com/lambdalisue/suda.vim) - An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
+- [suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
 - [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes) - A collection of themes for vim-airline
 - [gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
 - [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
