@@ -619,6 +619,7 @@
 
 ## Vim script 
 
+- [vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
 - [vim-lexical](https://github.com/reedes/vim-lexical) - Build on Vim’s spell/thes/dict completion
 - [vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing
 - [emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
