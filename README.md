@@ -268,6 +268,7 @@
 
 ## Java 
 
+- [k-9](https://github.com/k9mail/k-9) - K-9 Mail – Open Source Email App for Android
 - [markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 
@@ -431,6 +432,7 @@
 
 ## Ruby 
 
+- [panrun](https://github.com/mb21/panrun) - Script that looks at the YAML metadata in a markdown file and runs pandoc for you.
 - [passed](https://github.com/repomaa/passed) - A simple script to modify password store entries with sed commands
 
 ## Rust 
