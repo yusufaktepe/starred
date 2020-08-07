@@ -10,7 +10,6 @@
   - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
-  - [Crystal](#crystal)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -190,10 +189,6 @@
 - [polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
 - [equilux-theme](https://github.com/ddnexus/equilux-theme) - A Material Design-like theme for GNOME/GTK+ based desktop environments.
 - [DMScrollbar](https://github.com/pabli24/DMScrollbar) - Dark Minimalistic Scrollbar for webkit based browsers
-
-## Crystal 
-
-- [invidious](https://github.com/iv-org/invidious) - Invidious is an alternative front-end to YouTube
 
 ## Go 
 
