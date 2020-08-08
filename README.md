@@ -248,7 +248,6 @@
 - [security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [unicode-progress-bars](https://github.com/Changaco/unicode-progress-bars) - A generator of Unicode progress bars
-- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [hugo-rocinante](https://github.com/mavidser/hugo-rocinante) - Minimal blog hugo theme for Hugo
 - [blank](https://github.com/Vimux/blank) - Starter Hugo theme for use as a template for building custom themes
 
@@ -374,7 +373,7 @@
 - [urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
 - [vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
 - [dangerzone](https://github.com/firstlookmedia/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF
-- [websitechanges](https://github.com/schollz/websitechanges) - Change detection with a simple Python script to email you whenever a website changes.
+- [pywebsitechanges](https://github.com/schollz/pywebsitechanges) - Change detection with a simple Python script to email you whenever a website changes.
 - [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is an alternative for w3mimgdisplay
 - [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 - [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
@@ -450,6 +449,7 @@
 - [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
 - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [sfz](https://github.com/weihanglo/sfz) - A simple static file serving command-line tool written in Rust.
 - [desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
