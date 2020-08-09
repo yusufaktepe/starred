@@ -43,6 +43,7 @@
 
 ## C 
 
+- [pa_volume](https://github.com/rhaas80/pa_volume) - Allows to set volume of non-active pulseaudio clients
 - [xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
 - [xclickroot](https://github.com/phillbush/xclickroot) - click on root window and run a command
 - [xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
