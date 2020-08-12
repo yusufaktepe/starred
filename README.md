@@ -138,6 +138,7 @@
 
 ## C++ 
 
+- [CLIdrag](https://github.com/rkevin-arch/CLIdrag) - Command line tool to drag files into GUI applications
 - [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - [input-modifier](https://github.com/tildearrow/input-modifier) - uinput based key bindings and macros tool for Linux
 - [ponymix](https://github.com/falconindy/ponymix) - CLI volume control for PulseAudio
@@ -193,6 +194,7 @@
 
 ## Go 
 
+- [got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster than cURL and Wget!
 - [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [may](https://github.com/robin-mbg/may) - CLI tool to easily list and manage git repositories all across your system.
 - [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
@@ -358,6 +360,7 @@
 
 ## Python 
 
+- [gnabel](https://github.com/gi-lom/gnabel) - A translation app for GTK environments based on Google Translate.
 - [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [i3-grid](https://github.com/justahuman1/i3-grid) - A i3wm grid controller for accelerated floating window management.
 - [searx](https://github.com/asciimoo/searx) - Privacy-respecting metasearch engine
