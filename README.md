@@ -272,6 +272,7 @@
 
 ## JavaScript 
 
+- [heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
 - [vivaldi_modding](https://github.com/luetage/vivaldi_modding) - Custom modifications for Vivaldi web browser.
@@ -598,6 +599,7 @@
 
 ## TypeScript 
 
+- [rome](https://github.com/romefrontend/rome) - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
 - [firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
@@ -620,6 +622,7 @@
 
 ## Vim script 
 
+- [vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
 - [vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
 - [vim-lexical](https://github.com/reedes/vim-lexical) - Build on Vim’s spell/thes/dict completion
 - [vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing
