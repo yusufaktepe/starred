@@ -194,6 +194,7 @@
 
 ## Go 
 
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
 - [got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster than cURL and Wget!
 - [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [may](https://github.com/robin-mbg/may) - CLI tool to easily list and manage git repositories all across your system.
@@ -266,6 +267,7 @@
 
 ## Java 
 
+- [MGit](https://github.com/maks/MGit) - A Git client for Android.
 - [k-9](https://github.com/k9mail/k-9) - K-9 Mail – Open Source Email App for Android
 - [markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
