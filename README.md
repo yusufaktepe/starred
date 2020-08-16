@@ -439,6 +439,7 @@
 
 ## Rust 
 
+- [alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
 - [simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
 - [notp](https://github.com/kondanta/notp) - One Time Password Generator tool that is meant to be used on CLI.
 - [heliocron](https://github.com/mfreeborn/heliocron) - A command line application written in Rust capable of delaying execution of other programs for time periods relative to sunrise and sunset.
