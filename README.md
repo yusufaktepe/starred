@@ -363,7 +363,7 @@
 
 ## Python 
 
-- [gnabel](https://github.com/gi-lom/gnabel) - A translation app for GTK environments based on Google Translate.
+- [dialect](https://github.com/gi-lom/dialect) - A translation app for GTK environments based on Google Translate.
 - [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [i3-grid](https://github.com/justahuman1/i3-grid) - A i3wm grid controller for accelerated floating window management.
 - [searx](https://github.com/asciimoo/searx) - Privacy-respecting metasearch engine
