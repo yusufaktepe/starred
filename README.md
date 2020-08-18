@@ -238,7 +238,7 @@
 - [massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [gtran](https://github.com/skanehira/gtran) - Google translate CLI
-- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter (sh/bash/mksh), including shfmt
+- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
