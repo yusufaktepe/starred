@@ -194,6 +194,8 @@
 
 ## Go 
 
+- [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
+- [horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
 - [got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster than cURL and Wget!
 - [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
@@ -439,6 +441,7 @@
 
 ## Rust 
 
+- [alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
 - [alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
 - [simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
 - [notp](https://github.com/kondanta/notp) - One Time Password Generator tool that is meant to be used on CLI.
