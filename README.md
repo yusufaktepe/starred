@@ -365,6 +365,7 @@
 
 ## Python 
 
+- [vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [dialect](https://github.com/gi-lom/dialect) - A translation app for GTK environments based on Google Translate.
 - [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [i3-grid](https://github.com/justahuman1/i3-grid) - A i3wm grid controller for accelerated floating window management.
@@ -390,7 +391,7 @@
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
 - [rclonesync-V2](https://github.com/cjnaz/rclonesync-V2) - A better rclonesync baseline.
-- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.30, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
+- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.31, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
 - [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 - [zzzfoo](https://github.com/andersju/zzzfoo) - Full-text desktop search with Rofi+Recoll
