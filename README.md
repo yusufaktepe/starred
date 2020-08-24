@@ -105,7 +105,7 @@
 - [sxiv](https://github.com/doronbehar/sxiv) - Simple X Image Viewer
 - [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
 - [rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
-- [picom](https://github.com/yshui/picom) - A lightweight compositor for X11 (previously a compton fork)
+- [picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
 - [kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration
 - [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
