@@ -43,6 +43,7 @@
 
 ## C 
 
+- [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [devour](https://github.com/salman-abedin/devour) - Window Manager agnostic swallowing feature for X11
 - [pa_volume](https://github.com/rhaas80/pa_volume) - Allows to set volume of non-active pulseaudio clients
 - [xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
