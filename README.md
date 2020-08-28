@@ -43,6 +43,8 @@
 
 ## C 
 
+- [bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
+- [myMPD](https://github.com/jcorporation/myMPD) - myMPD is a standalone and mobile friendly web mpd client with a tiny footprint and advanced features.
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [devour](https://github.com/salman-abedin/devour) - Window Manager agnostic swallowing feature for X11
 - [pa_volume](https://github.com/rhaas80/pa_volume) - Allows to set volume of non-active pulseaudio clients
@@ -278,6 +280,7 @@
 
 ## JavaScript 
 
+- [Spotify-Headless](https://github.com/BelkaDev/Spotify-Headless) - Experimental wrapper around Spotify Web API
 - [heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
@@ -366,6 +369,7 @@
 
 ## Python 
 
+- [brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [dialect](https://github.com/gi-lom/dialect) - A translation app for GTK environments based on Google Translate.
 - [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
@@ -505,6 +509,7 @@
 
 ## Shell 
 
+- [import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
 - [create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [torque](https://github.com/dylanaraps/torque) - 🚂 A TUI client for transmission written in pure bash.
 - [send_email.sh](https://github.com/kgizdov/send_email.sh) - Script to send an email in bare-bone environments with minimal requirements
@@ -632,6 +637,7 @@
 
 ## Vim script 
 
+- [committia.vim](https://github.com/rhysd/committia.vim) - A Vim plugin for more pleasant editing on commit messages
 - [vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc) - A vim 7.4+ plugin to generate table of contents for Markdown files.
 - [vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
 - [vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
