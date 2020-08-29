@@ -43,6 +43,7 @@
 
 ## C 
 
+- [brightnessctl](https://github.com/Hummer12007/brightnessctl) - A program to read and control device brightness
 - [bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
 - [myMPD](https://github.com/jcorporation/myMPD) - myMPD is a standalone and mobile friendly web mpd client with a tiny footprint and advanced features.
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -509,6 +510,7 @@
 
 ## Shell 
 
+- [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. Can run commands, copy files, tunnel ports and connect.
 - [import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
 - [create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [torque](https://github.com/dylanaraps/torque) - 🚂 A TUI client for transmission written in pure bash.
