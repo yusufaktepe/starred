@@ -370,6 +370,7 @@
 
 ## Python 
 
+- [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
 - [brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [dialect](https://github.com/gi-lom/dialect) - A translation app for GTK environments based on Google Translate.
