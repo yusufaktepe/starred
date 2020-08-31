@@ -274,10 +274,10 @@
 
 ## Java 
 
+- [FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [MGit](https://github.com/maks/MGit) - A Git client for Android.
 - [k-9](https://github.com/k9mail/k-9) - K-9 Mail – Open Source Email App for Android
 - [markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
-- [FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 
 ## JavaScript 
 
@@ -321,7 +321,7 @@
 ## Lua 
 
 - [mpv-quack](https://github.com/CounterPillow/mpv-quack) - mpv script for temporarily reducing audio volume after seeking
-- [nvim-lsp](https://github.com/neovim/nvim-lsp) - Nvim LSP client configurations
+- [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Collection of (useful, but unsupported) configurations for the Nvim LSP client
 - [nvimpager](https://github.com/lucc/nvimpager) - Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting
 - [koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - MPV-EASY Player - A movie player based on mpv
