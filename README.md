@@ -355,7 +355,7 @@
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration / customization made with ❤️
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️
 - [GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [writing-a-tui-in-bash](https://github.com/dylanaraps/writing-a-tui-in-bash) - How to write a TUI in BASH
 - [ttf-mswin10-arch](https://github.com/fphoenix88888/ttf-mswin10-arch) - MS Windows 10 Fonts for Arch Linux
@@ -370,13 +370,14 @@
 
 ## Python 
 
+- [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
 - [brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [dialect](https://github.com/gi-lom/dialect) - A translation app for GTK environments based on Google Translate.
 - [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [i3-grid](https://github.com/justahuman1/i3-grid) - A i3wm grid controller for accelerated floating window management.
-- [searx](https://github.com/asciimoo/searx) - Privacy-respecting metasearch engine
+- [searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 - [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
 - [rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
 - [getrid](https://github.com/Nudin/getrid) - Simple terminal user interface to decide which packages to keep and which to get rid of
