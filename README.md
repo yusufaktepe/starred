@@ -43,6 +43,7 @@
 
 ## C 
 
+- [iotop](https://github.com/Tomas-M/iotop) - A top utility for IO
 - [brightnessctl](https://github.com/Hummer12007/brightnessctl) - A program to read and control device brightness
 - [bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
 - [myMPD](https://github.com/jcorporation/myMPD) - myMPD is a standalone and mobile friendly web mpd client with a tiny footprint and advanced features.
@@ -59,7 +60,7 @@
 - [wayst](https://github.com/91861/wayst) - A simple terminal emulator
 - [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
 - [xprompt](https://github.com/phillbush/xprompt) - A dmenu rip-off with contextual completion
-- [shotkey](https://github.com/phenax/shotkey) - A suckless hot key daemon for X with configurable custom modes
+- [shotkey](https://github.com/phenax/shotkey) - A suckless hot key daemon for X with configurable custom modes and key chords
 - [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process
 - [wtype](https://github.com/atx/wtype) - xdotool type for wayland
@@ -147,7 +148,7 @@
 - [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - [input-modifier](https://github.com/tildearrow/input-modifier) - uinput based key bindings and macros tool for Linux
 - [ponymix](https://github.com/falconindy/ponymix) - CLI volume control for PulseAudio
-- [flameshot](https://github.com/lupoDharkael/flameshot) - Powerful yet simple to use screenshot software
+- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [qlipmon](https://github.com/vcalv/qlipmon) - Clipboard manager server with rofi plugin and dbus interface
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
