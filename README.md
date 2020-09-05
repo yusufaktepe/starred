@@ -48,7 +48,7 @@
 - [bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
 - [myMPD](https://github.com/jcorporation/myMPD) - myMPD is a standalone and mobile friendly web mpd client with a tiny footprint and advanced features.
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [devour](https://github.com/salman-abedin/devour) - Window Manager agnostic swallowing feature for X11
+- [devour](https://github.com/salman-abedin/devour) - X11 window swallower
 - [pa_volume](https://github.com/rhaas80/pa_volume) - Allows to set volume of non-active pulseaudio clients
 - [xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
 - [xclickroot](https://github.com/phillbush/xclickroot) - click on root window and run a command
