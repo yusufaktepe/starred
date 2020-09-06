@@ -372,6 +372,7 @@
 
 ## Python 
 
+- [nicotine-plus](https://github.com/Nicotine-Plus/nicotine-plus) - Nicotine+: A graphical client for the SoulSeek peer-to-peer system
 - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
 - [brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
@@ -452,6 +453,7 @@
 
 ## Rust 
 
+- [vivid](https://github.com/sharkdp/vivid) - A generator for LS_COLORS with support for multiple color themes
 - [alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
 - [alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
 - [simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
@@ -619,6 +621,7 @@
 
 ## TypeScript 
 
+- [yopass](https://github.com/jhaals/yopass) - Secure sharing for secrets, passwords and files
 - [rome](https://github.com/romefrontend/rome) - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
