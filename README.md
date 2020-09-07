@@ -119,7 +119,7 @@
 - [nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [snore](https://github.com/clamiax/snore) - sleep with feedback
 - [sxiv](https://github.com/muennich/sxiv) - Simple X Image Viewer
-- [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from standard input or from a file and creates an interactive selection window just below the cursor. The selected word(s) are sent to standard output for further processing.
+- [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from standard input or file and creates an interactive selection window at the cursor location without clearing the screen. The selected word(s) are sent to standard output for further processing.
 - [dwm](https://github.com/LukeSmithxyz/dwm) - Luke's build of dwm
 - [vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vi[m]-like environment for managing objects within file systems, extended with some useful ideas from mutt.
 - [ly](https://github.com/nullgemm/ly) - display manager with console UI
@@ -136,7 +136,7 @@
 - [light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
 - [xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
-- [nnn](https://github.com/jarun/nnn) - n³ The missing terminal file manager for X.
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 - [fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3
 - [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click
 - [i3lock-color](https://github.com/Raymo111/i3lock-color) - Improved i3lock with color customization
@@ -144,6 +144,7 @@
 
 ## C++ 
 
+- [qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
 - [rofi-proxy](https://github.com/ReanGD/rofi-proxy) - Rofi-proxy is a plugin that allows you to manage rofi state with an external application
 - [CLIdrag](https://github.com/rkevin-arch/CLIdrag) - Command line tool to drag files into GUI applications
 - [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
