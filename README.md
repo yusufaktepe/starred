@@ -373,6 +373,7 @@
 
 ## Python 
 
+- [SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - 📃 Get lyrics of currently playing Spotify song so you don't sing along with the wrong ones and embarrass yourself later. Very fast.
 - [nicotine-plus](https://github.com/Nicotine-Plus/nicotine-plus) - Nicotine+: A graphical client for the SoulSeek peer-to-peer system
 - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
