@@ -205,7 +205,7 @@
 - [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
 - [horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
-- [got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster than cURL and Wget!
+- [got](https://github.com/melbahja/got) - Got: Simple concurrent golang package and CLI tool to download large files faster than cURL and Wget!
 - [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [may](https://github.com/robin-mbg/may) - CLI tool to easily list and manage git repositories all across your system.
 - [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
