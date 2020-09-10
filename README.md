@@ -43,6 +43,7 @@
 
 ## C 
 
+- [usbreset](https://github.com/jkulesza/usbreset) - 
 - [iotop](https://github.com/Tomas-M/iotop) - A top utility for IO
 - [brightnessctl](https://github.com/Hummer12007/brightnessctl) - A program to read and control device brightness
 - [bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
