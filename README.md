@@ -43,6 +43,7 @@
 
 ## C 
 
+- [xsetprop](https://github.com/Bad-ptr/xsetprop) - Program for setting X window properties, like xprop, but for 'set' only(not 'get') and allow setting list of atoms ( or patch for xprop ).
 - [usbreset](https://github.com/jkulesza/usbreset) - 
 - [iotop](https://github.com/Tomas-M/iotop) - A top utility for IO
 - [brightnessctl](https://github.com/Hummer12007/brightnessctl) - A program to read and control device brightness
@@ -325,7 +326,7 @@
 ## Lua 
 
 - [mpv-quack](https://github.com/CounterPillow/mpv-quack) - mpv script for temporarily reducing audio volume after seeking
-- [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Collection of (useful, but unsupported) configurations for the Nvim LSP client
+- [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
 - [nvimpager](https://github.com/lucc/nvimpager) - Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting
 - [koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - MPV-EASY Player - A movie player based on mpv
