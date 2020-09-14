@@ -141,7 +141,7 @@
 - [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 - [fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3
 - [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click
-- [i3lock-color](https://github.com/Raymo111/i3lock-color) - Improved i3lock with color customization
+- [i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default lockscreen.
 - [i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
 
 ## C++ 
@@ -207,7 +207,7 @@
 - [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
 - [horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
-- [got](https://github.com/melbahja/got) - Got: Simple concurrent golang package and CLI tool to download large files faster than cURL and Wget!
+- [got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!
 - [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [may](https://github.com/robin-mbg/may) - CLI tool to easily list and manage git repositories all across your system.
 - [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
@@ -732,7 +732,7 @@
 - [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
 - [vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
 - [vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files. The filename must have a ".gpg", ".pgp" or ".asc" suffix. When opening such a file the content is decrypted, when opening a new file the script will ask for the recipients of the encrypted file. The file content will be encrypted to all recipients before it is written. The script turns off viminfo, swapfile, and undofile to increase security.
-- [tagbar](https://github.com/majutsushi/tagbar) - Vim plugin that displays tags in a window, ordered by scope
+- [tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 - [vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
 - [tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
