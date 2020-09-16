@@ -146,6 +146,7 @@
 
 ## C++ 
 
+- [lead](https://github.com/mlde/lead) - hot corners
 - [qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
 - [rofi-proxy](https://github.com/ReanGD/rofi-proxy) - Rofi-proxy is a plugin that allows you to manage rofi state with an external application
 - [CLIdrag](https://github.com/rkevin-arch/CLIdrag) - Command line tool to drag files into GUI applications
