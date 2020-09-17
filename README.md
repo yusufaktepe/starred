@@ -56,7 +56,6 @@
 - [xclickroot](https://github.com/phillbush/xclickroot) - click on root window and run a command
 - [xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [libnss_homehosts](https://github.com/bAndie91/libnss_homehosts) - Linux NSS library supports ~/.hosts
-- [edges](https://github.com/arisinfenix/edges) - A command-line tool to set up X11 hot-corners
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting HTTP, HTTPS, FTP, FTPS, GOPHER, TFTP, SCP, SFTP, SMB, TELNET, DICT, LDAP, LDAPS, MQTT, FILE, IMAP, SMTP, POP3, RTSP and RTMP. libcurl offers a myriad of powerful features
 - [entr](https://github.com/eradman/entr) - A utility for running arbitrary commands when files change
 - [wayst](https://github.com/91861/wayst) - A simple terminal emulator
