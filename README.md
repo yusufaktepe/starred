@@ -295,6 +295,7 @@
 - [AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
 - [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing
 - [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
+- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
 - [floccus](https://github.com/marcelklehr/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)
 - [22120](https://github.com/dosyago/22120) - :classical_building: 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases
@@ -375,6 +376,7 @@
 
 ## Python 
 
+- [chromecast_mpris](https://github.com/alexdelorenzo/chromecast_mpris) - 📺 Control Chromecasts from Linux and D-Bus
 - [SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - 📃 Get lyrics of currently playing Spotify song so you don't sing along with the wrong ones and embarrass yourself later. Very fast.
 - [nicotine-plus](https://github.com/Nicotine-Plus/nicotine-plus) - Nicotine+: A graphical client for the SoulSeek peer-to-peer system
 - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
@@ -483,7 +485,6 @@
 - [desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
 - [lscolors](https://github.com/sharkdp/lscolors) - A Rust library and tool to colorize paths using LS_COLORS
 - [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
