@@ -228,7 +228,7 @@
 - [transmission-go](https://github.com/cog1to/transmission-go) - NCurses client for Transmission daemon written in Go
 - [vim-startuptime](https://github.com/rhysd/vim-startuptime) - A small Go program for better `vim --startuptime` alternative
 - [notes-cli](https://github.com/rhysd/notes-cli) - Small markdown note taking CLI app playing nicely with your favorite editor and other CLI tools
-- [dolt](https://github.com/liquidata-inc/dolt) - Dolt – It's Git for Data
+- [dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
 - [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
 - [pmy](https://github.com/relastle/pmy) - :rocket: General purpose context-aware zsh completion engine powered by fuzzy finder.
 - [pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
@@ -522,6 +522,7 @@
 
 ## Shell 
 
+- [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
 - [kill-process](https://github.com/padosoft/kill-process) - Bash script to kill high CPU process, long running process and too much consuming memory process.
 - [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. Can run commands, copy files, tunnel ports and connect.
 - [import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
