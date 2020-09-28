@@ -23,6 +23,7 @@
   - [Others](#others)
   - [Perl](#perl)
   - [Python](#python)
+  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [Shell](#shell)
@@ -43,6 +44,9 @@
 
 ## C 
 
+- [mousemode](https://github.com/Randoragon/mousemode) - An intuitive, home-row mouse replacement.
+- [totp](https://github.com/angt/totp) - A tiny command line utility to generate OTP tokens
+- [colorpicker](https://github.com/ym1234/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
 - [xsetprop](https://github.com/Bad-ptr/xsetprop) - Program for setting X window properties, like xprop, but for 'set' only(not 'get') and allow setting list of atoms ( or patch for xprop ).
 - [usbreset](https://github.com/jkulesza/usbreset) - 
 - [iotop](https://github.com/Tomas-M/iotop) - A top utility for IO
@@ -145,6 +149,7 @@
 
 ## C++ 
 
+- [Lightly](https://github.com/Luwx/Lightly) - A modern style for qt applications.
 - [lead](https://github.com/mlde/lead) - hot corners
 - [qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
 - [rofi-proxy](https://github.com/ReanGD/rofi-proxy) - Rofi-proxy is a plugin that allows you to manage rofi state with an external application
@@ -204,6 +209,7 @@
 
 ## Go 
 
+- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
 - [yopass](https://github.com/jhaals/yopass) - Secure sharing for secrets, passwords and files
 - [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
 - [horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
@@ -287,6 +293,7 @@
 
 ## JavaScript 
 
+- [percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable documents in PDF, EPUB, or HTML format.
 - [Spotify-Headless](https://github.com/BelkaDev/Spotify-Headless) - Experimental wrapper around Spotify Web API
 - [heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
@@ -377,6 +384,7 @@
 
 ## Python 
 
+- [vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
 - [chromecast_mpris](https://github.com/alexdelorenzo/chromecast_mpris) - 📺 Control Chromecasts from Linux and D-Bus
 - [SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - 📃 Get lyrics of currently playing Spotify song so you don't sing along with the wrong ones and embarrass yourself later. Very fast.
 - [nicotine-plus](https://github.com/Nicotine-Plus/nicotine-plus) - Nicotine+: A graphical client for the SoulSeek peer-to-peer system
@@ -453,6 +461,10 @@
 - [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
 
+## Roff 
+
+- [sx](https://github.com/Earnestly/sx) - Start an xorg server
+
 ## Ruby 
 
 - [panrun](https://github.com/mb21/panrun) - Script that looks at the YAML metadata in a markdown file and runs pandoc for you.
@@ -460,6 +472,8 @@
 
 ## Rust 
 
+- [csview](https://github.com/wfxr/csview) - 📠 A high performance csv viewer with cjk/emoji support.
+- [Auswahl](https://github.com/elkowar/Auswahl) - Build dmenu or rofi based menus using a simple menu description syntax with auswahl!
 - [vivid](https://github.com/sharkdp/vivid) - A generator for LS_COLORS with support for multiple color themes
 - [alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
 - [alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
@@ -522,6 +536,7 @@
 
 ## Shell 
 
+- [tmpmail](https://github.com/sdushantha/tmpmail) - 📬 A temporary email right from your terminal written in POSIX sh
 - [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
 - [kill-process](https://github.com/padosoft/kill-process) - Bash script to kill high CPU process, long running process and too much consuming memory process.
 - [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. Can run commands, copy files, tunnel ports and connect.
