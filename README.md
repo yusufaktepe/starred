@@ -515,7 +515,7 @@
 - [ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
 - [librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
 - [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern
+- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
 - [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
 - [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
