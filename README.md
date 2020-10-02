@@ -209,6 +209,7 @@
 
 ## Go 
 
+- [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
 - [yopass](https://github.com/jhaals/yopass) - Secure sharing for secrets, passwords and files
 - [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
