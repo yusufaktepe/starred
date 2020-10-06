@@ -44,6 +44,7 @@
 
 ## C 
 
+- [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [mousemode](https://github.com/Randoragon/mousemode) - An intuitive, home-row mouse replacement.
 - [totp](https://github.com/angt/totp) - A tiny command line utility to generate OTP tokens
 - [colorpicker](https://github.com/ym1234/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
@@ -385,6 +386,7 @@
 
 ## Python 
 
+- [lyrics-in-terminal](https://github.com/Jugran/lyrics-in-terminal) - Python curses application to view lyrics of current playing song in terminal.
 - [Google-Images-Search](https://github.com/arrrlo/Google-Images-Search) - Search for image using Google Custom Search API and resize & crop the image afterwords using Python
 - [vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
 - [chromecast_mpris](https://github.com/alexdelorenzo/chromecast_mpris) - 📺 Control Chromecasts from Linux and D-Bus
