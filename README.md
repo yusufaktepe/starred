@@ -540,6 +540,7 @@
 
 ## Shell 
 
+- [chronic](https://github.com/docwhat/chronic) - A tool that hides output unless the command fails; now in Go!
 - [rotcheck](https://github.com/jamielinux/rotcheck) - Recursively generate, update and verify checksums for your files
 - [bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [fontpreview-ueberzug](https://github.com/OliverLew/fontpreview-ueberzug) - A POSIX shell script to preview fonts in fzf
