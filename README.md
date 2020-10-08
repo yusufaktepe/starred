@@ -44,6 +44,7 @@
 
 ## C 
 
+- [nmly](https://github.com/Usbac/nmly) - Bulk rename utility
 - [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [mousemode](https://github.com/Randoragon/mousemode) - An intuitive, home-row mouse replacement.
 - [totp](https://github.com/angt/totp) - A tiny command line utility to generate OTP tokens
@@ -164,7 +165,7 @@
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [torodofi](https://github.com/pushsla/torodofi) - Simple markdown-compatible To-Do client driven by rofi
 - [spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
-- [ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents and more. A faster, user-friendly replacement for GNU/BSD grep.
+- [ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents and more. A faster, user-friendly and compatible grep replacement.
 - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
@@ -386,6 +387,7 @@
 
 ## Python 
 
+- [krop](https://github.com/arminstraub/krop) - A simple graphical tool to crop the pages of PDF files, written in Python/Qt
 - [lyrics-in-terminal](https://github.com/Jugran/lyrics-in-terminal) - Python curses application to view lyrics of current playing song in terminal.
 - [Google-Images-Search](https://github.com/arrrlo/Google-Images-Search) - Search for image using Google Custom Search API and resize & crop the image afterwords using Python
 - [vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
