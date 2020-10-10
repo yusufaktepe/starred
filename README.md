@@ -362,6 +362,7 @@
 
 ## Others 
 
+- [last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
 - [zsh4humans](https://github.com/romkatv/zsh4humans) - Zsh for Humans: Single-file configuration for Zsh with sane defaults
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [vifm_devicons](https://github.com/cirala/vifm_devicons) - File and directory icons for Vifm (vi file manager)
