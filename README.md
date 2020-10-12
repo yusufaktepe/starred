@@ -26,6 +26,7 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [Scheme](#scheme)
   - [Shell](#shell)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -151,6 +152,7 @@
 
 ## C++ 
 
+- [Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
 - [Lightly](https://github.com/Luwx/Lightly) - A modern style for qt applications.
 - [lead](https://github.com/mlde/lead) - hot corners
 - [qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
@@ -541,6 +543,10 @@
 - [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
 - [Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command
 - [i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
+
+## Scheme 
+
+- [jaro](https://github.com/isamert/jaro) - a highly customizable xdg-open alternative
 
 ## Shell 
 
