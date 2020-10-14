@@ -167,7 +167,7 @@
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [torodofi](https://github.com/pushsla/torodofi) - Simple markdown-compatible To-Do client driven by rofi
 - [spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
-- [ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents and more. A faster, user-friendly and compatible grep replacement.
+- [ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents and more. A faster, user-friendly and compatible grep replacement.
 - [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
@@ -515,7 +515,7 @@
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
-- [exa](https://github.com/ogham/exa) - A modern version of ‘ls’.
+- [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
 - [mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
 - [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
@@ -648,7 +648,7 @@
 - [roficlip](https://github.com/gilbertw1/roficlip) - A simple shell script that surfaces clipboard history from clipster in Rofi
 - [rofi-scripts](https://github.com/davatorium/rofi-scripts) - Small scripts for use with rofi
 - [i3-wm-gruvbox-theme](https://github.com/a-schaefers/i3-wm-gruvbox-theme) - An i3-wm gruvbox theme implementation
-- [i3-volume](https://github.com/hastinbe/i3-volume) - Volume control and volume notifications for i3wm
+- [i3-volume](https://github.com/hastinbe/i3-volume) - Volume control and volume notifications
 - [i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
 - [texpander](https://github.com/leehblue/texpander) - Text expander for linux
 - [equalizer](https://github.com/pulseaudio-equalizer-ladspa/equalizer) - Pulseaudio LADSPA Equalizer
