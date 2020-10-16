@@ -391,6 +391,7 @@
 
 ## Python 
 
+- [Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [krop](https://github.com/arminstraub/krop) - A simple graphical tool to crop the pages of PDF files, written in Python/Qt
 - [lyrics-in-terminal](https://github.com/Jugran/lyrics-in-terminal) - Python curses application to view lyrics of current playing song in terminal.
 - [Google-Images-Search](https://github.com/arrrlo/Google-Images-Search) - Search for image using Google Custom Search API and resize & crop the image afterwords using Python
@@ -417,7 +418,7 @@
 - [atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
 - [dex](https://github.com/jceb/dex) - DesktopEntry Execution
 - [urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
-- [vim-orgmode](https://github.com/jceb/vim-orgmode) - Text outlining and task management for Vim based on Emacs' Org-Mode
+- [vim-orgmode](https://github.com/jceb/vim-orgmode) - UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
 - [dangerzone](https://github.com/firstlookmedia/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF
 - [pywebsitechanges](https://github.com/schollz/pywebsitechanges) - Change detection with a simple Python script to email you whenever a website changes.
 - [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is an alternative for w3mimgdisplay
@@ -688,6 +689,7 @@
 
 ## Vim script 
 
+- [vim-sonictemplate](https://github.com/mattn/vim-sonictemplate) - Easy and high speed coding method
 - [vim-cutlass](https://github.com/svermeulen/vim-cutlass) - Plugin that adds a 'cut' operation separate from 'delete'
 - [vim-yoink](https://github.com/svermeulen/vim-yoink) - Vim plugin that maintains a yank history to cycle between when pasting
 - [committia.vim](https://github.com/rhysd/committia.vim) - A Vim plugin for more pleasant editing on commit messages
