@@ -213,6 +213,7 @@
 
 ## Go 
 
+- [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
