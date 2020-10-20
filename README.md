@@ -220,7 +220,7 @@
 - [yopass](https://github.com/jhaals/yopass) - Secure sharing for secrets, passwords and files
 - [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
 - [horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
-- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple machines, securely.
+- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!
 - [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [may](https://github.com/robin-mbg/may) - CLI tool to easily list and manage git repositories all across your system.
@@ -367,7 +367,7 @@
 ## Others 
 
 - [last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
-- [zsh4humans](https://github.com/romkatv/zsh4humans) - Zsh for Humans: Single-file configuration for Zsh with sane defaults
+- [zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Z shell
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
 - [vifm_devicons](https://github.com/cirala/vifm_devicons) - File and directory icons for Vifm (vi file manager)
 - [dotvifm](https://github.com/xaizek/dotvifm) - Vifm configuration files
@@ -392,6 +392,7 @@
 
 ## Python 
 
+- [spotui](https://github.com/ceuk/spotui) - Spotify in the terminal 💻🎶
 - [Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [krop](https://github.com/arminstraub/krop) - A simple graphical tool to crop the pages of PDF files, written in Python/Qt
 - [lyrics-in-terminal](https://github.com/Jugran/lyrics-in-terminal) - Python curses application to view lyrics of current playing song in terminal.
