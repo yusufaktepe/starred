@@ -213,6 +213,7 @@
 
 ## Go 
 
+- [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
@@ -485,6 +486,9 @@
 
 ## Rust 
 
+- [huniq](https://github.com/koraa/huniq) - Filter out duplicates on the command line. Replacement for `sort | uniq` optimized for speed (10x faster) when sorting is not needed.
+- [the-way](https://github.com/out-of-cheese-error/the-way) - A command line code snippets manager
+- [i3-auto-layout](https://github.com/chmln/i3-auto-layout) - Automatic, optimal tiling for i3wm
 - [gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust.
 - [csview](https://github.com/wfxr/csview) - 📠 A high performance csv viewer with cjk/emoji support.
 - [Auswahl](https://github.com/elkowar/Auswahl) - Build dmenu or rofi based menus using a simple menu description syntax with auswahl!
@@ -554,6 +558,7 @@
 
 ## Shell 
 
+- [pacmatic](https://github.com/keenerd/pacmatic) - A little wrapper script to keep Arch Linux from shooting you in the foot.
 - [chronic](https://github.com/docwhat/chronic) - A tool that hides output unless the command fails; now in Go!
 - [rotcheck](https://github.com/jamielinux/rotcheck) - Recursively generate, update and verify checksums for your files
 - [bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
