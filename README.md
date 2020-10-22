@@ -309,7 +309,7 @@
 - [vivaldi_modding](https://github.com/luetage/vivaldi_modding) - Custom modifications for Vivaldi web browser.
 - [spotify-export](https://github.com/b0o/spotify-export) - Export a listing of your saved tracks as JSON
 - [AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
-- [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing
+- [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
@@ -393,6 +393,7 @@
 
 ## Python 
 
+- [braus](https://github.com/properlypurple/braus) - A simple app to select a browser while opening any url
 - [spotui](https://github.com/ceuk/spotui) - Spotify in the terminal 💻🎶
 - [Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
 - [krop](https://github.com/arminstraub/krop) - A simple graphical tool to crop the pages of PDF files, written in Python/Qt
@@ -486,6 +487,7 @@
 
 ## Rust 
 
+- [wired-notify](https://github.com/Toqozz/wired-notify) - Lightweight notification daemon with highly customizable layout blocks, written in Rust.
 - [huniq](https://github.com/koraa/huniq) - Filter out duplicates on the command line. Replacement for `sort | uniq` optimized for speed (10x faster) when sorting is not needed.
 - [the-way](https://github.com/out-of-cheese-error/the-way) - A command line code snippets manager
 - [i3-auto-layout](https://github.com/chmln/i3-auto-layout) - Automatic, optimal tiling for i3wm
