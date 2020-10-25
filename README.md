@@ -393,6 +393,7 @@
 
 ## Python 
 
+- [nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux
 - [braus](https://github.com/properlypurple/braus) - A simple app to select a browser while opening any url
 - [spotui](https://github.com/ceuk/spotui) - Spotify in the terminal 💻🎶
 - [Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
@@ -674,7 +675,7 @@
 
 ## TypeScript 
 
-- [rome](https://github.com/romefrontend/rome) - The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
