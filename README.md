@@ -147,7 +147,7 @@
 - [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
 - [fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3
 - [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click
-- [i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default lockscreen.
+- [i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
 - [i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
 
 ## C++ 
