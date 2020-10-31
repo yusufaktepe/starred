@@ -389,7 +389,7 @@
 
 - [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight application for searching and playing videos from YouTube.
+- [youtube-viewer](https://github.com/trizen/youtube-viewer) - A lightweight YouTube client for Linux
 
 ## Python 
 
@@ -432,7 +432,7 @@
 - [rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
 - [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
 - [ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
-- [rclonesync-V2](https://github.com/cjnaz/rclonesync-V2) - A better rclonesync baseline.
+- [rclonesync-V2](https://github.com/cjnaz/rclonesync-V2) - A Bidirectional Cloud Sync Utility using rclone
 - [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.31, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
 - [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
 - [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
