@@ -68,7 +68,7 @@
 - [wayst](https://github.com/91861/wayst) - A simple terminal emulator
 - [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
 - [xprompt](https://github.com/phillbush/xprompt) - A dmenu rip-off with contextual completion
-- [shotkey](https://github.com/phenax/shotkey) - A suckless hot key daemon for X with configurable custom modes and key chords
+- [shotkey](https://github.com/phenax/shotkey) - A simple and lightweight hotkey daemon for X with configurable custom modes and key chords (in ~200 LOC)
 - [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process
 - [wtype](https://github.com/atx/wtype) - xdotool type for wayland
@@ -217,7 +217,7 @@
 - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
 - [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
-- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility
+- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [yopass](https://github.com/jhaals/yopass) - Secure sharing for secrets, passwords and files
 - [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
 - [horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
