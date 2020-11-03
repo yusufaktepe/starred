@@ -45,6 +45,7 @@
 
 ## C 
 
+- [xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Auto-suspend inactive X11 applications.
 - [nmly](https://github.com/Usbac/nmly) - Bulk rename utility
 - [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [mousemode](https://github.com/Randoragon/mousemode) - An intuitive, home-row mouse replacement.
@@ -562,6 +563,7 @@
 
 ## Shell 
 
+- [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [pacmatic](https://github.com/keenerd/pacmatic) - A little wrapper script to keep Arch Linux from shooting you in the foot.
 - [chronic](https://github.com/docwhat/chronic) - A tool that hides output unless the command fails; now in Go!
 - [rotcheck](https://github.com/jamielinux/rotcheck) - Recursively generate, update and verify checksums for your files
