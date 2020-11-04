@@ -153,6 +153,7 @@
 
 ## C++ 
 
+- [dsf2flac](https://github.com/hank/dsf2flac) - Code for converting DSF to FLAC files
 - [Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
 - [Lightly](https://github.com/Luwx/Lightly) - A modern style for qt applications.
 - [lead](https://github.com/mlde/lead) - hot corners
@@ -214,6 +215,7 @@
 
 ## Go 
 
+- [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
@@ -390,7 +392,7 @@
 
 - [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [youtube-viewer](https://github.com/trizen/youtube-viewer) - A lightweight YouTube client for Linux
+- [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight YouTube client for Linux
 
 ## Python 
 
