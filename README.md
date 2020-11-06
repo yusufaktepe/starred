@@ -215,6 +215,7 @@
 
 ## Go 
 
+- [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
 - [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
@@ -396,6 +397,7 @@
 
 ## Python 
 
+- [pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface
 - [nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux
 - [braus](https://github.com/properlypurple/braus) - A simple app to select a browser while opening any url
 - [spotui](https://github.com/ceuk/spotui) - Spotify in the terminal 💻🎶
@@ -565,6 +567,10 @@
 
 ## Shell 
 
+- [zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+- [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
+- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [pacmatic](https://github.com/keenerd/pacmatic) - A little wrapper script to keep Arch Linux from shooting you in the foot.
 - [chronic](https://github.com/docwhat/chronic) - A tool that hides output unless the command fails; now in Go!
