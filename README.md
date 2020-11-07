@@ -153,6 +153,8 @@
 
 ## C++ 
 
+- [qimgv](https://github.com/easymodo/qimgv) - Qt5 image viewer with optional video support
+- [nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
 - [dsf2flac](https://github.com/hank/dsf2flac) - Code for converting DSF to FLAC files
 - [Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
 - [Lightly](https://github.com/Luwx/Lightly) - A modern style for qt applications.
@@ -215,6 +217,7 @@
 
 ## Go 
 
+- [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
 - [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -317,6 +320,7 @@
 - [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [floccus](https://github.com/marcelklehr/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)
 - [22120](https://github.com/c9fe/22120) - :classical_building: 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -397,6 +401,7 @@
 
 ## Python 
 
+- [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface
 - [nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux
 - [braus](https://github.com/properlypurple/braus) - A simple app to select a browser while opening any url
@@ -688,7 +693,6 @@
 
 - [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
 - [firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
 - [cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
