@@ -46,7 +46,7 @@
 ## C 
 
 - [xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Auto-suspend inactive X11 applications.
-- [nmly](https://github.com/Usbac/nmly) - Bulk rename utility
+- [nmly](https://github.com/Usbac/nmly) - Easy to use bulk rename utility for the terminal
 - [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [mousemode](https://github.com/Randoragon/mousemode) - An intuitive, home-row mouse replacement.
 - [totp](https://github.com/angt/totp) - A tiny command line utility to generate OTP tokens
@@ -605,7 +605,7 @@
 - [rofi-search](https://github.com/fogine/rofi-search) - Interactive Google / DuckDuckGo search via rofi
 - [aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
 - [RofiFtw](https://github.com/BelkaDev/RofiFtw) - Rofi for the web: Real-time search suggestions of many popular web engines APIs.
-- [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features, 40 work hours themes
+- [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features and multiple shipped themes.
 - [tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
 - [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
 - [Zsh-100-Commits-Club](https://github.com/zdharma/Zsh-100-Commits-Club) - Promote writing Zsh software not simple scripts
