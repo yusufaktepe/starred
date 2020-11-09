@@ -102,7 +102,7 @@
 - [transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [xwallpaper](https://github.com/stoeckmann/xwallpaper) - wallpaper setting utility for X
 - [calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
-- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris command-line controller and library for vlc, audacious, bmp, cmus, spotify and others.
+- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [pipeline](https://github.com/codekitchen/pipeline) - the `pipeline` shell command
 - [i3](https://github.com/i3/i3) - A tiling window manager
