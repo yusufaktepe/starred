@@ -498,6 +498,7 @@
 
 ## Rust 
 
+- [dog](https://github.com/ogham/dog) - Command-line DNS client
 - [pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [wired-notify](https://github.com/Toqozz/wired-notify) - Lightweight notification daemon with highly customizable layout blocks, written in Rust.
 - [huniq](https://github.com/koraa/huniq) - Filter out duplicates on the command line. Replacement for `sort | uniq` optimized for speed (10x faster) when sorting is not needed.
