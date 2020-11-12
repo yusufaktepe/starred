@@ -45,6 +45,7 @@
 
 ## C 
 
+- [inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Auto-suspend inactive X11 applications.
 - [nmly](https://github.com/Usbac/nmly) - Easy to use bulk rename utility for the terminal
 - [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
@@ -217,6 +218,7 @@
 
 ## Go 
 
+- [emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
 - [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Read the content of your torrent files before fully download them!
@@ -800,7 +802,7 @@
 - [vim-css3-syntax](https://github.com/hail2u/vim-css3-syntax) - CSS3 syntax (and syntax defined in some foreign specifications) support for Vim's built-in syntax/css.vim
 - [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
 - [vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
-- [vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files. The filename must have a ".gpg", ".pgp" or ".asc" suffix. When opening such a file the content is decrypted, when opening a new file the script will ask for the recipients of the encrypted file. The file content will be encrypted to all recipients before it is written. The script turns off viminfo, swapfile, and undofile to increase security.
+- [vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files.
 - [tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
 - [vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
