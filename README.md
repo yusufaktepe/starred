@@ -221,7 +221,7 @@
 - [emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
-- [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Read the content of your torrent files before fully download them!
+- [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
 - [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
