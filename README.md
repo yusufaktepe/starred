@@ -45,6 +45,7 @@
 
 ## C 
 
+- [ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Auto-suspend inactive X11 applications.
 - [nmly](https://github.com/Usbac/nmly) - Easy to use bulk rename utility for the terminal
@@ -499,6 +500,7 @@
 
 ## Rust 
 
+- [gping](https://github.com/orf/gping) - Ping, but with a graph
 - [dog](https://github.com/ogham/dog) - Command-line DNS client
 - [pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [wired-notify](https://github.com/Toqozz/wired-notify) - Lightweight notification daemon with highly customizable layout blocks, written in Rust.
