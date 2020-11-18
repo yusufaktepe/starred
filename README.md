@@ -45,6 +45,7 @@
 
 ## C 
 
+- [xdg-launch](https://github.com/bbidulock/xdg-launch) - A command line XDG compliant launcher and tools
 - [ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
 - [xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Auto-suspend inactive X11 applications.
