@@ -116,7 +116,7 @@
 - [i3lock](https://github.com/Lixxia/i3lock) - Personal copy of i3lock that displays a 12-hour clock and always shows unlock indicator.
 - [xmouseless](https://github.com/jbensmann/xmouseless) - A fast and simple way to control the mouse.
 - [bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
-- [zinit](https://github.com/zdharma/zinit) - Ultra-flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
+- [zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
 - [tmux](https://github.com/tmux/tmux) - tmux source code
 - [i3blocks](https://github.com/vivien/i3blocks) - A feed generator for text based status bars
 - [neomutt](https://github.com/neomutt/neomutt) - :email: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.freenode.net
@@ -405,6 +405,7 @@
 
 ## Python 
 
+- [quikey](https://github.com/bostrt/quikey) - A keyboard macro tool.
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface
 - [nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux
@@ -501,6 +502,7 @@
 
 ## Rust 
 
+- [SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 - [gping](https://github.com/orf/gping) - Ping, but with a graph
 - [dog](https://github.com/ogham/dog) - Command-line DNS client
 - [pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
@@ -721,6 +723,7 @@
 
 ## Vim script 
 
+- [vim-outlaw](https://github.com/lifepillar/vim-outlaw) - The wanted outliner!
 - [vim-qml](https://github.com/peterhoeg/vim-qml) - QML syntax highlighting for VIM
 - [vim-sonictemplate](https://github.com/mattn/vim-sonictemplate) - Easy and high speed coding method
 - [vim-cutlass](https://github.com/svermeulen/vim-cutlass) - Plugin that adds a 'cut' operation separate from 'delete'
