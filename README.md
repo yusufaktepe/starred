@@ -10,6 +10,7 @@
   - [C](#c)
   - [C++](#c++)
   - [CSS](#css)
+  - [CoffeeScript](#coffeescript)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -156,6 +157,7 @@
 
 ## C++ 
 
+- [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [qimgv](https://github.com/easymodo/qimgv) - Qt5 image viewer with optional video support
 - [nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
 - [dsf2flac](https://github.com/hank/dsf2flac) - Code for converting DSF to FLAC files
@@ -217,6 +219,10 @@
 - [polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
 - [equilux-theme](https://github.com/ddnexus/equilux-theme) - A Material Design-like theme for GNOME/GTK+ based desktop environments.
 - [DMScrollbar](https://github.com/pabli24/DMScrollbar) - Dark Minimalistic Scrollbar for webkit based browsers
+
+## CoffeeScript 
+
+- [dictionaries](https://github.com/pnlpal/dictionaries) - One dictionary to rule them all -- a browser extension to help you learn languages
 
 ## Go 
 
