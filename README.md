@@ -226,6 +226,7 @@
 
 ## Go 
 
+- [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser which can be used as a middleware or standalone app.
 - [emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
@@ -336,7 +337,7 @@
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [exportify](https://github.com/watsonbox/exportify) - Export Spotify playlists using the Web API
+- [exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [external-application-button](https://github.com/andy-portmen/external-application-button) - Communicate with external applications of your OS through a toolbar button or context menu item.
 - [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
@@ -605,7 +606,7 @@
 - [create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [torque](https://github.com/dylanaraps/torque) - 🚂 A TUI client for transmission written in pure bash.
 - [send_email.sh](https://github.com/kgizdov/send_email.sh) - Script to send an email in bare-bone environments with minimal requirements
-- [rofi](https://github.com/adi1090x/rofi) - Rofi Based Custom Applets And Menus.
+- [rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
 - [modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 - [yawhich-key](https://github.com/adelin-b/yawhich-key) - An universal which-key command to provide spacemacs-like shortcut tooltip on desktop and any windows
 - [zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
