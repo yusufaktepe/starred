@@ -49,7 +49,7 @@
 - [xdg-launch](https://github.com/bbidulock/xdg-launch) - A command line XDG compliant launcher and tools
 - [ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
-- [xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Auto-suspend inactive X11 applications.
+- [xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications.
 - [nmly](https://github.com/Usbac/nmly) - Easy to use bulk rename utility for the terminal
 - [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [mousemode](https://github.com/Randoragon/mousemode) - An intuitive, home-row mouse replacement.
@@ -106,7 +106,7 @@
 - [transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [xwallpaper](https://github.com/stoeckmann/xwallpaper) - wallpaper setting utility for X
 - [calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
-- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
+- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [pipeline](https://github.com/codekitchen/pipeline) - the `pipeline` shell command
 - [i3](https://github.com/i3/i3) - A tiling window manager
