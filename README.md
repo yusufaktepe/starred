@@ -320,7 +320,7 @@
 ## JavaScript 
 
 - [markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
-- [percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable documents in PDF, EPUB, or HTML format.
+- [percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
 - [Spotify-Headless](https://github.com/BelkaDev/Spotify-Headless) - Experimental wrapper around Spotify Web API
 - [heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
@@ -510,6 +510,7 @@
 
 ## Rust 
 
+- [emulsion](https://github.com/ArturKovacs/emulsion) - A fast and minimalistic image viewer
 - [SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 - [gping](https://github.com/orf/gping) - Ping, but with a graph
 - [dog](https://github.com/ogham/dog) - Command-line DNS client
