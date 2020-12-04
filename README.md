@@ -24,6 +24,7 @@
   - [Others](#others)
   - [Perl](#perl)
   - [Python](#python)
+  - [QML](#qml)
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -498,6 +499,10 @@
 - [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
 - [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
+
+## QML 
+
+- [haruna](https://github.com/g-fb/haruna) - Open source video player built with Qt/QML on top of libmpv.
 
 ## Roff 
 
