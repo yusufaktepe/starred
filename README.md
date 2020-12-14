@@ -25,6 +25,7 @@
   - [Perl](#perl)
   - [Python](#python)
   - [QML](#qml)
+  - [Reason](#reason)
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -227,6 +228,7 @@
 
 ## Go 
 
+- [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser which can be used as a middleware or standalone app.
 - [emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
@@ -504,6 +506,10 @@
 
 - [haruna](https://github.com/g-fb/haruna) - Open source video player built with Qt/QML on top of libmpv.
 
+## Reason 
+
+- [odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
+
 ## Roff 
 
 - [sx](https://github.com/Earnestly/sx) - Start an xorg server
@@ -737,6 +743,7 @@
 
 ## Vim script 
 
+- [vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) - Vim wrapper for ShellCheck, a static analysis tool for shell scripts.
 - [vim-outlaw](https://github.com/lifepillar/vim-outlaw) - The wanted outliner!
 - [vim-qml](https://github.com/peterhoeg/vim-qml) - QML syntax highlighting for VIM
 - [vim-sonictemplate](https://github.com/mattn/vim-sonictemplate) - Easy and high speed coding method
