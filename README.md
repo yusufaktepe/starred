@@ -48,6 +48,7 @@
 
 ## C 
 
+- [ld-preload-open](https://github.com/fritzw/ld-preload-open) - Library to map files or directories to another location, for use with LD_PRELOAD.
 - [xdg-launch](https://github.com/bbidulock/xdg-launch) - A command line XDG compliant launcher and tools
 - [ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
@@ -522,6 +523,7 @@
 
 ## Rust 
 
+- [dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using the official link found on a topic's Wikipedia page
 - [emulsion](https://github.com/ArturKovacs/emulsion) - A fast and minimalistic image viewer
 - [SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
 - [gping](https://github.com/orf/gping) - Ping, but with a graph
