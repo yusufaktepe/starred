@@ -536,7 +536,7 @@
 - [gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust.
 - [csview](https://github.com/wfxr/csview) - 📠 A high performance csv viewer with cjk/emoji support.
 - [Auswahl](https://github.com/elkowar/Auswahl) - Build dmenu or rofi based menus using a simple menu description syntax with auswahl!
-- [vivid](https://github.com/sharkdp/vivid) - A generator for LS_COLORS with support for multiple color themes
+- [vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
 - [alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
 - [simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
