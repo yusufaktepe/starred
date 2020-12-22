@@ -316,6 +316,7 @@
 
 ## Java 
 
+- [tracker-control-android](https://github.com/OxfordHCC/tracker-control-android) - TrackerControl: monitor and control trackers and ads.
 - [FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [MGit](https://github.com/maks/MGit) - A Git client for Android.
 - [k-9](https://github.com/k9mail/k-9) - K-9 Mail – Open Source Email App for Android
@@ -417,6 +418,7 @@
 
 ## Python 
 
+- [TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
 - [catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [quikey](https://github.com/bostrt/quikey) - A keyboard macro tool.
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
