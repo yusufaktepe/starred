@@ -230,7 +230,7 @@
 ## Go 
 
 - [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
-- [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser which can be used as a middleware or standalone app.
+- [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
 - [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
 - [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
