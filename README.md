@@ -234,6 +234,7 @@
 
 ## Go 
 
+- [clipper](https://github.com/wincent/clipper) - ✂️ Clipboard access for local and remote tmux sessions
 - [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
