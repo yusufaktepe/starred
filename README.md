@@ -178,7 +178,7 @@
 - [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - [input-modifier](https://github.com/tildearrow/input-modifier) - uinput based key bindings and macros tool for Linux
 - [ponymix](https://github.com/falconindy/ponymix) - CLI volume control for PulseAudio
-- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software
+- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
 - [qlipmon](https://github.com/vcalv/qlipmon) - Clipboard manager server with rofi plugin and dbus interface
 - [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
