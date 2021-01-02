@@ -530,7 +530,7 @@
 
 ## Rust 
 
-- [binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code - written in Rust. :zap::crab:
+- [binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. :zap::crab:
 - [dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using the official link found on a topic's Wikipedia page
 - [emulsion](https://github.com/ArturKovacs/emulsion) - A fast and minimalistic image viewer
 - [SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
