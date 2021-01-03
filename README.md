@@ -408,7 +408,7 @@
 - [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh My Tmux! Pretty & versatile tmux configuration made with ❤️
+- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [writing-a-tui-in-bash](https://github.com/dylanaraps/writing-a-tui-in-bash) - How to write a TUI in BASH
 - [ttf-mswin10-arch](https://github.com/fphoenix88888/ttf-mswin10-arch) - MS Windows 10 Fonts for Arch Linux
