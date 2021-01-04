@@ -49,6 +49,7 @@
 
 ## C 
 
+- [zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [ld-preload-open](https://github.com/fritzw/ld-preload-open) - Library to map files or directories to another location, for use with LD_PRELOAD.
 - [xdg-launch](https://github.com/bbidulock/xdg-launch) - A command line XDG compliant launcher and tools
 - [ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
@@ -234,6 +235,7 @@
 
 ## Go 
 
+- [Swego](https://github.com/nodauf/Swego) - Swiss army knife Webserver in Golang. Keep simple like the python SimpleHTTPServer but with many features
 - [clipper](https://github.com/wincent/clipper) - ✂️ Clipboard access for local and remote tmux sessions
 - [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
 - [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
@@ -330,6 +332,7 @@
 
 ## JavaScript 
 
+- [TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
 - [percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
 - [Spotify-Headless](https://github.com/BelkaDev/Spotify-Headless) - Experimental wrapper around Spotify Web API with no Premium prerequisite.
@@ -397,6 +400,7 @@
 
 ## Others 
 
+- [line-awesome](https://github.com/icons8/line-awesome) - Replace Font Awesome with modern line icons
 - [last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
 - [zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Z shell
 - [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
@@ -423,6 +427,8 @@
 
 ## Python 
 
+- [youtube-music-tabfs](https://github.com/junhoyeo/youtube-music-tabfs) - Python Proof of Concept for retrieving Now Playing on YouTube Music with TabFS
+- [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
 - [TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
 - [catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [quikey](https://github.com/bostrt/quikey) - A keyboard macro tool.
@@ -530,6 +536,7 @@
 
 ## Rust 
 
+- [paru](https://github.com/Morganamilo/paru) - AUR helper based on yay
 - [binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. :zap::crab:
 - [dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using the official link found on a topic's Wikipedia page
 - [emulsion](https://github.com/ArturKovacs/emulsion) - A fast and minimalistic image viewer
