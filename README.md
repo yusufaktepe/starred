@@ -235,6 +235,7 @@
 
 ## Go 
 
+- [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
 - [Swego](https://github.com/nodauf/Swego) - Swiss army knife Webserver in Golang. Keep simple like the python SimpleHTTPServer but with many features
 - [clipper](https://github.com/wincent/clipper) - ✂️ Clipboard access for local and remote tmux sessions
 - [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
@@ -375,6 +376,8 @@
 
 ## Lua 
 
+- [nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
+- [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [mpv-quack](https://github.com/CounterPillow/mpv-quack) - mpv script for temporarily reducing audio volume after seeking
 - [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
 - [nvimpager](https://github.com/lucc/nvimpager) - Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting
@@ -427,6 +430,8 @@
 
 ## Python 
 
+- [epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
+- [lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
 - [youtube-music-tabfs](https://github.com/junhoyeo/youtube-music-tabfs) - Python Proof of Concept for retrieving Now Playing on YouTube Music with TabFS
 - [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
 - [TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
@@ -536,6 +541,9 @@
 
 ## Rust 
 
+- [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
+- [menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [paru](https://github.com/Morganamilo/paru) - AUR helper based on yay
 - [binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. :zap::crab:
 - [dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using the official link found on a topic's Wikipedia page
