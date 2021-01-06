@@ -403,6 +403,7 @@
 
 ## Others 
 
+- [awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) - List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time
 - [line-awesome](https://github.com/icons8/line-awesome) - Replace Font Awesome with modern line icons
 - [last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
 - [zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Z shell
