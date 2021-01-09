@@ -286,7 +286,7 @@
 - [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files
+- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
 - [authy](https://github.com/alexzorin/authy) - Go library and program to access your Authy TOTP secrets.
@@ -489,7 +489,7 @@
 - [autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
 - [calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
-- [rofimoji](https://github.com/fdw/rofimoji) - A simple emoji and character picker for rofi 😁
+- [rofimoji](https://github.com/fdw/rofimoji) - An emoji and character picker for rofi 😁
 - [deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim/Vim8
 - [python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
 - [pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most of the existing password manager.
@@ -816,12 +816,12 @@
 - [vim-python-ide](https://github.com/jarolrod/vim-python-ide) - Python development config
 - [vim-lastplace](https://github.com/farmergreg/vim-lastplace) - Intelligently reopen files at your last edit position in Vim.
 - [vim-dirdiff](https://github.com/will133/vim-dirdiff) - Vim plugin to diff two directories
-- [vim-hexokinase](https://github.com/RRethy/vim-hexokinase) - hexokinase.vim - The fastest (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)
+- [vim-hexokinase](https://github.com/RRethy/vim-hexokinase) - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)
 - [calendar.vim](https://github.com/itchyny/calendar.vim) - A calendar application for Vim
 - [vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
 - [vim-nerdtree-syntax-highlight](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight) - Extra syntax and highlight for nerdtree files
 - [vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [vim-which-key](https://github.com/liuchengxu/vim-which-key) - :tulip: Vim plugin that shows keybindings in popup
 - [vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
 - [gv.vim](https://github.com/junegunn/gv.vim) - A git commit browser in Vim
