@@ -542,6 +542,7 @@
 
 ## Rust 
 
+- [bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
