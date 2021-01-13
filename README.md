@@ -71,6 +71,7 @@
 - [pa_volume](https://github.com/rhaas80/pa_volume) - Allows to set volume of non-active pulseaudio clients
 - [xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
 - [xclickroot](https://github.com/phillbush/xclickroot) - click on root window and run a command
+- [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [libnss_homehosts](https://github.com/bAndie91/libnss_homehosts) - Linux NSS library supports ~/.hosts
 - [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
@@ -254,7 +255,6 @@
 - [horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!
-- [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [may](https://github.com/robin-mbg/may) - CLI tool to easily list and manage git repositories all across your system.
 - [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [echoip](https://github.com/mpolden/echoip) - IP address lookup service
@@ -800,7 +800,7 @@
 - [vim-sandwich](https://github.com/machakann/vim-sandwich) - The set of operator and textobject plugins to search/select/edit sandwiched textobjects.
 - [targets.vim](https://github.com/wellle/targets.vim) - Vim plugin that provides additional text objects
 - [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
-- [vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Use nvim/vim's builtin terminal in the floating/popup window
+- [vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
 - [indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
 - [onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
 - [srcery-vim](https://github.com/srcery-colors/srcery-vim) - Dark colorscheme for gvim and vim
