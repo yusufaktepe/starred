@@ -839,7 +839,7 @@
 - [vim-swap](https://github.com/machakann/vim-swap) - Reorder delimited items.
 - [vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
 - [vim-grepper](https://github.com/mhinz/vim-grepper) - :space_invader: Helps you win at grep.
-- [vim-translator](https://github.com/voldikss/vim-translator) - :closed_book: Asynchronous translating plugin for Vim/Neovim
+- [vim-translator](https://github.com/voldikss/vim-translator) - :closed_book: Translating plugin for Vim/Neovim
 - [translate.vim](https://github.com/skanehira/translate.vim) - translate language plugin
 - [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [vim](https://github.com/vim/vim) - The official Vim repository
