@@ -139,7 +139,7 @@
 - [nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
 - [snore](https://github.com/clamiax/snore) - sleep with feedback
 - [sxiv](https://github.com/muennich/sxiv) - Simple X Image Viewer
-- [smenu](https://github.com/p-gen/smenu) - Terminal utility that reads words from stdin or a file and creates an interactive selection window at the cursor location without clearing the screen. The selected word(s) are sent to stdout for further processing.
+- [smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile selection tool for interactive or scripting use.
 - [dwm](https://github.com/LukeSmithxyz/dwm) - Luke's build of dwm
 - [vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vi[m]-like environment for managing objects within file systems, extended with some useful ideas from mutt.
 - [ly](https://github.com/nullgemm/ly) - display manager with console UI
