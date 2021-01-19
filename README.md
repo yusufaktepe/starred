@@ -164,10 +164,12 @@
 
 ## C# # 
 
+- [qbittorrent-cli](https://github.com/fedarovich/qbittorrent-cli) - Command line interface for QBittorrent
 - [Camelot](https://github.com/IngvarX/Camelot) - Camelot is cross-platform file manager written in C#
 
 ## C++ 
 
+- [j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) - A fast desktop menu
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [qimgv](https://github.com/easymodo/qimgv) - Qt5 image viewer with optional video support
 - [nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
@@ -177,6 +179,7 @@
 - [lead](https://github.com/mlde/lead) - hot corners
 - [qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
 - [rofi-proxy](https://github.com/ReanGD/rofi-proxy) - Rofi-proxy is a plugin that allows you to manage rofi state with an external application
+- [FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [CLIdrag](https://github.com/rkevin-arch/CLIdrag) - Command line tool to drag files into GUI applications
 - [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - [input-modifier](https://github.com/tildearrow/input-modifier) - uinput based key bindings and macros tool for Linux
@@ -327,7 +330,6 @@
 ## Java 
 
 - [tracker-control-android](https://github.com/OxfordHCC/tracker-control-android) - TrackerControl: monitor and control trackers and ads.
-- [FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [MGit](https://github.com/maks/MGit) - A Git client for Android.
 - [k-9](https://github.com/k9mail/k-9) - K-9 Mail – Open Source Email App for Android
 - [markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
