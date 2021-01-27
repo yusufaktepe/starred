@@ -181,7 +181,7 @@
 - [rofi-proxy](https://github.com/ReanGD/rofi-proxy) - Rofi-proxy is a plugin that allows you to manage rofi state with an external application
 - [FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [CLIdrag](https://github.com/rkevin-arch/CLIdrag) - Command line tool to drag files into GUI applications
-- [ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
+- [ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
 - [input-modifier](https://github.com/tildearrow/input-modifier) - uinput based key bindings and macros tool for Linux
 - [ponymix](https://github.com/falconindy/ponymix) - CLI volume control for PulseAudio
 - [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -240,6 +240,7 @@
 
 ## Go 
 
+- [number-verifier](https://github.com/upmasked/number-verifier) - Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.
 - [sysrq](https://github.com/mlafeldt/sysrq) - Go client to the Linux SysRq interface
 - [triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -636,6 +637,8 @@
 
 ## Shell 
 
+- [tmpsms](https://github.com/sdushantha/tmpsms) - 📥 A temporary SMS utility right from your terminal written in POSIX sh
+- [ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
 - [fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
