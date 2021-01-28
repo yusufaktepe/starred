@@ -49,6 +49,7 @@
 
 ## C 
 
+- [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 - [zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
 - [ld-preload-open](https://github.com/fritzw/ld-preload-open) - Library to map files or directories to another location, for use with LD_PRELOAD.
@@ -760,7 +761,7 @@
 
 ## TypeScript 
 
-- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser to a second screen for your computer
+- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a second screen for your computer
 - [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
@@ -784,6 +785,7 @@
 
 ## Vim script 
 
+- [edita.vim](https://github.com/lambdalisue/edita.vim) - 🖊 A pseudo EDITOR to stay in Vim/Neovim
 - [vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) - Vim wrapper for ShellCheck, a static analysis tool for shell scripts.
 - [vim-outlaw](https://github.com/lifepillar/vim-outlaw) - The wanted outliner!
 - [vim-qml](https://github.com/peterhoeg/vim-qml) - QML syntax highlighting for VIM
