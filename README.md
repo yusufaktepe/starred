@@ -170,6 +170,7 @@
 
 ## C++ 
 
+- [spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
 - [j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) - A fast desktop menu
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [qimgv](https://github.com/easymodo/qimgv) - Qt5 image viewer with optional video support
@@ -340,6 +341,7 @@
 
 ## JavaScript 
 
+- [sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 - [export-all-extensions](https://github.com/gabrielbarros/export-all-extensions) - Export name and url of all installed extensions in Google Chrome
 - [TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
