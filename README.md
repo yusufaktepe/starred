@@ -640,7 +640,7 @@
 
 ## Shell 
 
-- [tmpsms](https://github.com/sdushantha/tmpsms) - 📥 A temporary SMS utility right from your terminal written in POSIX sh
+- [tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
 - [fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
 - [zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
@@ -654,7 +654,7 @@
 - [bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [fontpreview-ueberzug](https://github.com/OliverLew/fontpreview-ueberzug) - A POSIX shell script to preview fonts in fzf
 - [arch-pkgbuild-builder](https://github.com/2m/arch-pkgbuild-builder) - Arch Linux PKGBUILD GitHub builder action
-- [tmpmail](https://github.com/sdushantha/tmpmail) - 📬 A temporary email right from your terminal written in POSIX sh
+- [tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
 - [kill-process](https://github.com/padosoft/kill-process) - Bash script to kill high CPU process, long running process and too much consuming memory process.
 - [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. Can run commands, copy files, tunnel ports and connect.
@@ -697,7 +697,7 @@
 - [zsh-abbrev-alias](https://github.com/momo-lab/zsh-abbrev-alias) - This zsh plugin provides functionality similar to Vim's abbreviation expansion.
 - [zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
 - [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
-- [fontpreview](https://github.com/sdushantha/fontpreview) - 🔡 Highly customizable and minimal font previewer written in bash
+- [fontpreview](https://github.com/sdushantha/fontpreview) - Highly customizable and minimal font previewer written in bash
 - [polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
 - [archtorify](https://github.com/brainfucksec/archtorify) - Transparent proxy through Tor for Arch Linux OS
@@ -763,7 +763,7 @@
 
 ## TypeScript 
 
-- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a second screen for your computer
+- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
@@ -773,7 +773,7 @@
 - [nodejs-speech](https://github.com/googleapis/nodejs-speech) - Node.js client for Google Cloud Speech: Speech to text conversion powered by machine learning.
 - [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
-- [nativefier](https://github.com/jiahaog/nativefier) - Make any web page a desktop application
+- [nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 
 ## Vala 
 
