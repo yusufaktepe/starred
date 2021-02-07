@@ -49,6 +49,7 @@
 
 ## C 
 
+- [hsetroot](https://github.com/himdel/hsetroot) - yet another wallpaper application
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 - [zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
@@ -442,6 +443,7 @@
 
 ## Python 
 
+- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
 - [lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
@@ -554,6 +556,7 @@
 
 ## Rust 
 
+- [ht](https://github.com/ducaale/ht) - Yet another HTTPie clone
 - [rkvm](https://github.com/htrefil/rkvm) - Virtual KVM switch for Linux machines
 - [amber](https://github.com/dalance/amber) - A code search / replace tool
 - [peep](https://github.com/ryochack/peep) - The CLI text viewer tool that works like less command on small pane within the terminal window.
