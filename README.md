@@ -49,6 +49,7 @@
 
 ## C 
 
+- [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [hsetroot](https://github.com/himdel/hsetroot) - yet another wallpaper application
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
