@@ -244,6 +244,7 @@
 
 ## Go 
 
+- [md2vim](https://github.com/FooSoft/md2vim) - Tool for automatically converting markdown to vimdoc format
 - [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
 - [number-verifier](https://github.com/upmasked/number-verifier) - Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.
 - [sysrq](https://github.com/mlafeldt/sysrq) - Go client to the Linux SysRq interface
@@ -444,6 +445,7 @@
 
 ## Python 
 
+- [pip](https://github.com/pypa/pip) - The Python package installer
 - [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
@@ -557,7 +559,7 @@
 
 ## Rust 
 
-- [ht](https://github.com/ducaale/ht) - Yet another HTTPie clone
+- [xh](https://github.com/ducaale/xh) - Yet another HTTPie clone
 - [rkvm](https://github.com/htrefil/rkvm) - Virtual KVM switch for Linux machines
 - [amber](https://github.com/dalance/amber) - A code search / replace tool
 - [peep](https://github.com/ryochack/peep) - The CLI text viewer tool that works like less command on small pane within the terminal window.
@@ -769,6 +771,7 @@
 
 ## TypeScript 
 
+- [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
 - [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
