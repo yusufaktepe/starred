@@ -567,7 +567,7 @@
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
-- [paru](https://github.com/Morganamilo/paru) - AUR helper based on yay
+- [paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
 - [binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. :zap::crab:
 - [dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using the official link found on a topic's Wikipedia page
 - [emulsion](https://github.com/ArturKovacs/emulsion) - A fast and minimalistic image viewer
