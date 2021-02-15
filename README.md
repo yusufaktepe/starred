@@ -231,7 +231,7 @@
 - [ShellMagic](https://github.com/smokingcuke/ShellMagic) - My shell notes :memo:
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [gitweb-theme](https://github.com/kogakure/gitweb-theme) - An alternative theme for gitweb, strongly inspired by GitHub
-- [CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Custom CSS tweaks for Firefox Quantum
+- [CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Project on hold / Custom CSS tweaks for Firefox Quantum
 - [UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
 - [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
 - [polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
@@ -445,6 +445,7 @@
 
 ## Python 
 
+- [neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
 - [pip](https://github.com/pypa/pip) - The Python package installer
 - [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
@@ -559,6 +560,10 @@
 
 ## Rust 
 
+- [tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
+- [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
+- [bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
+- [comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
 - [xh](https://github.com/ducaale/xh) - Yet another HTTPie clone
 - [rkvm](https://github.com/htrefil/rkvm) - Virtual KVM switch for Linux machines
 - [amber](https://github.com/dalance/amber) - A code search / replace tool
