@@ -244,6 +244,7 @@
 
 ## Go 
 
+- [zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Complaint Window Managers
 - [eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
 - [md2vim](https://github.com/FooSoft/md2vim) - Tool for automatically converting markdown to vimdoc format
 - [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
