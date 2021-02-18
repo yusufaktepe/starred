@@ -49,6 +49,7 @@
 
 ## C 
 
+- [recode](https://github.com/rrthomas/recode) - Charset converter tool and library
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [hsetroot](https://github.com/himdel/hsetroot) - yet another wallpaper application
 - [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
@@ -760,7 +761,7 @@
 - [rofi-pass](https://github.com/carnager/rofi-pass) - rofi frontend for pass
 - [roficlip](https://github.com/gilbertw1/roficlip) - A simple shell script that surfaces clipboard history from clipster in Rofi
 - [rofi-scripts](https://github.com/davatorium/rofi-scripts) - Small scripts for use with rofi
-- [i3-wm-gruvbox-theme](https://github.com/a-schaefers/i3-wm-gruvbox-theme) - An i3-wm gruvbox theme implementation
+- [i3-wm-gruvbox-theme](https://github.com/grandfoobah/i3-wm-gruvbox-theme) - An i3-wm gruvbox theme implementation
 - [i3-volume](https://github.com/hastinbe/i3-volume) - Volume control and volume notifications
 - [i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
 - [texpander](https://github.com/leehblue/texpander) - Text expander for linux
