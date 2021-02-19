@@ -49,6 +49,7 @@
 
 ## C 
 
+- [sfm](https://github.com/afify/sfm) - simple file manager
 - [recode](https://github.com/rrthomas/recode) - Charset converter tool and library
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [hsetroot](https://github.com/himdel/hsetroot) - yet another wallpaper application
