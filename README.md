@@ -49,6 +49,7 @@
 
 ## C 
 
+- [GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
 - [sfm](https://github.com/afify/sfm) - simple file manager
 - [recode](https://github.com/rrthomas/recode) - Charset converter tool and library
 - [linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -280,7 +281,7 @@
 - [gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
 - [i3keys](https://github.com/RasmusLindroth/i3keys) - Lists available bindings for i3 or Sway with a graphical or text keyboard
 - [path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin
-- [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/zsh
+- [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
 - [direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [round](https://github.com/mingrammer/round) - :cyclone: A command-line for rounding the images
 - [pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
