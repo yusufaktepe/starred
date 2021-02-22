@@ -175,6 +175,7 @@
 
 ## C++ 
 
+- [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
 - [j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) - A fast desktop menu
 - [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -450,6 +451,7 @@
 
 ## Python 
 
+- [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
 - [pip](https://github.com/pypa/pip) - The Python package installer
 - [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
@@ -477,7 +479,6 @@
 - [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
 - [brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
-- [vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [dialect](https://github.com/gi-lom/dialect) - A translation app for GTK environments based on Google Translate.
 - [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [i3-grid](https://github.com/justahuman1/i3-grid) - A i3wm grid controller for accelerated floating window management.
@@ -548,7 +549,7 @@
 
 ## QML 
 
-- [haruna](https://github.com/g-fb/haruna) - Open source video player built with Qt/QML on top of libmpv.
+- [haruna](https://github.com/g-fb/haruna) - Open source video player built with Qt/QML and libmpv.
 
 ## Reason 
 
@@ -815,6 +816,7 @@
 - [vim-yoink](https://github.com/svermeulen/vim-yoink) - Vim plugin that maintains a yank history to cycle between when pasting
 - [committia.vim](https://github.com/rhysd/committia.vim) - A Vim plugin for more pleasant editing on commit messages
 - [vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc) - A vim 7.4+ plugin to generate table of contents for Markdown files.
+- [vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
 - [vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
 - [vim-lexical](https://github.com/reedes/vim-lexical) - Build on Vim’s spell/thes/dict completion
