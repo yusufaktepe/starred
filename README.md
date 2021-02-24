@@ -30,6 +30,7 @@
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SCSS](#scss)
   - [Scheme](#scheme)
   - [Shell](#shell)
   - [TeX](#tex)
@@ -232,7 +233,6 @@
 
 ## CSS 
 
-- [ShellMagic](https://github.com/smokingcuke/ShellMagic) - My shell notes :memo:
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [gitweb-theme](https://github.com/kogakure/gitweb-theme) - An alternative theme for gitweb, strongly inspired by GitHub
 - [CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Project on hold / Custom CSS tweaks for Firefox Quantum
@@ -652,6 +652,10 @@
 - [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
 - [Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command
 - [i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
+
+## SCSS 
+
+- [ShellMagic](https://github.com/smokingcuke/ShellMagic) - My shell notes :memo:
 
 ## Scheme 
 
