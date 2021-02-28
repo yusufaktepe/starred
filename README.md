@@ -663,6 +663,7 @@
 
 ## Shell 
 
+- [shellnium](https://github.com/Rasukarusan/shellnium) - Bash selenium webdriver.
 - [tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
 - [fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
