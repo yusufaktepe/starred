@@ -248,6 +248,7 @@
 
 ## Go 
 
+- [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Complaint Window Managers
 - [eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
 - [md2vim](https://github.com/FooSoft/md2vim) - Tool for automatically converting markdown to vimdoc format
@@ -663,6 +664,7 @@
 
 ## Shell 
 
+- [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
 - [shellnium](https://github.com/Rasukarusan/shellnium) - Bash selenium webdriver.
 - [tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
