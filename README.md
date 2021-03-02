@@ -253,7 +253,6 @@
 - [eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
 - [md2vim](https://github.com/FooSoft/md2vim) - Tool for automatically converting markdown to vimdoc format
 - [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
-- [number-verifier](https://github.com/upmasked/number-verifier) - Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.
 - [sysrq](https://github.com/mlafeldt/sysrq) - Go client to the Linux SysRq interface
 - [triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
@@ -737,7 +736,7 @@
 - [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
-- [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern boilerplate / framework / standard library for bash
+- [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [bash-lib](https://github.com/cyberark/bash-lib) - Library for bash utility methods and tools
 - [pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
 - [history-search-multi-word](https://github.com/zdharma/history-search-multi-word) - Multi-word, syntax highlighted history searching for Zsh
