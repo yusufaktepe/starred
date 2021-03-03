@@ -367,7 +367,7 @@
 - [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
 - [vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
-- [floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or a local file (and thus any file sync solution)
+- [floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or Google Drive
 - [22120](https://github.com/c9fe/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
 - [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
