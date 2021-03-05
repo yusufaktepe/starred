@@ -163,7 +163,7 @@
 - [light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
 - [xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
-- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager.
+- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3
 - [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click
 - [i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
@@ -318,7 +318,7 @@
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go based on Material Design
+- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [shadowfox-updater](https://github.com/SrKomodo/shadowfox-updater) - An auto-updater for ShadowFox
@@ -664,7 +664,7 @@
 ## Shell 
 
 - [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
-- [shellnium](https://github.com/Rasukarusan/shellnium) - Bash selenium webdriver.
+- [shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Bash selenium webdriver.
 - [tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
 - [ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
 - [fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
