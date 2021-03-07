@@ -351,6 +351,7 @@
 
 ## JavaScript 
 
+- [live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
 - [sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 - [export-all-extensions](https://github.com/gabrielbarros/export-all-extensions) - Export name and url of all installed extensions in Google Chrome
 - [TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
@@ -451,6 +452,7 @@
 
 ## Python 
 
+- [xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
 - [pip](https://github.com/pypa/pip) - The Python package installer
