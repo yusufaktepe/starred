@@ -249,7 +249,7 @@
 ## Go 
 
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-- [zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Complaint Window Managers
+- [zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
 - [eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
 - [md2vim](https://github.com/FooSoft/md2vim) - Tool for automatically converting markdown to vimdoc format
 - [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
@@ -665,6 +665,7 @@
 
 ## Shell 
 
+- [lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility library for Bash script development.
 - [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
 - [shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Bash selenium webdriver.
 - [tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
