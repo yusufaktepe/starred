@@ -248,6 +248,7 @@
 
 ## Go 
 
+- [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
 - [eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
@@ -397,6 +398,7 @@
 
 ## Lua 
 
+- [nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - dynamically show content of vim registers
 - [nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [mpv-quack](https://github.com/CounterPillow/mpv-quack) - mpv script for temporarily reducing audio volume after seeking
@@ -452,6 +454,7 @@
 
 ## Python 
 
+- [autosubsync](https://github.com/oseiskar/autosubsync) - Automatically synchronize subtitles with audio using machine learning
 - [xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
 - [neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
@@ -568,6 +571,7 @@
 
 ## Rust 
 
+- [spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
@@ -665,6 +669,7 @@
 
 ## Shell 
 
+- [tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
 - [lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility library for Bash script development.
 - [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
 - [shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Bash selenium webdriver.
