@@ -50,6 +50,7 @@
 
 ## C 
 
+- [colorpicker](https://github.com/Jack12816/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
 - [sfm](https://github.com/afify/sfm) - simple file manager
 - [recode](https://github.com/rrthomas/recode) - Charset converter tool and library
