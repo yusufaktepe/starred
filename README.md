@@ -689,7 +689,7 @@
 - [fontpreview-ueberzug](https://github.com/OliverLew/fontpreview-ueberzug) - A POSIX shell script to preview fonts in fzf
 - [arch-pkgbuild-builder](https://github.com/2m/arch-pkgbuild-builder) - Arch Linux PKGBUILD GitHub builder action
 - [tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
-- [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash and all POSIX shells)
+- [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash, zsh and all POSIX shells)
 - [kill-process](https://github.com/padosoft/kill-process) - Bash script to kill high CPU process, long running process and too much consuming memory process.
 - [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. Can run commands, copy files, tunnel ports and connect.
 - [import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
