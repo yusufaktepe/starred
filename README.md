@@ -249,6 +249,7 @@
 
 ## Go 
 
+- [fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Format /etc/fstab
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
@@ -578,7 +579,7 @@
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
 - [comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
-- [xh](https://github.com/ducaale/xh) - Yet another HTTPie clone
+- [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
 - [rkvm](https://github.com/htrefil/rkvm) - Virtual KVM switch for Linux machines
 - [amber](https://github.com/dalance/amber) - A code search / replace tool
 - [peep](https://github.com/ryochack/peep) - The CLI text viewer tool that works like less command on small pane within the terminal window.
