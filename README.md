@@ -50,6 +50,7 @@
 
 ## C 
 
+- [core](https://github.com/wmutils/core) - Set of window manipulation tools
 - [colorpicker](https://github.com/Jack12816/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
 - [GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
 - [sfm](https://github.com/afify/sfm) - simple file manager
@@ -664,7 +665,7 @@
 
 ## SCSS 
 
-- [ShellMagic](https://github.com/smokingcuke/ShellMagic) - My shell notes :memo:
+- [ShellMagic](https://github.com/blue-hexagon/ShellMagic) - My shell notes :memo:
 
 ## Scheme 
 
