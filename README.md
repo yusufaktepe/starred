@@ -250,6 +250,8 @@
 
 ## Go 
 
+- [s](https://github.com/zquestz/s) - Open a web search in your terminal.
+- [UnChain](https://github.com/redcode-labs/UnChain) - A tool to find redirection chains in multiple URLs
 - [fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Format /etc/fstab
 - [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
@@ -575,6 +577,7 @@
 
 ## Rust 
 
+- [frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
 - [spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
@@ -673,6 +676,7 @@
 
 ## Shell 
 
+- [history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
 - [tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
 - [lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility library for Bash script development.
 - [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
@@ -825,6 +829,7 @@
 
 ## Vim script 
 
+- [vim-visual-increment](https://github.com/triglav/vim-visual-increment) - visual-increment.vim - use CTRL+A/X to create increasing sequence of numbers or letters via visual mode
 - [edita.vim](https://github.com/lambdalisue/edita.vim) - 🖊 A pseudo EDITOR to stay in Vim/Neovim
 - [vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) - Vim wrapper for ShellCheck, a static analysis tool for shell scripts.
 - [vim-outlaw](https://github.com/lifepillar/vim-outlaw) - The wanted outliner!
