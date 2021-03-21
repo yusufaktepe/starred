@@ -250,6 +250,7 @@
 
 ## Go 
 
+- [kure](https://github.com/GGP1/kure) - Secure, private and feature-rich CLI password manager
 - [s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [UnChain](https://github.com/redcode-labs/UnChain) - A tool to find redirection chains in multiple URLs
 - [fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Format /etc/fstab
@@ -357,6 +358,7 @@
 
 ## JavaScript 
 
+- [learn-crypto-trading.github.io](https://github.com/learn-crypto-trading/learn-crypto-trading.github.io) - valuable sources for TA, FA, Algorithmic \ Quant Trading
 - [live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
 - [sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
 - [export-all-extensions](https://github.com/gabrielbarros/export-all-extensions) - Export name and url of all installed extensions in Google Chrome
