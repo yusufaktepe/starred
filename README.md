@@ -41,914 +41,914 @@
 
 ## Awk 
 
-- [shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
-- [translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
+- [reconquest/shdoc](https://github.com/reconquest/shdoc) - Documentation generator for shell scripts (bash, sh, zsh). Javadoc for shell scripts.
+- [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 
 ## Batchfile 
 
-- [duraconf](https://github.com/ioerror/duraconf) - duraconf - A collection of hardened configuration files for SSL/TLS services
+- [ioerror/duraconf](https://github.com/ioerror/duraconf) - duraconf - A collection of hardened configuration files for SSL/TLS services
 
 ## C 
 
-- [core](https://github.com/wmutils/core) - Set of window manipulation tools
-- [colorpicker](https://github.com/Jack12816/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
-- [GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
-- [sfm](https://github.com/afify/sfm) - simple file manager
-- [recode](https://github.com/rrthomas/recode) - Charset converter tool and library
-- [linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [hsetroot](https://github.com/himdel/hsetroot) - yet another wallpaper application
-- [barrier](https://github.com/debauchee/barrier) - Open-source KVM software
-- [bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
-- [zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
-- [ld-preload-open](https://github.com/fritzw/ld-preload-open) - Library to map files or directories to another location, for use with LD_PRELOAD.
-- [xdg-launch](https://github.com/bbidulock/xdg-launch) - A command line XDG compliant launcher and tools
-- [ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
-- [inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
-- [xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications.
-- [nmly](https://github.com/Usbac/nmly) - Easy to use bulk rename utility for the terminal
-- [htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
-- [mousemode](https://github.com/Randoragon/mousemode) - An intuitive, home-row mouse replacement.
-- [totp](https://github.com/angt/totp) - A tiny command line utility to generate OTP tokens
-- [colorpicker](https://github.com/ym1234/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
-- [xsetprop](https://github.com/Bad-ptr/xsetprop) - Program for setting X window properties, like xprop, but for 'set' only(not 'get') and allow setting list of atoms ( or patch for xprop ).
-- [usbreset](https://github.com/jkulesza/usbreset) - 
-- [iotop](https://github.com/Tomas-M/iotop) - A top utility for IO
-- [brightnessctl](https://github.com/Hummer12007/brightnessctl) - A program to read and control device brightness
-- [bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
-- [myMPD](https://github.com/jcorporation/myMPD) - myMPD is a standalone and mobile friendly web mpd client with a tiny footprint and advanced features.
-- [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [devour](https://github.com/salman-abedin/devour) - X11 window swallower
-- [pa_volume](https://github.com/rhaas80/pa_volume) - Allows to set volume of non-active pulseaudio clients
-- [xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
-- [xclickroot](https://github.com/phillbush/xclickroot) - click on root window and run a command
-- [NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
-- [xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
-- [libnss_homehosts](https://github.com/bAndie91/libnss_homehosts) - Linux NSS library supports ~/.hosts
-- [curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
-- [entr](https://github.com/eradman/entr) - A utility for running arbitrary commands when files change
-- [wayst](https://github.com/91861/wayst) - A simple terminal emulator
-- [entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
-- [xprompt](https://github.com/phillbush/xprompt) - A dmenu rip-off with contextual completion
-- [shotkey](https://github.com/phenax/shotkey) - A simple and lightweight hotkey daemon for X with configurable custom modes and key chords (in ~200 LOC)
-- [tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
-- [whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process
-- [wtype](https://github.com/atx/wtype) - xdotool type for wayland
-- [libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
-- [zathura](https://github.com/pwmt/zathura) - a document viewer
-- [sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
-- [mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
-- [jq](https://github.com/stedolan/jq) - Command-line JSON processor
-- [dwl](https://github.com/djpohly/dwl) - dwm for Wayland
-- [mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
-- [netmon](https://github.com/mdomlop/netmon) - Simple console network traffic monitor.
-- [sc-im](https://github.com/andmarti1424/sc-im) - SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
-- [reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
-- [wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents
-- [scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
-- [gitid](https://github.com/Luiserebii/gitid) - A  simple, minimal command line tool allowing for easy management of git identities (username, email, and signing key (e.g GPG)).
-- [boxes](https://github.com/ascii-boxes/boxes) - Command line ASCII boxes unlimited!
-- [tig](https://github.com/jonas/tig) - Text-mode interface for git
-- [btpd](https://github.com/btpd/btpd) - ⚡ The BitTorrent Protocol Daemon
-- [multiselect](https://github.com/sgerwk/multiselect) - multiple selections in X11
-- [dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
-- [xob](https://github.com/florentc/xob) - A lightweight overlay volume (or anything) bar for the X Window System.
-- [yad](https://github.com/v1cont/yad) - Yet Another Dialog
-- [vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a completely keyboard-driven, efficient and pleasurable browsing-experience.
-- [zbar](https://github.com/mchehab/zbar) - ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This is the main repository for it. There's a clone at at LinuxTV.org, and another one at gitlab.
-- [progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
-- [rofi-blocks](https://github.com/OmarCastro/rofi-blocks) - A Rofi modi that allows controlling rofi content throug communication with an external program
-- [xbanish](https://github.com/jcs/xbanish) - banish the mouse cursor when typing, show it again when the mouse moves
-- [transmission-remote-gtk](https://github.com/transmission-remote-gtk/transmission-remote-gtk) - transmission-remote-gtk is a GTK client for remote management of the Transmission BitTorrent client, using its HTTP RPC protocol.
-- [transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
-- [xwallpaper](https://github.com/stoeckmann/xwallpaper) - wallpaper setting utility for X
-- [calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
-- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
-- [dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
-- [pipeline](https://github.com/codekitchen/pipeline) - the `pipeline` shell command
-- [i3](https://github.com/i3/i3) - A tiling window manager
-- [rofi-file-browser-extended](https://github.com/marvinkreis/rofi-file-browser-extended) - Use rofi to quickly open files
-- [mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
-- [autocutsel](https://github.com/sigmike/autocutsel) - automated xcutsel
-- [xdo](https://github.com/baskerville/xdo) - Small X utility to perform elementary actions on windows
-- [i3lock](https://github.com/Lixxia/i3lock) - Personal copy of i3lock that displays a 12-hour clock and always shows unlock indicator.
-- [xmouseless](https://github.com/jbensmann/xmouseless) - A fast and simple way to control the mouse.
-- [bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
-- [zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
-- [tmux](https://github.com/tmux/tmux) - tmux source code
-- [i3blocks](https://github.com/vivien/i3blocks) - A feed generator for text based status bars
-- [neomutt](https://github.com/neomutt/neomutt) - :email: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.freenode.net
-- [sxiv](https://github.com/doronbehar/sxiv) - Simple X Image Viewer
-- [atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
-- [rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
-- [picom](https://github.com/yshui/picom) - A lightweight compositor for X11
-- [grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
-- [kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration
-- [ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
-- [fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
-- [nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
-- [snore](https://github.com/clamiax/snore) - sleep with feedback
-- [sxiv](https://github.com/muennich/sxiv) - Simple X Image Viewer
-- [smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile selection tool for interactive or scripting use.
-- [dwm](https://github.com/LukeSmithxyz/dwm) - Luke's build of dwm
-- [vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vi[m]-like environment for managing objects within file systems, extended with some useful ideas from mutt.
-- [ly](https://github.com/nullgemm/ly) - display manager with console UI
-- [xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
-- [celluloid](https://github.com/celluloid-player/celluloid) - A simple GTK+ frontend for mpv
-- [i3-easyfocus](https://github.com/cornerman/i3-easyfocus) - Focus and select windows in i3
-- [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
-- [pam-gnupg](https://github.com/cruegge/pam-gnupg) - Unlock GnuPG keys on login
-- [keynav](https://github.com/jordansissel/keynav) - retire your mouse.
-- [athame](https://github.com/ardagnir/athame) - Full vim for your shell (bash, zsh, gdb, python, etc)
-- [sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
-- [doublecmd-plugins](https://github.com/j2969719/doublecmd-plugins) - Additions for Double Commander
-- [st](https://github.com/LukeSmithxyz/st) - Luke's fork of the suckless simple terminal (st) with vim bindings and Xresource compatibility.
-- [light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
-- [xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
-- [rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
-- [nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3
-- [vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click
-- [i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
-- [i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
+- [wmutils/core](https://github.com/wmutils/core) - Set of window manipulation tools
+- [Jack12816/colorpicker](https://github.com/Jack12816/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
+- [Keruspe/GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
+- [afify/sfm](https://github.com/afify/sfm) - simple file manager
+- [rrthomas/recode](https://github.com/rrthomas/recode) - Charset converter tool and library
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+- [himdel/hsetroot](https://github.com/himdel/hsetroot) - yet another wallpaper application
+- [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
+- [Cloudef/bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
+- [zsh-users/zsh](https://github.com/zsh-users/zsh) - Mirror of the Z shell source code repository.
+- [fritzw/ld-preload-open](https://github.com/fritzw/ld-preload-open) - Library to map files or directories to another location, for use with LD_PRELOAD.
+- [bbidulock/xdg-launch](https://github.com/bbidulock/xdg-launch) - A command line XDG compliant launcher and tools
+- [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
+- [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
+- [kernc/xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications.
+- [Usbac/nmly](https://github.com/Usbac/nmly) - Easy to use bulk rename utility for the terminal
+- [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
+- [Randoragon/mousemode](https://github.com/Randoragon/mousemode) - An intuitive, home-row mouse replacement.
+- [angt/totp](https://github.com/angt/totp) - A tiny command line utility to generate OTP tokens
+- [ym1234/colorpicker](https://github.com/ym1234/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
+- [Bad-ptr/xsetprop](https://github.com/Bad-ptr/xsetprop) - Program for setting X window properties, like xprop, but for 'set' only(not 'get') and allow setting list of atoms ( or patch for xprop ).
+- [jkulesza/usbreset](https://github.com/jkulesza/usbreset) - 
+- [Tomas-M/iotop](https://github.com/Tomas-M/iotop) - A top utility for IO
+- [Hummer12007/brightnessctl](https://github.com/Hummer12007/brightnessctl) - A program to read and control device brightness
+- [tgraf/bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
+- [jcorporation/myMPD](https://github.com/jcorporation/myMPD) - myMPD is a standalone and mobile friendly web mpd client with a tiny footprint and advanced features.
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+- [salman-abedin/devour](https://github.com/salman-abedin/devour) - X11 window swallower
+- [rhaas80/pa_volume](https://github.com/rhaas80/pa_volume) - Allows to set volume of non-active pulseaudio clients
+- [phillbush/xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
+- [phillbush/xclickroot](https://github.com/phillbush/xclickroot) - click on root window and run a command
+- [lawl/NoiseTorch](https://github.com/lawl/NoiseTorch) - Real-time microphone noise suppression on Linux.
+- [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
+- [bAndie91/libnss_homehosts](https://github.com/bAndie91/libnss_homehosts) - Linux NSS library supports ~/.hosts
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
+- [eradman/entr](https://github.com/eradman/entr) - A utility for running arbitrary commands when files change
+- [91861/wayst](https://github.com/91861/wayst) - A simple terminal emulator
+- [clibs/entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
+- [phillbush/xprompt](https://github.com/phillbush/xprompt) - A dmenu rip-off with contextual completion
+- [phenax/shotkey](https://github.com/phenax/shotkey) - A simple and lightweight hotkey daemon for X with configurable custom modes and key chords (in ~200 LOC)
+- [Sweets/tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
+- [spieglt/whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process
+- [atx/wtype](https://github.com/atx/wtype) - xdotool type for wayland
+- [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
+- [pwmt/zathura](https://github.com/pwmt/zathura) - a document viewer
+- [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
+- [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland
+- [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
+- [mdomlop/netmon](https://github.com/mdomlop/netmon) - Simple console network traffic monitor.
+- [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
+- [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
+- [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
+- [Luiserebii/gitid](https://github.com/Luiserebii/gitid) - A  simple, minimal command line tool allowing for easy management of git identities (username, email, and signing key (e.g GPG)).
+- [ascii-boxes/boxes](https://github.com/ascii-boxes/boxes) - Command line ASCII boxes unlimited!
+- [jonas/tig](https://github.com/jonas/tig) - Text-mode interface for git
+- [btpd/btpd](https://github.com/btpd/btpd) - ⚡ The BitTorrent Protocol Daemon
+- [sgerwk/multiselect](https://github.com/sgerwk/multiselect) - multiple selections in X11
+- [dunst-project/dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
+- [florentc/xob](https://github.com/florentc/xob) - A lightweight overlay volume (or anything) bar for the X Window System.
+- [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
+- [fanglingsu/vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a completely keyboard-driven, efficient and pleasurable browsing-experience.
+- [mchehab/zbar](https://github.com/mchehab/zbar) - ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This is the main repository for it. There's a clone at at LinuxTV.org, and another one at gitlab.
+- [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
+- [OmarCastro/rofi-blocks](https://github.com/OmarCastro/rofi-blocks) - A Rofi modi that allows controlling rofi content throug communication with an external program
+- [jcs/xbanish](https://github.com/jcs/xbanish) - banish the mouse cursor when typing, show it again when the mouse moves
+- [transmission-remote-gtk/transmission-remote-gtk](https://github.com/transmission-remote-gtk/transmission-remote-gtk) - transmission-remote-gtk is a GTK client for remote management of the Transmission BitTorrent client, using its HTTP RPC protocol.
+- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
+- [stoeckmann/xwallpaper](https://github.com/stoeckmann/xwallpaper) - wallpaper setting utility for X
+- [lfos/calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
+- [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
+- [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
+- [codekitchen/pipeline](https://github.com/codekitchen/pipeline) - the `pipeline` shell command
+- [i3/i3](https://github.com/i3/i3) - A tiling window manager
+- [marvinkreis/rofi-file-browser-extended](https://github.com/marvinkreis/rofi-file-browser-extended) - Use rofi to quickly open files
+- [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
+- [sigmike/autocutsel](https://github.com/sigmike/autocutsel) - automated xcutsel
+- [baskerville/xdo](https://github.com/baskerville/xdo) - Small X utility to perform elementary actions on windows
+- [Lixxia/i3lock](https://github.com/Lixxia/i3lock) - Personal copy of i3lock that displays a 12-hour clock and always shows unlock indicator.
+- [jbensmann/xmouseless](https://github.com/jbensmann/xmouseless) - A fast and simple way to control the mouse.
+- [baskerville/bspwm](https://github.com/baskerville/bspwm) - A tiling window manager based on binary space partitioning
+- [zdharma/zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
+- [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
+- [vivien/i3blocks](https://github.com/vivien/i3blocks) - A feed generator for text based status bars
+- [neomutt/neomutt](https://github.com/neomutt/neomutt) - :email: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.freenode.net
+- [doronbehar/sxiv](https://github.com/doronbehar/sxiv) - Simple X Image Viewer
+- [Atoptool/atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
+- [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
+- [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
+- [emersion/grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
+- [emersion/kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration
+- [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
+- [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
+- [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
+- [clamiax/snore](https://github.com/clamiax/snore) - sleep with feedback
+- [muennich/sxiv](https://github.com/muennich/sxiv) - Simple X Image Viewer
+- [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile selection tool for interactive or scripting use.
+- [LukeSmithxyz/dwm](https://github.com/LukeSmithxyz/dwm) - Luke's build of dwm
+- [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vi[m]-like environment for managing objects within file systems, extended with some useful ideas from mutt.
+- [nullgemm/ly](https://github.com/nullgemm/ly) - display manager with console UI
+- [gnotclub/xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
+- [celluloid-player/celluloid](https://github.com/celluloid-player/celluloid) - A simple GTK+ frontend for mpv
+- [cornerman/i3-easyfocus](https://github.com/cornerman/i3-easyfocus) - Focus and select windows in i3
+- [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+- [cruegge/pam-gnupg](https://github.com/cruegge/pam-gnupg) - Unlock GnuPG keys on login
+- [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
+- [ardagnir/athame](https://github.com/ardagnir/athame) - Full vim for your shell (bash, zsh, gdb, python, etc)
+- [baskerville/sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
+- [j2969719/doublecmd-plugins](https://github.com/j2969719/doublecmd-plugins) - Additions for Double Commander
+- [LukeSmithxyz/st](https://github.com/LukeSmithxyz/st) - Luke's fork of the suckless simple terminal (st) with vim bindings and Xresource compatibility.
+- [haikarainen/light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
+- [alols/xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
+- [svenstaro/rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3
+- [nurupo/vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click
+- [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
+- [Airblader/i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
 
 ## C# # 
 
-- [qbittorrent-cli](https://github.com/fedarovich/qbittorrent-cli) - Command line interface for QBittorrent
-- [Camelot](https://github.com/IngvarX/Camelot) - Camelot is cross-platform file manager written in C#
+- [fedarovich/qbittorrent-cli](https://github.com/fedarovich/qbittorrent-cli) - Command line interface for QBittorrent
+- [IngvarX/Camelot](https://github.com/IngvarX/Camelot) - Camelot is cross-platform file manager written in C#
 
 ## C++ 
 
-- [zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-- [spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
-- [j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) - A fast desktop menu
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [qimgv](https://github.com/easymodo/qimgv) - Qt5 image viewer with optional video support
-- [nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
-- [dsf2flac](https://github.com/hank/dsf2flac) - Code for converting DSF to FLAC files
-- [Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
-- [Lightly](https://github.com/Luwx/Lightly) - A modern style for qt applications.
-- [lead](https://github.com/mlde/lead) - hot corners
-- [qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
-- [rofi-proxy](https://github.com/ReanGD/rofi-proxy) - Rofi-proxy is a plugin that allows you to manage rofi state with an external application
-- [FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
-- [CLIdrag](https://github.com/rkevin-arch/CLIdrag) - Command line tool to drag files into GUI applications
-- [ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
-- [input-modifier](https://github.com/tildearrow/input-modifier) - uinput based key bindings and macros tool for Linux
-- [ponymix](https://github.com/falconindy/ponymix) - CLI volume control for PulseAudio
-- [flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
-- [btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
-- [qlipmon](https://github.com/vcalv/qlipmon) - Clipboard manager server with rofi plugin and dbus interface
-- [git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
-- [torodofi](https://github.com/pushsla/torodofi) - Simple markdown-compatible To-Do client driven by rofi
-- [spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
-- [ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.1: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents and more. A faster, user-friendly and compatible grep replacement.
-- [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
-- [MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
-- [maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
-- [pamixer](https://github.com/cdemoulins/pamixer) - Pulseaudio command line mixer
-- [musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
-- [ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
-- [Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
-- [twmn](https://github.com/sboli/twmn) - A notification system for tiling window managers
-- [nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
-- [gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
-- [xkb-switch-i3](https://github.com/Zebradil/xkb-switch-i3) - Switch your X keyboard layouts from the command line
-- [xkb-switch](https://github.com/grwlf/xkb-switch) - Switch your X keyboard layouts from the command line
-- [newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
-- [BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) - A fork of KDE Breeze decoration with additional options
-- [ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
-- [file-commander](https://github.com/VioletGiraffe/file-commander) - Cross-platform Total Commander-like orthodox file manager for Windows, Mac and Linux
-- [olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
-- [adwaita-qt](https://github.com/FedoraQt/adwaita-qt) - A style to bend Qt applications to look like they belong into GNOME Shell
-- [mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
-- [ncpamixer](https://github.com/fulhax/ncpamixer) - ncurses PulseAudio Mixer
-- [SubtitleComposer](https://github.com/maxrd2/SubtitleComposer) - Subtitle Composer - KF5/Qt Video Subtitle Editor
-- [CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
-- [android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux
-- [gebaar-libinput](https://github.com/Coffee2CodeNL/gebaar-libinput) - Gebaar, A Super Simple WM Independent Touchpad Gesture Daemon for libinput
-- [flacon](https://github.com/flacon/flacon) - Audio File Encoder. Extracts audio tracks from an audio CD image to separate tracks.
-- [pulseeffects](https://github.com/wwmm/pulseeffects) - Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications
-- [crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows to translate and speak text using Google, Yandex and Bing.
-- [lwa-hot-corners](https://github.com/Leinnan/lwa-hot-corners) - 
-- [albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
-- [polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
+- [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
+- [dasJ/spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
+- [enkore/j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) - A fast desktop menu
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+- [easymodo/qimgv](https://github.com/easymodo/qimgv) - Qt5 image viewer with optional video support
+- [nomacs/nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
+- [hank/dsf2flac](https://github.com/hank/dsf2flac) - Code for converting DSF to FLAC files
+- [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
+- [Luwx/Lightly](https://github.com/Luwx/Lightly) - A modern style for qt applications.
+- [mlde/lead](https://github.com/mlde/lead) - hot corners
+- [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
+- [ReanGD/rofi-proxy](https://github.com/ReanGD/rofi-proxy) - Rofi-proxy is a plugin that allows you to manage rofi state with an external application
+- [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
+- [rkevin-arch/CLIdrag](https://github.com/rkevin-arch/CLIdrag) - Command line tool to drag files into GUI applications
+- [Sysinternals/ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.
+- [tildearrow/input-modifier](https://github.com/tildearrow/input-modifier) - uinput based key bindings and macros tool for Linux
+- [falconindy/ponymix](https://github.com/falconindy/ponymix) - CLI volume control for PulseAudio
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [johang/btfs](https://github.com/johang/btfs) - A bittorrent filesystem based on FUSE.
+- [vcalv/qlipmon](https://github.com/vcalv/qlipmon) - Clipboard manager server with rofi plugin and dbus interface
+- [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
+- [pushsla/torodofi](https://github.com/pushsla/torodofi) - Simple markdown-compatible To-Do client driven by rofi
+- [kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.1: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents and more. A faster, user-friendly and compatible grep replacement.
+- [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
+- [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
+- [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
+- [cdemoulins/pamixer](https://github.com/cdemoulins/pamixer) - Pulseaudio command line mixer
+- [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
+- [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
+- [snyball/Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
+- [sboli/twmn](https://github.com/sboli/twmn) - A notification system for tiling window managers
+- [raboof/nethogs](https://github.com/raboof/nethogs) - Linux 'net top' tool
+- [romkatv/gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
+- [Zebradil/xkb-switch-i3](https://github.com/Zebradil/xkb-switch-i3) - Switch your X keyboard layouts from the command line
+- [grwlf/xkb-switch](https://github.com/grwlf/xkb-switch) - Switch your X keyboard layouts from the command line
+- [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
+- [tsujan/BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) - A fork of KDE Breeze decoration with additional options
+- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
+- [VioletGiraffe/file-commander](https://github.com/VioletGiraffe/file-commander) - Cross-platform Total Commander-like orthodox file manager for Windows, Mac and Linux
+- [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
+- [FedoraQt/adwaita-qt](https://github.com/FedoraQt/adwaita-qt) - A style to bend Qt applications to look like they belong into GNOME Shell
+- [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
+- [fulhax/ncpamixer](https://github.com/fulhax/ncpamixer) - ncurses PulseAudio Mixer
+- [maxrd2/SubtitleComposer](https://github.com/maxrd2/SubtitleComposer) - Subtitle Composer - KF5/Qt Video Subtitle Editor
+- [hluk/CopyQ](https://github.com/hluk/CopyQ) - Clipboard manager with advanced features
+- [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux
+- [Coffee2CodeNL/gebaar-libinput](https://github.com/Coffee2CodeNL/gebaar-libinput) - Gebaar, A Super Simple WM Independent Touchpad Gesture Daemon for libinput
+- [flacon/flacon](https://github.com/flacon/flacon) - Audio File Encoder. Extracts audio tracks from an audio CD image to separate tracks.
+- [wwmm/pulseeffects](https://github.com/wwmm/pulseeffects) - Limiter, compressor, reverberation, equalizer and auto volume effects for Pulseaudio applications
+- [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows to translate and speak text using Google, Yandex and Bing.
+- [Leinnan/lwa-hot-corners](https://github.com/Leinnan/lwa-hot-corners) - 
+- [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
+- [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
 
 ## CSS 
 
-- [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [gitweb-theme](https://github.com/kogakure/gitweb-theme) - An alternative theme for gitweb, strongly inspired by GitHub
-- [CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Project on hold / Custom CSS tweaks for Firefox Quantum
-- [UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
-- [GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
-- [polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
-- [equilux-theme](https://github.com/ddnexus/equilux-theme) - A Material Design-like theme for GNOME/GTK+ based desktop environments.
-- [DMScrollbar](https://github.com/pabli24/DMScrollbar) - Dark Minimalistic Scrollbar for webkit based browsers
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
+- [kogakure/gitweb-theme](https://github.com/kogakure/gitweb-theme) - An alternative theme for gitweb, strongly inspired by GitHub
+- [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Project on hold / Custom CSS tweaks for Firefox Quantum
+- [Timvde/UserChrome-Tweaks](https://github.com/Timvde/UserChrome-Tweaks) - A community maintained repository of userChrome.css tweaks for Firefox
+- [StylishThemes/GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - :octocat: Dark GitHub style
+- [teejee2008/polo](https://github.com/teejee2008/polo) - Advanced file manager for Linux written in Vala. Supports multiple panes (single, dual, quad) with multiple tabs in each pane. Supports archive creation, extraction and browsing. Support for cloud storage; running and managing KVM images, modifying PDF documents and image files, booting ISO files in KVM, and writing ISO files to USB drives.
+- [ddnexus/equilux-theme](https://github.com/ddnexus/equilux-theme) - A Material Design-like theme for GNOME/GTK+ based desktop environments.
+- [pabli24/DMScrollbar](https://github.com/pabli24/DMScrollbar) - Dark Minimalistic Scrollbar for webkit based browsers
 
 ## CoffeeScript 
 
-- [dictionaries](https://github.com/pnlpal/dictionaries) - One dictionary to rule them all -- a browser extension to help you learn languages
+- [pnlpal/dictionaries](https://github.com/pnlpal/dictionaries) - One dictionary to rule them all -- a browser extension to help you learn languages
 
 ## Go 
 
-- [kure](https://github.com/GGP1/kure) - Secure, private and feature-rich CLI password manager
-- [s](https://github.com/zquestz/s) - Open a web search in your terminal.
-- [UnChain](https://github.com/redcode-labs/UnChain) - A tool to find redirection chains in multiple URLs
-- [fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Format /etc/fstab
-- [age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
-- [bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
-- [zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
-- [eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
-- [md2vim](https://github.com/FooSoft/md2vim) - Tool for automatically converting markdown to vimdoc format
-- [ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
-- [sysrq](https://github.com/mlafeldt/sysrq) - Go client to the Linux SysRq interface
-- [triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
-- [sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
-- [Swego](https://github.com/nodauf/Swego) - Swiss army knife Webserver in Golang. Keep simple like the python SimpleHTTPServer but with many features
-- [clipper](https://github.com/wincent/clipper) - ✂️ Clipboard access for local and remote tmux sessions
-- [imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
-- [filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
-- [emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
-- [gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
-- [piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
-- [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
-- [croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
-- [TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
-- [pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
-- [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [yopass](https://github.com/jhaals/yopass) - Secure sharing for secrets, passwords and files
-- [goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
-- [horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
-- [chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-- [got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!
-- [may](https://github.com/robin-mbg/may) - CLI tool to easily list and manage git repositories all across your system.
-- [mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
-- [echoip](https://github.com/mpolden/echoip) - IP address lookup service
-- [reflex](https://github.com/cespare/reflex) - Run a command when files change
-- [dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
-- [gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
-- [i3keys](https://github.com/RasmusLindroth/i3keys) - Lists available bindings for i3 or Sway with a graphical or text keyboard
-- [path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin
-- [cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
-- [direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [round](https://github.com/mingrammer/round) - :cyclone: A command-line for rounding the images
-- [pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
-- [baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback
-- [gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
-- [ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
-- [transmission-go](https://github.com/cog1to/transmission-go) - NCurses client for Transmission daemon written in Go
-- [vim-startuptime](https://github.com/rhysd/vim-startuptime) - A small Go program for better `vim --startuptime` alternative
-- [notes-cli](https://github.com/rhysd/notes-cli) - Small markdown note taking CLI app playing nicely with your favorite editor and other CLI tools
-- [dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
-- [peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
-- [pmy](https://github.com/relastle/pmy) - :rocket: General purpose context-aware zsh completion engine powered by fuzzy finder.
-- [pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
-- [xurls](https://github.com/mvdan/xurls) - Extract urls from text
-- [fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
-- [archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
-- [maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
-- [lab](https://github.com/zaquestion/lab) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
-- [hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
-- [glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
-- [cli](https://github.com/cli/cli) - GitHub’s official command line tool
-- [hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
-- [rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
-- [restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-- [gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
-- [authy](https://github.com/alexzorin/authy) - Go library and program to access your Authy TOTP secrets.
-- [antibody](https://github.com/getantibody/antibody) - The fastest shell plugin manager.
-- [git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
-- [go](https://github.com/golang/go) - The Go programming language
-- [massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
-- [blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
-- [gtran](https://github.com/skanehira/gtran) - Google translate CLI
-- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
-- [syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
-- [lf](https://github.com/gokcehan/lf) - Terminal file manager
-- [fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
-- [drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
-- [fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [shadowfox-updater](https://github.com/SrKomodo/shadowfox-updater) - An auto-updater for ShadowFox
+- [GGP1/kure](https://github.com/GGP1/kure) - Secure, private and feature-rich CLI password manager
+- [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
+- [redcode-labs/UnChain](https://github.com/redcode-labs/UnChain) - A tool to find redirection chains in multiple URLs
+- [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Format /etc/fstab
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+- [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
+- [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
+- [boreq/eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
+- [FooSoft/md2vim](https://github.com/FooSoft/md2vim) - Tool for automatically converting markdown to vimdoc format
+- [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
+- [mlafeldt/sysrq](https://github.com/mlafeldt/sysrq) - Go client to the Linux SysRq interface
+- [tj/triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
+- [mozilla/sops](https://github.com/mozilla/sops) - Simple and flexible tool for managing secrets
+- [nodauf/Swego](https://github.com/nodauf/Swego) - Swiss army knife Webserver in Golang. Keep simple like the python SimpleHTTPServer but with many features
+- [wincent/clipper](https://github.com/wincent/clipper) - ✂️ Clipboard access for local and remote tmux sessions
+- [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
+- [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [tvrzna/emptty](https://github.com/tvrzna/emptty) - Dead simple CLI Display Manager on TTY
+- [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
+- [jedisct1/piknik](https://github.com/jedisct1/piknik) - Copy/paste anything over the network.
+- [distribyted/distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
+- [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
+- [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
+- [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
+- [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing for secrets, passwords and files
+- [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
+- [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
+- [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+- [melbahja/got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!
+- [robin-mbg/may](https://github.com/robin-mbg/may) - CLI tool to easily list and manage git repositories all across your system.
+- [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
+- [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
+- [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
+- [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
+- [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
+- [RasmusLindroth/i3keys](https://github.com/RasmusLindroth/i3keys) - Lists available bindings for i3 or Sway with a graphical or text keyboard
+- [edi9999/path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin
+- [dim-an/cod](https://github.com/dim-an/cod) - cod is a completion daemon for bash/fish/zsh
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
+- [mingrammer/round](https://github.com/mingrammer/round) - :cyclone: A command-line for rounding the images
+- [pdfcpu/pdfcpu](https://github.com/pdfcpu/pdfcpu) - A PDF processor written in Go.
+- [joshuathompson/baton](https://github.com/joshuathompson/baton) - CLI to manage Spotify playback
+- [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
+- [x-motemen/ghq](https://github.com/x-motemen/ghq) - Remote repository management made easy
+- [cog1to/transmission-go](https://github.com/cog1to/transmission-go) - NCurses client for Transmission daemon written in Go
+- [rhysd/vim-startuptime](https://github.com/rhysd/vim-startuptime) - A small Go program for better `vim --startuptime` alternative
+- [rhysd/notes-cli](https://github.com/rhysd/notes-cli) - Small markdown note taking CLI app playing nicely with your favorite editor and other CLI tools
+- [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – It's Git for Data
+- [peco/peco](https://github.com/peco/peco) - Simplistic interactive filtering tool
+- [relastle/pmy](https://github.com/relastle/pmy) - :rocket: General purpose context-aware zsh completion engine powered by fuzzy finder.
+- [doronbehar/pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
+- [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
+- [mkchoi212/fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
+- [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
+- [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
+- [zaquestion/lab](https://github.com/zaquestion/lab) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
+- [github/hub](https://github.com/github/hub) - A command-line tool that makes git easier to use with GitHub.
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
+- [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [alexzorin/authy](https://github.com/alexzorin/authy) - Go library and program to access your Authy TOTP secrets.
+- [getantibody/antibody](https://github.com/getantibody/antibody) - The fastest shell plugin manager.
+- [apenwarr/git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
+- [golang/go](https://github.com/golang/go) - The Go programming language
+- [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
+- [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
+- [skanehira/gtran](https://github.com/skanehira/gtran) - Google translate CLI
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
+- [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
+- [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+- [SrKomodo/shadowfox-updater](https://github.com/SrKomodo/shadowfox-updater) - An auto-updater for ShadowFox
 
 ## HTML 
 
-- [pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
-- [security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
-- [hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
-- [unicode-progress-bars](https://github.com/Changaco/unicode-progress-bars) - A generator of Unicode progress bars
-- [hugo-rocinante](https://github.com/mavidser/hugo-rocinante) - Minimal blog hugo theme for Hugo
-- [blank](https://github.com/Vimux/blank) - Starter Hugo theme for use as a template for building custom themes
+- [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
+- [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
+- [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
+- [Changaco/unicode-progress-bars](https://github.com/Changaco/unicode-progress-bars) - A generator of Unicode progress bars
+- [mavidser/hugo-rocinante](https://github.com/mavidser/hugo-rocinante) - Minimal blog hugo theme for Hugo
+- [Vimux/blank](https://github.com/Vimux/blank) - Starter Hugo theme for use as a template for building custom themes
 
 ## Haskell 
 
-- [pandoc](https://github.com/jgm/pandoc) - Universal markup converter
-- [ntfd](https://github.com/kamek-pf/ntfd) - A lightweight notification daemon for fancy desktop integrations
-- [kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
-- [linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
-- [aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
-- [greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
-- [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
+- [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
+- [kamek-pf/ntfd](https://github.com/kamek-pf/ntfd) - A lightweight notification daemon for fancy desktop integrations
+- [david-janssen/kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
+- [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
+- [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
+- [erebe/greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
+- [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## Java 
 
-- [tracker-control-android](https://github.com/OxfordHCC/tracker-control-android) - TrackerControl: monitor and control trackers and ads.
-- [MGit](https://github.com/maks/MGit) - A Git client for Android.
-- [k-9](https://github.com/k9mail/k-9) - K-9 Mail – Open Source Email App for Android
-- [markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
+- [OxfordHCC/tracker-control-android](https://github.com/OxfordHCC/tracker-control-android) - TrackerControl: monitor and control trackers and ads.
+- [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
+- [k9mail/k-9](https://github.com/k9mail/k-9) - K-9 Mail – Open Source Email App for Android
+- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 
 ## JavaScript 
 
-- [learn-crypto-trading.github.io](https://github.com/learn-crypto-trading/learn-crypto-trading.github.io) - valuable sources for TA, FA, Algorithmic \ Quant Trading
-- [live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
-- [sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
-- [export-all-extensions](https://github.com/gabrielbarros/export-all-extensions) - Export name and url of all installed extensions in Google Chrome
-- [TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
-- [markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
-- [percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
-- [Spotify-Headless](https://github.com/BelkaDev/Spotify-Headless) - Experimental wrapper around Spotify Web API with no Premium prerequisite.
-- [heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
-- [snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
-- [feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
-- [vivaldi_modding](https://github.com/luetage/vivaldi_modding) - Custom modifications for Vivaldi web browser.
-- [spotify-export](https://github.com/b0o/spotify-export) - Export a listing of your saved tracks as JSON
-- [AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
-- [editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
-- [nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
-- [bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
-- [vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
-- [floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or Google Drive
-- [22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
-- [awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
-- [spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
-- [uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-- [exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
-- [external-application-button](https://github.com/andy-portmen/external-application-button) - Communicate with external applications of your OS through a toolbar button or context menu item.
-- [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
-- [browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
-- [surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - A SurfingKeys configuration which adds 130+ key mappings for 20+ sites & OmniBar search suggestions for 50+ sites
-- [Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
-- [firefox-overlay-scrollbars-win10](https://github.com/endeavoursc/firefox-overlay-scrollbars-win10) - Firefox Quantum Overlay Scrollbars, styled to match Windows 10 native apps
-- [firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs) - **Stops working with FF v72.** Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement.
-- [lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
-- [vimium](https://github.com/philc/vimium) - The hacker's browser.
-- [pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
-- [min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
-- [markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
-- [ShadowFox](https://github.com/overdodactyl/ShadowFox) - A universal dark theme for Firefox
-- [wpaana](https://github.com/precz/wpaana) - Web page as an native application.
-- [userChrome.js](https://github.com/Endor8/userChrome.js) - Skripte für die Firefox-Erweiterung userChromeJS
-- [Right_Links_WE](https://github.com/Infocatcher/Right_Links_WE) - WebExtensions port of Right Links extension for Firefox
+- [learn-crypto-trading/learn-crypto-trading.github.io](https://github.com/learn-crypto-trading/learn-crypto-trading.github.io) - valuable sources for TA, FA, Algorithmic \ Quant Trading
+- [tapio/live-server](https://github.com/tapio/live-server) - A simple development http server with live reload capability.
+- [jeroenpardon/sui](https://github.com/jeroenpardon/sui) - a startpage for your server and / or new tab page
+- [gabrielbarros/export-all-extensions](https://github.com/gabrielbarros/export-all-extensions) - Export name and url of all installed extensions in Google Chrome
+- [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
+- [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
+- [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
+- [BelkaDev/Spotify-Headless](https://github.com/BelkaDev/Spotify-Headless) - Experimental wrapper around Spotify Web API with no Premium prerequisite.
+- [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
+- [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [luetage/vivaldi_modding](https://github.com/luetage/vivaldi_modding) - Custom modifications for Vivaldi web browser.
+- [b0o/spotify-export](https://github.com/b0o/spotify-export) - Export a listing of your saved tracks as JSON
+- [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
+- [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
+- [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
+- [dani-garcia/bitwarden_rs](https://github.com/dani-garcia/bitwarden_rs) - Unofficial Bitwarden compatible server written in Rust
+- [iamcco/vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
+- [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or Google Drive
+- [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
+- [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+- [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
+- [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+- [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
+- [andy-portmen/external-application-button](https://github.com/andy-portmen/external-application-button) - Communicate with external applications of your OS through a toolbar button or context menu item.
+- [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
+- [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
+- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - A SurfingKeys configuration which adds 130+ key mappings for 20+ sites & OmniBar search suggestions for 50+ sites
+- [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
+- [endeavoursc/firefox-overlay-scrollbars-win10](https://github.com/endeavoursc/firefox-overlay-scrollbars-win10) - Firefox Quantum Overlay Scrollbars, styled to match Windows 10 native apps
+- [nuchi/firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs) - **Stops working with FF v72.** Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement.
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
+- [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
+- [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
+- [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
+- [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
+- [overdodactyl/ShadowFox](https://github.com/overdodactyl/ShadowFox) - A universal dark theme for Firefox
+- [precz/wpaana](https://github.com/precz/wpaana) - Web page as an native application.
+- [Endor8/userChrome.js](https://github.com/Endor8/userChrome.js) - Skripte für die Firefox-Erweiterung userChromeJS
+- [Infocatcher/Right_Links_WE](https://github.com/Infocatcher/Right_Links_WE) - WebExtensions port of Right Links extension for Firefox
 
 ## Kotlin 
 
-- [Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
+- [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
 
 ## Lua 
 
-- [galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) - neovim statusline plugin written in lua
-- [nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - dynamically show content of vim registers
-- [nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
-- [nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
-- [mpv-quack](https://github.com/CounterPillow/mpv-quack) - mpv script for temporarily reducing audio volume after seeking
-- [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
-- [nvimpager](https://github.com/lucc/nvimpager) - Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting
-- [koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - MPV-EASY Player - A movie player based on mpv
-- [mpv-scripts](https://github.com/dya-tel/mpv-scripts) - A small collection of MPV scripts to make your life a bit better
-- [mpv-persist-properties](https://github.com/d87/mpv-persist-properties) - Keeps selected property values (like volume) between player sessions
-- [awesome](https://github.com/awesomeWM/awesome) - awesome window manager
+- [glepnir/galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) - neovim statusline plugin written in lua
+- [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - dynamically show content of vim registers
+- [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
+- [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) - A file explorer tree for neovim written in lua
+- [CounterPillow/mpv-quack](https://github.com/CounterPillow/mpv-quack) - mpv script for temporarily reducing audio volume after seeking
+- [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
+- [lucc/nvimpager](https://github.com/lucc/nvimpager) - Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting
+- [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
+- [422658476/MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - MPV-EASY Player - A movie player based on mpv
+- [dya-tel/mpv-scripts](https://github.com/dya-tel/mpv-scripts) - A small collection of MPV scripts to make your life a bit better
+- [d87/mpv-persist-properties](https://github.com/d87/mpv-persist-properties) - Keeps selected property values (like volume) between player sessions
+- [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
 
 ## Makefile 
 
-- [browserpass-native](https://github.com/browserpass/browserpass-native) - Browserpass native client app
-- [batify](https://github.com/Ventto/batify) - Only one udevrule file triggering plug and critical battery level notifications (multi-x sessions support)
+- [browserpass/browserpass-native](https://github.com/browserpass/browserpass-native) - Browserpass native client app
+- [Ventto/batify](https://github.com/Ventto/batify) - Only one udevrule file triggering plug and critical battery level notifications (multi-x sessions support)
 
 ## OCaml 
 
-- [google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
+- [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 
 ## Objective-C 
 
-- [i3-rice-rin-shelter](https://github.com/CSaratakij/i3-rice-rin-shelter) - My i3wm rice with theme "Rin : shelter"
-- [suckless](https://github.com/mitchweaver/suckless) - 🇸 Collection of http://suckless.org tools I use and my modifications for them.
+- [CSaratakij/i3-rice-rin-shelter](https://github.com/CSaratakij/i3-rice-rin-shelter) - My i3wm rice with theme "Rin : shelter"
+- [mitchweaver/suckless](https://github.com/mitchweaver/suckless) - 🇸 Collection of http://suckless.org tools I use and my modifications for them.
 
 ## Others 
 
-- [awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) - List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time
-- [line-awesome](https://github.com/icons8/line-awesome) - Replace Font Awesome with modern line icons
-- [last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
-- [zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Z shell
-- [css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
-- [vifm_devicons](https://github.com/cirala/vifm_devicons) - File and directory icons for Vifm (vi file manager)
-- [dotvifm](https://github.com/xaizek/dotvifm) - Vifm configuration files
-- [awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
-- [fontconfig-emoji](https://github.com/stove-panini/fontconfig-emoji) - Emoji prioritization rules
-- [awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
-- [gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
-- [learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
-- [the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
-- [GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
-- [writing-a-tui-in-bash](https://github.com/dylanaraps/writing-a-tui-in-bash) - How to write a TUI in BASH
-- [ttf-mswin10-arch](https://github.com/fphoenix88888/ttf-mswin10-arch) - MS Windows 10 Fonts for Arch Linux
-- [awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
+- [gaul/awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) - List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time
+- [icons8/line-awesome](https://github.com/icons8/line-awesome) - Replace Font Awesome with modern line icons
+- [unicode-org/last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
+- [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Z shell
+- [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
+- [cirala/vifm_devicons](https://github.com/cirala/vifm_devicons) - File and directory icons for Vifm (vi file manager)
+- [xaizek/dotvifm](https://github.com/xaizek/dotvifm) - Vifm configuration files
+- [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
+- [stove-panini/fontconfig-emoji](https://github.com/stove-panini/fontconfig-emoji) - Emoji prioritization rules
+- [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
+- [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
+- [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
+- [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
+- [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
+- [dylanaraps/writing-a-tui-in-bash](https://github.com/dylanaraps/writing-a-tui-in-bash) - How to write a TUI in BASH
+- [fphoenix88888/ttf-mswin10-arch](https://github.com/fphoenix88888/ttf-mswin10-arch) - MS Windows 10 Fonts for Arch Linux
+- [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## Perl 
 
-- [lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
-- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
-- [youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight YouTube client for Linux
+- [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight YouTube client for Linux
 
 ## Python 
 
-- [autosubsync](https://github.com/oseiskar/autosubsync) - Automatically synchronize subtitles with audio using machine learning
-- [xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
-- [beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-- [neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
-- [pip](https://github.com/pypa/pip) - The Python package installer
-- [httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
-- [dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
-- [epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
-- [lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
-- [youtube-music-tabfs](https://github.com/junhoyeo/youtube-music-tabfs) - Python Proof of Concept for retrieving Now Playing on YouTube Music with TabFS
-- [pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
-- [TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
-- [catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
-- [quikey](https://github.com/bostrt/quikey) - A keyboard macro tool.
-- [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface
-- [nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux
-- [braus](https://github.com/properlypurple/braus) - A simple app to select a browser while opening any url
-- [spotui](https://github.com/ceuk/spotui) - Spotify in the terminal 💻🎶
-- [Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
-- [krop](https://github.com/arminstraub/krop) - A simple graphical tool to crop the pages of PDF files, written in Python/Qt
-- [lyrics-in-terminal](https://github.com/Jugran/lyrics-in-terminal) - Python curses application to view lyrics of current playing song in terminal.
-- [Google-Images-Search](https://github.com/arrrlo/Google-Images-Search) - Search for image using Google Custom Search API and resize & crop the image afterwords using Python
-- [vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
-- [chromecast_mpris](https://github.com/alexdelorenzo/chromecast_mpris) - 📺 Control Chromecasts from Linux and D-Bus
-- [SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - 📃 Get lyrics of currently playing Spotify song so you don't sing along with the wrong ones and embarrass yourself later. Very fast.
-- [nicotine-plus](https://github.com/Nicotine-Plus/nicotine-plus) - Nicotine+: A graphical client for the SoulSeek peer-to-peer system
-- [present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
-- [pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
-- [brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
-- [dialect](https://github.com/gi-lom/dialect) - A translation app for GTK environments based on Google Translate.
-- [visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
-- [i3-grid](https://github.com/justahuman1/i3-grid) - A i3wm grid controller for accelerated floating window management.
-- [searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
-- [pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
-- [rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
-- [getrid](https://github.com/Nudin/getrid) - Simple terminal user interface to decide which packages to keep and which to get rid of
-- [vint](https://github.com/Vimjas/vint) - Fast and Highly Extensible Vim script Language Lint implemented in Python.
-- [terminal-colors](https://github.com/eikenb/terminal-colors) - Utility to test color capabilities of terminal.
-- [tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
-- [gkeep](https://github.com/Nekmo/gkeep) - Google Keep Command Line Interface (CLI)
-- [starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
-- [atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
-- [dex](https://github.com/jceb/dex) - DesktopEntry Execution
-- [urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
-- [vim-orgmode](https://github.com/jceb/vim-orgmode) - UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
-- [dangerzone](https://github.com/firstlookmedia/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF
-- [pywebsitechanges](https://github.com/schollz/pywebsitechanges) - Change detection with a simple Python script to email you whenever a website changes.
-- [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11
-- [mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
-- [sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
-- [rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
-- [wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
-- [ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
-- [rclonesync-V2](https://github.com/cjnaz/rclonesync-V2) - A Bidirectional Cloud Sync Utility using rclone
-- [bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.31, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
-- [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
-- [youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
-- [zzzfoo](https://github.com/andersju/zzzfoo) - Full-text desktop search with Rofi+Recoll
-- [i3ipc-python](https://github.com/altdesktop/i3ipc-python) - 🐍 An improved Python library to control i3wm and sway.
-- [sultan](https://github.com/aeroxis/sultan) - Sultan: Command and Rule over your Shell
-- [autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
-- [calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-- [ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
-- [rofimoji](https://github.com/fdw/rofimoji) - An emoji and character picker for rofi 😁
-- [deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim/Vim8
-- [python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
-- [pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most of the existing password manager.
-- [rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
-- [ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
-- [uds](https://github.com/stewartmcgown/uds) - Unlimited Drive Storage by splitting binary files into base64
-- [tremc](https://github.com/tremc/tremc) - Curses interface for transmission
-- [stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
-- [trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
-- [certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [marker](https://github.com/pindexis/marker) - The terminal command palette
-- [YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
-- [autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
-- [networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Control NetworkManager via dmenu
-- [mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
-- [dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
-- [i3-scratchpad-tools](https://github.com/JaikrishnaTS/i3-scratchpad-tools) - i3ipc programs to manipulate scratchpad containers
-- [xkeysnail](https://github.com/mooz/xkeysnail) - Yet another keyboard remapping tool for X environment
-- [Sunflower](https://github.com/MeanEYE/Sunflower) - Small and highly customizable twin-panel file manager for Linux with support for plugins.
-- [clipster](https://github.com/mrichar1/clipster) - clipster - python clipboard manager
-- [autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
-- [ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux file search, instant results as you type
-- [qomui](https://github.com/corrad1nho/qomui) - Qomui (Qt OpenVPN Management UI)
-- [Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher
-- [rofi-bibbrowser](https://github.com/t-wissmann/rofi-bibbrowser) - A bibtex powered browser for your PDF document collection
-- [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
-- [libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
-- [i3wm-themer](https://github.com/unix121/i3wm-themer) - 🎨 Theme collection manager for i3-wm
-- [ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
-- [pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
-- [bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
-- [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
+- [oseiskar/autosubsync](https://github.com/oseiskar/autosubsync) - Automatically synchronize subtitles with audio using machine learning
+- [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
+- [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
+- [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
+- [pypa/pip](https://github.com/pypa/pip) - The Python package installer
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
+- [wustho/epy](https://github.com/wustho/epy) - CLI Ebook (epub2, epub3, fb2, mobi) Reader
+- [d0c-s4vage/lookatme](https://github.com/d0c-s4vage/lookatme) - An interactive, terminal-based markdown presenter
+- [junhoyeo/youtube-music-tabfs](https://github.com/junhoyeo/youtube-music-tabfs) - Python Proof of Concept for retrieving Now Playing on YouTube Music with TabFS
+- [ouuan/pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper which helps you watch important package updates.
+- [KasperskyLab/TinyCheck](https://github.com/KasperskyLab/TinyCheck) - TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere.
+- [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
+- [bostrt/quikey](https://github.com/bostrt/quikey) - A keyboard macro tool.
+- [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
+- [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger) - Small python-gtk application, which helps the user to merge or split pdf documents and rotate, crop and rearrange their pages using an interactive and intuitive graphical interface
+- [hakavlad/nohang](https://github.com/hakavlad/nohang) - A sophisticated low memory handler for Linux
+- [properlypurple/braus](https://github.com/properlypurple/braus) - A simple app to select a browser while opening any url
+- [ceuk/spotui](https://github.com/ceuk/spotui) - Spotify in the terminal 💻🎶
+- [pymedusa/Medusa](https://github.com/pymedusa/Medusa) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.
+- [arminstraub/krop](https://github.com/arminstraub/krop) - A simple graphical tool to crop the pages of PDF files, written in Python/Qt
+- [Jugran/lyrics-in-terminal](https://github.com/Jugran/lyrics-in-terminal) - Python curses application to view lyrics of current playing song in terminal.
+- [arrrlo/Google-Images-Search](https://github.com/arrrlo/Google-Images-Search) - Search for image using Google Custom Search API and resize & crop the image afterwords using Python
+- [bexxmodd/vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
+- [alexdelorenzo/chromecast_mpris](https://github.com/alexdelorenzo/chromecast_mpris) - 📺 Control Chromecasts from Linux and D-Bus
+- [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - 📃 Get lyrics of currently playing Spotify song so you don't sing along with the wrong ones and embarrass yourself later. Very fast.
+- [Nicotine-Plus/nicotine-plus](https://github.com/Nicotine-Plus/nicotine-plus) - Nicotine+: A graphical client for the SoulSeek peer-to-peer system
+- [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
+- [GeorgeFilipkin/pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
+- [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
+- [gi-lom/dialect](https://github.com/gi-lom/dialect) - A translation app for GTK environments based on Google Translate.
+- [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
+- [justahuman1/i3-grid](https://github.com/justahuman1/i3-grid) - A i3wm grid controller for accelerated floating window management.
+- [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
+- [pipxproject/pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
+- [rss2email/rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
+- [Nudin/getrid](https://github.com/Nudin/getrid) - Simple terminal user interface to decide which packages to keep and which to get rid of
+- [Vimjas/vint](https://github.com/Vimjas/vint) - Fast and Highly Extensible Vim script Language Lint implemented in Python.
+- [eikenb/terminal-colors](https://github.com/eikenb/terminal-colors) - Utility to test color capabilities of terminal.
+- [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
+- [Nekmo/gkeep](https://github.com/Nekmo/gkeep) - Google Keep Command Line Interface (CLI)
+- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [RMPR/atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
+- [jceb/dex](https://github.com/jceb/dex) - DesktopEntry Execution
+- [thp/urlwatch](https://github.com/thp/urlwatch) - urlwatch monitors webpages for you
+- [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
+- [firstlookmedia/dangerzone](https://github.com/firstlookmedia/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to a safe PDF
+- [schollz/pywebsitechanges](https://github.com/schollz/pywebsitechanges) - Change detection with a simple Python script to email you whenever a website changes.
+- [seebye/ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11
+- [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
+- [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
+- [chubin/rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
+- [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
+- [pixelb/ps_mem](https://github.com/pixelb/ps_mem) - A utility to accurately report the in core memory usage for a program
+- [cjnaz/rclonesync-V2](https://github.com/cjnaz/rclonesync-V2) - A Bidirectional Cloud Sync Utility using rclone
+- [bup/bup](https://github.com/bup/bup) - Very efficient backup system based on the git packfile format, providing fast incremental saves and global deduplication (among and within files, including virtual machine images). Current release is 0.31, and the development branch is master. Please post problems or patches to the mailing list for discussion (see the end of the README below).
+- [jarun/buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
+- [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
+- [andersju/zzzfoo](https://github.com/andersju/zzzfoo) - Full-text desktop search with Rofi+Recoll
+- [altdesktop/i3ipc-python](https://github.com/altdesktop/i3ipc-python) - 🐍 An improved Python library to control i3wm and sway.
+- [aeroxis/sultan](https://github.com/aeroxis/sultan) - Sultan: Command and Rule over your Shell
+- [phillipberndt/autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+- [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
+- [fdw/rofimoji](https://github.com/fdw/rofimoji) - An emoji and character picker for rofi 😁
+- [Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim/Vim8
+- [palantir/python-language-server](https://github.com/palantir/python-language-server) - An implementation of the Language Server Protocol for Python
+- [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most of the existing password manager.
+- [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
+- [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
+- [stewartmcgown/uds](https://github.com/stewartmcgown/uds) - Unlimited Drive Storage by splitting binary files into base64
+- [tremc/tremc](https://github.com/tremc/tremc) - Curses interface for transmission
+- [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
+- [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
+- [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
+- [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
+- [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
+- [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
+- [firecat53/networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Control NetworkManager via dmenu
+- [mopidy/mopidy](https://github.com/mopidy/mopidy) - Mopidy is an extensible music server written in Python
+- [MarkHedleyJones/dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
+- [JaikrishnaTS/i3-scratchpad-tools](https://github.com/JaikrishnaTS/i3-scratchpad-tools) - i3ipc programs to manipulate scratchpad containers
+- [mooz/xkeysnail](https://github.com/mooz/xkeysnail) - Yet another keyboard remapping tool for X environment
+- [MeanEYE/Sunflower](https://github.com/MeanEYE/Sunflower) - Small and highly customizable twin-panel file manager for Linux with support for plugins.
+- [mrichar1/clipster](https://github.com/mrichar1/clipster) - clipster - python clipboard manager
+- [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
+- [DoTheEvo/ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux file search, instant results as you type
+- [corrad1nho/qomui](https://github.com/corrad1nho/qomui) - Qomui (Qt OpenVPN Management UI)
+- [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Linux Application Launcher
+- [t-wissmann/rofi-bibbrowser](https://github.com/t-wissmann/rofi-bibbrowser) - A bibtex powered browser for your PDF document collection
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - A list of awesome applications, software, tools and other materials for Linux distros.
+- [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
+- [unix121/i3wm-themer](https://github.com/unix121/i3wm-themer) - 🎨 Theme collection manager for i3-wm
+- [alexanderjeurissen/ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
+- [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
+- [tobi-wan-kenobi/bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
 
 ## QML 
 
-- [haruna](https://github.com/g-fb/haruna) - Open source video player built with Qt/QML and libmpv.
+- [g-fb/haruna](https://github.com/g-fb/haruna) - Open source video player built with Qt/QML and libmpv.
 
 ## Reason 
 
-- [odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
+- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 
 ## Roff 
 
-- [sx](https://github.com/Earnestly/sx) - Start an xorg server
+- [Earnestly/sx](https://github.com/Earnestly/sx) - Start an xorg server
 
 ## Ruby 
 
-- [panrun](https://github.com/mb21/panrun) - Script that looks at the YAML metadata in a markdown file and runs pandoc for you.
-- [passed](https://github.com/repomaa/passed) - A simple script to modify password store entries with sed commands
+- [mb21/panrun](https://github.com/mb21/panrun) - Script that looks at the YAML metadata in a markdown file and runs pandoc for you.
+- [repomaa/passed](https://github.com/repomaa/passed) - A simple script to modify password store entries with sed commands
 
 ## Rust 
 
-- [frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
-- [spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
-- [tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
-- [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
-- [bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
-- [comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
-- [xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
-- [rkvm](https://github.com/htrefil/rkvm) - Virtual KVM switch for Linux machines
-- [amber](https://github.com/dalance/amber) - A code search / replace tool
-- [peep](https://github.com/ryochack/peep) - The CLI text viewer tool that works like less command on small pane within the terminal window.
-- [bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
-- [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-- [kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
-- [menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
-- [paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
-- [binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. :zap::crab:
-- [dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using the official link found on a topic's Wikipedia page
-- [emulsion](https://github.com/ArturKovacs/emulsion) - A fast and minimalistic image viewer
-- [SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
-- [gping](https://github.com/orf/gping) - Ping, but with a graph
-- [dog](https://github.com/ogham/dog) - Command-line DNS client
-- [pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
-- [wired-notify](https://github.com/Toqozz/wired-notify) - Lightweight notification daemon with highly customizable layout blocks, written in Rust.
-- [huniq](https://github.com/koraa/huniq) - Filter out duplicates on the command line. Replacement for `sort | uniq` optimized for speed (10x faster) when sorting is not needed.
-- [the-way](https://github.com/out-of-cheese-error/the-way) - A command line code snippets manager
-- [i3-auto-layout](https://github.com/chmln/i3-auto-layout) - Automatic, optimal tiling for i3wm
-- [gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust.
-- [csview](https://github.com/wfxr/csview) - 📠 A high performance csv viewer with cjk/emoji support.
-- [Auswahl](https://github.com/elkowar/Auswahl) - Build dmenu or rofi based menus using a simple menu description syntax with auswahl!
-- [vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
-- [alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
-- [alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
-- [simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
-- [notp](https://github.com/kondanta/notp) - One Time Password Generator tool that is meant to be used on CLI.
-- [heliocron](https://github.com/mfreeborn/heliocron) - A command line application written in Rust capable of delaying execution of other programs for time periods relative to sunrise and sunset.
-- [so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
-- [LuminS](https://github.com/wchang22/LuminS) - A fast and reliable alternative to rsync for synchronizing local files written in Rust
-- [teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
-- [sctd](https://github.com/amir/sctd) - set color temperature daemon
-- [shotgun](https://github.com/neXromancers/shotgun) - Minimal X screenshot utility
-- [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
-- [milcheck](https://github.com/doums/milcheck) - A small binary that displays the status of your pacman mirrorlist in your terminal
-- [dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A pixel perfect port of dmenu, rewritten in Rust with extensive plugin support
-- [handlr](https://github.com/chmln/handlr) - A better xdg-utils
-- [zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
-- [procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
-- [tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-- [gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [delta](https://github.com/dandavison/delta) - A viewer for git and diff output
-- [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
-- [sfz](https://github.com/weihanglo/sfz) - A simple static file serving command-line tool written in Rust.
-- [desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
-- [lscolors](https://github.com/sharkdp/lscolors) - A Rust library and tool to colorize paths using LS_COLORS
-- [dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
-- [ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
-- [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
-- [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
-- [exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
-- [pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
-- [dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-- [topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
-- [broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
-- [i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
-- [ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
-- [librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
-- [navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-- [bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
-- [espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
-- [spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-- [spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
-- [i3nator](https://github.com/pitkley/i3nator) - i3nator is Tmuxinator for the i3 window manager
-- [i3-vim-focus](https://github.com/jwilm/i3-vim-focus) - Vim plugin for seamless navigation between i3 and vim
-- [monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
-- [gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
-- [LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
-- [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-- [skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
-- [watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
-- [arch-audit](https://github.com/ilpianista/arch-audit) - A utility like pkg-audit for Arch Linux. Based on Arch Security Team data.
-- [gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
-- [Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command
-- [i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
+- [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
+- [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
+- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
+- [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
+- [m4b/bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
+- [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
+- [ducaale/xh](https://github.com/ducaale/xh) - Friendly and fast tool for sending HTTP requests
+- [htrefil/rkvm](https://github.com/htrefil/rkvm) - Virtual KVM switch for Linux machines
+- [dalance/amber](https://github.com/dalance/amber) - A code search / replace tool
+- [ryochack/peep](https://github.com/ryochack/peep) - The CLI text viewer tool that works like less command on small pane within the terminal window.
+- [andrewchambers/bupstash](https://github.com/andrewchambers/bupstash) - Easy and efficient encrypted backups.
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+- [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
+- [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
+- [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
+- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. :zap::crab:
+- [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using the official link found on a topic's Wikipedia page
+- [ArturKovacs/emulsion](https://github.com/ArturKovacs/emulsion) - A fast and minimalistic image viewer
+- [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
+- [ogham/dog](https://github.com/ogham/dog) - Command-line DNS client
+- [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
+- [Toqozz/wired-notify](https://github.com/Toqozz/wired-notify) - Lightweight notification daemon with highly customizable layout blocks, written in Rust.
+- [koraa/huniq](https://github.com/koraa/huniq) - Filter out duplicates on the command line. Replacement for `sort | uniq` optimized for speed (10x faster) when sorting is not needed.
+- [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way) - A command line code snippets manager
+- [chmln/i3-auto-layout](https://github.com/chmln/i3-auto-layout) - Automatic, optimal tiling for i3wm
+- [nickgerace/gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust.
+- [wfxr/csview](https://github.com/wfxr/csview) - 📠 A high performance csv viewer with cjk/emoji support.
+- [elkowar/Auswahl](https://github.com/elkowar/Auswahl) - Build dmenu or rofi based menus using a simple menu description syntax with auswahl!
+- [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
+- [kaegi/alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
+- [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
+- [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
+- [kondanta/notp](https://github.com/kondanta/notp) - One Time Password Generator tool that is meant to be used on CLI.
+- [mfreeborn/heliocron](https://github.com/mfreeborn/heliocron) - A command line application written in Rust capable of delaying execution of other programs for time periods relative to sunrise and sunset.
+- [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
+- [wchang22/LuminS](https://github.com/wchang22/LuminS) - A fast and reliable alternative to rsync for synchronizing local files written in Rust
+- [greymd/teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
+- [amir/sctd](https://github.com/amir/sctd) - set color temperature daemon
+- [neXromancers/shotgun](https://github.com/neXromancers/shotgun) - Minimal X screenshot utility
+- [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
+- [doums/milcheck](https://github.com/doums/milcheck) - A small binary that displays the status of your pacman mirrorlist in your terminal
+- [Shizcow/dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A pixel perfect port of dmenu, rewritten in Rust with extensive plugin support
+- [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
+- [bvaisvil/zenith](https://github.com/bvaisvil/zenith) - Zenith - sort of like top or htop but with zoom-able charts, CPU, GPU, network, and disk usage
+- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
+- [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
+- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [dandavison/delta](https://github.com/dandavison/delta) - A viewer for git and diff output
+- [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
+- [weihanglo/sfz](https://github.com/weihanglo/sfz) - A simple static file serving command-line tool written in Rust.
+- [SoptikHa2/desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
+- [sharkdp/lscolors](https://github.com/sharkdp/lscolors) - A Rust library and tool to colorize paths using LS_COLORS
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
+- [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
+- [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
+- [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+- [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
+- [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
+- [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
+- [Canop/broot](https://github.com/Canop/broot) - A new way to see and navigate directory trees : https://dystroy.org/broot
+- [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
+- [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
+- [librespot-org/librespot](https://github.com/librespot-org/librespot) - Open Source Spotify client library
+- [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line and application launchers
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Git repository summary on your terminal
+- [federico-terzi/espanso](https://github.com/federico-terzi/espanso) - Cross-platform Text Expander written in Rust
+- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
+- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
+- [pitkley/i3nator](https://github.com/pitkley/i3nator) - i3nator is Tmuxinator for the i3 window manager
+- [jwilm/i3-vim-focus](https://github.com/jwilm/i3-vim-focus) - Vim plugin for seamless navigation between i3 and vim
+- [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool for saving complete web pages as a single HTML file
+- [ImageOptim/gifski](https://github.com/ImageOptim/gifski) - GIF encoder based on libimagequant (pngquant). Squeezes maximum possible quality from the awful GIF format.
+- [autozimu/LanguageClient-neovim](https://github.com/autozimu/LanguageClient-neovim) - Language Server Protocol (LSP) support for vim and neovim.
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+- [watchexec/watchexec](https://github.com/watchexec/watchexec) - Executes commands in response to file modifications
+- [ilpianista/arch-audit](https://github.com/ilpianista/arch-audit) - A utility like pkg-audit for Arch Linux. Based on Arch Security Team data.
+- [harababurel/gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
+- [Miserlou/Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command
+- [altdesktop/i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 
 ## SCSS 
 
-- [ShellMagic](https://github.com/blue-hexagon/ShellMagic) - My shell notes :memo:
+- [blue-hexagon/ShellMagic](https://github.com/blue-hexagon/ShellMagic) - My shell notes :memo:
 
 ## Scheme 
 
-- [jaro](https://github.com/isamert/jaro) - a highly customizable xdg-open alternative
+- [isamert/jaro](https://github.com/isamert/jaro) - a highly customizable xdg-open alternative
 
 ## Shell 
 
-- [history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
-- [tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
-- [lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility library for Bash script development.
-- [jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
-- [shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Bash selenium webdriver.
-- [tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
-- [ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
-- [fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
-- [zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
-- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
-- [zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
-- [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-- [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
-- [pacmatic](https://github.com/keenerd/pacmatic) - A little wrapper script to keep Arch Linux from shooting you in the foot.
-- [chronic](https://github.com/docwhat/chronic) - A tool that hides output unless the command fails; now in Go!
-- [rotcheck](https://github.com/jamielinux/rotcheck) - Recursively generate, update and verify checksums for your files
-- [bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
-- [fontpreview-ueberzug](https://github.com/OliverLew/fontpreview-ueberzug) - A POSIX shell script to preview fonts in fzf
-- [arch-pkgbuild-builder](https://github.com/2m/arch-pkgbuild-builder) - Arch Linux PKGBUILD GitHub builder action
-- [tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
-- [getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash, zsh and all POSIX shells)
-- [kill-process](https://github.com/padosoft/kill-process) - Bash script to kill high CPU process, long running process and too much consuming memory process.
-- [sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. Can run commands, copy files, tunnel ports and connect.
-- [import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
-- [create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
-- [torque](https://github.com/dylanaraps/torque) - 🚂 A TUI client for transmission written in pure bash.
-- [send_email.sh](https://github.com/kgizdov/send_email.sh) - Script to send an email in bare-bone environments with minimal requirements
-- [rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
-- [modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
-- [yawhich-key](https://github.com/adelin-b/yawhich-key) - An universal which-key command to provide spacemacs-like shortcut tooltip on desktop and any windows
-- [zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
-- [git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
-- [anything-sync-daemon](https://github.com/graysky2/anything-sync-daemon) - Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system.
-- [profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
-- [pug](https://github.com/Ventto/pug) - Automatically Gist-synchronises Pacman & AUR installed package lists.
-- [zinit-configs](https://github.com/zdharma/zinit-configs) - Real-world configuration files (basically zshrc-s) holding Zinit (former Zplugin) invocations
-- [jumpapp](https://github.com/mkropat/jumpapp) - A run-or-raise application switcher for any X11 desktop
-- [linux-timemachine](https://github.com/cytopia/linux-timemachine) - Rsync-based OSX-like time machine for Linux, MacOS and BSD for atomic and resumable local and remote backups
-- [rofi-search](https://github.com/fogine/rofi-search) - Interactive Google / DuckDuckGo search via rofi
-- [aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
-- [RofiFtw](https://github.com/BelkaDev/RofiFtw) - Rofi for the web: Real-time search suggestions of many popular web engines APIs.
-- [fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features and multiple shipped themes.
-- [tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
-- [bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
-- [Zsh-100-Commits-Club](https://github.com/zdharma/Zsh-100-Commits-Club) - Promote writing Zsh software not simple scripts
-- [notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
-- [learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
-- [pash](https://github.com/dylanaraps/pash) - 🔒 A simple password manager using GPG written in POSIX sh.
-- [aurutils](https://github.com/AladW/aurutils) - Helper tools for the AUR.
-- [osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
-- [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
-- [evil-registers](https://github.com/zsh-vi-more/evil-registers) - Access external clipboards in vi-mode keymaps
-- [minimal](https://github.com/subnixr/minimal) - A minimal zsh theme
-- [critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
-- [pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
-- [git-scripts](https://github.com/jwiegley/git-scripts) - A bunch of random scripts I've either written, downloaded or clipped from #git.
-- [tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
-- [tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
-- [mpvc](https://github.com/lwilletts/mpvc) - An mpc-like control interface for mpv.
-- [zsh-abbrev-alias](https://github.com/momo-lab/zsh-abbrev-alias) - This zsh plugin provides functionality similar to Vim's abbreviation expansion.
-- [zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
-- [fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
-- [fontpreview](https://github.com/sdushantha/fontpreview) - Highly customizable and minimal font previewer written in bash
-- [polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
-- [zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
-- [archtorify](https://github.com/brainfucksec/archtorify) - Transparent proxy through Tor for Arch Linux OS
-- [git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
-- [git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
-- [bitwarden-rofi](https://github.com/mattydebie/bitwarden-rofi) - Wrapper for Bitwarden https://github.com/bitwarden/cli and Rofi
-- [vifmimg](https://github.com/cirala/vifmimg) - Image previews using Überzug for Vifm (vi file manager)
-- [basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
-- [imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
-- [LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
-- [bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
-- [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
-- [bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
-- [bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
-- [bash-lib](https://github.com/cyberark/bash-lib) - Library for bash utility methods and tools
-- [pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
-- [history-search-multi-word](https://github.com/zdharma/history-search-multi-word) - Multi-word, syntax highlighted history searching for Zsh
-- [zconvey](https://github.com/zdharma/zconvey) - Send notifications and commands to all or selected Zshell instances
-- [fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
-- [nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
-- [fzf-live-repl](https://github.com/pawelduda/fzf-live-repl) - Turn your fzf into a live REPL
-- [zsh-system-clipboard](https://github.com/kutsan/zsh-system-clipboard) - System clipboard key bindings for Zsh Line Editor with vi mode. It is similar to what `set clipboard=unnamed` does for vim.
-- [deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
-- [lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
-- [progressbar](https://github.com/roddhjav/progressbar) - A pacman like progress bar in bash
-- [pass-update](https://github.com/roddhjav/pass-update) - A pass extension that provides an easy flow for updating passwords.
-- [Tomb](https://github.com/dyne/Tomb) - the Crypto Undertaker
-- [i3blocks-battery-plus](https://github.com/hastinbe/i3blocks-battery-plus) - An enhanced battery status indicator for i3blocks
-- [awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
-- [dotfiles](https://github.com/BlackIkeEagle/dotfiles) - my dotfiles (backup)
-- [notify-send.sh](https://github.com/vlevit/notify-send.sh) - drop-in replacement for notify-send with more features
-- [shmenu](https://github.com/Crestwave/shmenu) - A dynamic menu for the terminal written in pure Bash
-- [mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
-- [dotfiles.sh](https://github.com/eli-schwartz/dotfiles.sh) - Dotfiles made easy
-- [i3-battery-popup](https://github.com/rjekker/i3-battery-popup) - A script that shows warning messages to the user when the battery is almost empty. For i3wm users.
-- [rofi-wifi-menu](https://github.com/zbaylin/rofi-wifi-menu) - a bash script using nmcli and rofi to make a wifi menu in i3/openbox/bspwm
-- [bin](https://github.com/dylanaraps/bin) - 🗑️ scripts
-- [teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
-- [i3-config](https://github.com/TxGVNN/i3-config) - i3wm configuration files
-- [Scripts](https://github.com/Blacksuan19/Scripts) - scripts to make life easier
-- [xpub](https://github.com/Ventto/xpub) - POSIX Shell script to get user's display environment variables of any TTY from anywhere.
-- [xinput_tui](https://github.com/Chrysostomus/xinput_tui) - Interactive command line interface to xinput for managing touchpad settings.
-- [i3-wm-config](https://github.com/sainathadapa/i3-wm-config) - I3 tiling window manager configuration
-- [rofi-scripts](https://github.com/Chrysostomus/rofi-scripts) - Scripts to use with rofi
-- [rofi-pass](https://github.com/carnager/rofi-pass) - rofi frontend for pass
-- [roficlip](https://github.com/gilbertw1/roficlip) - A simple shell script that surfaces clipboard history from clipster in Rofi
-- [rofi-scripts](https://github.com/davatorium/rofi-scripts) - Small scripts for use with rofi
-- [i3-wm-gruvbox-theme](https://github.com/grandfoobah/i3-wm-gruvbox-theme) - An i3-wm gruvbox theme implementation
-- [i3-volume](https://github.com/hastinbe/i3-volume) - Volume control and volume notifications
-- [i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
-- [texpander](https://github.com/leehblue/texpander) - Text expander for linux
-- [equalizer](https://github.com/pulseaudio-equalizer-ladspa/equalizer) - Pulseaudio LADSPA Equalizer
-- [LARBS](https://github.com/LukeSmithxyz/LARBS) - Luke's Auto-Rice Bootstrapping Scripts: Installation Scripts for My Arch Linux Meta-Distribution
-- [clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
-- [i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
-- [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
-- [voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
-- [i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
+- [wulfgarpro/history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
+- [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
+- [adoyle-h/lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility library for Bash script development.
+- [reegnz/jq-zsh-plugin](https://github.com/reegnz/jq-zsh-plugin) - jq zsh plugin
+- [Rasukarusan/shellnium](https://github.com/Rasukarusan/shellnium) - :dizzy: Bash selenium webdriver.
+- [sdushantha/tmpsms](https://github.com/sdushantha/tmpsms) - A temporary SMS utility right from your terminal written in POSIX sh
+- [cytopia/ffscreencast](https://github.com/cytopia/ffscreencast) - ffscreencast - ffmpeg screencast/desktop-recording with video overlay and multi monitor support
+- [dylanaraps/fff](https://github.com/dylanaraps/fff) - 📁 A simple file manager written in bash.
+- [zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions) - Additional completion definitions for Zsh.
+- [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+- [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
+- [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+- [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
+- [keenerd/pacmatic](https://github.com/keenerd/pacmatic) - A little wrapper script to keep Arch Linux from shooting you in the foot.
+- [docwhat/chronic](https://github.com/docwhat/chronic) - A tool that hides output unless the command fails; now in Go!
+- [jamielinux/rotcheck](https://github.com/jamielinux/rotcheck) - Recursively generate, update and verify checksums for your files
+- [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
+- [OliverLew/fontpreview-ueberzug](https://github.com/OliverLew/fontpreview-ueberzug) - A POSIX shell script to preview fonts in fzf
+- [2m/arch-pkgbuild-builder](https://github.com/2m/arch-pkgbuild-builder) - Arch Linux PKGBUILD GitHub builder action
+- [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
+- [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option parser for shell scripts (sh, bash, zsh and all POSIX shells)
+- [padosoft/kill-process](https://github.com/padosoft/kill-process) - Bash script to kill high CPU process, long running process and too much consuming memory process.
+- [vaniacer/sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. Can run commands, copy files, tunnel ports and connect.
+- [importpw/import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
+- [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
+- [dylanaraps/torque](https://github.com/dylanaraps/torque) - 🚂 A TUI client for transmission written in pure bash.
+- [kgizdov/send_email.sh](https://github.com/kgizdov/send_email.sh) - Script to send an email in bare-bone environments with minimal requirements
+- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
+- [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
+- [adelin-b/yawhich-key](https://github.com/adelin-b/yawhich-key) - An universal which-key command to provide spacemacs-like shortcut tooltip on desktop and any windows
+- [pabloariasal/zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
+- [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
+- [graysky2/anything-sync-daemon](https://github.com/graysky2/anything-sync-daemon) - Symlinks and syncs user specified dirs to RAM thus reducing HDD/SDD calls and speeding-up the system.
+- [graysky2/profile-sync-daemon](https://github.com/graysky2/profile-sync-daemon) - Symlinks and syncs browser profile dirs to RAM thus reducing HDD/SDD calls and speeding-up browsers.
+- [Ventto/pug](https://github.com/Ventto/pug) - Automatically Gist-synchronises Pacman & AUR installed package lists.
+- [zdharma/zinit-configs](https://github.com/zdharma/zinit-configs) - Real-world configuration files (basically zshrc-s) holding Zinit (former Zplugin) invocations
+- [mkropat/jumpapp](https://github.com/mkropat/jumpapp) - A run-or-raise application switcher for any X11 desktop
+- [cytopia/linux-timemachine](https://github.com/cytopia/linux-timemachine) - Rsync-based OSX-like time machine for Linux, MacOS and BSD for atomic and resumable local and remote backups
+- [fogine/rofi-search](https://github.com/fogine/rofi-search) - Interactive Google / DuckDuckGo search via rofi
+- [CyberShadow/aconfmgr](https://github.com/CyberShadow/aconfmgr) - A configuration manager for Arch Linux
+- [BelkaDev/RofiFtw](https://github.com/BelkaDev/RofiFtw) - Rofi for the web: Real-time search suggestions of many popular web engines APIs.
+- [zdharma/fast-syntax-highlighting](https://github.com/zdharma/fast-syntax-highlighting) - (Short name F-Sy-H). Syntax-highlighting for Zshell – fine granularity, number of features and multiple shipped themes.
+- [noctuid/tdrop](https://github.com/noctuid/tdrop) - A Glorified WM-Independent Dropdown Creator
+- [aristocratos/bashtop](https://github.com/aristocratos/bashtop) - Linux/OSX/FreeBSD resource monitor
+- [zdharma/Zsh-100-Commits-Club](https://github.com/zdharma/Zsh-100-Commits-Club) - Promote writing Zsh software not simple scripts
+- [pimterry/notes](https://github.com/pimterry/notes) - :pencil: Simple delightful note taking, with more unix and less lock-in.
+- [learnbyexample/learn_gnuawk](https://github.com/learnbyexample/learn_gnuawk) - Example based guide to mastering GNU awk
+- [dylanaraps/pash](https://github.com/dylanaraps/pash) - 🔒 A simple password manager using GPG written in POSIX sh.
+- [AladW/aurutils](https://github.com/AladW/aurutils) - Helper tools for the AUR.
+- [deajan/osync](https://github.com/deajan/osync) - A robust two way (bidirectional) file sync script based on rsync with fault tolerance, POSIX ACL support, time control and near realtime sync
+- [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
+- [zsh-vi-more/evil-registers](https://github.com/zsh-vi-more/evil-registers) - Access external clipboards in vi-mode keymaps
+- [subnixr/minimal](https://github.com/subnixr/minimal) - A minimal zsh theme
+- [Checksum/critic.sh](https://github.com/Checksum/critic.sh) - Dead simple testing framework for Bash with coverage reporting
+- [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
+- [jwiegley/git-scripts](https://github.com/jwiegley/git-scripts) - A bunch of random scripts I've either written, downloaded or clipped from #git.
+- [tmux-plugins/tmux-continuum](https://github.com/tmux-plugins/tmux-continuum) - Continuous saving of tmux environment. Automatic restore when tmux is started. Automatic tmux start when computer is turned on.
+- [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
+- [lwilletts/mpvc](https://github.com/lwilletts/mpvc) - An mpc-like control interface for mpv.
+- [momo-lab/zsh-abbrev-alias](https://github.com/momo-lab/zsh-abbrev-alias) - This zsh plugin provides functionality similar to Vim's abbreviation expansion.
+- [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+- [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
+- [sdushantha/fontpreview](https://github.com/sdushantha/fontpreview) - Highly customizable and minimal font previewer written in bash
+- [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
+- [larkery/zsh-histdb](https://github.com/larkery/zsh-histdb) - A slightly better history for zsh
+- [brainfucksec/archtorify](https://github.com/brainfucksec/archtorify) - Transparent proxy through Tor for Arch Linux OS
+- [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
+- [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
+- [mattydebie/bitwarden-rofi](https://github.com/mattydebie/bitwarden-rofi) - Wrapper for Bitwarden https://github.com/bitwarden/cli and Rofi
+- [cirala/vifmimg](https://github.com/cirala/vifmimg) - Image previews using Überzug for Vifm (vi file manager)
+- [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
+- [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
+- [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
+- [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
+- [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
+- [bpkg/bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
+- [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
+- [cyberark/bash-lib](https://github.com/cyberark/bash-lib) - Library for bash utility methods and tools
+- [tadfisher/pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
+- [zdharma/history-search-multi-word](https://github.com/zdharma/history-search-multi-word) - Multi-word, syntax highlighted history searching for Zsh
+- [zdharma/zconvey](https://github.com/zdharma/zconvey) - Send notifications and commands to all or selected Zshell instances
+- [zsh-users/fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
+- [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
+- [pawelduda/fzf-live-repl](https://github.com/pawelduda/fzf-live-repl) - Turn your fzf into a live REPL
+- [kutsan/zsh-system-clipboard](https://github.com/kutsan/zsh-system-clipboard) - System clipboard key bindings for Zsh Line Editor with vi mode. It is similar to what `set clipboard=unnamed` does for vim.
+- [deoplete-plugins/deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
+- [hackerb9/lsix](https://github.com/hackerb9/lsix) - Like "ls", but for images. Shows thumbnails in terminal using sixel graphics.
+- [roddhjav/progressbar](https://github.com/roddhjav/progressbar) - A pacman like progress bar in bash
+- [roddhjav/pass-update](https://github.com/roddhjav/pass-update) - A pass extension that provides an easy flow for updating passwords.
+- [dyne/Tomb](https://github.com/dyne/Tomb) - the Crypto Undertaker
+- [hastinbe/i3blocks-battery-plus](https://github.com/hastinbe/i3blocks-battery-plus) - An enhanced battery status indicator for i3blocks
+- [aitemr/awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
+- [BlackIkeEagle/dotfiles](https://github.com/BlackIkeEagle/dotfiles) - my dotfiles (backup)
+- [vlevit/notify-send.sh](https://github.com/vlevit/notify-send.sh) - drop-in replacement for notify-send with more features
+- [Crestwave/shmenu](https://github.com/Crestwave/shmenu) - A dynamic menu for the terminal written in pure Bash
+- [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
+- [eli-schwartz/dotfiles.sh](https://github.com/eli-schwartz/dotfiles.sh) - Dotfiles made easy
+- [rjekker/i3-battery-popup](https://github.com/rjekker/i3-battery-popup) - A script that shows warning messages to the user when the battery is almost empty. For i3wm users.
+- [zbaylin/rofi-wifi-menu](https://github.com/zbaylin/rofi-wifi-menu) - a bash script using nmcli and rofi to make a wifi menu in i3/openbox/bspwm
+- [dylanaraps/bin](https://github.com/dylanaraps/bin) - 🗑️ scripts
+- [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
+- [TxGVNN/i3-config](https://github.com/TxGVNN/i3-config) - i3wm configuration files
+- [Blacksuan19/Scripts](https://github.com/Blacksuan19/Scripts) - scripts to make life easier
+- [Ventto/xpub](https://github.com/Ventto/xpub) - POSIX Shell script to get user's display environment variables of any TTY from anywhere.
+- [Chrysostomus/xinput_tui](https://github.com/Chrysostomus/xinput_tui) - Interactive command line interface to xinput for managing touchpad settings.
+- [sainathadapa/i3-wm-config](https://github.com/sainathadapa/i3-wm-config) - I3 tiling window manager configuration
+- [Chrysostomus/rofi-scripts](https://github.com/Chrysostomus/rofi-scripts) - Scripts to use with rofi
+- [carnager/rofi-pass](https://github.com/carnager/rofi-pass) - rofi frontend for pass
+- [gilbertw1/roficlip](https://github.com/gilbertw1/roficlip) - A simple shell script that surfaces clipboard history from clipster in Rofi
+- [davatorium/rofi-scripts](https://github.com/davatorium/rofi-scripts) - Small scripts for use with rofi
+- [grandfoobah/i3-wm-gruvbox-theme](https://github.com/grandfoobah/i3-wm-gruvbox-theme) - An i3-wm gruvbox theme implementation
+- [hastinbe/i3-volume](https://github.com/hastinbe/i3-volume) - Volume control and volume notifications
+- [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
+- [leehblue/texpander](https://github.com/leehblue/texpander) - Text expander for linux
+- [pulseaudio-equalizer-ladspa/equalizer](https://github.com/pulseaudio-equalizer-ladspa/equalizer) - Pulseaudio LADSPA Equalizer
+- [LukeSmithxyz/LARBS](https://github.com/LukeSmithxyz/LARBS) - Luke's Auto-Rice Bootstrapping Scripts: Installation Scripts for My Arch Linux Meta-Distribution
+- [cdown/clipmenu](https://github.com/cdown/clipmenu) - Clipboard management using dmenu
+- [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
+- [pavanjadhaw/betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
+- [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
+- [vivien/i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 
 ## TeX 
 
-- [vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
+- [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 
 ## TypeScript 
 
-- [github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
-- [deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
-- [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
-- [honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
-- [vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
-- [firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
-- [cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
-- [bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
-- [nodejs-speech](https://github.com/googleapis/nodejs-speech) - Node.js client for Google Cloud Speech: Speech to text conversion powered by machine learning.
-- [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
-- [vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
-- [nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
+- [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
+- [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer
+- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
+- [gdh1995/vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
+- [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in your browser.
+- [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
+- [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
+- [googleapis/nodejs-speech](https://github.com/googleapis/nodejs-speech) - Node.js client for Google Cloud Speech: Speech to text conversion powered by machine learning.
+- [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
+- [ueokande/vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
+- [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
 
 ## Vala 
 
-- [peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
-- [timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
+- [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
+- [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 
 ## Vim Snippet 
 
-- [vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
-- [neosnippet-snippets](https://github.com/Shougo/neosnippet-snippets) - The standard snippets repository for neosnippet
+- [honza/vim-snippets](https://github.com/honza/vim-snippets) - vim-snipmate default snippets (Previously snipmate-snippets)
+- [Shougo/neosnippet-snippets](https://github.com/Shougo/neosnippet-snippets) - The standard snippets repository for neosnippet
 
 ## Vim script 
 
-- [vim-visual-increment](https://github.com/triglav/vim-visual-increment) - visual-increment.vim - use CTRL+A/X to create increasing sequence of numbers or letters via visual mode
-- [edita.vim](https://github.com/lambdalisue/edita.vim) - 🖊 A pseudo EDITOR to stay in Vim/Neovim
-- [vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) - Vim wrapper for ShellCheck, a static analysis tool for shell scripts.
-- [vim-outlaw](https://github.com/lifepillar/vim-outlaw) - The wanted outliner!
-- [vim-qml](https://github.com/peterhoeg/vim-qml) - QML syntax highlighting for VIM
-- [vim-sonictemplate](https://github.com/mattn/vim-sonictemplate) - Easy and high speed coding method
-- [vim-cutlass](https://github.com/svermeulen/vim-cutlass) - Plugin that adds a 'cut' operation separate from 'delete'
-- [vim-yoink](https://github.com/svermeulen/vim-yoink) - Vim plugin that maintains a yank history to cycle between when pasting
-- [committia.vim](https://github.com/rhysd/committia.vim) - A Vim plugin for more pleasant editing on commit messages
-- [vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc) - A vim 7.4+ plugin to generate table of contents for Markdown files.
-- [vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
-- [vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
-- [vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
-- [vim-lexical](https://github.com/reedes/vim-lexical) - Build on Vim’s spell/thes/dict completion
-- [vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing
-- [emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
-- [vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
-- [git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
-- [lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
-- [vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
-- [ferret](https://github.com/wincent/ferret) - 🐀 Enhanced multi-file search for Vim
-- [vim-markbar](https://github.com/Yilin-Yang/vim-markbar) - Display all accessible marks and their surrounding lines in a collapsible sidebar.
-- [codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
-- [limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
-- [diffchar.vim](https://github.com/rickhowe/diffchar.vim) - Highlight the exact differences, based on characters and words
-- [float-preview.nvim](https://github.com/ncm2/float-preview.nvim) - Less annoying completion preview window based on neovim's floating window
-- [vim-wintabs](https://github.com/zefei/vim-wintabs) - Modern buffer manager for Vim
-- [vim-buftabline](https://github.com/ap/vim-buftabline) - Forget Vim tabs – now you can have buffer tabs
-- [vim-diff-enhanced](https://github.com/chrisbra/vim-diff-enhanced) - Better Diff options for Vim
-- [vim-sandwich](https://github.com/machakann/vim-sandwich) - The set of operator and textobject plugins to search/select/edit sandwiched textobjects.
-- [targets.vim](https://github.com/wellle/targets.vim) - Vim plugin that provides additional text objects
-- [vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
-- [vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
-- [indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
-- [onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
-- [srcery-vim](https://github.com/srcery-colors/srcery-vim) - Dark colorscheme for gvim and vim
-- [Recover.vim](https://github.com/chrisbra/Recover.vim) - A Plugin to show a diff, whenever recovering a buffer
-- [vifm.vim](https://github.com/vifm/vifm.vim) - Vim plugin that allows use of vifm as a file picker
-- [ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) - An ack.vim alternative mimics Ctrl-Shift-F on Sublime Text 2
-- [vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
-- [floatLf-nvim](https://github.com/haorenW1025/floatLf-nvim) - A plugin that makes you use lf(the file manager) easily in floating window in neovim
-- [quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
-- [vim-peekaboo](https://github.com/junegunn/vim-peekaboo) - :eyes: " / @ / CTRL-R
-- [asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim) - async completion in pure vim script for vim8 and neovim
-- [vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
-- [any-jump.vim](https://github.com/pechorin/any-jump.vim) - Jump to any definition and references 👁 IDE madness without overhead 🚀
-- [vim-python-ide](https://github.com/jarolrod/vim-python-ide) - Python development config
-- [vim-lastplace](https://github.com/farmergreg/vim-lastplace) - Intelligently reopen files at your last edit position in Vim.
-- [vim-dirdiff](https://github.com/will133/vim-dirdiff) - Vim plugin to diff two directories
-- [vim-hexokinase](https://github.com/RRethy/vim-hexokinase) - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)
-- [calendar.vim](https://github.com/itchyny/calendar.vim) - A calendar application for Vim
-- [vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
-- [vim-nerdtree-syntax-highlight](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight) - Extra syntax and highlight for nerdtree files
-- [vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
-- [vim-which-key](https://github.com/liuchengxu/vim-which-key) - :tulip: Vim plugin that shows keybindings in popup
-- [vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
-- [gv.vim](https://github.com/junegunn/gv.vim) - A git commit browser in Vim
-- [vim-twiggy](https://github.com/sodapopcan/vim-twiggy) - Git branch management for Vim
-- [vim-coffee-script](https://github.com/kchmck/vim-coffee-script) - CoffeeScript support for vim
-- [vim-fetch](https://github.com/wsdjeg/vim-fetch) - Make Vim handle line and column numbers in file names with a minimum of fuss
-- [vim-translate](https://github.com/VincentCordobes/vim-translate) - A tiny translate-shell wrapper for Vim
-- [translate-shell.vim](https://github.com/echuraev/translate-shell.vim) - Translate-shell.vim is a plugin for translating text without leaving Vim.
-- [vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
-- [i3config.vim](https://github.com/mboughaba/i3config.vim) - Vim syntax highlighting for i3 config :point_left:
-- [vim-conflicted](https://github.com/christoomey/vim-conflicted) - Easy git merge conflict resolution in Vim
-- [tcomment_vim](https://github.com/tomtom/tcomment_vim) - An extensible & universal comment vim-plugin that also handles embedded filetypes
-- [vim-swap](https://github.com/machakann/vim-swap) - Reorder delimited items.
-- [vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
-- [vim-grepper](https://github.com/mhinz/vim-grepper) - :space_invader: Helps you win at grep.
-- [vim-translator](https://github.com/voldikss/vim-translator) - :closed_book: Translating plugin for Vim/Neovim
-- [translate.vim](https://github.com/skanehira/translate.vim) - translate language plugin
-- [neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [vim](https://github.com/vim/vim) - The official Vim repository
-- [csv.vim](https://github.com/chrisbra/csv.vim) - A Filetype plugin for csv files
-- [fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
-- [vim-move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down
-- [neosnippet.vim](https://github.com/Shougo/neosnippet.vim) - neo-snippet plugin
-- [vim-slash](https://github.com/junegunn/vim-slash) - Enhancing in-buffer search experience
-- [goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
-- [ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
-- [editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
-- [vim-gist](https://github.com/mattn/vim-gist) - Vim plugin for Gist
-- [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
-- [vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
-- [vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen replacement
-- [vimagit](https://github.com/jreybert/vimagit) - Ease your git workflow within Vim
-- [nginx.vim](https://github.com/chr4/nginx.vim) - Improved nginx vim plugin (incl. syntax highlighting)
-- [vim-css3-syntax](https://github.com/hail2u/vim-css3-syntax) - CSS3 syntax (and syntax defined in some foreign specifications) support for Vim's built-in syntax/css.vim
-- [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
-- [vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
-- [vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files.
-- [tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
-- [vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
-- [vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
-- [tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
-- [notational-fzf-vim](https://github.com/alok/notational-fzf-vim) - Notational velocity for vim.
-- [vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings
-- [auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
-- [undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
-- [vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
-- [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
-- [nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
-- [vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
-- [vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
-- [vim-surround](https://github.com/tpope/vim-surround) - surround.vim: quoting/parenthesizing made simple
-- [syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
-- [nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
-- [vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
-- [vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
-- [vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
-- [neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
-- [dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro) - Dotfiles for Manjaro
-- [suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
-- [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes) - A collection of themes for vim-airline
-- [gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
-- [vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
-- [vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
+- [triglav/vim-visual-increment](https://github.com/triglav/vim-visual-increment) - visual-increment.vim - use CTRL+A/X to create increasing sequence of numbers or letters via visual mode
+- [lambdalisue/edita.vim](https://github.com/lambdalisue/edita.vim) - 🖊 A pseudo EDITOR to stay in Vim/Neovim
+- [itspriddle/vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) - Vim wrapper for ShellCheck, a static analysis tool for shell scripts.
+- [lifepillar/vim-outlaw](https://github.com/lifepillar/vim-outlaw) - The wanted outliner!
+- [peterhoeg/vim-qml](https://github.com/peterhoeg/vim-qml) - QML syntax highlighting for VIM
+- [mattn/vim-sonictemplate](https://github.com/mattn/vim-sonictemplate) - Easy and high speed coding method
+- [svermeulen/vim-cutlass](https://github.com/svermeulen/vim-cutlass) - Plugin that adds a 'cut' operation separate from 'delete'
+- [svermeulen/vim-yoink](https://github.com/svermeulen/vim-yoink) - Vim plugin that maintains a yank history to cycle between when pasting
+- [rhysd/committia.vim](https://github.com/rhysd/committia.vim) - A Vim plugin for more pleasant editing on commit messages
+- [mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc) - A vim 7.4+ plugin to generate table of contents for Markdown files.
+- [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
+- [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
+- [tpope/vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
+- [reedes/vim-lexical](https://github.com/reedes/vim-lexical) - Build on Vim’s spell/thes/dict completion
+- [reedes/vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing
+- [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
+- [cespare/vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
+- [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
+- [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
+- [airblade/vim-rooter](https://github.com/airblade/vim-rooter) - Changes Vim working directory to project root.
+- [wincent/ferret](https://github.com/wincent/ferret) - 🐀 Enhanced multi-file search for Vim
+- [Yilin-Yang/vim-markbar](https://github.com/Yilin-Yang/vim-markbar) - Display all accessible marks and their surrounding lines in a collapsible sidebar.
+- [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
+- [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
+- [rickhowe/diffchar.vim](https://github.com/rickhowe/diffchar.vim) - Highlight the exact differences, based on characters and words
+- [ncm2/float-preview.nvim](https://github.com/ncm2/float-preview.nvim) - Less annoying completion preview window based on neovim's floating window
+- [zefei/vim-wintabs](https://github.com/zefei/vim-wintabs) - Modern buffer manager for Vim
+- [ap/vim-buftabline](https://github.com/ap/vim-buftabline) - Forget Vim tabs – now you can have buffer tabs
+- [chrisbra/vim-diff-enhanced](https://github.com/chrisbra/vim-diff-enhanced) - Better Diff options for Vim
+- [machakann/vim-sandwich](https://github.com/machakann/vim-sandwich) - The set of operator and textobject plugins to search/select/edit sandwiched textobjects.
+- [wellle/targets.vim](https://github.com/wellle/targets.vim) - Vim plugin that provides additional text objects
+- [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
+- [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :star2: Terminal manager for (neo)vim
+- [Yggdroot/indentLine](https://github.com/Yggdroot/indentLine) - A vim plugin to display the indention levels with thin vertical lines
+- [joshdick/onedark.vim](https://github.com/joshdick/onedark.vim) - A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.
+- [srcery-colors/srcery-vim](https://github.com/srcery-colors/srcery-vim) - Dark colorscheme for gvim and vim
+- [chrisbra/Recover.vim](https://github.com/chrisbra/Recover.vim) - A Plugin to show a diff, whenever recovering a buffer
+- [vifm/vifm.vim](https://github.com/vifm/vifm.vim) - Vim plugin that allows use of vifm as a file picker
+- [dyng/ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) - An ack.vim alternative mimics Ctrl-Shift-F on Sublime Text 2
+- [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
+- [haorenW1025/floatLf-nvim](https://github.com/haorenW1025/floatLf-nvim) - A plugin that makes you use lf(the file manager) easily in floating window in neovim
+- [unblevable/quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
+- [junegunn/vim-peekaboo](https://github.com/junegunn/vim-peekaboo) - :eyes: " / @ / CTRL-R
+- [prabirshrestha/asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim) - async completion in pure vim script for vim8 and neovim
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
+- [pechorin/any-jump.vim](https://github.com/pechorin/any-jump.vim) - Jump to any definition and references 👁 IDE madness without overhead 🚀
+- [jarolrod/vim-python-ide](https://github.com/jarolrod/vim-python-ide) - Python development config
+- [farmergreg/vim-lastplace](https://github.com/farmergreg/vim-lastplace) - Intelligently reopen files at your last edit position in Vim.
+- [will133/vim-dirdiff](https://github.com/will133/vim-dirdiff) - Vim plugin to diff two directories
+- [RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase) - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)
+- [itchyny/calendar.vim](https://github.com/itchyny/calendar.vim) - A calendar application for Vim
+- [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
+- [tiagofumo/vim-nerdtree-syntax-highlight](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight) - Extra syntax and highlight for nerdtree files
+- [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
+- [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) - :tulip: Vim plugin that shows keybindings in popup
+- [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
+- [junegunn/gv.vim](https://github.com/junegunn/gv.vim) - A git commit browser in Vim
+- [sodapopcan/vim-twiggy](https://github.com/sodapopcan/vim-twiggy) - Git branch management for Vim
+- [kchmck/vim-coffee-script](https://github.com/kchmck/vim-coffee-script) - CoffeeScript support for vim
+- [wsdjeg/vim-fetch](https://github.com/wsdjeg/vim-fetch) - Make Vim handle line and column numbers in file names with a minimum of fuss
+- [VincentCordobes/vim-translate](https://github.com/VincentCordobes/vim-translate) - A tiny translate-shell wrapper for Vim
+- [echuraev/translate-shell.vim](https://github.com/echuraev/translate-shell.vim) - Translate-shell.vim is a plugin for translating text without leaving Vim.
+- [chaoren/vim-wordmotion](https://github.com/chaoren/vim-wordmotion) - More useful word motions for Vim
+- [mboughaba/i3config.vim](https://github.com/mboughaba/i3config.vim) - Vim syntax highlighting for i3 config :point_left:
+- [christoomey/vim-conflicted](https://github.com/christoomey/vim-conflicted) - Easy git merge conflict resolution in Vim
+- [tomtom/tcomment_vim](https://github.com/tomtom/tcomment_vim) - An extensible & universal comment vim-plugin that also handles embedded filetypes
+- [machakann/vim-swap](https://github.com/machakann/vim-swap) - Reorder delimited items.
+- [mg979/vim-visual-multi](https://github.com/mg979/vim-visual-multi) - Multiple cursors plugin for vim/neovim
+- [mhinz/vim-grepper](https://github.com/mhinz/vim-grepper) - :space_invader: Helps you win at grep.
+- [voldikss/vim-translator](https://github.com/voldikss/vim-translator) - :closed_book: Translating plugin for Vim/Neovim
+- [skanehira/translate.vim](https://github.com/skanehira/translate.vim) - translate language plugin
+- [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+- [vim/vim](https://github.com/vim/vim) - The official Vim repository
+- [chrisbra/csv.vim](https://github.com/chrisbra/csv.vim) - A Filetype plugin for csv files
+- [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
+- [matze/vim-move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down
+- [Shougo/neosnippet.vim](https://github.com/Shougo/neosnippet.vim) - neo-snippet plugin
+- [junegunn/vim-slash](https://github.com/junegunn/vim-slash) - Enhancing in-buffer search experience
+- [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+- [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
+- [mattn/vim-gist](https://github.com/mattn/vim-gist) - Vim plugin for Gist
+- [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
+- [tpope/vim-repeat](https://github.com/tpope/vim-repeat) - repeat.vim: enable repeating supported plugin maps with "."
+- [andymass/vim-matchup](https://github.com/andymass/vim-matchup) - vim match-up: even better % :facepunch: navigate and highlight matching words :facepunch: modern matchit and matchparen replacement
+- [jreybert/vimagit](https://github.com/jreybert/vimagit) - Ease your git workflow within Vim
+- [chr4/nginx.vim](https://github.com/chr4/nginx.vim) - Improved nginx vim plugin (incl. syntax highlighting)
+- [hail2u/vim-css3-syntax](https://github.com/hail2u/vim-css3-syntax) - CSS3 syntax (and syntax defined in some foreign specifications) support for Vim's built-in syntax/css.vim
+- [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
+- [mhinz/vim-startify](https://github.com/mhinz/vim-startify) - :link: The fancy start screen for Vim.
+- [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files.
+- [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
+- [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
+- [plasticboy/vim-markdown](https://github.com/plasticboy/vim-markdown) - Markdown Vim Mode
+- [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
+- [alok/notational-fzf-vim](https://github.com/alok/notational-fzf-vim) - Notational velocity for vim.
+- [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings
+- [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
+- [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
+- [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
+- [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
+- [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
+- [tpope/vim-commentary](https://github.com/tpope/vim-commentary) - commentary.vim: comment stuff out
+- [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
+- [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: quoting/parenthesizing made simple
+- [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
+- [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
+- [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
+- [ap/vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
+- [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
+- [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
+- [Airblader/dotfiles-manjaro](https://github.com/Airblader/dotfiles-manjaro) - Dotfiles for Manjaro
+- [lambdalisue/suda.vim](https://github.com/lambdalisue/suda.vim) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
+- [vim-airline/vim-airline-themes](https://github.com/vim-airline/vim-airline-themes) - A collection of themes for vim-airline
+- [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
+- [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
+- [vim-airline/vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
 
 
 ## License
