@@ -382,6 +382,7 @@
 - [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [andy-portmen/external-application-button](https://github.com/andy-portmen/external-application-button) - Communicate with external applications of your OS through a toolbar button or context menu item.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
@@ -525,7 +526,6 @@
 - [altdesktop/i3ipc-python](https://github.com/altdesktop/i3ipc-python) - 🐍 An improved Python library to control i3wm and sway.
 - [aeroxis/sultan](https://github.com/aeroxis/sultan) - Sultan: Command and Rule over your Shell
 - [phillipberndt/autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [ranger/ranger](https://github.com/ranger/ranger) - A VIM-inspired filemanager for the console
 - [fdw/rofimoji](https://github.com/fdw/rofimoji) - An emoji and character picker for rofi 😁
 - [Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim/Vim8
@@ -559,7 +559,7 @@
 - [alexanderjeurissen/ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [tobi-wan-kenobi/bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
 ## QML 
 
