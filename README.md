@@ -50,6 +50,7 @@
 
 ## C 
 
+- [LemonBoy/bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
 - [wmutils/core](https://github.com/wmutils/core) - Set of window manipulation tools
 - [Jack12816/colorpicker](https://github.com/Jack12816/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
 - [Keruspe/GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
@@ -250,6 +251,7 @@
 
 ## Go 
 
+- [birchb1024/frangipanni](https://github.com/birchb1024/frangipanni) - Program to convert lines of text into a tree structure.
 - [GGP1/kure](https://github.com/GGP1/kure) - Secure, private and feature-rich CLI password manager
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [redcode-labs/UnChain](https://github.com/redcode-labs/UnChain) - A tool to find redirection chains in multiple URLs
@@ -679,6 +681,7 @@
 
 ## Shell 
 
+- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
 - [wulfgarpro/history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
 - [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
 - [adoyle-h/lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility library for Bash script development.
