@@ -835,6 +835,7 @@
 
 ## Vim script 
 
+- [lifepillar/vim-solarized8](https://github.com/lifepillar/vim-solarized8) - Optimized Solarized colorschemes. Best served with true-color terminals!
 - [triglav/vim-visual-increment](https://github.com/triglav/vim-visual-increment) - visual-increment.vim - use CTRL+A/X to create increasing sequence of numbers or letters via visual mode
 - [lambdalisue/edita.vim](https://github.com/lambdalisue/edita.vim) - 🖊 A pseudo EDITOR to stay in Vim/Neovim
 - [itspriddle/vim-shellcheck](https://github.com/itspriddle/vim-shellcheck) - Vim wrapper for ShellCheck, a static analysis tool for shell scripts.
