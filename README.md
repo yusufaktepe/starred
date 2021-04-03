@@ -287,7 +287,7 @@
 - [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
-- [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
+- [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon soon to be rewritten in Rust
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
 - [RasmusLindroth/i3keys](https://github.com/RasmusLindroth/i3keys) - Lists available bindings for i3 or Sway with a graphical or text keyboard
 - [edi9999/path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin
