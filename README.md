@@ -851,8 +851,8 @@
 - [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 - [easymotion/vim-easymotion](https://github.com/easymotion/vim-easymotion) - Vim motions on speed!
 - [tpope/vim-rsi](https://github.com/tpope/vim-rsi) - rsi.vim: Readline style insertion
-- [reedes/vim-lexical](https://github.com/reedes/vim-lexical) - Build on Vim’s spell/thes/dict completion
-- [reedes/vim-pencil](https://github.com/reedes/vim-pencil) - Rethinking Vim as a tool for writing
+- [preservim/vim-lexical](https://github.com/preservim/vim-lexical) - Build on Vim’s spell/thes/dict completion
+- [preservim/vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing
 - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
 - [cespare/vim-toml](https://github.com/cespare/vim-toml) - Vim syntax for TOML
 - [rhysd/git-messenger.vim](https://github.com/rhysd/git-messenger.vim) - Vim and Neovim plugin to reveal the commit messages under the cursor
