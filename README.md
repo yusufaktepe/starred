@@ -167,6 +167,7 @@
 - [haikarainen/light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
 - [alols/xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [svenstaro/rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
+- [mitchweaver/suckless](https://github.com/mitchweaver/suckless) - 🇸 Collection of http://suckless.org tools I use and my modifications for them.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3
 - [nurupo/vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click
@@ -237,6 +238,7 @@
 
 ## CSS 
 
+- [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [kogakure/gitweb-theme](https://github.com/kogakure/gitweb-theme) - An alternative theme for gitweb, strongly inspired by GitHub
@@ -435,7 +437,6 @@
 ## Objective-C 
 
 - [CSaratakij/i3-rice-rin-shelter](https://github.com/CSaratakij/i3-rice-rin-shelter) - My i3wm rice with theme "Rin : shelter"
-- [mitchweaver/suckless](https://github.com/mitchweaver/suckless) - 🇸 Collection of http://suckless.org tools I use and my modifications for them.
 
 ## Others 
 
