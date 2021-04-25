@@ -241,7 +241,6 @@
 ## CSS 
 
 - [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online
-- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [kogakure/gitweb-theme](https://github.com/kogakure/gitweb-theme) - An alternative theme for gitweb, strongly inspired by GitHub
 - [Aris-t2/CustomCSSforFx](https://github.com/Aris-t2/CustomCSSforFx) - Project on hold / Custom CSS tweaks for Firefox Quantum
@@ -590,9 +589,11 @@
 
 ## Rust 
 
-- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client written in Rust.
+- [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
+- [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 The CLI email client.
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
+- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 - [jhspetersson/fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries
 - [m4b/bingrep](https://github.com/m4b/bingrep) - like ~~grep~~ UBER, but for binaries
 - [Nukesor/comfy-table](https://github.com/Nukesor/comfy-table) - :large_orange_diamond: Build beautiful terminal tables with automatic content wrapping
@@ -801,7 +802,7 @@
 - [carnager/rofi-pass](https://github.com/carnager/rofi-pass) - rofi frontend for pass
 - [gilbertw1/roficlip](https://github.com/gilbertw1/roficlip) - A simple shell script that surfaces clipboard history from clipster in Rofi
 - [davatorium/rofi-scripts](https://github.com/davatorium/rofi-scripts) - Small scripts for use with rofi
-- [grandfoobah/i3-wm-gruvbox-theme](https://github.com/grandfoobah/i3-wm-gruvbox-theme) - An i3-wm gruvbox theme implementation
+- [a-schaefers/i3-wm-gruvbox-theme](https://github.com/a-schaefers/i3-wm-gruvbox-theme) - An i3-wm gruvbox theme implementation
 - [hastinbe/i3-volume](https://github.com/hastinbe/i3-volume) - Volume control and volume notifications
 - [budlabs/i3ass](https://github.com/budlabs/i3ass) - A collection of shell scripts to ease the use of i3wm
 - [leehblue/texpander](https://github.com/leehblue/texpander) - Text expander for linux
