@@ -354,7 +354,7 @@
 
 - [jgm/pandoc](https://github.com/jgm/pandoc) - Universal markup converter
 - [kamek-pf/ntfd](https://github.com/kamek-pf/ntfd) - A lightweight notification daemon for fancy desktop integrations
-- [david-janssen/kmonad](https://github.com/david-janssen/kmonad) - An advanced keyboard manager
+- [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [phuhl/linux_notification_center](https://github.com/phuhl/linux_notification_center) - A notification daemon/center for linux
 - [fosskers/aura](https://github.com/fosskers/aura) - A secure, multilingual package manager for Arch Linux and the AUR.
 - [erebe/greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
@@ -643,7 +643,7 @@
 - [amir/sctd](https://github.com/amir/sctd) - set color temperature daemon
 - [neXromancers/shotgun](https://github.com/neXromancers/shotgun) - Minimal X screenshot utility
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command for your terminal
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [doums/milcheck](https://github.com/doums/milcheck) - A small binary that displays the status of your pacman mirrorlist in your terminal
 - [Shizcow/dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A pixel perfect port of dmenu, rewritten in Rust with extensive plugin support
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
