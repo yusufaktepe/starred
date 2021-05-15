@@ -285,6 +285,7 @@
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [akavel/up](https://github.com/akavel/up) - Ultimate Plumber is a tool for writing Linux pipes with instant live preview
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
+- [docwhat/chronic](https://github.com/docwhat/chronic) - A tool that hides output unless the command fails; now in Go!
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing for secrets, passwords and files
@@ -427,7 +428,7 @@
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
 - [lucc/nvimpager](https://github.com/lucc/nvimpager) - Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [422658476/MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - MPV-EASY Player - A video player based on mpv
+- [422658476/MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - MPV-EASY Player - A modern video player based on mpv
 - [dya-tel/mpv-scripts](https://github.com/dya-tel/mpv-scripts) - A small collection of MPV scripts to make your life a bit better
 - [d87/mpv-persist-properties](https://github.com/d87/mpv-persist-properties) - Keeps selected property values (like volume) between player sessions
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
@@ -719,7 +720,6 @@
 - [zsh-users/zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
 - [alexanderepstein/Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - A collection of small bash scripts for heavy terminal users
 - [keenerd/pacmatic](https://github.com/keenerd/pacmatic) - A little wrapper script to keep Arch Linux from shooting you in the foot.
-- [docwhat/chronic](https://github.com/docwhat/chronic) - A tool that hides output unless the command fails; now in Go!
 - [jamielinux/rotcheck](https://github.com/jamielinux/rotcheck) - Recursively generate, update and verify checksums for your files
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [OliverLew/fontpreview-ueberzug](https://github.com/OliverLew/fontpreview-ueberzug) - A POSIX shell script to preview fonts in fzf
