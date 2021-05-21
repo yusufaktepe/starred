@@ -52,6 +52,7 @@
 
 ## C 
 
+- [tpm2-software/tpm2-totp](https://github.com/tpm2-software/tpm2-totp) - Attest the trustworthiness of a device against a human using time-based one-time passwords
 - [zsugabubus/interception-k2k](https://github.com/zsugabubus/interception-k2k) - Configurable plugin for Interception Tools (caps2esc, space2meta, tab2altgr...)
 - [LemonBoy/bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
 - [wmutils/core](https://github.com/wmutils/core) - Set of window manipulation tools
