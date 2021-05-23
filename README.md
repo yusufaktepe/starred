@@ -184,6 +184,7 @@
 
 ## C++ 
 
+- [Shatur95/akd](https://github.com/Shatur95/akd) - A keyboard userspace daemon :smiling_imp:.
 - [google/woff2](https://github.com/google/woff2) - 
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
@@ -904,7 +905,7 @@
 - [srcery-colors/srcery-vim](https://github.com/srcery-colors/srcery-vim) - Dark colorscheme for gvim and vim
 - [chrisbra/Recover.vim](https://github.com/chrisbra/Recover.vim) - A Plugin to show a diff, whenever recovering a buffer
 - [vifm/vifm.vim](https://github.com/vifm/vifm.vim) - Vim plugin that allows use of vifm as a file picker
-- [dyng/ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) - A file searching plugin mimics Ctrl-Shift-F on Sublime Text 2
+- [dyng/ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) - A text searching plugin mimics Ctrl-Shift-F on Sublime Text 2
 - [justinmk/vim-sneak](https://github.com/justinmk/vim-sneak) - The missing motion for Vim :athletic_shoe:
 - [haorenW1025/floatLf-nvim](https://github.com/haorenW1025/floatLf-nvim) - A plugin that makes you use lf(the file manager) easily in floating window in neovim
 - [unblevable/quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
