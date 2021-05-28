@@ -519,7 +519,7 @@
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 - [justahuman1/i3-grid](https://github.com/justahuman1/i3-grid) - A i3wm grid controller for accelerated floating window management.
 - [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
-- [pipxproject/pipx](https://github.com/pipxproject/pipx) - Install and Run Python Applications in Isolated Environments
+- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [rss2email/rss2email](https://github.com/rss2email/rss2email) - Forward RSS feeds to your email address, community maintained
 - [Nudin/getrid](https://github.com/Nudin/getrid) - Simple terminal user interface to decide which packages to keep and which to get rid of
 - [Vimjas/vint](https://github.com/Vimjas/vint) - Fast and Highly Extensible Vim script Language Lint implemented in Python.
