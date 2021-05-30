@@ -341,7 +341,7 @@
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI in Go inspired by Material Design
 - [odeke-em/drive](https://github.com/odeke-em/drive) - Google Drive client for the commandline
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [SrKomodo/shadowfox-updater](https://github.com/SrKomodo/shadowfox-updater) - An auto-updater for ShadowFox
+- [arguablykomodo/shadowfox-updater](https://github.com/arguablykomodo/shadowfox-updater) - An auto-updater for ShadowFox
 
 ## HTML 
 
