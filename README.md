@@ -184,7 +184,7 @@
 
 ## C++ 
 
-- [Shatur95/akd](https://github.com/Shatur95/akd) - A keyboard userspace daemon :smiling_imp:.
+- [Shatur/akd](https://github.com/Shatur/akd) - A keyboard userspace daemon :smiling_imp:.
 - [google/woff2](https://github.com/google/woff2) - 
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
@@ -603,6 +603,7 @@
 
 ## Rust 
 
+- [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
 - [soywod/himalaya](https://github.com/soywod/himalaya) - 📫 CLI email client
