@@ -266,7 +266,7 @@
 - [GGP1/kure](https://github.com/GGP1/kure) - Secure, private and feature-rich CLI password manager
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [redcode-labs/UnChain](https://github.com/redcode-labs/UnChain) - A tool to find redirection chains in multiple URLs
-- [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Format /etc/fstab
+- [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Fulfill your lifelong dream. Format /etc/fstab automatically.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
