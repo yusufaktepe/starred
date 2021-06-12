@@ -106,7 +106,7 @@
 - [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [mdomlop/netmon](https://github.com/mdomlop/netmon) - Simple console network traffic monitor.
-- [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
+- [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [nelhage/reptyr](https://github.com/nelhage/reptyr) - Reparent a running program to a new terminal
 - [maximbaz/wluma](https://github.com/maximbaz/wluma) - Automatic brightness adjustment based on screen contents
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
