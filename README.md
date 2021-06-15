@@ -484,6 +484,7 @@
 
 ## Python 
 
+- [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [hemantapkh/TorrentHunt](https://github.com/hemantapkh/TorrentHunt) - 🔍 Telegram Bot to search and explore torrents
 - [ryran/reboot-guard](https://github.com/ryran/reboot-guard) - Block systemd-initiated poweroff/reboot/halt until configurable condition checks pass
