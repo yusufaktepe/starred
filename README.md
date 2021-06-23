@@ -392,7 +392,6 @@
 - [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [iamcco/vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
-- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks across browsers via Nextcloud, WebDAV or Google Drive
 - [i5ik/22120](https://github.com/i5ik/22120) - :classical_building: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
@@ -931,6 +930,7 @@
 - [psliwka/vim-smoothie](https://github.com/psliwka/vim-smoothie) - Smooth scrolling for Vim done right🥤
 - [tiagofumo/vim-nerdtree-syntax-highlight](https://github.com/tiagofumo/vim-nerdtree-syntax-highlight) - Extra syntax and highlight for nerdtree files
 - [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [liuchengxu/vim-which-key](https://github.com/liuchengxu/vim-which-key) - :tulip: Vim plugin that shows keybindings in popup
 - [svermeulen/vim-subversive](https://github.com/svermeulen/vim-subversive) - Vim plugin providing operator motions to quickly replace text
 - [junegunn/gv.vim](https://github.com/junegunn/gv.vim) - A git commit browser in Vim
