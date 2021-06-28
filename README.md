@@ -184,6 +184,7 @@
 
 ## C++ 
 
+- [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [Shatur/akd](https://github.com/Shatur/akd) - A keyboard userspace daemon :smiling_imp:.
 - [google/woff2](https://github.com/google/woff2) - 
 - [hzeller/timg](https://github.com/hzeller/timg) - A terminal image and video viewer.
