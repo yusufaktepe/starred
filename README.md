@@ -90,7 +90,7 @@
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [bAndie91/libnss_homehosts](https://github.com/bAndie91/libnss_homehosts) - Linux NSS library supports ~/.hosts
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
-- [eradman/entr](https://github.com/eradman/entr) - A utility for running arbitrary commands when files change
+- [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [91861/wayst](https://github.com/91861/wayst) - A simple terminal emulator
 - [clibs/entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
 - [phillbush/xprompt](https://github.com/phillbush/xprompt) - A dmenu rip-off with contextual completion
@@ -374,6 +374,7 @@
 
 ## JavaScript 
 
+- [jaden/Tab-Position-Customizer-2](https://github.com/jaden/Tab-Position-Customizer-2) - Chrome extension to change where tabs are opened (forked from original extension that has since been removed)
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - userChromeJS / autoconfig.js and extensions
