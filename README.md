@@ -184,6 +184,7 @@
 
 ## C++ 
 
+- [derat/xsettingsd](https://github.com/derat/xsettingsd) - Provides settings to X11 applications via the XSETTINGS specification
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
 - [Shatur/akd](https://github.com/Shatur/akd) - A keyboard userspace daemon :smiling_imp:.
 - [google/woff2](https://github.com/google/woff2) - 
@@ -268,7 +269,7 @@
 - [GGP1/kure](https://github.com/GGP1/kure) - Secure, private and feature-rich CLI password manager
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [redcode-labs/UnChain](https://github.com/redcode-labs/UnChain) - A tool to find redirection chains in multiple URLs
-- [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Fulfill your lifelong dream. Format /etc/fstab automatically.
+- [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Format /etc/fstab automatically.
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [chriswalz/bit](https://github.com/chriswalz/bit) - Bit is a modern Git CLI
 - [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
@@ -520,7 +521,7 @@
 - [bexxmodd/vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
 - [alexdelorenzo/cast_control](https://github.com/alexdelorenzo/cast_control) - 📺 Control Chromecasts from Linux and D-Bus
 - [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - 📃 Get lyrics of currently playing Spotify song so you don't sing along with the wrong ones and embarrass yourself later. Very fast.
-- [Nicotine-Plus/nicotine-plus](https://github.com/Nicotine-Plus/nicotine-plus) - Nicotine+: A graphical client for the SoulSeek peer-to-peer system
+- [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Nicotine+: A graphical client for the SoulSeek peer-to-peer system
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [GeorgeFilipkin/pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
