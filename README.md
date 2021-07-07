@@ -237,7 +237,7 @@
 - [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux
 - [Coffee2CodeNL/gebaar-libinput](https://github.com/Coffee2CodeNL/gebaar-libinput) - Gebaar, A Super Simple WM Independent Touchpad Gesture Daemon for libinput
 - [flacon/flacon](https://github.com/flacon/flacon) - Audio File Encoder. Extracts audio tracks from an audio CD image to separate tracks.
-- [wwmm/pulseeffects](https://github.com/wwmm/pulseeffects) - Limiter, compressor, reverberation, equalizer and auto volume effects for PipeWire applications
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, concolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex and Bing.
 - [Leinnan/lwa-hot-corners](https://github.com/Leinnan/lwa-hot-corners) - 
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
