@@ -52,7 +52,7 @@
 
 ## C 
 
-- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - FLOSS Audacity Fork · No telemetry, crash reports and other shenanigans like that!
+- [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, cross-platform multi-track audio editor/recorder for Windows, MacOS, GNU/Linux and other operating systems and is developed by a group of volunteers as an open source software that respects user privacy.
 - [tpm2-software/tpm2-totp](https://github.com/tpm2-software/tpm2-totp) - Attest the trustworthiness of a device against a human using time-based one-time passwords
 - [zsugabubus/interception-k2k](https://github.com/zsugabubus/interception-k2k) - Configurable plugin for Interception Tools (caps2esc, space2meta, tab2altgr...)
 - [LemonBoy/bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
@@ -267,7 +267,7 @@
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [birchb1024/frangipanni](https://github.com/birchb1024/frangipanni) - Program to convert lines of text into a tree structure.
-- [GGP1/kure](https://github.com/GGP1/kure) - Secure, private and feature-rich CLI password manager
+- [GGP1/kure](https://github.com/GGP1/kure) - Secure and private CLI password manager with sessions
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [redcode-labs/UnChain](https://github.com/redcode-labs/UnChain) - A tool to find redirection chains in multiple URLs
 - [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Format /etc/fstab automatically.
