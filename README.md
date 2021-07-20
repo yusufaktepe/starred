@@ -617,6 +617,7 @@
 
 ## Rust 
 
+- [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - clipcat is a clipboard manager written in Rust Programming Language.
 - [ukmrs/smokey](https://github.com/ukmrs/smokey) - keyboard typing test TUI program
 - [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
