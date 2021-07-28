@@ -142,7 +142,7 @@
 - [zdharma/zinit](https://github.com/zdharma/zinit) - Flexible and fast Zsh plugin manager with clean fpath, reports, completion management, Turbo, annexes, services, packages.
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [vivien/i3blocks](https://github.com/vivien/i3blocks) - A feed generator for text based status bars
-- [neomutt/neomutt](https://github.com/neomutt/neomutt) - :email: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
+- [neomutt/neomutt](https://github.com/neomutt/neomutt) - :envelope: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [doronbehar/sxiv](https://github.com/doronbehar/sxiv) - Simple X Image Viewer
 - [Atoptool/atop](https://github.com/Atoptool/atop) - System and process monitor for Linux
 - [davatorium/rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
