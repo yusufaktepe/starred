@@ -487,7 +487,7 @@
 
 ## Perl 
 
-- [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe (formerly on sourceforge)
+- [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight YouTube client for Linux
 
