@@ -524,7 +524,7 @@
 - [bexxmodd/vizex](https://github.com/bexxmodd/vizex) - Visualize disk space and disk usage in your UNIX\Linux terminal
 - [alexdelorenzo/cast_control](https://github.com/alexdelorenzo/cast_control) - 📺 Control Chromecasts from Linux and D-Bus
 - [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - 📃 Get lyrics of currently playing Spotify song so you don't sing along with the wrong ones and embarrass yourself later. Very fast.
-- [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek peer-to-peer file sharing network
+- [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek file sharing network
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
 - [GeorgeFilipkin/pulsemixer](https://github.com/GeorgeFilipkin/pulsemixer) - CLI and curses mixer for PulseAudio
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
@@ -934,7 +934,7 @@
 - [unblevable/quick-scope](https://github.com/unblevable/quick-scope) - Lightning fast left-right movement in Vim
 - [junegunn/vim-peekaboo](https://github.com/junegunn/vim-peekaboo) - :eyes: " / @ / CTRL-R
 - [prabirshrestha/asyncomplete.vim](https://github.com/prabirshrestha/asyncomplete.vim) - async completion in pure vim script for vim8 and neovim
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
 - [pechorin/any-jump.vim](https://github.com/pechorin/any-jump.vim) - Jump to any definition and references 👁 IDE madness without overhead 🚀
 - [jarolrod/vim-python-ide](https://github.com/jarolrod/vim-python-ide) - Python development config
 - [farmergreg/vim-lastplace](https://github.com/farmergreg/vim-lastplace) - Intelligently reopen files at your last edit position in Vim.
