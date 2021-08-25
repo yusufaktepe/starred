@@ -154,7 +154,7 @@
 - [muennich/sxiv](https://github.com/muennich/sxiv) - Simple X Image Viewer
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [LukeSmithxyz/dwm](https://github.com/LukeSmithxyz/dwm) - Luke's build of dwm
-- [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vi[m]-like environment for managing objects within file systems, extended with some useful ideas from mutt.
+- [vifm/vifm](https://github.com/vifm/vifm) - Vifm is a file manager with curses interface, which provides Vim-like environment for managing objects within file systems, extended with some useful ideas from mutt.
 - [nullgemm/ly](https://github.com/nullgemm/ly) - display manager with console UI
 - [gnotclub/xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
 - [celluloid-player/celluloid](https://github.com/celluloid-player/celluloid) - A simple GTK+ frontend for mpv
