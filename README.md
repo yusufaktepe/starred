@@ -123,7 +123,6 @@
 - [OmarCastro/rofi-blocks](https://github.com/OmarCastro/rofi-blocks) - A Rofi modi that allows controlling rofi content throug communication with an external program
 - [jcs/xbanish](https://github.com/jcs/xbanish) - banish the mouse cursor when typing, show it again when the mouse moves
 - [transmission-remote-gtk/transmission-remote-gtk](https://github.com/transmission-remote-gtk/transmission-remote-gtk) - transmission-remote-gtk is a GTK client for remote management of the Transmission BitTorrent client, using its HTTP RPC protocol.
-- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [stoeckmann/xwallpaper](https://github.com/stoeckmann/xwallpaper) - wallpaper setting utility for X
 - [lfos/calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
@@ -216,6 +215,7 @@
 - [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
 - [cdemoulins/pamixer](https://github.com/cdemoulins/pamixer) - Pulseaudio command line mixer
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
+- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [snyball/Hawck](https://github.com/snyball/Hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [sboli/twmn](https://github.com/sboli/twmn) - A notification system for tiling window managers
