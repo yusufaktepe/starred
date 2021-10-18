@@ -55,6 +55,7 @@
 - [tpm2-software/tpm2-totp](https://github.com/tpm2-software/tpm2-totp) - Attest the trustworthiness of a device against a human using time-based one-time passwords
 - [zsugabubus/interception-k2k](https://github.com/zsugabubus/interception-k2k) - Configurable plugin for Interception Tools (caps2esc, space2meta, tab2altgr...)
 - [LemonBoy/bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
+- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
 - [wmutils/core](https://github.com/wmutils/core) - Set of window manipulation tools
 - [Jack12816/colorpicker](https://github.com/Jack12816/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
 - [Keruspe/GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
@@ -95,7 +96,6 @@
 - [clibs/entr](https://github.com/clibs/entr) - A utility for running arbitrary commands when files change. Uses kqueue(2) or inotify(7) to avoid polling. entr responds to file system events by executing command line arguments or by writing to a FIFO. entr was written to provide to make rapid feedback and automated testing natural and completely ordinary.
 - [phillbush/xprompt](https://github.com/phillbush/xprompt) - A dmenu rip-off with contextual completion
 - [phenax/shotkey](https://github.com/phenax/shotkey) - A simple and lightweight hotkey daemon for X with configurable custom modes and key chords (in ~200 LOC)
-- [Sweets/tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [spieglt/whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process
 - [atx/wtype](https://github.com/atx/wtype) - xdotool type for wayland
 - [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
@@ -237,7 +237,7 @@
 - [Coffee2CodeNL/gebaar-libinput](https://github.com/Coffee2CodeNL/gebaar-libinput) - Gebaar, A Super Simple WM Independent Touchpad Gesture Daemon for libinput
 - [flacon/flacon](https://github.com/flacon/flacon) - Audio File Encoder. Extracts audio tracks from an audio CD image to separate tracks.
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
-- [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex and Bing.
+- [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
 - [Leinnan/lwa-hot-corners](https://github.com/Leinnan/lwa-hot-corners) - 
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
@@ -266,7 +266,7 @@
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [birchb1024/frangipanni](https://github.com/birchb1024/frangipanni) - Program to convert lines of text into a tree structure.
-- [GGP1/kure](https://github.com/GGP1/kure) - Secure and private CLI password manager with sessions
+- [GGP1/kure](https://github.com/GGP1/kure) - CLI password manager with sessions
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [redcode-labs/UnChain](https://github.com/redcode-labs/UnChain) - A tool to find redirection chains in multiple URLs
 - [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Format /etc/fstab automatically.
@@ -728,7 +728,6 @@
 - [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Build Arch Linux iso images, create live usb drives, install on usb drives.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
-- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Similar to Windows 10).
 - [wulfgarpro/history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
 - [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
 - [adoyle-h/lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility library for Bash script development.
@@ -874,6 +873,7 @@
 
 ## Vala 
 
+- [Sweets/tiramisu](https://github.com/Sweets/tiramisu) - Desktop notifications, the UNIX way
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 - [teejee2008/timeshift](https://github.com/teejee2008/timeshift) - System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.
 
