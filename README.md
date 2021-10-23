@@ -592,6 +592,7 @@
 - [alexanderjeurissen/ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [tobi-wan-kenobi/bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
+- [vivien/i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
 ## QML 
@@ -848,7 +849,6 @@
 - [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
 - [betterlockscreen/betterlockscreen](https://github.com/betterlockscreen/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
 - [LukeSmithxyz/voidrice](https://github.com/LukeSmithxyz/voidrice) - My dotfiles (deployed by LARBS)
-- [vivien/i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
 
 ## TeX 
 
