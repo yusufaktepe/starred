@@ -192,7 +192,7 @@
 - [dasJ/spotifywm](https://github.com/dasJ/spotifywm) - Set Spotify's WM_NAME before opening the window
 - [enkore/j4-dmenu-desktop](https://github.com/enkore/j4-dmenu-desktop) - A fast desktop menu
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-- [easymodo/qimgv](https://github.com/easymodo/qimgv) - Qt5 image viewer with optional video support
+- [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 - [nomacs/nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
 - [hank/dsf2flac](https://github.com/hank/dsf2flac) - Code for converting DSF to FLAC files
 - [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
