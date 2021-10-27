@@ -675,7 +675,7 @@
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
-- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git
+- [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git and diff output
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [weihanglo/sfz](https://github.com/weihanglo/sfz) - A simple static file serving command-line tool written in Rust.
 - [SoptikHa2/desed](https://github.com/SoptikHa2/desed) - Debugger for Sed: demystify and debug your sed scripts, from comfort of your terminal.
