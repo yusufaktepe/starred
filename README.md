@@ -622,7 +622,7 @@
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
-- [soywod/himalaya](https://github.com/soywod/himalaya) - Himalaya is a suite of independent Personal Information Management command-line tools.
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI email client
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
