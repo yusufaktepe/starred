@@ -301,7 +301,7 @@
 - [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
-- [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon soon to be rewritten in Rust
+- [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
 - [RasmusLindroth/i3keys](https://github.com/RasmusLindroth/i3keys) - Lists available bindings for i3 or Sway with a graphical or text keyboard
 - [edi9999/path-extractor](https://github.com/edi9999/path-extractor) - A unix filter which outputs the filepaths found in stdin
@@ -622,7 +622,7 @@
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
-- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI email client
+- [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
