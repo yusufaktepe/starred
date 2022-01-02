@@ -387,7 +387,7 @@
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
-- [BelkaDev/Spotify-Headless](https://github.com/BelkaDev/Spotify-Headless) - Wrapper around Spotify API to search songs and control the web player from the terminal without premium.
+- [BelkaDev/Spotify-Headless](https://github.com/BelkaDev/Spotify-Headless) - Wrapper around Spotify API to search songs and control the web player from the cli. (Puppeteer)
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
@@ -397,7 +397,7 @@
 - [mifi/editly](https://github.com/mifi/editly) - Slick, declarative command line video editing & API
 - [iamcco/vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers
-- [i5ik/DiskerNet](https://github.com/i5ik/DiskerNet) - 💾 DiskerNet - welcome to the diskernet. An internet on your disk.
+- [i5ik/DiskerNet](https://github.com/i5ik/DiskerNet) - 💾 DiskerNet - welcome to the diskernet. An internet on your disk. Disconnect with DiskerNet. An internet for the apocalypse.
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [khanhas/spicetify-cli](https://github.com/khanhas/spicetify-cli) - Commandline tool to customize Spotify client. Supports Windows, MacOS and Linux.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
