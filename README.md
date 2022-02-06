@@ -146,6 +146,7 @@
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11
 - [emersion/grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
 - [emersion/kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration (mirror)
+- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
@@ -182,6 +183,7 @@
 
 ## C++ 
 
+- [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
 - [derat/xsettingsd](https://github.com/derat/xsettingsd) - Provides settings to X11 applications via the XSETTINGS specification
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
@@ -225,7 +227,6 @@
 - [grwlf/xkb-switch](https://github.com/grwlf/xkb-switch) - Switch your X keyboard layouts from the command line
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [tsujan/BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) - A fork of KDE Breeze decoration with additional options
-- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [VioletGiraffe/file-commander](https://github.com/VioletGiraffe/file-commander) - Cross-platform Total Commander-like orthodox file manager for Windows, Mac and Linux
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [FedoraQt/adwaita-qt](https://github.com/FedoraQt/adwaita-qt) - A style to bend Qt applications to look like they belong into GNOME Shell
@@ -728,6 +729,7 @@
 
 ## Shell 
 
+- [lolilolicon/FFcast](https://github.com/lolilolicon/FFcast) - Run command on rectangular screen regions
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
 - [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Build Arch Linux iso images, create live usb drives, install on usb drives.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
