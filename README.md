@@ -183,6 +183,8 @@
 
 ## C++ 
 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
+- [strawberrymusicplayer/strawberry](https://github.com/strawberrymusicplayer/strawberry) - :strawberry: Strawberry Music Player
 - [trialuser02/qt6ct](https://github.com/trialuser02/qt6ct) - Qt6 Configuration Tool
 - [rakshasa/rtorrent](https://github.com/rakshasa/rtorrent) - rTorrent BitTorrent client
 - [tenacityteam/tenacity](https://github.com/tenacityteam/tenacity) - Tenacity is an easy-to-use, privacy-friendly, FLOSS, cross-platform multi-track audio editor/recorder for Windows, macOS, Linux and other operating systems. Contributions welcome!
