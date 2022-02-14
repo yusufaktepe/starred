@@ -267,6 +267,7 @@
 
 ## Go 
 
+- [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI.
@@ -383,6 +384,7 @@
 
 ## JavaScript 
 
+- [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [jaden/Tab-Position-Customizer-2](https://github.com/jaden/Tab-Position-Customizer-2) - Chrome extension to change where tabs are opened (forked from original extension that has since been removed)
 - [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A chrome extension for suspending all tabs to free up memory, based on the original TGS 7.1.6, without tracking. Find more information about that on https://gioxx.org/tms
@@ -628,6 +630,8 @@
 
 ## Rust 
 
+- [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+- [Morganamilo/paccat](https://github.com/Morganamilo/paccat) - Print pacman package files
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - clipcat is a clipboard manager written in Rust Programming Language.
 - [ukmrs/smokey](https://github.com/ukmrs/smokey) - keyboard typing test TUI program
