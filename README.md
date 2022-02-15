@@ -384,6 +384,7 @@
 
 ## JavaScript 
 
+- [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [jaden/Tab-Position-Customizer-2](https://github.com/jaden/Tab-Position-Customizer-2) - Chrome extension to change where tabs are opened (forked from original extension that has since been removed)
