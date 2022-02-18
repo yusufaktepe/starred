@@ -631,6 +631,8 @@
 
 ## Rust 
 
+- [korreman/sway-overfocus](https://github.com/korreman/sway-overfocus) - "Better" focus navigation for sway and i3
+- [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [Morganamilo/paccat](https://github.com/Morganamilo/paccat) - Print pacman package files
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
@@ -668,7 +670,7 @@
 - [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way) - A code snippets manager for your terminal.
 - [chmln/i3-auto-layout](https://github.com/chmln/i3-auto-layout) - Automatic, optimal tiling for i3wm
 - [nickgerace/gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust
-- [wfxr/csview](https://github.com/wfxr/csview) - 📠 Pretty cli csv viewer with cjk/emoji support.
+- [wfxr/csview](https://github.com/wfxr/csview) - 📠 Pretty csv viewer for cli with cjk/emoji support.
 - [elkowar/Auswahl](https://github.com/elkowar/Auswahl) - Build dmenu or rofi based menus using a simple menu description syntax with auswahl!
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [kaegi/alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
