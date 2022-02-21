@@ -267,6 +267,7 @@
 
 ## Go 
 
+- [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
