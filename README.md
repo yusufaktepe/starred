@@ -17,6 +17,7 @@
   - [Haskell](#haskell)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Jupyter Notebook](#jupyter-notebook)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Makefile](#makefile)
@@ -433,6 +434,10 @@
 - [precz/wpaana](https://github.com/precz/wpaana) - Web page as an native application.
 - [Endor8/userChrome.js](https://github.com/Endor8/userChrome.js) - Skripte für die Firefox-Erweiterung userChromeJS
 - [Infocatcher/Right_Links_WE](https://github.com/Infocatcher/Right_Links_WE) - WebExtensions port of Right Links extension for Firefox
+
+## Jupyter Notebook 
+
+- [chuxinh/trading-strategy-simulation](https://github.com/chuxinh/trading-strategy-simulation) - Comparing dollar-cost averaging frequencies 🤓
 
 ## Kotlin 
 
