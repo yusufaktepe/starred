@@ -512,6 +512,7 @@
 
 ## Python 
 
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - Automated website screenshots using GitHub Actions
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuration GUI
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [Gbox4/forx](https://github.com/Gbox4/forx) - 💰a command line tool for checking exchange rates between currencies, both crypto and fiat.
@@ -645,7 +646,7 @@
 - [Morganamilo/paccat](https://github.com/Morganamilo/paccat) - Print pacman package files
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - clipcat is a clipboard manager written in Rust Programming Language.
-- [ukmrs/smokey](https://github.com/ukmrs/smokey) - keyboard typing test TUI program
+- [ukmrs/smokey](https://github.com/ukmrs/smokey) - Comfy terminal based typing test
 - [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
