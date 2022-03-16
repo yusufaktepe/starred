@@ -444,6 +444,7 @@
 
 ## Kotlin 
 
+- [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - :iphone: KeePass implementation for android with material design and deluxe features
 - [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
 
 ## Lua 
@@ -753,6 +754,7 @@
 
 ## Scheme 
 
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
 - [isamert/jaro](https://github.com/isamert/jaro) - a highly customizable xdg-open alternative
 
 ## Shell 
