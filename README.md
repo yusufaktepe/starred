@@ -516,6 +516,7 @@
 
 ## Python 
 
+- [Li4n0/hugo_encryptor](https://github.com/Li4n0/hugo_encryptor) - A tools for encrypting hugo posts
 - [erjoalgo/chromeurl](https://github.com/erjoalgo/chromeurl) - a chrome extension to expose the current url to local processes
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - Tools for taking automated screenshots of websites
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuration GUI
@@ -761,6 +762,7 @@
 
 ## Shell 
 
+- [wincent/vim-university](https://github.com/wincent/vim-university) - A curriculum for leveling up your Vim
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
 - [lolilolicon/FFcast](https://github.com/lolilolicon/FFcast) - Run command on rectangular screen regions
