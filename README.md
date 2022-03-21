@@ -54,6 +54,7 @@
 
 ## C 
 
+- [dev47apps/droidcam](https://github.com/dev47apps/droidcam) - GNU/Linux client for DroidCam
 - [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Neo Simple X Image Viewer
 - [tpm2-software/tpm2-totp](https://github.com/tpm2-software/tpm2-totp) - Attest the trustworthiness of a device against a human using time-based one-time passwords
 - [zsugabubus/interception-k2k](https://github.com/zsugabubus/interception-k2k) - Configurable plugin for Interception Tools (caps2esc, space2meta, tab2altgr...)
