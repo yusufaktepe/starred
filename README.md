@@ -521,6 +521,7 @@
 
 ## Python 
 
+- [ssut/py-googletrans](https://github.com/ssut/py-googletrans) - (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge.
 - [Li4n0/hugo_encryptor](https://github.com/Li4n0/hugo_encryptor) - A tools for encrypting hugo posts
 - [erjoalgo/chromeurl](https://github.com/erjoalgo/chromeurl) - a chrome extension to expose the current url to local processes
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - Tools for taking automated screenshots of websites
@@ -651,6 +652,8 @@
 
 ## Rust 
 
+- [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
+- [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
 - [korreman/sway-overfocus](https://github.com/korreman/sway-overfocus) - "Better" focus navigation for sway and i3
 - [tkellogg/dura](https://github.com/tkellogg/dura) - You shouldn't ever lose your work if you're using Git
