@@ -54,6 +54,7 @@
 
 ## C 
 
+- [electrickite/batsignal](https://github.com/electrickite/batsignal) - Lightweight battery daemon written in C
 - [mphe/picom-flicker-workaround](https://github.com/mphe/picom-flicker-workaround) - Fix picom flickering when waking up the screen
 - [unixdj/xssstart](https://github.com/unixdj/xssstart) - xssstart — run a command when X screen saver activates
 - [dev47apps/droidcam](https://github.com/dev47apps/droidcam) - GNU/Linux client for DroidCam
@@ -652,6 +653,7 @@
 
 ## Rust 
 
+- [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - Yet another fancy watcher. (Rust)
 - [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
