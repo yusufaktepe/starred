@@ -469,7 +469,7 @@
 - [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig) - Quickstart configurations for the Nvim LSP client
 - [lucc/nvimpager](https://github.com/lucc/nvimpager) - Use nvim as a pager to view manpages, diffs, etc with nvim's syntax highlighting
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [422658476/MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - MPV-EASY Player - An easy to use, modern video player based on mpv
+- [422658476/MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player) - MPV-EASY Player - An easy to use, modern video player based on mpv （一个基于MPV,易于使用,现代化的视频播放器）
 - [sibwaf/mpv-scripts](https://github.com/sibwaf/mpv-scripts) - A small collection of MPV scripts to make your life a bit better
 - [d87/mpv-persist-properties](https://github.com/d87/mpv-persist-properties) - Keeps selected property values (like volume) between player sessions
 - [awesomeWM/awesome](https://github.com/awesomeWM/awesome) - awesome window manager
