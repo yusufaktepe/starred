@@ -459,6 +459,7 @@
 
 ## Lua 
 
+- [christoph-heinrich/mpv-youtube-quality](https://github.com/christoph-heinrich/mpv-youtube-quality) - A userscript for MPV that allows you to change youtube video quality and audio quality (ytdl-format) on the fly.
 - [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim) - AstroVim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins
 - [feline-nvim/feline.nvim](https://github.com/feline-nvim/feline.nvim) - A minimal, stylish and customizable statusline for Neovim written in Lua
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) - 👻 A cross platform terminal image viewer for Neovim. Extensible and fast, written in Lua and C. Works on macOS and Linux.
@@ -662,6 +663,7 @@
 
 ## Rust 
 
+- [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - Yet another fancy watcher. (Rust)
 - [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
