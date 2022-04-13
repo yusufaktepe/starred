@@ -55,6 +55,8 @@
 
 ## C 
 
+- [AdamantGarth/toggler](https://github.com/AdamantGarth/toggler) - Simple toggle with custom commands for your system tray (usually)
+- [johanmalm/jgmenu](https://github.com/johanmalm/jgmenu) - An X11 menu
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [dreamcat4/skippy-xd](https://github.com/dreamcat4/skippy-xd) - A full-screen Exposé-style standalone task switcher for X11.
 - [electrickite/batsignal](https://github.com/electrickite/batsignal) - Lightweight battery daemon written in C
@@ -279,6 +281,7 @@
 
 ## Go 
 
+- [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
@@ -663,6 +666,8 @@
 
 ## Rust 
 
+- [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
+- [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - Yet another fancy watcher. (Rust)
 - [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
@@ -695,7 +700,7 @@
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
-- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A blazingly fast static web server with routing, templating, and security in a single binary you can set up with zero code. :zap::crab:
+- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast static web server with routing, templating, and security in a single binary you can set up with zero code.
 - [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using Wikipedia
 - [ArturKovacs/emulsion](https://github.com/ArturKovacs/emulsion) - DISCONTINUED - A fast and minimalistic image viewer
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
