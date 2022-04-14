@@ -133,7 +133,7 @@
 - [mchehab/zbar](https://github.com/mchehab/zbar) - ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This is the main repository for it. There's a clone at at LinuxTV.org, and another one at gitlab.
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [OmarCastro/rofi-blocks](https://github.com/OmarCastro/rofi-blocks) - A Rofi modi that allows controlling rofi content throug communication with an external program
-- [jcs/xbanish](https://github.com/jcs/xbanish) - banish the mouse cursor when typing, show it again when the mouse moves
+- [jcs/xbanish](https://github.com/jcs/xbanish) - Hide the mouse cursor when typing and show it again when the mouse moves
 - [transmission-remote-gtk/transmission-remote-gtk](https://github.com/transmission-remote-gtk/transmission-remote-gtk) - transmission-remote-gtk is a GTK client for remote management of the Transmission BitTorrent client, using its HTTP RPC protocol.
 - [stoeckmann/xwallpaper](https://github.com/stoeckmann/xwallpaper) - wallpaper setting utility for X
 - [lfos/calcurse](https://github.com/lfos/calcurse) - A text-based calendar and scheduling application
@@ -281,6 +281,7 @@
 
 ## Go 
 
+- [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
