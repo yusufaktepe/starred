@@ -806,6 +806,7 @@
 
 ## Shell 
 
+- [oliver-machacik/batdistrack](https://github.com/oliver-machacik/batdistrack) - 
 - [andreykaere/ixwindow](https://github.com/andreykaere/ixwindow) - Icon xwindow module for Polybar (only for bspwm)
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [wincent/vim-university](https://github.com/wincent/vim-university) - A curriculum for leveling up your Vim
