@@ -740,7 +740,7 @@
 - [mfreeborn/heliocron](https://github.com/mfreeborn/heliocron) - A command line application written in Rust capable of delaying execution of other programs for time periods relative to sunrise and sunset.
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
 - [wchang22/LuminS](https://github.com/wchang22/LuminS) - A fast and reliable alternative to rsync for synchronizing local files written in Rust
-- [greymd/teip](https://github.com/greymd/teip) - Select partial standard input and replace with the result of another command efficiently
+- [greymd/teip](https://github.com/greymd/teip) - Highly efficient "Masking tape" for Shell
 - [amir/sctd](https://github.com/amir/sctd) - set color temperature daemon
 - [neXromancers/shotgun](https://github.com/neXromancers/shotgun) - Minimal X screenshot utility
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
