@@ -382,6 +382,7 @@
 
 ## HTML 
 
+- [victorstanciu/hugo-tweets](https://github.com/victorstanciu/hugo-tweets) - 
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
@@ -683,6 +684,7 @@
 
 ## Rust 
 
+- [devmatteini/dra](https://github.com/devmatteini/dra) - A command line tool to download release assets from GitHub
 - [dtolnay/faketty](https://github.com/dtolnay/faketty) - Wrapper to exec a command in a pty, even if redirecting the output
 - [kescherCode/oggify](https://github.com/kescherCode/oggify) - Download Spotify media (with a premium account)
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut and (sometimes) awk
