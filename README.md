@@ -12,6 +12,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [CoffeeScript](#coffeescript)
+  - [Dart](#dart)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -282,6 +283,10 @@
 
 - [pnlpal/dictionariez](https://github.com/pnlpal/dictionariez) - One dictionary to rule them all -- a browser extension to help you learn languages
 
+## Dart 
+
+- [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
+
 ## Go 
 
 - [darkhz/adbtuifm](https://github.com/darkhz/adbtuifm) - A TUI File Manager for ADB
@@ -402,6 +407,7 @@
 
 ## Java 
 
+- [gdzx/audiosource](https://github.com/gdzx/audiosource) - :microphone: Use an Android device as a USB microphone
 - [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl: monitor and control trackers and ads.
 - [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
