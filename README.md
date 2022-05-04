@@ -289,6 +289,7 @@
 
 ## Go 
 
+- [neurosnap/nvim.sh](https://github.com/neurosnap/nvim.sh) - neovim plugin search from the terminal
 - [darkhz/adbtuifm](https://github.com/darkhz/adbtuifm) - A TUI File Manager for ADB
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [jon4hz/deadshot](https://github.com/jon4hz/deadshot) - Trading bot with support for multiple evm compatible blockchains
