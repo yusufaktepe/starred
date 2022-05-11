@@ -690,6 +690,7 @@
 
 ## Rust 
 
+- [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [devmatteini/dra](https://github.com/devmatteini/dra) - A command line tool to download release assets from GitHub
 - [dtolnay/faketty](https://github.com/dtolnay/faketty) - Wrapper to exec a command in a pty, even if redirecting the output
 - [kescherCode/oggify](https://github.com/kescherCode/oggify) - Download Spotify media (with a premium account)
