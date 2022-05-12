@@ -332,7 +332,7 @@
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager, written in Go.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go
+- [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [melbahja/got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!
