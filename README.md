@@ -409,7 +409,6 @@
 
 - [gdzx/audiosource](https://github.com/gdzx/audiosource) - :microphone: Use an Android device as a USB microphone
 - [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl: monitor and control trackers and ads.
-- [M66B/FairEmail](https://github.com/M66B/FairEmail) - Fully featured, open source, privacy friendly email app for Android
 - [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
 - [k9mail/k-9](https://github.com/k9mail/k-9) - K-9 Mail – Open Source Email App for Android
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
@@ -561,6 +560,7 @@
 - [ssut/py-googletrans](https://github.com/ssut/py-googletrans) - (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge.
 - [Li4n0/hugo_encryptor](https://github.com/Li4n0/hugo_encryptor) - A tools for encrypting hugo posts
 - [erjoalgo/chromeurl](https://github.com/erjoalgo/chromeurl) - a chrome extension to expose the current url to local processes
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - Tools for taking automated screenshots of websites
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
@@ -811,11 +811,11 @@
 
 ## Scheme 
 
-- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
 - [isamert/jaro](https://github.com/isamert/jaro) - a highly customizable xdg-open alternative
 
 ## Shell 
 
+- [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [oliver-machacik/batdistrack](https://github.com/oliver-machacik/batdistrack) - 
 - [andreykaere/ixwindow](https://github.com/andreykaere/ixwindow) - Icon xwindow module for Polybar (only for bspwm)
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
