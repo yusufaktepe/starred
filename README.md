@@ -553,6 +553,7 @@
 
 ## Python 
 
+- [noctuid/zscroll](https://github.com/noctuid/zscroll) - A text scroller for panels or terminals
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [hephaest0s/usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
 - [tombulled/innertube](https://github.com/tombulled/innertube) - Python Client for Google's Private InnerTube API. Works with YouTube, YouTube Music and more!
@@ -690,6 +691,7 @@
 
 ## Rust 
 
+- [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [devmatteini/dra](https://github.com/devmatteini/dra) - A command line tool to download release assets from GitHub
 - [dtolnay/faketty](https://github.com/dtolnay/faketty) - Wrapper to exec a command in a pty, even if redirecting the output
