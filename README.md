@@ -65,7 +65,7 @@
 - [mphe/picom-flicker-workaround](https://github.com/mphe/picom-flicker-workaround) - Fix picom flickering when waking up the screen
 - [unixdj/xssstart](https://github.com/unixdj/xssstart) - xssstart — run a command when X screen saver activates
 - [dev47apps/droidcam](https://github.com/dev47apps/droidcam) - GNU/Linux client for DroidCam
-- [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Neo Simple X Image Viewer
+- [nsxiv/nsxiv](https://github.com/nsxiv/nsxiv) - Read-only mirror of Neo Simple X Image Viewer
 - [tpm2-software/tpm2-totp](https://github.com/tpm2-software/tpm2-totp) - Attest the trustworthiness of a device against a human using time-based one-time passwords
 - [zsugabubus/interception-k2k](https://github.com/zsugabubus/interception-k2k) - Configurable plugin for Interception Tools (caps2esc, space2meta, tab2altgr...)
 - [LemonBoy/bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
