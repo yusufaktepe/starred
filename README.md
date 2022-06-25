@@ -196,6 +196,7 @@
 
 ## C++ 
 
+- [thezbyg/gpick](https://github.com/thezbyg/gpick) - Advanced color picker written in C++ using GTK+ toolkit
 - [rodlie/powerkit](https://github.com/rodlie/powerkit) - Desktop Independent Power Manager
 - [vitalif/grive2](https://github.com/vitalif/grive2) - Google Drive client with support for new Drive REST API and partial sync
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -731,7 +732,7 @@
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
-- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
+- [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code. :zap:
 - [aaronjanse/dns-over-wikipedia](https://github.com/aaronjanse/dns-over-wikipedia) - Redirect `.idk` domains using Wikipedia
 - [ArturKovacs/emulsion](https://github.com/ArturKovacs/emulsion) - DISCONTINUED - A fast and minimalistic image viewer
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
