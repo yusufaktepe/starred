@@ -196,6 +196,7 @@
 
 ## C++ 
 
+- [lotuskip/cursetag](https://github.com/lotuskip/cursetag) - NCurses based audio file tag (metadata) editor
 - [thezbyg/gpick](https://github.com/thezbyg/gpick) - Advanced color picker written in C++ using GTK+ toolkit
 - [rodlie/powerkit](https://github.com/rodlie/powerkit) - Desktop Independent Power Manager
 - [vitalif/grive2](https://github.com/vitalif/grive2) - Google Drive client with support for new Drive REST API and partial sync
@@ -821,6 +822,7 @@
 
 ## Shell 
 
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 19+ git scenarios.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [oliver-machacik/batdistrack](https://github.com/oliver-machacik/batdistrack) - 
 - [andreykaere/ixwindow](https://github.com/andreykaere/ixwindow) - Icon xwindow module for Polybar (only for bspwm)
