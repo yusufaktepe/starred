@@ -557,6 +557,7 @@
 
 ## Python 
 
+- [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [noctuid/zscroll](https://github.com/noctuid/zscroll) - A text scroller for panels or terminals
 - [satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython) - What the f*ck Python? 😱
 - [hephaest0s/usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
@@ -858,7 +859,7 @@
 - [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
 - [padosoft/kill-process](https://github.com/padosoft/kill-process) - Bash script to kill high CPU process, long running process and too much consuming memory process.
-- [vaniacer/sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. Can run commands, copy files, tunnel ports and connect.
+- [vaniacer/sshto](https://github.com/vaniacer/sshto) - Small bash script to manage your ssh connections. It builds menu (via dialog) from your ~/.ssh/config. It can not only connect but also to run commands, copy files, tunnel ports.
 - [importpw/import](https://github.com/importpw/import) - `import` is a simple and fast module system for Bash and other Unix shells
 - [oblique/create_ap](https://github.com/oblique/create_ap) - [NOT MAINTAINED] This script creates a NATed or Bridged WiFi Access Point.
 - [dylanaraps/torque](https://github.com/dylanaraps/torque) - 🚂 A TUI client for transmission written in pure bash.
