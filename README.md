@@ -562,6 +562,7 @@
 
 ## Python 
 
+- [gilesknap/gphotos-sync](https://github.com/gilesknap/gphotos-sync) - Google Photos and Albums backup with Google Photos Library API
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
 - [noctuid/zscroll](https://github.com/noctuid/zscroll) - A text scroller for panels or terminals
