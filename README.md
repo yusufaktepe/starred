@@ -299,7 +299,7 @@
 - [neurosnap/nvim.sh](https://github.com/neurosnap/nvim.sh) - neovim plugin search from the terminal
 - [darkhz/adbtuifm](https://github.com/darkhz/adbtuifm) - A TUI File Manager for ADB
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [jon4hz/deadshot](https://github.com/jon4hz/deadshot) - Trading bot with support for multiple evm compatible blockchains
+- [jon4hz/deadshot](https://github.com/jon4hz/deadshot) - 📈 Trading bot with support for multiple evm compatible blockchains
 - [enricofoltran/simple-go-server](https://github.com/enricofoltran/simple-go-server) - A simple golang web server with basic logging, tracing, health check, graceful shutdown and zero dependencies
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [johnkerl/miller](https://github.com/johnkerl/miller) - Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON
