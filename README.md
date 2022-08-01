@@ -22,7 +22,6 @@
 - [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Makefile](#makefile)
-- [Mathematica](#mathematica)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
@@ -516,10 +515,6 @@
 - [browserpass/browserpass-native](https://github.com/browserpass/browserpass-native) - Browserpass native client app
 - [Ventto/batify](https://github.com/Ventto/batify) - Only one udevrule file triggering plug and critical battery level notifications (multi-x sessions support)
 
-## Mathematica 
-
-- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
-
 ## OCaml 
 
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
@@ -687,6 +682,7 @@
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) - 🎨 Generate and change color-schemes on the fly.
 - [tobi-wan-kenobi/bumblebee-status](https://github.com/tobi-wan-kenobi/bumblebee-status) - bumblebee-status is a modular, theme-able status line generator for the i3 window manager.
 - [vivien/i3blocks-contrib](https://github.com/vivien/i3blocks-contrib) - Official repository for community contributed blocklets
+- [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 
 ## QML 
 
