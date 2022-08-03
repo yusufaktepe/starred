@@ -185,7 +185,7 @@
 - [svenstaro/rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
 - [mitchweaver/suckless](https://github.com/mitchweaver/suckless) - 🇸 Collection of http://suckless.org tools I use and my modifications for them.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK+3
+- [cboxdoerfer/fsearch](https://github.com/cboxdoerfer/fsearch) - A fast file search utility for Unix-like systems based on GTK3
 - [nurupo/vlc-pause-click-plugin](https://github.com/nurupo/vlc-pause-click-plugin) - Plugin for VLC that pauses/plays video on mouse click
 - [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
 - [Airblader/i3](https://github.com/Airblader/i3) - A fork of the i3 window manager with gaps and some other features
@@ -577,7 +577,7 @@
 - [Li4n0/hugo_encryptor](https://github.com/Li4n0/hugo_encryptor) - A tools for encrypting hugo posts
 - [erjoalgo/chromeurl](https://github.com/erjoalgo/chromeurl) - a chrome extension to expose the current url to local processes
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
-- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A comand-line utility for taking automated screenshots of websites
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
 - [Gbox4/forx](https://github.com/Gbox4/forx) - 💰a command line tool for checking exchange rates between currencies, both crypto and fiat.
