@@ -419,7 +419,6 @@
 - [gdzx/audiosource](https://github.com/gdzx/audiosource) - :microphone: Use an Android device as a USB microphone
 - [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl: monitor and control trackers and ads.
 - [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
-- [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 
 ## JavaScript 
@@ -485,6 +484,7 @@
 ## Kotlin 
 
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
+- [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 - [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
 
 ## Lua 
