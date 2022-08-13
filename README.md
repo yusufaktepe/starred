@@ -235,7 +235,7 @@
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [pushsla/torodofi](https://github.com/pushsla/torodofi) - Simple markdown-compatible To-Do client driven by rofi
 - [kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.8: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed f
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.9: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed f
 - [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
@@ -427,7 +427,7 @@
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [imgix/luminous](https://github.com/imgix/luminous) - A simple, lightweight, no-dependencies JavaScript lightbox
 - [forwardemail/free-email-forwarding](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains.  Visit our website to get started (SMTP server)
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2150 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 2200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [sachinchoolur/lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
@@ -764,7 +764,7 @@
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [kaegi/alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
 - [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
 - [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
 - [kondanta/notp](https://github.com/kondanta/notp) - One Time Password Generator tool that is meant to be used on CLI.
 - [mfreeborn/heliocron](https://github.com/mfreeborn/heliocron) - A command line application written in Rust capable of delaying execution of other programs for time periods relative to sunrise and sunset.
