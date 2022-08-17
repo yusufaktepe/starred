@@ -836,7 +836,7 @@
 ## Shell 
 
 - [macearl/Wallhaven-Downloader](https://github.com/macearl/Wallhaven-Downloader) - A simple download Script for Wallhaven.cc
-- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 19+ git scenarios.
+- [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [oliver-machacik/batdistrack](https://github.com/oliver-machacik/batdistrack) - 
 - [andreykaere/ixwindow](https://github.com/andreykaere/ixwindow) - Icon xwindow module for Polybar (only for bspwm)
