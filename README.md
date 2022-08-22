@@ -706,6 +706,7 @@
 
 ## Rust 
 
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [riquito/tuc](https://github.com/riquito/tuc) - When cut doesn't cut it
 - [pvolok/mprocs](https://github.com/pvolok/mprocs) - Run multiple commands in parallel
