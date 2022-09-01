@@ -12,6 +12,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [CoffeeScript](#coffeescript)
+- [Crystal](#crystal)
 - [Dart](#dart)
 - [Go](#go)
 - [HTML](#html)
@@ -285,6 +286,10 @@
 ## CoffeeScript 
 
 - [pnlpal/dictionariez](https://github.com/pnlpal/dictionariez) - One dictionary to rule them all -- a browser extension to help you learn languages
+
+## Crystal 
+
+- [phil294/AHK_X11](https://github.com/phil294/AHK_X11) - AutoHotkey for Linux (X11-based systems)
 
 ## Dart 
 
