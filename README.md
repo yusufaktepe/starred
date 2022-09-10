@@ -57,6 +57,7 @@
 
 ## C 
 
+- [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as Wayland.
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
 - [valr/cbatticon](https://github.com/valr/cbatticon) - A lightweight and fast battery icon that sits in your system tray
 - [jafarlihi/connmap](https://github.com/jafarlihi/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo.
