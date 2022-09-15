@@ -88,7 +88,7 @@
 - [bbidulock/xdg-launch](https://github.com/bbidulock/xdg-launch) - A command line XDG compliant launcher and tools
 - [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
 - [inotify-tools/inotify-tools](https://github.com/inotify-tools/inotify-tools) - inotify-tools is a C library and a set of command-line programs providing a simple interface to inotify.
-- [kernc/xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications.
+- [kernc/XSuspender](https://github.com/kernc/XSuspender) - :eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications.
 - [Usbac/nmly](https://github.com/Usbac/nmly) - Easy to use bulk rename utility for the terminal
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [Randoragon/mousemode](https://github.com/Randoragon/mousemode) - An intuitive, home-row mouse replacement.
@@ -772,7 +772,7 @@
 - [out-of-cheese-error/the-way](https://github.com/out-of-cheese-error/the-way) - A code snippets manager for your terminal.
 - [chmln/i3-auto-layout](https://github.com/chmln/i3-auto-layout) - Automatic, optimal tiling for i3wm
 - [nickgerace/gfold](https://github.com/nickgerace/gfold) - CLI tool to help keep track of your Git repositories, written in Rust
-- [wfxr/csview](https://github.com/wfxr/csview) - 📠 Pretty csv viewer for cli with cjk/emoji support.
+- [wfxr/csview](https://github.com/wfxr/csview) - 📠 Pretty and fast csv viewer for cli with cjk/emoji support.
 - [elkowar/Auswahl](https://github.com/elkowar/Auswahl) - Build dmenu or rofi based menus using a simple menu description syntax with auswahl!
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [kaegi/alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
