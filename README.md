@@ -718,6 +718,7 @@
 
 ## Rust 
 
+- [araekiel/jot](https://github.com/araekiel/jot) - ⚡Rapid note management for the terminal.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A command driven spotify player
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
