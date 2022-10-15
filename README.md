@@ -298,6 +298,7 @@
 
 ## Go 
 
+- [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f`
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
@@ -477,7 +478,7 @@
 - [andy-portmen/external-application-button](https://github.com/andy-portmen/external-application-button) - Communicate with external applications of your OS through a toolbar button or context menu item.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
 - [browserpass/browserpass-extension](https://github.com/browserpass/browserpass-extension) - Browserpass web extension
-- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 130+ key mappings & 50+ search engines
+- [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄‍♀️ A SurfingKeys config which adds 180+ key mappings & 50+ search engines
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [nuchi/firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs) - **Stops working with FF v72.** Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement.
 - [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
