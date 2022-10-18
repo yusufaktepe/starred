@@ -200,7 +200,7 @@
 
 ## C++ 
 
-- [tomszilagyi/zutty](https://github.com/tomszilagyi/zutty) - X terminal emulator rendering through OpenGL ES Compute Shaders
+- [tomscii/zutty](https://github.com/tomscii/zutty) - X terminal emulator rendering through OpenGL ES Compute Shaders
 - [lotuskip/cursetag](https://github.com/lotuskip/cursetag) - NCurses based audio file tag (metadata) editor
 - [thezbyg/gpick](https://github.com/thezbyg/gpick) - Advanced color picker written in C++ using GTK+ toolkit
 - [rodlie/powerkit](https://github.com/rodlie/powerkit) - Desktop Independent Power Manager
