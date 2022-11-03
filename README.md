@@ -298,6 +298,7 @@
 
 ## Go 
 
+- [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f`
 - [noahgorstein/jqp](https://github.com/noahgorstein/jqp) - A TUI playground to experiment with jq
@@ -434,7 +435,7 @@
 
 ## JavaScript 
 
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - An up-to-date user.js to speed up and secure Firefox
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file for hardening Firefox and optimizing privacy, security, and speed
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [http-party/http-server](https://github.com/http-party/http-server) - a simple zero-configuration command-line http server
 - [dralletje/Windowed](https://github.com/dralletje/Windowed) - Chrome extension to keep fullscreen windows contained
