@@ -790,7 +790,7 @@
 - [sharkdp/vivid](https://github.com/sharkdp/vivid) - A themeable LS_COLORS generator with a rich filetype datebase
 - [kaegi/alass](https://github.com/kaegi/alass) - "Automatic Language-Agnostic Subtitle Synchronization"
 - [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
-- [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 - [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
 - [kondanta/notp](https://github.com/kondanta/notp) - One Time Password Generator tool that is meant to be used on CLI.
 - [mfreeborn/heliocron](https://github.com/mfreeborn/heliocron) - A command line application written in Rust capable of delaying execution of other programs for time periods relative to sunrise and sunset.
