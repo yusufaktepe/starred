@@ -428,6 +428,7 @@
 
 ## Java 
 
+- [wolpi/prim-ftpd](https://github.com/wolpi/prim-ftpd) - FTP server app for android
 - [gdzx/audiosource](https://github.com/gdzx/audiosource) - :microphone: Use an Android device as a USB microphone
 - [TrackerControl/tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl: monitor and control trackers and ads.
 - [maks/MGit](https://github.com/maks/MGit) - A Git client for Android.
