@@ -201,6 +201,7 @@
 
 ## C++ 
 
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [tomscii/zutty](https://github.com/tomscii/zutty) - X terminal emulator rendering through OpenGL ES Compute Shaders
 - [thezbyg/gpick](https://github.com/thezbyg/gpick) - Advanced color picker written in C++ using GTK+ toolkit
 - [rodlie/powerkit](https://github.com/rodlie/powerkit) - Desktop Independent Power Manager
@@ -728,6 +729,7 @@
 
 ## Rust 
 
+- [cantino/mcfly](https://github.com/cantino/mcfly) - Fly through your shell history. Great Scott!
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [araekiel/jot](https://github.com/araekiel/jot) - ⚡Rapid note management for the terminal.
