@@ -319,7 +319,7 @@
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
-- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
+- [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal ♟️
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI.
 - [xyproto/gendesk](https://github.com/xyproto/gendesk) - :herb: Generate .desktop files and download .png icons by specifying a minimum of information
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
@@ -585,6 +585,7 @@
 
 ## Python 
 
+- [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [iamkroot/trakt-scrobbler](https://github.com/iamkroot/trakt-scrobbler) - Scrobbler for trakt.tv that supports VLC, Plex, MPC-HC, and MPV.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
 - [kraanzu/termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
