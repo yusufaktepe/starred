@@ -829,7 +829,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
-- [lunaryorn/mdcat](https://github.com/lunaryorn/mdcat) - cat for markdown
+- [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [sharkdp/pastel](https://github.com/sharkdp/pastel) - A command-line tool to generate, analyze, convert and manipulate colors
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [r-darwish/topgrade](https://github.com/r-darwish/topgrade) - Upgrade everything
