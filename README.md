@@ -467,7 +467,7 @@
 - [osnr/TabFS](https://github.com/osnr/TabFS) - 🗄 Mount your browser tabs as a filesystem.
 - [simov/markdown-viewer](https://github.com/simov/markdown-viewer) - Markdown Viewer / Browser Extension
 - [danburzo/percollate](https://github.com/danburzo/percollate) - A command-line tool to turn web pages into beautiful, readable PDF, EPUB, or HTML docs.
-- [BelkaDev/Spotify-Headless](https://github.com/BelkaDev/Spotify-Headless) - Experimental wrapper for Spotify API to search songs and control the web player using the CLI. (Feat. Puppeteer)
+- [BelkaDev/Spotify-Headless](https://github.com/BelkaDev/Spotify-Headless) - Experimental wrapper for Spotify API to search songs and control the web player using the cli (Feat. Puppeteer)
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
@@ -586,6 +586,7 @@
 
 ## Python 
 
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [iamkroot/trakt-scrobbler](https://github.com/iamkroot/trakt-scrobbler) - Scrobbler for trakt.tv that supports VLC, Plex, MPC-HC, and MPV.
@@ -869,6 +870,7 @@
 
 ## Shell 
 
+- [EllaTheCat/dopamine-2022](https://github.com/EllaTheCat/dopamine-2022) - Use the i3 window manager single-handed should you have a movement disorder such as Parkinson's Disease which makes typing modifier and key difficult
 - [ipfs/ipget](https://github.com/ipfs/ipget) - Retrieve files over IPFS and save them locally.
 - [macearl/Wallhaven-Downloader](https://github.com/macearl/Wallhaven-Downloader) - A simple download Script for Wallhaven.cc
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
