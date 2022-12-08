@@ -873,6 +873,7 @@
 
 ## Shell 
 
+- [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
 - [EllaTheCat/dopamine-2022](https://github.com/EllaTheCat/dopamine-2022) - Use the i3 window manager single-handed should you have a movement disorder such as Parkinson's Disease which makes typing key chords difficult
 - [ipfs/ipget](https://github.com/ipfs/ipget) - Retrieve files over IPFS and save them locally.
 - [macearl/Wallhaven-Downloader](https://github.com/macearl/Wallhaven-Downloader) - A simple download Script for Wallhaven.cc
