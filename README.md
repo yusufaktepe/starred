@@ -56,6 +56,7 @@
 
 ## C 
 
+- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [derf/feh](https://github.com/derf/feh) - a fast and light image viewer
 - [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji) - Emoji selector plugin for Rofi
 - [posva/catimg](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal
@@ -878,6 +879,7 @@
 
 ## Shell 
 
+- [hackerb9/vv](https://github.com/hackerb9/vv) - An image viewer for sixel terminals.
 - [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
 - [EllaTheCat/dopamine-2022](https://github.com/EllaTheCat/dopamine-2022) - Use the i3 window manager single-handed should you have a movement disorder such as Parkinson's Disease which makes typing key chords difficult
 - [ipfs/ipget](https://github.com/ipfs/ipget) - Retrieve files over IPFS and save them locally.
