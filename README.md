@@ -56,6 +56,7 @@
 
 ## C 
 
+- [NikitaIvanovV/ctpv](https://github.com/NikitaIvanovV/ctpv) - Image previews for lf file manager
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [derf/feh](https://github.com/derf/feh) - a fast and light image viewer
 - [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji) - Emoji selector plugin for Rofi
