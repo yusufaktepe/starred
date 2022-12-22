@@ -880,6 +880,7 @@
 
 ## Shell 
 
+- [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [hackerb9/vv](https://github.com/hackerb9/vv) - An image viewer for sixel terminals.
 - [ful1e5/Bibata_Cursor](https://github.com/ful1e5/Bibata_Cursor) - Open source, compact, and material designed cursor set.
 - [EllaTheCat/dopamine-2022](https://github.com/EllaTheCat/dopamine-2022) - Use the i3 window manager single-handed should you have a movement disorder such as Parkinson's Disease which makes typing key chords difficult
