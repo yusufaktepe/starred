@@ -309,6 +309,7 @@
 
 ## Go 
 
+- [dkaslovsky/thread-safe](https://github.com/dkaslovsky/thread-safe) - Keep your favorite Twitter threads safe with a local copy
 - [walles/moar](https://github.com/walles/moar) - Moar is a pager. It's designed to just do the right thing without any configuration.
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter and a drop-in replacement for `tail -f`
