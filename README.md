@@ -56,6 +56,7 @@
 
 ## C 
 
+- [astrand/xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
 - [mptre/yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [NikitaIvanovV/ctpv](https://github.com/NikitaIvanovV/ctpv) - Image previews for lf file manager
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
