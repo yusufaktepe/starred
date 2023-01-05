@@ -56,6 +56,7 @@
 
 ## C 
 
+- [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [astrand/xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
 - [mptre/yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [NikitaIvanovV/ctpv](https://github.com/NikitaIvanovV/ctpv) - Image previews for lf file manager
@@ -927,7 +928,7 @@
 - [docwhat/chronic](https://github.com/docwhat/chronic) - A tool that hides output unless the command fails; now in Go!
 - [jamielinux/rotcheck](https://github.com/jamielinux/rotcheck) - Recursively generate, update and verify checksums for your files
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
-- [oliverlew/fontpreview-ueberzug](https://github.com/oliverlew/fontpreview-ueberzug) - preview fonts in fzf
+- [xlucn/fontpreview-ueberzug](https://github.com/xlucn/fontpreview-ueberzug) - preview fonts in fzf
 - [2m/arch-pkgbuild-builder](https://github.com/2m/arch-pkgbuild-builder) - Arch Linux PKGBUILD GitHub builder action
 - [sdushantha/tmpmail](https://github.com/sdushantha/tmpmail) - A temporary email right from your terminal written in POSIX sh
 - [ko1nksm/getoptions](https://github.com/ko1nksm/getoptions) - An elegant option/argument parser for shell scripts (full support for bash and all POSIX shells)
