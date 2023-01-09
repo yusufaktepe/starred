@@ -573,7 +573,7 @@
 - [unicode-org/last-resort-font](https://github.com/unicode-org/last-resort-font) - Last Resort Font
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [sindresorhus/css-in-readme-like-wat](https://github.com/sindresorhus/css-in-readme-like-wat) - Style your readme using CSS with this simple trick
-- [cirala/vifm_devicons](https://github.com/cirala/vifm_devicons) - File and directory icons for Vifm (vi file manager)
+- [thimc/vifm_devicons](https://github.com/thimc/vifm_devicons) - File and directory icons for Vifm (vi file manager)
 - [xaizek/dotvifm](https://github.com/xaizek/dotvifm) - Vifm configuration files
 - [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux) - A list of awesome resources for tmux
 - [stove-panini/fontconfig-emoji](https://github.com/stove-panini/fontconfig-emoji) - Emoji prioritization rules
@@ -985,7 +985,7 @@
 - [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [sobolevn/git-secret](https://github.com/sobolevn/git-secret) - :busts_in_silhouette: A bash-tool to store your private data inside a git repository.
 - [mattydebie/bitwarden-rofi](https://github.com/mattydebie/bitwarden-rofi) - Wrapper for Bitwarden https://github.com/bitwarden/cli and Rofi
-- [cirala/vifmimg](https://github.com/cirala/vifmimg) - Image previews for Vifm (vi file manager) using Überzug
+- [thimc/vifmimg](https://github.com/thimc/vifmimg) - Image previews for Vifm (vi file manager) using Überzug
 - [basherpm/basher](https://github.com/basherpm/basher) - A package manager for shell scripts.
 - [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
