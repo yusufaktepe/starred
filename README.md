@@ -755,6 +755,7 @@
 
 ## Rust 
 
+- [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
@@ -895,6 +896,7 @@
 
 ## Shell 
 
+- [yusufaktepe/rofi-gpaste](https://github.com/yusufaktepe/rofi-gpaste) - Rofi frontend for GPaste clipboard manager.
 - [smallwat3r/synonym](https://github.com/smallwat3r/synonym) - CLI tool to find synonyms in 15 different languages.
 - [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
 - [tomit4/dyetide](https://github.com/tomit4/dyetide) - a bash script that replaces hex, rgb, or hsl color codes out for other color codes. either within a file or from the terminal!
