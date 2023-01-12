@@ -155,7 +155,7 @@
 - [altdesktop/playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [mwh/dragon](https://github.com/mwh/dragon) - Drag and drop source/target for X
 - [codekitchen/pipeline](https://github.com/codekitchen/pipeline) - the `pipeline` shell command
-- [i3/i3](https://github.com/i3/i3) - A tiling window manager
+- [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
 - [marvinkreis/rofi-file-browser-extended](https://github.com/marvinkreis/rofi-file-browser-extended) - Use rofi to quickly open files
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [sigmike/autocutsel](https://github.com/sigmike/autocutsel) - automated xcutsel
@@ -454,6 +454,7 @@
 
 ## JavaScript 
 
+- [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
 - [nogizhopaboroda/iponmap](https://github.com/nogizhopaboroda/iponmap) - commandline IP location finder
 - [okonet/lint-staged](https://github.com/okonet/lint-staged) - 🚫💩 — Run linters on git staged files
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - user.js file to harden Firefox and optimize privacy, security, and speed
@@ -755,6 +756,7 @@
 
 ## Rust 
 
+- [waycrate/swhkd](https://github.com/waycrate/swhkd) - Sxhkd clone for Wayland (works on TTY and X11 too)
 - [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
