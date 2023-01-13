@@ -56,6 +56,7 @@
 
 ## C 
 
+- [mariusae/trickle](https://github.com/mariusae/trickle) - Trickle is a userland bandwidth shaper for Unix-like systems.
 - [measurement-factory/dnstop](https://github.com/measurement-factory/dnstop) - Stay on top of your DNS traffic
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [astrand/xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
@@ -756,6 +757,7 @@
 
 ## Rust 
 
+- [doy/rbw](https://github.com/doy/rbw) - unofficial bitwarden cli
 - [waycrate/swhkd](https://github.com/waycrate/swhkd) - Sxhkd clone for Wayland (works on TTY and X11 too)
 - [apognu/tuigreet](https://github.com/apognu/tuigreet) - Graphical console greeter for greetd
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
