@@ -617,6 +617,7 @@
 
 ## Python 
 
+- [dylanjcastillo/shell-genie](https://github.com/dylanjcastillo/shell-genie) - Your wishes are my commands
 - [gh640/gh-repo-list](https://github.com/gh640/gh-repo-list) - ⚙️ Simple GitHub CLI extension to list all (own|starred) repositories.
 - [initialcommit-com/git-sim](https://github.com/initialcommit-com/git-sim) - Visually simulate Git operations in your own repos with a single terminal command.
 - [noprobelm/tempy](https://github.com/noprobelm/tempy) - A simple, visually pleasing weather report in your terminal.
@@ -699,7 +700,7 @@
 - [jceb/vim-orgmode](https://github.com/jceb/vim-orgmode) - UNMAINTAINED looking for maintainers! Text outlining and task management for Vim based on Emacs' Org-Mode
 - [freedomofpress/dangerzone](https://github.com/freedomofpress/dangerzone) - Take potentially dangerous PDFs, office documents, or images and convert them to safe PDFs
 - [schollz/pywebsitechanges](https://github.com/schollz/pywebsitechanges) - Change detection with a simple Python script to email you whenever a website changes.
-- [mps-youtube/mps-youtube](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
+- [mps-youtube/yewtube](https://github.com/mps-youtube/yewtube) - yewtube, formerly mps-youtube, is a Terminal based YouTube player and downloader.
 - [sshuttle/sshuttle](https://github.com/sshuttle/sshuttle) - Transparent proxy server that works as a poor man's VPN.  Forwards over ssh.  Doesn't require admin.  Works with Linux and MacOS.  Supports DNS tunneling.
 - [chubin/rate.sx](https://github.com/chubin/rate.sx) - :moneybag: curl cryptocurrencies exchange rates
 - [chubin/wttr.in](https://github.com/chubin/wttr.in) - :partly_sunny: The right way to check the weather
