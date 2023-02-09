@@ -326,6 +326,7 @@
 
 ## Go 
 
+- [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [oxplot/pdfrankenstein](https://github.com/oxplot/pdfrankenstein) - PDF Annotator of Nightmares 🎃
@@ -550,6 +551,7 @@
 
 ## Lua 
 
+- [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) - Neovim extension for zk
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [folke/styler.nvim](https://github.com/folke/styler.nvim) - Simple Neovim plugin to set a different colorscheme per filetype.
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim
@@ -714,6 +716,7 @@
 
 ## Python 
 
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line interface (CLI) productivity tool powered by OpenAI's text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.
 - [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [dylanjcastillo/shell-genie](https://github.com/dylanjcastillo/shell-genie) - Your wishes are my commands
 - [gh640/gh-repo-list](https://github.com/gh640/gh-repo-list) - ⚙️ Simple GitHub CLI extension to list all (own|starred) repositories.
