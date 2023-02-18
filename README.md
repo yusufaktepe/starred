@@ -326,6 +326,7 @@
 
 ## Go 
 
+- [tailscale/cpc](https://github.com/tailscale/cpc) - a copy tool
 - [life4/enc](https://github.com/life4/enc) - 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
 - [mickael-menu/zk](https://github.com/mickael-menu/zk) - A plain text note-taking assistant
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
@@ -552,6 +553,7 @@
 
 ## Lua 
 
+- [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) - File Browser extension for telescope.nvim
 - [AlexvZyl/nordic.nvim](https://github.com/AlexvZyl/nordic.nvim) - 🌒  Nord for Neovim, but warmer and darker.  Supports a variety of plugins and other platforms.
 - [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom's One Dark and Light theme. Additionally, it comes with 5 color variant styles
 - [utilyre/barbecue.nvim](https://github.com/utilyre/barbecue.nvim) - A VS Code like winbar for Neovim
@@ -710,6 +712,7 @@
 
 ## PHP 
 
+- [xero/figlet-fonts](https://github.com/xero/figlet-fonts) - my collection of figlet / toilet ascii art fonts
 - [roundcube/roundcubemail](https://github.com/roundcube/roundcubemail) - The Roundcube Webmail suite
 
 ## Pascal 
