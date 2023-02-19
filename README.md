@@ -445,6 +445,7 @@
 
 ## HTML 
 
+- [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 - [victorstanciu/hugo-tweets](https://github.com/victorstanciu/hugo-tweets) - 
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 3400 free MIT-licensed high-quality SVG icons for you to use in your web projects.
@@ -886,6 +887,8 @@
 
 ## Rust 
 
+- [ItayGarin/ktrl](https://github.com/ItayGarin/ktrl) - A Supercharged Keyboard Programming Daemon ⌨️
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [anordal/shellharden](https://github.com/anordal/shellharden) - The corrective bash syntax highlighter
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -1051,7 +1054,7 @@
 - [Bhupesh-V/ugit](https://github.com/Bhupesh-V/ugit) - 🚨️ ugit helps undo git commands. Your damage control git buddy. Undo from 20+ git scenarios.
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [oliver-machacik/batdistrack](https://github.com/oliver-machacik/batdistrack) - 
-- [andreykaere/ixwindow](https://github.com/andreykaere/ixwindow) - Icon xwindow module for Polybar (only for bspwm)
+- [andreykaere/ixwindow](https://github.com/andreykaere/ixwindow) - Iconized xwindow module for Polybar (bspwm and i3wm)
 - [pystardust/ytfzf](https://github.com/pystardust/ytfzf) - A posix script to find and watch youtube videos from the terminal. (Without API)
 - [wincent/vim-university](https://github.com/wincent/vim-university) - A curriculum for leveling up your Vim
 - [gitwatch/gitwatch](https://github.com/gitwatch/gitwatch) - Watch a file or folder and automatically commit changes to a git repo easily.
