@@ -222,7 +222,7 @@
 - [redtide/magnifiqus](https://github.com/redtide/magnifiqus) - Qt based screen magnifier
 - [rolandriegel/nload](https://github.com/rolandriegel/nload) - Real-time network traffic monitor
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Cut, copy, and paste anything, anywhere, all from the terminal! 😄 Save time and effort the easy way.
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - :rocket: Save time and effort the easy way. Cut, copy, and paste anything, anywhere, all from the terminal! 😄
 - [pixop/video-compare](https://github.com/pixop/video-compare) - Split screen video comparison tool using FFmpeg and SDL2
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [tomscii/zutty](https://github.com/tomscii/zutty) - X terminal emulator rendering through OpenGL ES Compute Shaders
@@ -990,7 +990,7 @@
 - [mfreeborn/heliocron](https://github.com/mfreeborn/heliocron) - A command line application written in Rust capable of delaying execution of other programs for time periods relative to sunrise and sunset.
 - [samtay/so](https://github.com/samtay/so) - A terminal interface for Stack Overflow
 - [wchang22/LuminS](https://github.com/wchang22/LuminS) - A fast and reliable alternative to rsync for synchronizing local files written in Rust
-- [greymd/teip](https://github.com/greymd/teip) - Highly efficient "Masking tape" for Shell
+- [greymd/teip](https://github.com/greymd/teip) - Masking tape to help commands "do one thing well"
 - [amir/sctd](https://github.com/amir/sctd) - set color temperature daemon
 - [neXromancers/shotgun](https://github.com/neXromancers/shotgun) - Minimal X screenshot utility
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
