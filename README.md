@@ -430,6 +430,7 @@
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service
+- [browserpass/browserpass-native](https://github.com/browserpass/browserpass-native) - Browserpass native client app
 - [alexzorin/authy](https://github.com/alexzorin/authy) - Go library and program to access your Authy TOTP secrets.
 - [getantibody/antibody](https://github.com/getantibody/antibody) - The fastest shell plugin manager.
 - [apenwarr/git-subtrac](https://github.com/apenwarr/git-subtrac) - Keep the content for your git submodules all in one place: the parent repo.
@@ -686,7 +687,6 @@
 
 ## Makefile 
 
-- [browserpass/browserpass-native](https://github.com/browserpass/browserpass-native) - Browserpass native client app
 - [Ventto/batify](https://github.com/Ventto/batify) - Only one udevrule file triggering plug and critical battery level notifications (multi-x sessions support)
 
 ## OCaml 
