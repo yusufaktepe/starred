@@ -261,7 +261,7 @@
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [pushsla/torodofi](https://github.com/pushsla/torodofi) - Simple markdown-compatible To-Do client driven by rofi
 - [kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.10: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed 
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.11: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed 
 - [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
@@ -557,6 +557,7 @@
 
 ## Lua 
 
+- [Rawnly/gist.nvim](https://github.com/Rawnly/gist.nvim) - Neovim plugin that allows you to create a Github Gist from the current file
 - [hacel/recent](https://github.com/hacel/recent) - 
 - [Eisa01/mpv-scripts](https://github.com/Eisa01/mpv-scripts) - This repository contain scripts I have made for mpv media player...
 - [axieax/urlview.nvim](https://github.com/axieax/urlview.nvim) - 🔎 Neovim plugin for viewing all the URLs in a buffer
