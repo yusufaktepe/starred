@@ -218,6 +218,7 @@
 
 ## C++ 
 
+- [mikesart/inotify-info](https://github.com/mikesart/inotify-info) - Linux inotify info reporting app
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
 - [redtide/qruler](https://github.com/redtide/qruler) - A simple on-screen pixel meter
 - [redtide/magnifiqus](https://github.com/redtide/magnifiqus) - Qt based screen magnifier
@@ -562,6 +563,7 @@
 
 ## Lua 
 
+- [ofirgall/open.nvim](https://github.com/ofirgall/open.nvim) - Open the current word with custom openers, GitHub shorthands for example.
 - [gbprod/nord.nvim](https://github.com/gbprod/nord.nvim) - An arctic, north-bluish clean and elegant Neovim theme.
 - [Rawnly/gist.nvim](https://github.com/Rawnly/gist.nvim) - Neovim plugin that allows you to create a Github Gist from the current file
 - [hacel/recent](https://github.com/hacel/recent) - 
