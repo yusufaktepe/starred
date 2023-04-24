@@ -226,7 +226,7 @@
 - [redtide/magnifiqus](https://github.com/redtide/magnifiqus) - Qt based screen magnifier
 - [rolandriegel/nload](https://github.com/rolandriegel/nload) - Real-time network traffic monitor
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The external brain that makes your life 𝚛𝚒𝚍𝚘𝚗𝚔𝚞𝚕𝚒𝚌𝚒𝚘𝚞𝚜𝚕𝚢 easy :rocket:
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎 Remember 𝘢𝘯𝘺𝘵𝘩𝘪𝘯𝘨, 𝘢𝘯𝘺𝘵𝘪𝘮𝘦, 𝘢𝘯𝘺𝘸𝘩𝘦𝘳𝘦... The advanced external brain that makes your life 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 easy :rocket:
 - [pixop/video-compare](https://github.com/pixop/video-compare) - Split screen video comparison tool using FFmpeg and SDL2
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [tomscii/zutty](https://github.com/tomscii/zutty) - X terminal emulator rendering through OpenGL ES Compute Shaders
@@ -978,7 +978,7 @@
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [vi/websocat](https://github.com/vi/websocat) - Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions
-- [soywod/himalaya](https://github.com/soywod/himalaya) - Command-line interface for email management
+- [soywod/himalaya](https://github.com/soywod/himalaya) - CLI to manage your emails.
 - [ezrosent/frawk](https://github.com/ezrosent/frawk) - an efficient awk-like language
 - [xou816/spot](https://github.com/xou816/spot) - Native Spotify client for the GNOME desktop
 - [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
