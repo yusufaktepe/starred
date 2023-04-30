@@ -488,7 +488,7 @@
 
 ## JavaScript 
 
-- [libredirect/libredirect](https://github.com/libredirect/libredirect) - A web extension that redirects popular sites to alternative frontends and backends
+- [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A web extension that redirects popular sites to alternative frontends and backends
 - [inbasic/ignotifier](https://github.com/inbasic/ignotifier) - Multiple account Gmail notifier (without storing passwords)
 - [tree-sitter/tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
 - [yamatsum/nonicons](https://github.com/yamatsum/nonicons) - A next-generation icon set for developers that extends octicons.
