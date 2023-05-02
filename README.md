@@ -635,6 +635,7 @@
 - [echasnovski/mini.animate](https://github.com/echasnovski/mini.animate) - Neovim Lua plugin to animate common Neovim actions. Part of 'mini.nvim' library.
 - [ggandor/flit.nvim](https://github.com/ggandor/flit.nvim) - Enhanced f/t motions for Leap
 - [echasnovski/mini.ai](https://github.com/echasnovski/mini.ai) - Neovim Lua plugin to extend and create `a`/`i` textobjects. Part of 'mini.nvim' library.
+- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) - 🧘  Distraction-free coding for Neovim
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [folke/persistence.nvim](https://github.com/folke/persistence.nvim) - 💾  Simple session management for Neovim
@@ -726,7 +727,6 @@
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
-- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
