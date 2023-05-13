@@ -852,7 +852,6 @@
 - [eikenb/terminal-colors](https://github.com/eikenb/terminal-colors) - Utility to test color capabilities of terminal.
 - [axcore/tartube](https://github.com/axcore/tartube) - A GUI front-end for youtube-dl, partly based on youtube-dl-gui and written in Python 3 / Gtk 3
 - [Nekmo/gkeep](https://github.com/Nekmo/gkeep) - Google Keep Command Line Interface (CLI)
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [RMPR/atbswp](https://github.com/RMPR/atbswp) - A minimalist macro recorder
 - [jceb/dex](https://github.com/jceb/dex) - DesktopEntry Execution
 - [thp/urlwatch](https://github.com/thp/urlwatch) - Watch (parts of) webpages and get notified when something changes via e-mail, on your phone or via other means. Highly configurable.
