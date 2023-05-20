@@ -569,6 +569,7 @@
 
 ## Lua 
 
+- [jinzhongjia/LspUI.nvim](https://github.com/jinzhongjia/LspUI.nvim) - A modern and useful UI plugin that wraps lsp operations.
 - [tomasky/bookmarks.nvim](https://github.com/tomasky/bookmarks.nvim) - A Bookmarks Plugin With Global File Store  For Neovim Written In Lua.
 - [potamides/pantran.nvim](https://github.com/potamides/pantran.nvim) - Use your favorite machine translation engines without having to leave your favorite editor.
 - [cljoly/telescope-repo.nvim](https://github.com/cljoly/telescope-repo.nvim) - 🦘 Jump into the repositories (git, mercurial…) of your filesystem with telescope.nvim, without any setup
