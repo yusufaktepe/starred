@@ -140,7 +140,7 @@
 - [pwmt/zathura](https://github.com/pwmt/zathura) - a document viewer
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
-- [stedolan/jq](https://github.com/stedolan/jq) - Command-line JSON processor
+- [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
 - [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [mdomlop/netmon](https://github.com/mdomlop/netmon) - Simple console network traffic monitor.
