@@ -267,7 +267,7 @@
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [pushsla/torodofi](https://github.com/pushsla/torodofi) - Simple markdown-compatible To-Do client driven by rofi
 - [kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed 
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax), compressed file
 - [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
@@ -579,7 +579,7 @@
 
 - [AckslD/muren.nvim](https://github.com/AckslD/muren.nvim) - Multiple replacements in neovim
 - [sitiom/nvim-numbertoggle](https://github.com/sitiom/nvim-numbertoggle) - Neovim plugin to automatically toggle between relative and absolute line numbers. Written in Lua.
-- [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - Neovim plugin for interacting with OpenAI GPT-3 chatbot, providing an easy interface for exploring GPT-3 and NLP.
+- [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
 - [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) - Color picker and highlighter plugin for Neovim.
 - [smjonas/snippet-converter.nvim](https://github.com/smjonas/snippet-converter.nvim) - Bundle snippets from multiple sources and convert them to your format of choice.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
