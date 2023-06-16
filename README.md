@@ -577,6 +577,7 @@
 
 ## Lua 
 
+- [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) - Open files and command output from neovim terminals in your current neovim instance
 - [cbochs/grapple.nvim](https://github.com/cbochs/grapple.nvim) - Neovim plugin for tagging important files
 - [AckslD/muren.nvim](https://github.com/AckslD/muren.nvim) - Multiple replacements in neovim
 - [sitiom/nvim-numbertoggle](https://github.com/sitiom/nvim-numbertoggle) - Neovim plugin to automatically toggle between relative and absolute line numbers. Written in Lua.
