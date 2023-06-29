@@ -59,6 +59,7 @@
 
 ## C 
 
+- [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [cosmos72/twin](https://github.com/cosmos72/twin) - Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
 - [stevenxxiu/sshfs](https://github.com/stevenxxiu/sshfs) - A network filesystem client to connect to SSH servers
@@ -574,7 +575,7 @@
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ libera.chat
 - [puutaro/CommandClick](https://github.com/puutaro/CommandClick) - Web browser powerd by javascript and shellscript(termux)
 - [Yash-Garg/qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager) - [WIP] Modern qBittorrent WebUI Client for Android written in Kotlin
-- [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
+- [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
 - [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
 
