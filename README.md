@@ -227,8 +227,8 @@
 
 - [mikesart/inotify-info](https://github.com/mikesart/inotify-info) - Linux inotify info reporting app
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
-- [redtide/qruler](https://github.com/redtide/qruler) - A simple on-screen pixel meter
-- [redtide/magnifiqus](https://github.com/redtide/magnifiqus) - Qt based screen magnifier
+- [qtilities/qruler](https://github.com/qtilities/qruler) - A simple on-screen pixel meter
+- [qtilities/magnifiqus](https://github.com/qtilities/magnifiqus) - Qt based screen magnifier
 - [rolandriegel/nload](https://github.com/rolandriegel/nload) - Real-time network traffic monitor
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
