@@ -588,6 +588,7 @@
 
 ## Lua 
 
+- [MarcHamamji/runner.nvim](https://github.com/MarcHamamji/runner.nvim) - A customizable Neovim plugin to run code inside the editor
 - [nvim-telescope/telescope-media-files.nvim](https://github.com/nvim-telescope/telescope-media-files.nvim) - Telescope extension to preview media files using Ueberzug.
 - [RutaTang/quicknote.nvim](https://github.com/RutaTang/quicknote.nvim) - Quickly take notes, in-place
 - [dhruvmanila/browser-bookmarks.nvim](https://github.com/dhruvmanila/browser-bookmarks.nvim) - A Neovim plugin to open your browser bookmarks right from the editor!
