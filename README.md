@@ -274,7 +274,7 @@
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [pushsla/torodofi](https://github.com/pushsla/torodofi) - Simple markdown-compatible To-Do client driven by rofi
 - [kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep version 3.12: ultra fast grep-compatible file searcher with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary fi
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW version 4.0: ultra fast grep-compatible file searcher with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary files, ar
 - [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
@@ -814,6 +814,7 @@
 
 ## Python 
 
+- [rafaelmardojai/blanket](https://github.com/rafaelmardojai/blanket) - Listen to different sounds
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
 - [saulpw/unzip-http](https://github.com/saulpw/unzip-http) - Extract individual files from .zip files over http without downloading the entire archive.
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
