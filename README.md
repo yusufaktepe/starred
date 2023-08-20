@@ -543,7 +543,7 @@
 - [BelkaDev/Spotify-Headless](https://github.com/BelkaDev/Spotify-Headless) - Experimental wrapper for Spotify API to search songs and control the web player using the cli (Feat. Puppeteer)
 - [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
-- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open source icons
+- [feathericons/feather](https://github.com/feathericons/feather) - Simply beautiful open-source icons
 - [luetage/vivaldi_modding](https://github.com/luetage/vivaldi_modding) - Custom modifications for Vivaldi web browser.
 - [b0o/spotify-export](https://github.com/b0o/spotify-export) - Export a listing of your saved tracks as JSON
 - [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
