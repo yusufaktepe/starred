@@ -592,6 +592,7 @@
 
 ## Lua 
 
+- [tomiis4/hypersonic.nvim](https://github.com/tomiis4/hypersonic.nvim) - A Neovim plugin that provides an explanation for regular expressions.
 - [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) - Enhanced matchparen.vim plugin for Neovim
 - [malbertzard/inline-fold.nvim](https://github.com/malbertzard/inline-fold.nvim) - A neovim version of the inline fold plugin
 - [niuiic/translate.nvim](https://github.com/niuiic/translate.nvim) - Highly configurable translation plugin for neovim.
