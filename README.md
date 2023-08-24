@@ -69,6 +69,7 @@
 - [stevenxxiu/sshfs](https://github.com/stevenxxiu/sshfs) - A network filesystem client to connect to SSH servers
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
+- [tree-sitter/tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
 - [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) - FZF sorter for telescope written in c
 - [onetrueawk/awk](https://github.com/onetrueawk/awk) - One true awk
 - [cage-kiosk/cage](https://github.com/cage-kiosk/cage) - A Wayland kiosk
@@ -234,7 +235,7 @@
 - [qtilities/magnifiqus](https://github.com/qtilities/magnifiqus) - Qt based screen magnifier
 - [rolandriegel/nload](https://github.com/rolandriegel/nload) - Real-time network traffic monitor
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
-- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝘳𝘪𝘥𝘰𝘯𝘬𝘶𝘭𝘪𝘤𝘪𝘰𝘶𝘴𝘭𝘺 smart clipboard manager
+- [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [pixop/video-compare](https://github.com/pixop/video-compare) - Split screen video comparison tool using FFmpeg and SDL2
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [tomscii/zutty](https://github.com/tomscii/zutty) - X terminal emulator rendering through OpenGL ES Compute Shaders
@@ -507,7 +508,6 @@
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
 - [libredirect/browser_extension](https://github.com/libredirect/browser_extension) - A browser extension that redirects popular sites to alternative privacy friendly frontends
 - [inbasic/ignotifier](https://github.com/inbasic/ignotifier) - Multiple account Gmail notifier (without storing passwords)
-- [tree-sitter/tree-sitter-bash](https://github.com/tree-sitter/tree-sitter-bash) - Bash grammar for tree-sitter
 - [yamatsum/nonicons](https://github.com/yamatsum/nonicons) - A next-generation icon set for developers that extends octicons.
 - [mailslurper/mailslurper](https://github.com/mailslurper/mailslurper) - Local, web-based mail server application. Slurp mails into oblivion!
 - [chalk/chalk](https://github.com/chalk/chalk) - 🖍 Terminal string styling done right
@@ -987,6 +987,7 @@
 
 - [nik012003/ripdrag](https://github.com/nik012003/ripdrag) - Drag and Drop utilty written in Rust and GTK4
 - [bcyran/timewall](https://github.com/bcyran/timewall) - Apple dynamic HEIF wallpapers on GNU/Linux.
+- [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [ngirard/lolcate-rs](https://github.com/ngirard/lolcate-rs) - Lolcate -- A comically fast way of indexing and querying your filesystem. Replaces locate / mlocate / updatedb. Written in Rust.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [wez/evremap](https://github.com/wez/evremap) - A keyboard input remapper for Linux/Wayland systems, written by @wez
@@ -1299,7 +1300,6 @@
 
 - [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft) - website that makes it easy to find neovim plugins
 - [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT
-- [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [zyachel/libremdb](https://github.com/zyachel/libremdb) - A free & open source IMDb front-end.
