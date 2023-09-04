@@ -209,7 +209,7 @@
 - [jordansissel/keynav](https://github.com/jordansissel/keynav) - retire your mouse.
 - [ardagnir/athame](https://github.com/ardagnir/athame) - Full vim for your shell (bash, zsh, gdb, python, etc)
 - [baskerville/sxhkd](https://github.com/baskerville/sxhkd) - Simple X hotkey daemon
-- [j2969719/doublecmd-plugins](https://github.com/j2969719/doublecmd-plugins) - Additions for Double Commander
+- [j2969719/doublecmd-plugins](https://github.com/j2969719/doublecmd-plugins) - Additions for Double Commander (third-party)
 - [LukeSmithxyz/st](https://github.com/LukeSmithxyz/st) - Luke's fork of the suckless simple terminal (st) with vim bindings and Xresource compatibility.
 - [haikarainen/light](https://github.com/haikarainen/light) - GNU/Linux application to control backlights
 - [alols/xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
