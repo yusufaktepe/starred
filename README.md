@@ -591,6 +591,7 @@
 
 ## Lua 
 
+- [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim.
 - [rockyzhang24/arctic.nvim](https://github.com/rockyzhang24/arctic.nvim) - Neovim color schemes ported from VSCode Dark+ and Dark Modern with Treesitter and semantic token highlighting
 - [00sapo/visual.nvim](https://github.com/00sapo/visual.nvim) - First select, then edit. A helix/kakoune-like editing in neovim
 - [chrisgrieser/nvim-origami](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance.
