@@ -223,6 +223,7 @@
 
 ## C# # 
 
+- [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 - [imgbot/Imgbot](https://github.com/imgbot/Imgbot) - An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once i
 - [fedarovich/qbittorrent-cli](https://github.com/fedarovich/qbittorrent-cli) - Command line interface for QBittorrent
 - [IngvarX/Camelot](https://github.com/IngvarX/Camelot) - Camelot is cross-platform file manager written in C#
@@ -503,6 +504,7 @@
 
 ## JavaScript 
 
+- [Gerrit0/old-github-feed](https://github.com/Gerrit0/old-github-feed) - Brings back GitHub's old feed
 - [fregante/GhostText](https://github.com/fregante/GhostText) - 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - A simple and modern GTK e-book reader
 - [browsh-org/browsh](https://github.com/browsh-org/browsh) - A fully-modern text-based browser, rendering to TTY and browsers
@@ -995,7 +997,6 @@
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [nik012003/ripdrag](https://github.com/nik012003/ripdrag) - Drag and Drop utilty written in Rust and GTK4
 - [bcyran/timewall](https://github.com/bcyran/timewall) - Apple dynamic HEIF wallpapers on GNU/Linux.
-- [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [ngirard/lolcate-rs](https://github.com/ngirard/lolcate-rs) - Lolcate -- A comically fast way of indexing and querying your filesystem. Replaces locate / mlocate / updatedb. Written in Rust.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [wez/evremap](https://github.com/wez/evremap) - A keyboard input remapper for Linux/Wayland systems, written by @wez
@@ -1309,6 +1310,7 @@
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - 
 - [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft) - website that makes it easy to find neovim plugins
 - [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT
+- [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [vytal-io/vytal-extension](https://github.com/vytal-io/vytal-extension) - Browser extension to spoof timezone, geolocation, locale and user agent.
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [zyachel/libremdb](https://github.com/zyachel/libremdb) - A free & open source IMDb front-end.
@@ -1438,7 +1440,7 @@
 - [Shougo/neosnippet.vim](https://github.com/Shougo/neosnippet.vim) - neo-snippet plugin
 - [junegunn/vim-slash](https://github.com/junegunn/vim-slash) - Enhancing in-buffer search experience
 - [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim
-- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim asynchronously and fix files, with Language Server Protocol (LSP) support
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [editorconfig/editorconfig-vim](https://github.com/editorconfig/editorconfig-vim) - EditorConfig plugin for Vim
 - [mattn/vim-gist](https://github.com/mattn/vim-gist) - Vim plugin for Gist
 - [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin) - A plugin of NERDTree showing git status
