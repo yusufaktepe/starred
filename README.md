@@ -593,6 +593,7 @@
 
 ## Lua 
 
+- [Hajime-Suzuki/vuffers.nvim](https://github.com/Hajime-Suzuki/vuffers.nvim) - a neovim plugin that creates a vertical split window to help you manage and navigate your buffers more efficiently
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim.
 - [rockyzhang24/arctic.nvim](https://github.com/rockyzhang24/arctic.nvim) - Neovim color schemes ported from VSCode Dark+ and Dark Modern with Treesitter and semantic token highlighting
 - [00sapo/visual.nvim](https://github.com/00sapo/visual.nvim) - First select, then edit. A helix/kakoune-like editing in neovim
@@ -822,6 +823,7 @@
 
 ## Python 
 
+- [vgalin/html2image](https://github.com/vgalin/html2image) - A package acting as a wrapper around the headless mode of existing web browsers to generate images from URLs and from HTML+CSS strings or files.
 - [eschluntz/compress](https://github.com/eschluntz/compress) - Text compression for generating keyboard expansions
 - [rafaelmardojai/blanket](https://github.com/rafaelmardojai/blanket) - Listen to different sounds
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
