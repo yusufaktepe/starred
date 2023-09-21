@@ -999,6 +999,7 @@
 
 ## Rust 
 
+- [blacknon/hwatch](https://github.com/blacknon/hwatch) - A modern alternative to the watch command, records the differences in execution results and can check this differences at after.
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [nik012003/ripdrag](https://github.com/nik012003/ripdrag) - Drag and Drop utilty written in Rust and GTK4
 - [bcyran/timewall](https://github.com/bcyran/timewall) - Apple dynamic HEIF wallpapers on GNU/Linux.
@@ -1024,7 +1025,7 @@
 - [Dusk-Labs/dim](https://github.com/Dusk-Labs/dim) - Dim, a media manager fueled by dark forces.
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [shashwatah/jot](https://github.com/shashwatah/jot) - ⚡Rapid note management for the terminal.
-- [aome510/spotify-player](https://github.com/aome510/spotify-player) - A terminal spotify player that is feature parity with the official client
+- [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
