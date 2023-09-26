@@ -348,6 +348,7 @@
 
 ## Go 
 
+- [sentriz/cliphist](https://github.com/sentriz/cliphist) - wayland clipboard manager
 - [gennaro-tedesco/zathuraconf](https://github.com/gennaro-tedesco/zathuraconf) - Change zathura colour schemes
 - [tailscale/cpc](https://github.com/tailscale/cpc) - a copy tool
 - [life4/enc](https://github.com/life4/enc) - 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
