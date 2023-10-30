@@ -1173,6 +1173,7 @@
 
 ## Shell 
 
+- [rose-pine/tmux](https://github.com/rose-pine/tmux) - Soho vibes for tmux
 - [psprint/zsh-sweep](https://github.com/psprint/zsh-sweep) - Linter for Zshell scripting language
 - [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets) - cheat.sh cheat sheets repository
 - [yusufaktepe/rofi-gpaste](https://github.com/yusufaktepe/rofi-gpaste) - Rofi frontend for GPaste clipboard manager.
