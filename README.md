@@ -1126,7 +1126,7 @@
 - [sharkdp/lscolors](https://github.com/sharkdp/lscolors) - A Rust library and tool to colorize paths using LS_COLORS
 - [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker and more, for both Vim and NeoVim
 - [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
