@@ -510,6 +510,7 @@
 
 ## JavaScript 
 
+- [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
 - [previm/previm](https://github.com/previm/previm) - Realtime preview by Vim. (Markdown, reStructuredText, textile)
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [Gerrit0/old-github-feed](https://github.com/Gerrit0/old-github-feed) - Brings back GitHub's old feed
@@ -597,7 +598,7 @@
 - [puutaro/CommandClick](https://github.com/puutaro/CommandClick) - Android browser powered by ubuntu without root access and termux.
 - [Yash-Garg/qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager) - [WIP] Modern qBittorrent WebUI Client for Android written in Kotlin
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
-- [thunderbird/k-9](https://github.com/thunderbird/k-9) - K-9 Mail – Open Source Email App for Android
+- [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
 - [android-password-store/Android-Password-Store](https://github.com/android-password-store/Android-Password-Store) - Android application compatible with ZX2C4's Pass command line application
 
 ## Lua 
