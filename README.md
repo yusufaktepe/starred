@@ -63,7 +63,7 @@
 
 ## C 
 
-- [ravachol/cue-music-command](https://github.com/ravachol/cue-music-command) - A command-line music player
+- [ravachol/kew](https://github.com/ravachol/kew) - A command-line music player
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [cosmos72/twin](https://github.com/cosmos72/twin) - Text mode window environment. A "retro" program for embedded or remote systems, that doubles as X11 terminal and text-mode equivalent of VNC server
 - [curl/trurl](https://github.com/curl/trurl) - trurl is a command line tool for URL parsing and manipulation.
