@@ -602,6 +602,7 @@
 
 ## Lua 
 
+- [brenton-leighton/multiple-cursors.nvim](https://github.com/brenton-leighton/multiple-cursors.nvim) - A multiple cursors plugin for Neovim
 - [folke/paint.nvim](https://github.com/folke/paint.nvim) - Easily add additional highlights to your buffers
 - [stevearc/resession.nvim](https://github.com/stevearc/resession.nvim) - A replacement for mksession with a better API
 - [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
