@@ -651,7 +651,7 @@
 - [hacel/recent](https://github.com/hacel/recent) - 
 - [Eisa01/mpv-scripts](https://github.com/Eisa01/mpv-scripts) - This repository contain scripts I have made for mpv media player...
 - [axieax/urlview.nvim](https://github.com/axieax/urlview.nvim) - 🔎 Neovim plugin for viewing all the URLs in a buffer
-- [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Neovim plugin for Obsidian, written in Lua
+- [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
 - [toppair/reach.nvim](https://github.com/toppair/reach.nvim) - Buffer, mark, tabpage, colorscheme switcher for Neovim
 - [chentoast/marks.nvim](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
 - [jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim) - 👀 Move faster with unique f/F indicators.
@@ -730,7 +730,7 @@
 - [ghassan0/telescope-glyph.nvim](https://github.com/ghassan0/telescope-glyph.nvim) - An extension for telescope.nvim that allows you to search font glyphs
 - [nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim) - Integration with github cli
 - [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim) - 
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 30+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
