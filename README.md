@@ -602,6 +602,8 @@
 
 ## Lua 
 
+- [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
+- [neph-iap/easycolor.nvim](https://github.com/neph-iap/easycolor.nvim) - The easiest Neovim color picker in the world.
 - [coffebar/transfer.nvim](https://github.com/coffebar/transfer.nvim) - Syncing files with remote server using rsync and OpenSSH
 - [brenton-leighton/multiple-cursors.nvim](https://github.com/brenton-leighton/multiple-cursors.nvim) - A multiple cursors plugin for Neovim
 - [folke/paint.nvim](https://github.com/folke/paint.nvim) - Easily add additional highlights to your buffers
