@@ -602,6 +602,8 @@
 
 ## Lua 
 
+- [ggandor/leap-spooky.nvim](https://github.com/ggandor/leap-spooky.nvim) - 👻 Actions at a distance
+- [rgroli/other.nvim](https://github.com/rgroli/other.nvim) - Open alternative files for the current buffer
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [neph-iap/easycolor.nvim](https://github.com/neph-iap/easycolor.nvim) - The easiest Neovim color picker in the world.
 - [coffebar/transfer.nvim](https://github.com/coffebar/transfer.nvim) - Syncing files with remote server using rsync and OpenSSH
