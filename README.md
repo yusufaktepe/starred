@@ -602,6 +602,7 @@
 
 ## Lua 
 
+- [dgagn/diagflow.nvim](https://github.com/dgagn/diagflow.nvim) - LSP diagnostics in virtual text at the top right of your screen
 - [hinell/lsp-timeout.nvim](https://github.com/hinell/lsp-timeout.nvim) - Start/stop LSP servers upon demand; keeps RAM usage low
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) - Just ask an otter! 🦦
 - [ggandor/leap-spooky.nvim](https://github.com/ggandor/leap-spooky.nvim) - 👻 Actions at a distance
@@ -1210,7 +1211,7 @@
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
 - [ropery/FFcast](https://github.com/ropery/FFcast) - Run command on rectangular screen regions
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
-- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Set of scripts programs for building bootable disk images of Arch Linux and for installing Arch Linux on an external USB disk or thumb drive.
+- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Toolkit for building bootable disk images of Arch Linux and for installing Arch Linux on USB disk or thumb drive.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
 - [wulfgarpro/history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git
