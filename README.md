@@ -511,6 +511,7 @@
 
 ## JavaScript 
 
+- [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
 - [previm/previm](https://github.com/previm/previm) - Realtime preview by Vim. (Markdown, reStructuredText, textile)
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
@@ -808,6 +809,7 @@
 
 ## Others 
 
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
