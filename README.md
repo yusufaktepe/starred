@@ -473,7 +473,6 @@
 
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
 - [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit
-- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser
 - [victorstanciu/hugo-tweets](https://github.com/victorstanciu/hugo-tweets) - 
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 4900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
@@ -604,7 +603,7 @@
 
 ## Lua 
 
-- [HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim) - 📸 Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
+- [HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst.
 - [soulis-1256/hoverhints.nvim](https://github.com/soulis-1256/hoverhints.nvim) - Show lsp diagnostics based on mouse position
 - [OscarCreator/rsync.nvim](https://github.com/OscarCreator/rsync.nvim) - neovim plugin which synchronises project with rsync on save.
 - [carbon-steel/detour.nvim](https://github.com/carbon-steel/detour.nvim) - Use popup windows to navigate files/buffer and to contain shells/TUIs
@@ -1200,6 +1199,7 @@
 
 - [siduck/bubbly](https://github.com/siduck/bubbly) - Generate chat bubble like widgets on screen via keystrokes on Linux
 - [rose-pine/tmux](https://github.com/rose-pine/tmux) - Soho vibes for tmux
+- [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
 - [psprint/zsh-sweep](https://github.com/psprint/zsh-sweep) - Linter for Zshell scripting language
 - [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets) - cheat.sh cheat sheets repository
 - [yusufaktepe/rofi-gpaste](https://github.com/yusufaktepe/rofi-gpaste) - Rofi frontend for GPaste clipboard manager.
