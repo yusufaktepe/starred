@@ -239,7 +239,6 @@
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [pixop/video-compare](https://github.com/pixop/video-compare) - Split screen video comparison tool using FFmpeg and SDL2
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
-- [tomscii/zutty](https://github.com/tomscii/zutty) - X terminal emulator rendering through OpenGL ES Compute Shaders
 - [thezbyg/gpick](https://github.com/thezbyg/gpick) - Advanced color picker written in C++ using GTK+ toolkit
 - [rodlie/powerkit](https://github.com/rodlie/powerkit) - Desktop Independent Power Manager
 - [vitalif/grive2](https://github.com/vitalif/grive2) - Google Drive client with support for new Drive REST API and partial sync
@@ -817,6 +816,7 @@
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
 - [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
+- [tomscii/zutty](https://github.com/tomscii/zutty) - X terminal emulator rendering through OpenGL ES Compute Shaders
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [vastutsav/command-line-quick-reference](https://github.com/vastutsav/command-line-quick-reference) - quick reference on command line tools and techniques for the people with limited time
 - [gaul/awesome-ld-preload](https://github.com/gaul/awesome-ld-preload) - List of resources related to LD_PRELOAD, a mechanism for changing application behavior at run-time
