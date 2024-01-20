@@ -1087,7 +1087,7 @@
 - [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 - [Morganamilo/paccat](https://github.com/Morganamilo/paccat) - Print pacman package files
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
-- [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - Clipcat is a clipboard manager written in Rust Programming Language.
+- [xrelkd/clipcat](https://github.com/xrelkd/clipcat) - A clipboard manager written in Rust Programming Language.
 - [ukmrs/smokey](https://github.com/ukmrs/smokey) - Comfy terminal based typing test
 - [sstadick/hck](https://github.com/sstadick/hck) - A sharp cut(1) clone.
 - [tarkah/tickrs](https://github.com/tarkah/tickrs) - Realtime ticker data in your terminal 📈
