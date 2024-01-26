@@ -505,6 +505,7 @@
 
 ## JavaScript 
 
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
 - [previm/previm](https://github.com/previm/previm) - Realtime preview by Vim. (Markdown, reStructuredText, textile)
@@ -598,6 +599,7 @@
 
 ## Lua 
 
+- [gaoDean/autolist.nvim](https://github.com/gaoDean/autolist.nvim) - Automatic list continuation and formatting for neovim, powered by lua
 - [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 Atom's iconic One Dark theme, for Neovim. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with variants
 - [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim) - 🏔️ A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
 - [Zabooby/mpv-config](https://github.com/Zabooby/mpv-config) - Personal mpv config files aiming to get the best quality and viewing experience
@@ -1040,6 +1042,7 @@
 
 ## Rust 
 
+- [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [MordechaiHadad/bob](https://github.com/MordechaiHadad/bob) - A version manager for neovim
 - [trimental/inlyne](https://github.com/trimental/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
