@@ -149,7 +149,7 @@
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
-- [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland
+- [djpohly/dwl](https://github.com/djpohly/dwl) - dwm for Wayland - ARCHIVE: development has moved to Codeberg
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
 - [mdomlop/netmon](https://github.com/mdomlop/netmon) - Simple console network traffic monitor.
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
@@ -897,7 +897,7 @@
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [iamkroot/trakt-scrobbler](https://github.com/iamkroot/trakt-scrobbler) - Scrobbler for trakt.tv that supports VLC, Plex, MPC-HC, and MPV.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
-- [kraanzu/termtyper](https://github.com/kraanzu/termtyper) - A typing application to level up your fingers!
+- [kraanzu/smassh](https://github.com/kraanzu/smassh) - Smassh your Keyboard, TUI Edition
 - [gilesknap/gphotos-sync](https://github.com/gilesknap/gphotos-sync) - Google Photos and Albums backup with Google Photos Library API
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [deter0/xborder](https://github.com/deter0/xborder) - Active window border replacement for window managers.
