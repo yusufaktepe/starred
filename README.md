@@ -601,6 +601,9 @@
 
 ## Lua 
 
+- [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) - Mouse gesture plugin for neovim
+- [samjwill/nvim-unception](https://github.com/samjwill/nvim-unception) - A plugin that leverages Neovim's built-in RPC functionality to simplify opening files from within Neovim's terminal emulator without nesting sessions.
+- [jonarrien/telescope-cmdline.nvim](https://github.com/jonarrien/telescope-cmdline.nvim) - Telescope cmdline
 - [dmitmel/cmp-cmdline-history](https://github.com/dmitmel/cmp-cmdline-history) - Source for nvim-cmp which reads results from command-line or search histories
 - [hrsh7th/cmp-cmdline](https://github.com/hrsh7th/cmp-cmdline) - nvim-cmp source for vim's cmdline
 - [kawre/neotab.nvim](https://github.com/kawre/neotab.nvim) - Tabout plugin for Neovim
