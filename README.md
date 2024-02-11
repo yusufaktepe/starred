@@ -349,6 +349,7 @@
 
 ## Go 
 
+- [grafov/shift-shift](https://github.com/grafov/shift-shift) - Xorg/Wayland keyboard layout switcher.
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - wayland clipboard manager with support for multimedia
 - [gennaro-tedesco/zathuraconf](https://github.com/gennaro-tedesco/zathuraconf) - Change zathura colour schemes
 - [tailscale/cpc](https://github.com/tailscale/cpc) - a copy tool
@@ -1368,6 +1369,7 @@
 
 ## Svelte 
 
+- [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
 - [ThaUnknown/pwa-haven](https://github.com/ThaUnknown/pwa-haven) - Collection of small, fast, simple PWA's to replace native OS apps.
 
 ## TeX 
@@ -1378,7 +1380,6 @@
 
 - [kando-menu/kando](https://github.com/kando-menu/kando) - 🥧 The Cross-Platform Pie Menu.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
-- [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) - Find the best Neovim plugins
 - [remotely-save/remotely-save](https://github.com/remotely-save/remotely-save) - Yet another unofficial Obsidian plugin allowing users to synchronize notes between local device and the cloud service. Supports S3, Dropbox, OneDrive, webdav.
 - [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft) - website that makes it easy to find neovim plugins
 - [RomanHotsiy/commitgpt](https://github.com/RomanHotsiy/commitgpt) - Automatically generate commit messages using ChatGPT
