@@ -572,7 +572,6 @@
 - [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄 A SurfingKeys config which adds 180+ key mappings & 50+ search engines
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [nuchi/firefox-quantum-userchromejs](https://github.com/nuchi/firefox-quantum-userchromejs) - **Stops working with FF v72.** Firefox Quantum-compatible custom javascript in browser context — no extension, userChromeJS replacement.
-- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [philc/vimium](https://github.com/philc/vimium) - The hacker's browser.
 - [evolus/pencil](https://github.com/evolus/pencil) - The Pencil Project's unique mission is to build a free and opensource tool for making diagrams and GUI prototyping that everyone can use.
 - [minbrowser/min](https://github.com/minbrowser/min) - A fast, minimal browser that protects your privacy
@@ -1058,6 +1057,7 @@
 
 ## Rust 
 
+- [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -1414,6 +1414,7 @@
 - [glacambre/firenvim](https://github.com/glacambre/firenvim) - Embed Neovim in Chrome, Firefox & others.
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
+- [mifi/lossless-cut](https://github.com/mifi/lossless-cut) - The swiss army knife of lossless video/audio editing
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [ueokande/vim-vixen](https://github.com/ueokande/vim-vixen) - Accelerates your web browsing with Vim power!!
 - [nativefier/nativefier](https://github.com/nativefier/nativefier) - Make any web page a desktop application
