@@ -1428,6 +1428,7 @@
 
 ## Vim Script 
 
+- [vimpostor/vim-tpipeline](https://github.com/vimpostor/vim-tpipeline) - Embed your vim statusline in tmux
 - [tpope/vim-abolish](https://github.com/tpope/vim-abolish) - abolish.vim: Work with several variants of a word at once
 - [ggandor/vim-srt-sync](https://github.com/ggandor/vim-srt-sync) - One Vim command away from fixing out of sync subtitle files
 - [AndrewRadev/splitjoin.vim](https://github.com/AndrewRadev/splitjoin.vim) - Switch between single-line and multiline forms of code
