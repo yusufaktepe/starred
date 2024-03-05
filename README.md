@@ -35,7 +35,6 @@
 - [Perl](#perl)
 - [Python](#python)
 - [QML](#qml)
-- [Reason](#reason)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -834,6 +833,7 @@
 ## OCaml 
 
 - [johnwhitington/cpdf-source](https://github.com/johnwhitington/cpdf-source) - PDF Command Line Tools Source
+- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 
 ## Objective-C 
@@ -1046,10 +1046,6 @@
 
 - [3ximus/aerial-sddm-theme](https://github.com/3ximus/aerial-sddm-theme) - SDDM theme with Apple TV Aerial videos
 - [g-fb/haruna](https://github.com/g-fb/haruna) - Moved to https://invent.kde.org/multimedia/haruna
-
-## Reason 
-
-- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
 
 ## Roff 
 
