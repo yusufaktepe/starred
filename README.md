@@ -347,6 +347,7 @@
 
 ## Go 
 
+- [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [Link-/gh-stars](https://github.com/Link-/gh-stars) - Search your starred ★ repositories on GitHub from your terminal
 - [grafov/shift-shift](https://github.com/grafov/shift-shift) - Xorg/Wayland keyboard layout switcher.
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - wayland clipboard manager with support for multimedia
