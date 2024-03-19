@@ -877,7 +877,6 @@
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [googleapis/nodejs-speech](https://github.com/googleapis/nodejs-speech) - This repository is deprecated. All of its content and history has been moved to googleapis/google-cloud-node.
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL) - "Good Luck With That" Public License
 - [dylanaraps/writing-a-tui-in-bash](https://github.com/dylanaraps/writing-a-tui-in-bash) - How to write a TUI in BASH
 - [fphoenix88888/ttf-mswin10-arch](https://github.com/fphoenix88888/ttf-mswin10-arch) - MS Windows 10 Fonts for Arch Linux
@@ -909,7 +908,7 @@
 - [vgalin/html2image](https://github.com/vgalin/html2image) - A package acting as a wrapper around the headless mode of existing web browsers to generate images from URLs and from HTML+CSS strings or files.
 - [eschluntz/compress](https://github.com/eschluntz/compress) - Text compression for generating keyboard expansions
 - [rafaelmardojai/blanket](https://github.com/rafaelmardojai/blanket) - Listen to different sounds
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python.
 - [saulpw/unzip-http](https://github.com/saulpw/unzip-http) - Extract individual files from .zip files over http without downloading the entire archive.
 - [kislyuk/yq](https://github.com/kislyuk/yq) - Command-line YAML, XML, TOML processor - jq wrapper for YAML/XML/TOML documents
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
@@ -1360,6 +1359,7 @@
 - [roddhjav/progressbar](https://github.com/roddhjav/progressbar) - A pacman like progress bar in bash
 - [roddhjav/pass-update](https://github.com/roddhjav/pass-update) - A pass extension that provides an easy flow for updating passwords.
 - [dyne/Tomb](https://github.com/dyne/Tomb) - the Crypto Undertaker
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [hastinbe/i3blocks-battery-plus](https://github.com/hastinbe/i3blocks-battery-plus) - An enhanced battery status indicator for i3blocks
 - [aitemr/awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks) - 😎 A collection of awesome Git Hooks
 - [BlackIkeEagle/dotfiles](https://github.com/BlackIkeEagle/dotfiles) - my dotfiles (backup)
