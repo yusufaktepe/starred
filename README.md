@@ -604,6 +604,10 @@
 
 ## Lua 
 
+- [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
+- [LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands.
+- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) - Create temporary playground files effortlessly. Find them later without worrying about filenames or locations.
+- [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) - Your new bookmarks option: simple yet powerful
 - [tamton-aquib/zone.nvim](https://github.com/tamton-aquib/zone.nvim) - Screensaver plugin for neovim.
 - [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
 - [d00h/telescope-any](https://github.com/d00h/telescope-any) - Switch neovim telescope picker by input prefix
@@ -1074,6 +1078,7 @@
 
 ## Rust 
 
+- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
