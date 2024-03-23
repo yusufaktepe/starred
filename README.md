@@ -1078,6 +1078,7 @@
 
 ## Rust 
 
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [astral-sh/rye](https://github.com/astral-sh/rye) - a Hassle-Free Python Experience
