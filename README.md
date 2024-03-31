@@ -121,7 +121,7 @@
 - [kernc/xsuspender](https://github.com/kernc/xsuspender) - :eyes: :computer: :zzz: :battery: Save battery by auto-suspending unfocused X11 applications.
 - [Usbac/nmly](https://github.com/Usbac/nmly) - Easy to use bulk rename utility for the terminal
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
-- [Randoragon/mousemode](https://github.com/Randoragon/mousemode) - An intuitive, home-row mouse replacement.
+- [randoragon/mousemode](https://github.com/randoragon/mousemode) - An intuitive, home-row mouse replacement.
 - [angt/totp](https://github.com/angt/totp) - A tiny command line utility to generate OTP tokens
 - [ym1234/colorpicker](https://github.com/ym1234/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
 - [Bad-ptr/xsetprop](https://github.com/Bad-ptr/xsetprop) - Program for setting X window properties, like xprop, but for 'set' only(not 'get') and allow setting list of atoms ( or patch for xprop ).
