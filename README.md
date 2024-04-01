@@ -604,6 +604,7 @@
 
 ## Lua 
 
+- [Makaze/watch.nvim](https://github.com/Makaze/watch.nvim) - A scrollable `watch` alternative for Neovim.
 - [volskaya/windovigation.nvim](https://github.com/volskaya/windovigation.nvim) - A plugin for Neovim that lets you switch buffers based on window unique file history like VScode and Evil Emacs, instead of a global buffer list.
 - [Zeioth/garbage-day.nvim](https://github.com/Zeioth/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
