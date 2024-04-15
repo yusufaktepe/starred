@@ -604,7 +604,7 @@
 
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ libera.chat
-- [puutaro/CommandClick](https://github.com/puutaro/CommandClick) - Android browser powered by ubuntu without root access and termux.
+- [puutaro/CommandClick](https://github.com/puutaro/CommandClick) - Addon-based android browser with an extraordinary addons: Ubuntu, Terminal, Qr reader & writer, youtube player, file manager etc...
 - [Yash-Garg/qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager) - [WIP] Modern qBittorrent WebUI Client for Android written in Kotlin
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
@@ -612,6 +612,7 @@
 
 ## Lua 
 
+- [Myzel394/jsonfly.nvim](https://github.com/Myzel394/jsonfly.nvim) - ❴🦋❵ Fly through your JSON files with ease. Search ✨ blazingly fast ✨ for keys via Telescope.
 - [arnamak/stay-centered.nvim](https://github.com/arnamak/stay-centered.nvim) - A neovim plugin to keep your cursor at the center of the screen.
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) - This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed
 - [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
