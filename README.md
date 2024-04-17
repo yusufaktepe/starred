@@ -542,7 +542,7 @@
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 - [jaggedsoft/node-binance-api](https://github.com/jaggedsoft/node-binance-api) - Node Binance API is an asynchronous node.js library for the Binance API designed to be easy to use.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
-- [imgix/luminous](https://github.com/imgix/luminous) - A simple, lightweight, no-dependencies JavaScript lightbox
+- [strawdynamics/luminous](https://github.com/strawdynamics/luminous) - A simple, lightweight, no-dependencies JavaScript lightbox
 - [forwardemail/free-email-forwarding](https://github.com/forwardemail/free-email-forwarding) - The best free email forwarding for custom domains.  Visit our website to get started (SMTP server)
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5200 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
