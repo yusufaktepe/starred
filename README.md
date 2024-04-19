@@ -612,6 +612,7 @@
 
 ## Lua 
 
+- [backdround/global-note.nvim](https://github.com/backdround/global-note.nvim) - Opens global note in a float window
 - [johmsalas/text-case.nvim](https://github.com/johmsalas/text-case.nvim) - An all in one plugin for converting text case in Neovim
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim
 - [FabijanZulj/blame.nvim](https://github.com/FabijanZulj/blame.nvim) - Neovim fugitive style git blame plugin
