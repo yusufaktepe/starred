@@ -631,7 +631,7 @@
 - [jonniek/mpv-playlistmanager](https://github.com/jonniek/mpv-playlistmanager) - Mpv lua script to create and manage playlists
 - [tomasklaen/uosc](https://github.com/tomasklaen/uosc) - Feature-rich minimalist proximity-based UI for MPV player.
 - [Makaze/watch.nvim](https://github.com/Makaze/watch.nvim) - A scrollable `watch` alternative for Neovim.
-- [volskaya/windovigation.nvim](https://github.com/volskaya/windovigation.nvim) - Neovim plugin that lets you switch between buffers based on a window scoped buffer list, like VScode and Evil Emacs, instead of a global buffer list.
+- [volskaya/windovigation.nvim](https://github.com/volskaya/windovigation.nvim) - Nvim plugin that scopes buffers to window split, like VScode and Evil Emacs, instead of a global buffer list.
 - [Zeioth/garbage-day.nvim](https://github.com/Zeioth/garbage-day.nvim) - Garbage collector that stops inactive LSP clients to free RAM
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) - I tried quite a lot `Project Management` plugins. In the end, I found all I need is just an easier way to `cd` to another project directory.
 - [LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim) - A collection of intuitive, easily searchable, and ready-to-use commands.
