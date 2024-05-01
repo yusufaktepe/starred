@@ -148,7 +148,7 @@
 - [spieglt/whatfiles](https://github.com/spieglt/whatfiles) - Log what files are accessed by any Linux process
 - [atx/wtype](https://github.com/atx/wtype) - xdotool type for wayland
 - [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
-- [pwmt/zathura](https://github.com/pwmt/zathura) - a document viewer
+- [pwmt/zathura](https://github.com/pwmt/zathura) - Document viewer
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
 - [jqlang/jq](https://github.com/jqlang/jq) - Command-line JSON processor
@@ -612,6 +612,7 @@
 
 ## Lua 
 
+- [LukasPietzschmann/boo.nvim](https://github.com/LukasPietzschmann/boo.nvim) - Quickly pop-up lsp-powered infos of the thing your cursor is on
 - [moyiz/git-dev.nvim](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
 - [b0o/nvim-tree-preview.lua](https://github.com/b0o/nvim-tree-preview.lua) - Floating preview windows for nvim-tree
 - [ibhagwan/smartyank.nvim](https://github.com/ibhagwan/smartyank.nvim) - 
