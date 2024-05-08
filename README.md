@@ -1449,6 +1449,7 @@
 
 ## TypeScript 
 
+- [cq2-co/cq2](https://github.com/cq2-co/cq2) - The best way to have complex discussions
 - [Yqnn/svg-path-editor](https://github.com/Yqnn/svg-path-editor) - Online editor to create and manipulate SVG paths
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [johnlindquist/kit](https://github.com/johnlindquist/kit) - Script Kit. Automate Anything.
