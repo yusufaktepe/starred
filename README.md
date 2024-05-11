@@ -612,6 +612,7 @@
 
 ## Lua 
 
+- [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) - Neovim git GUI powered by libgit2
 - [tjdevries/config.nvim](https://github.com/tjdevries/config.nvim) - my nvim config
 - [mawkler/modicator.nvim](https://github.com/mawkler/modicator.nvim) - Cursor line number mode indicator plugin for Neovim
 - [serenevoid/kiwi.nvim](https://github.com/serenevoid/kiwi.nvim) - A stripped down VimWiki for neovim
