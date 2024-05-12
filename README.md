@@ -880,6 +880,7 @@
 
 ## Nim 
 
+- [inv2004/ttop](https://github.com/inv2004/ttop) - System monitoring tool with historical data service, triggers and top-like TUI
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 
 ## OCaml 
