@@ -612,6 +612,7 @@
 
 ## Lua 
 
+- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [dstein64/nvim-scrollview](https://github.com/dstein64/nvim-scrollview) - A Neovim plugin that displays interactive vertical scrollbars and signs.
 - [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) - Neovim git GUI powered by libgit2
 - [tjdevries/config.nvim](https://github.com/tjdevries/config.nvim) - my nvim config
