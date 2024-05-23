@@ -979,7 +979,7 @@
 - [kittinan/spotify-github-profile](https://github.com/kittinan/spotify-github-profile) - Show your Spotify playing on your Github profile
 - [patri9ck/a2ln-server](https://github.com/patri9ck/a2ln-server) - A way to display Android phone notifications on Linux (Server)
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
-- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - 🔎 Hunt down social media accounts by username across social networks
+- [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [intoli/exodus](https://github.com/intoli/exodus) - Painless relocation of Linux binaries–and all of their dependencies–without containers.
 - [iamkroot/trakt-scrobbler](https://github.com/iamkroot/trakt-scrobbler) - Scrobbler for trakt.tv that supports VLC, Plex, MPC-HC, and MPV.
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
