@@ -627,7 +627,7 @@
 - [ibhagwan/smartyank.nvim](https://github.com/ibhagwan/smartyank.nvim) - 
 - [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua) - Clipboard manager neovim plugin with telescope integration
 - [lukas-reineke/virt-column.nvim](https://github.com/lukas-reineke/virt-column.nvim) - Display a character as the colorcolumn
-- [vague2k/huez.nvim](https://github.com/vague2k/huez.nvim) - Neovim persistent colorscheme picker and previewer
+- [vague2k/huez.nvim](https://github.com/vague2k/huez.nvim) - All things color related. All Lua.
 - [backdround/global-note.nvim](https://github.com/backdround/global-note.nvim) - Opens global note in a float window
 - [johmsalas/text-case.nvim](https://github.com/johmsalas/text-case.nvim) - An all in one plugin for converting text case in Neovim
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) - Screencast your keys in Neovim
