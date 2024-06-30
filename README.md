@@ -1186,7 +1186,7 @@
 - [PaulJuliusMartinez/jless](https://github.com/PaulJuliusMartinez/jless) - jless is a command-line JSON viewer designed for reading, exploring, and searching through JSON data.
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [andreykaere/ixwindow](https://github.com/andreykaere/ixwindow) - Iconized xwindow module for Polybar (for bspwm and i3wm)
-- [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - Yet another generic purpose fancy watcher.
+- [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - A lightweight generic purpose file watcher.
 - [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
 - [jpochyla/psst](https://github.com/jpochyla/psst) - Fast and multi-platform Spotify client with native GUI
