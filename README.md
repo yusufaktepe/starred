@@ -365,6 +365,7 @@
 
 ## Go 
 
+- [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [Link-/gh-stars](https://github.com/Link-/gh-stars) - Search your starred ★ repositories on GitHub from your terminal
 - [grafov/shift-shift](https://github.com/grafov/shift-shift) - Xorg/Wayland keyboard layout switcher.
@@ -616,7 +617,7 @@
 
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ libera.chat
-- [puutaro/CommandClick](https://github.com/puutaro/CommandClick) - Android browser for addons, by addons, and for addons.
+- [puutaro/CommandClick](https://github.com/puutaro/CommandClick) - Android browser of addons, by addons, and for addons.
 - [Yash-Garg/qBittorrent-Manager](https://github.com/Yash-Garg/qBittorrent-Manager) - [WIP] Modern qBittorrent WebUI Client for Android written in Kotlin
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - K-9 Mail – Open Source Email App for Android
@@ -1144,6 +1145,7 @@
 
 ## Rust 
 
+- [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
 - [fioncat/otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
 - [one-d-wide/random-rs](https://github.com/one-d-wide/random-rs) - Generate random numbers from CLI
