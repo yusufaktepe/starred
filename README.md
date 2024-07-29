@@ -407,7 +407,7 @@
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [birchb1024/frangipanni](https://github.com/birchb1024/frangipanni) - Program to convert lines of text into a tree structure.
-- [GGP1/kure](https://github.com/GGP1/kure) - Cross-platform command-line password manager with sessions
+- [GGP1/kure](https://github.com/GGP1/kure) - CLI password manager for hackers
 - [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 - [redcode-labs/UnChain](https://github.com/redcode-labs/UnChain) - A tool to find redirection chains in multiple URLs
 - [xyproto/fstabfmt](https://github.com/xyproto/fstabfmt) - :large_blue_circle: Format /etc/fstab automatically.
