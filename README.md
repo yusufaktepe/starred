@@ -365,6 +365,7 @@
 
 ## Go 
 
+- [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [Link-/gh-stars](https://github.com/Link-/gh-stars) - Search your starred ★ repositories on GitHub from your terminal
@@ -625,6 +626,7 @@
 
 ## Lua 
 
+- [nvim-focus/focus.nvim](https://github.com/nvim-focus/focus.nvim) - Auto-Focusing and Auto-Resizing Splits/Windows for Neovim written in Lua. A full suite of window management enhancements. Vim splits on steroids!
 - [HiPhish/rainbow-delimiters.nvim](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters for Neovim with Tree-sitter
 - [sontungexpt/stinvim](https://github.com/sontungexpt/stinvim) - Ready Neovim's configuration for fullstack developers.
 - [antonk52/markdowny.nvim](https://github.com/antonk52/markdowny.nvim) - Markdown like keymaps for toggling text formatting
