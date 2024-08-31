@@ -982,6 +982,7 @@
 
 ## Python 
 
+- [SUSE/suse-font](https://github.com/SUSE/suse-font) - 
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [try V7!] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
 - [conda/conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
 - [byroot/pysrt](https://github.com/byroot/pysrt) - Python parser for SubRip (srt) files
