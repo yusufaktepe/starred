@@ -636,6 +636,7 @@
 
 ## Lua 
 
+- [yetone/cosmos-nvim](https://github.com/yetone/cosmos-nvim) - A must-have configuration for Spacemacs users after defecting to Vim
 - [theHamsta/nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text) - 
 - [VonHeikemen/searchbox.nvim](https://github.com/VonHeikemen/searchbox.nvim) - Start your search from a more comfortable place, say the upper right corner?
 - [emmanueltouzery/decisive.nvim](https://github.com/emmanueltouzery/decisive.nvim) - Neovim plugin to assist work with CSV files
