@@ -990,6 +990,7 @@
 
 ## Python 
 
+- [gps1539/stock_quote](https://github.com/gps1539/stock_quote) - python script to get stock quotes and calculate gains and losses
 - [miseran/i3-tools](https://github.com/miseran/i3-tools) - Some of my personal tools for the i3 window manager.
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -1175,6 +1176,7 @@
 
 ## Rust 
 
+- [RaphGL/Tuckr](https://github.com/RaphGL/Tuckr) - Super powered replacement for GNU Stow
 - [romdt/i3kb](https://github.com/romdt/i3kb) - i3wm daemon that remembers/switches the keyboard layout per window
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
