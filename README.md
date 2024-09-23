@@ -636,6 +636,7 @@
 
 ## Lua 
 
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [mcauley-penney/tidy.nvim](https://github.com/mcauley-penney/tidy.nvim) - A small Neovim plugin to remove trailing whitespace and empty lines at end of file on every save
 - [aaron-p1/match-visual.nvim](https://github.com/aaron-p1/match-visual.nvim) - Plugin to match visually selected text
 - [mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim) - A Neovim plugin to reveal whitespace characters in visual mode, like VSCode
