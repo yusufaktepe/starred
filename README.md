@@ -636,6 +636,7 @@
 
 ## Lua 
 
+- [natural-harmonia-gropius/recent-menu](https://github.com/natural-harmonia-gropius/recent-menu) - Recently played menu for mpv.
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [mcauley-penney/tidy.nvim](https://github.com/mcauley-penney/tidy.nvim) - A small Neovim plugin to remove trailing whitespace and empty lines at end of file on every save
 - [aaron-p1/match-visual.nvim](https://github.com/aaron-p1/match-visual.nvim) - Plugin to match visually selected text
@@ -951,6 +952,7 @@
 
 ## Others 
 
+- [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
@@ -997,6 +999,7 @@
 
 ## Python 
 
+- [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [gps1539/stock_quote](https://github.com/gps1539/stock_quote) - python script to get stock quotes and calculate gains and losses
 - [miseran/i3-tools](https://github.com/miseran/i3-tools) - Some of my personal tools for the i3 window manager.
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
