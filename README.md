@@ -635,6 +635,9 @@
 
 ## Lua 
 
+- [natural-harmonia-gropius/input-event](https://github.com/natural-harmonia-gropius/input-event) - InputEvent.lua for mpv-player, enhanced input.conf with better, conflict-free, low-latency event mechanism.
+- [po5/evafast](https://github.com/po5/evafast) - mpv script for hybrid fastforward and seeking
+- [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) - multiple cursors in neovim
 - [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
 - [natural-harmonia-gropius/recent-menu](https://github.com/natural-harmonia-gropius/recent-menu) - Recently played menu for mpv.
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
