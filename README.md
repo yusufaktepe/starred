@@ -634,6 +634,8 @@
 
 ## Lua 
 
+- [mawkler/demicolon.nvim](https://github.com/mawkler/demicolon.nvim) - Overloaded ; and , keys in Neovim
+- [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin
 - [natural-harmonia-gropius/input-event](https://github.com/natural-harmonia-gropius/input-event) - InputEvent.lua for mpv-player, enhanced input.conf with better, conflict-free, low-latency event mechanism.
 - [po5/evafast](https://github.com/po5/evafast) - mpv script for hybrid fastforward and seeking
 - [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) - multiple cursors in neovim
