@@ -1733,7 +1733,7 @@
 
 ## Zig 
 
-- [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig package designed for filtering filepaths
+- [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig module designed for filtering filepaths
 - [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 
 
