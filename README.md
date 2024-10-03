@@ -634,6 +634,7 @@
 
 ## Lua 
 
+- [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) - Map keys without delay when typing
 - [mawkler/demicolon.nvim](https://github.com/mawkler/demicolon.nvim) - Overloaded ; and , keys in Neovim
 - [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin
 - [natural-harmonia-gropius/input-event](https://github.com/natural-harmonia-gropius/input-event) - InputEvent.lua for mpv-player, enhanced input.conf with better, conflict-free, low-latency event mechanism.
@@ -1729,7 +1730,7 @@
 
 ## Vue 
 
-- [Schroedinger-Hat/ImageGoNord](https://github.com/Schroedinger-Hat/ImageGoNord) - A tool that can convert your rgb images to nordtheme palette
+- [Schroedinger-Hat/ImageGoNord-Web](https://github.com/Schroedinger-Hat/ImageGoNord-Web) - A tool that can convert your rgb images to nordtheme palette
 
 ## Zig 
 
