@@ -1192,6 +1192,8 @@
 
 ## Rust 
 
+- [GuillemCastro/spotify-dl](https://github.com/GuillemCastro/spotify-dl) - A command-line utility to download songs and playlists directly from Spotify's servers
+- [dhruv-ahuja/spoti-dl](https://github.com/dhruv-ahuja/spoti-dl) - spoti-dl: download songs, albums and playlists using Spotify links
 - [lbonn/i3-focus-last](https://github.com/lbonn/i3-focus-last) - 
 - [RaphGL/Tuckr](https://github.com/RaphGL/Tuckr) - Super powered replacement for GNU Stow
 - [romdt/i3kb](https://github.com/romdt/i3kb) - i3wm daemon that remembers/switches the keyboard layout per window
