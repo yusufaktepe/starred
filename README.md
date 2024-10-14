@@ -373,6 +373,8 @@
 
 ## Go 
 
+- [noborus/mdviewer](https://github.com/noborus/mdviewer) - Rendered display of markdown on terminal
+- [noborus/ov](https://github.com/noborus/ov) - 🎑Feature-rich terminal-based text viewer.  It is a so-called terminal pager.
 - [josephburnett/jd](https://github.com/josephburnett/jd) - JSON diff and patch
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
 - [quexten/goldwarden](https://github.com/quexten/goldwarden) - A feature-packed Bitwarden compatible desktop client
@@ -634,6 +636,7 @@
 
 ## Lua 
 
+- [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
 - [fcancelinha/nordern.nvim](https://github.com/fcancelinha/nordern.nvim) - A carefully crafted Nord❄️ color scheme written in Lua for Neovim.
 - [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) - Map keys without delay when typing
 - [mawkler/demicolon.nvim](https://github.com/mawkler/demicolon.nvim) - Overloaded ; and , keys in Neovim
