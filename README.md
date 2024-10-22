@@ -528,6 +528,9 @@
 
 ## Java 
 
+- [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
+- [Catfriend1/syncthing-android-fdroid](https://github.com/Catfriend1/syncthing-android-fdroid) - Syncthing-Fork - A Syncthing Wrapper for Android. F-Droid release channel. DO NOT USE except for builds. Refer to https://github.com/Catfriend1/syncthing-android if you'd like to issue PR.
+- [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [thevindu-w/clip_share_client](https://github.com/thevindu-w/clip_share_client) - Clip Share Android client. Share clipboard between devices. Share files and screenshots securely.
 - [viktorholk/push-notifications-api](https://github.com/viktorholk/push-notifications-api) - 📱 Send Instant Push Notifications to your Android Phone through a REST-API.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
@@ -643,11 +646,11 @@
 - [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) - Map keys without delay when typing
 - [mawkler/demicolon.nvim](https://github.com/mawkler/demicolon.nvim) - Overloaded ; and , keys in Neovim
 - [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin
-- [natural-harmonia-gropius/input-event](https://github.com/natural-harmonia-gropius/input-event) - InputEvent.lua for mpv-player, enhanced input.conf with better, conflict-free, low-latency event mechanism.
+- [natural-harmonia-gropius/input-event](https://github.com/natural-harmonia-gropius/input-event) - Enhanced input.conf for mpv-player. with better, conflict-free, low-latency event mechanism.
 - [po5/evafast](https://github.com/po5/evafast) - mpv script for hybrid fastforward and seeking
 - [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) - multiple cursors in neovim
 - [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) - Display LSP inlay hints at the end of the line, rather than within the line.
-- [natural-harmonia-gropius/recent-menu](https://github.com/natural-harmonia-gropius/recent-menu) - Recently played menu for mpv.
+- [natural-harmonia-gropius/recent-menu](https://github.com/natural-harmonia-gropius/recent-menu) - Recently played menu for mpv-player.
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [mcauley-penney/tidy.nvim](https://github.com/mcauley-penney/tidy.nvim) - A small Neovim plugin to remove trailing whitespace and empty lines at end of file on every save
 - [aaron-p1/match-visual.nvim](https://github.com/aaron-p1/match-visual.nvim) - Plugin to match visually selected text
