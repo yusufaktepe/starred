@@ -240,6 +240,7 @@
 
 ## C++ 
 
+- [madsen/vbindiff](https://github.com/madsen/vbindiff) - Visual Binary Diff (VBinDiff) displays files in hex & ASCII and can highlight the differences between 2 files
 - [tycho-kirchner/shournal](https://github.com/tycho-kirchner/shournal) - Log shell-commands and used files. Snapshot executed scripts. Fully automatic.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [mikesart/inotify-info](https://github.com/mikesart/inotify-info) - Linux inotify info reporting app
@@ -286,7 +287,7 @@
 - [AGWA/git-crypt](https://github.com/AGWA/git-crypt) - Transparent file encryption in git
 - [yiffyrusdev/torodofi](https://github.com/yiffyrusdev/torodofi) - Simple markdown-compatible To-Do client driven by rofi
 - [kraxarn/spotify-qt](https://github.com/kraxarn/spotify-qt) - Lightweight Spotify client using Qt
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.5: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 7.0: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [ncmpcpp/ncmpcpp](https://github.com/ncmpcpp/ncmpcpp) - Featureful ncurses based MPD client inspired by ncmpc
 - [MusicPlayerDaemon/MPD](https://github.com/MusicPlayerDaemon/MPD) - Music Player Daemon
 - [naelstrof/maim](https://github.com/naelstrof/maim) - maim (make image) takes screenshots of your desktop. It has options to take only a region, and relies on slop to query for regions. maim is supposed to be an improved scrot.
@@ -544,6 +545,7 @@
 
 ## JavaScript 
 
+- [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [urin/vscode-web-visual-editor](https://github.com/urin/vscode-web-visual-editor) - Edit HTML files visually.
 - [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder) - A comprehensive firefox profile, themes, userCSS and userChrome builder
 - [audreyt/ethercalc](https://github.com/audreyt/ethercalc) - Node.js port of Multi-user SocialCalc
@@ -754,7 +756,7 @@
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
 - [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv) - cmp import and use all environment variables from .env.* and system
 - [HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst
-- [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim) - Show diagnostics and lsp info inside a custom window, following the mouse position
+- [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim) - Show diagnostics and lsp info inside a custom window
 - [OscarCreator/rsync.nvim](https://github.com/OscarCreator/rsync.nvim) - neovim plugin which synchronises project with rsync on save.
 - [carbon-steel/detour.nvim](https://github.com/carbon-steel/detour.nvim) - Use popup windows to navigate files/buffer and to contain shells/TUIs
 - [nvim-java/nvim-java](https://github.com/nvim-java/nvim-java) - Painless Java in Neovim
@@ -841,7 +843,7 @@
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [folke/styler.nvim](https://github.com/folke/styler.nvim) - Simple Neovim plugin to set a different colorscheme per filetype.
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim, winbar alternative
-- [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua) - Maintained fork of the fastest Neovim colorizer
+- [NvChad/nvim-colorizer.lua](https://github.com/NvChad/nvim-colorizer.lua) - UNMaintained fork of the fastest Neovim colorizer
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code
 - [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) - Not UFO in the sky, but an ultra fold in Neovim.
@@ -1200,13 +1202,14 @@
 
 ## Rust 
 
+- [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [GuillemCastro/spotify-dl](https://github.com/GuillemCastro/spotify-dl) - A command-line utility to download songs and playlists directly from Spotify's servers
 - [lbonn/i3-focus-last](https://github.com/lbonn/i3-focus-last) - 
 - [RaphGL/Tuckr](https://github.com/RaphGL/Tuckr) - Super powered replacement for GNU Stow
 - [romdt/i3kb](https://github.com/romdt/i3kb) - i3wm daemon that remembers/switches the keyboard layout per window
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one AI CLI tool featuring Chat-REPL, Shell Assistant, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI tools & agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [cortex/ripasso](https://github.com/cortex/ripasso) - A simple password manager written in Rust
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
