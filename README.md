@@ -642,6 +642,7 @@
 
 ## Lua 
 
+- [DanilaMihailov/beacon.nvim](https://github.com/DanilaMihailov/beacon.nvim) - Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of small QoL plugins for Neovim
 - [stevearc/quicker.nvim](https://github.com/stevearc/quicker.nvim) - Improved UI and workflow for the Neovim quickfix
 - [iguanacucumber/magazine.nvim](https://github.com/iguanacucumber/magazine.nvim) - nvim-cmp fork
@@ -971,6 +972,7 @@
 
 ## Others 
 
+- [Sysmagine/SemanticDiff](https://github.com/Sysmagine/SemanticDiff) - Community support for SemanticDiff, the programming language aware diff for Visual Studio Code and GitHub.
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
