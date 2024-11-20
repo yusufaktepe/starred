@@ -145,7 +145,7 @@
 - [rhaas80/pa_volume](https://github.com/rhaas80/pa_volume) - Allows to set volume of non-active pulseaudio clients
 - [phillbush/xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
 - [phillbush/xclickroot](https://github.com/phillbush/xclickroot) - click on root window and run a command
-- [Sysinternals/ProcMon-for-Linux](https://github.com/Sysinternals/ProcMon-for-Linux) - Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall a
+- [microsoft/ProcMon-for-Linux](https://github.com/microsoft/ProcMon-for-Linux) - A Linux version of the Procmon Sysinternals tool
 - [jordansissel/xdotool](https://github.com/jordansissel/xdotool) - fake keyboard/mouse input, window management, and more
 - [bAndie91/libnss_homehosts](https://github.com/bAndie91/libnss_homehosts) - Linux NSS library supports ~/.hosts
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
@@ -240,6 +240,7 @@
 
 ## C++ 
 
+- [epasveer/seer](https://github.com/epasveer/seer) - Seer - a gui frontend to gdb
 - [madsen/vbindiff](https://github.com/madsen/vbindiff) - Visual Binary Diff (VBinDiff) displays files in hex & ASCII and can highlight the differences between 2 files
 - [tycho-kirchner/shournal](https://github.com/tycho-kirchner/shournal) - Log shell-commands and used files. Snapshot executed scripts. Fully automatic.
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
@@ -475,7 +476,7 @@
 - [doronbehar/pistol](https://github.com/doronbehar/pistol) - General purpose file previewer designed for Ranger, Lf to make scope.sh redundant
 - [mvdan/xurls](https://github.com/mvdan/xurls) - Extract urls from text
 - [mkchoi212/fac](https://github.com/mkchoi212/fac) - Easy-to-use CUI for fixing git conflicts
-- [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
+- [mholt/archiver](https://github.com/mholt/archiver) - DEPRECATED. Please use mholt/archives instead.
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [zaquestion/lab](https://github.com/zaquestion/lab) - Lab wraps Git or Hub, making it simple to clone, fork, and interact with repositories on GitLab
 - [mislav/hub](https://github.com/mislav/hub) - A command-line tool that makes git easier to use with GitHub.
@@ -546,6 +547,7 @@
 
 ## JavaScript 
 
+- [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [urin/vscode-web-visual-editor](https://github.com/urin/vscode-web-visual-editor) - Edit HTML files visually.
 - [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder) - A comprehensive firefox profile, themes, userCSS and userChrome builder
@@ -632,6 +634,7 @@
 
 ## Kotlin 
 
+- [catpuppyapp/PuppyGit](https://github.com/catpuppyapp/PuppyGit) - 
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ libera.chat
 - [puutaro/CommandClick](https://github.com/puutaro/CommandClick) - "another history" browser in android: has transparent UI, gif URL history, Ubuntu, and unique addon
@@ -660,7 +663,7 @@
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [mcauley-penney/tidy.nvim](https://github.com/mcauley-penney/tidy.nvim) - A small Neovim plugin to remove trailing whitespace and empty lines at end of file on every save
 - [aaron-p1/match-visual.nvim](https://github.com/aaron-p1/match-visual.nvim) - Plugin to match visually selected text
-- [mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim) - A Neovim plugin to reveal whitespace characters in visual mode, like VSCode
+- [mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim) - Imitate VSCode's "Render Whitespace" feature in visual mode
 - [catgoose/telescope-helpgrep.nvim](https://github.com/catgoose/telescope-helpgrep.nvim) - Telescope extension that uses Telescope builtins (live_grep or grep_string) to grep through help files
 - [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) - Create, review, and manage Gitlab reources without leaving Neovim
 - [Fildo7525/pretty_hover](https://github.com/Fildo7525/pretty_hover) - A small and customizable neovim plugin for pretty printing the hover information from LSP servers
@@ -1208,6 +1211,8 @@
 
 ## Rust 
 
+- [theiskaa/markdown2pdf](https://github.com/theiskaa/markdown2pdf) - Convert markdown to pdf (a md to pdf transpiler)
+- [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [GuillemCastro/spotify-dl](https://github.com/GuillemCastro/spotify-dl) - A command-line utility to download songs and playlists directly from Spotify's servers
@@ -1397,6 +1402,7 @@
 
 ## Shell 
 
+- [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 - [tmux-plugins/tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) - Plugin that highlights when you press tmux prefix key
 - [siduck/bubbly](https://github.com/siduck/bubbly) - Show beautiful keystrokes  & generate chat bubble widgets while typing on Linux
@@ -1555,6 +1561,7 @@
 
 ## TypeScript 
 
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [Make-md/makemd](https://github.com/Make-md/makemd) - 
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
