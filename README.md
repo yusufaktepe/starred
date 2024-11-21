@@ -514,6 +514,7 @@
 - [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [Changaco/unicode-progress-bars](https://github.com/Changaco/unicode-progress-bars) - A generator of Unicode progress bars
 - [Vimux/blank](https://github.com/Vimux/blank) - Starter Hugo theme for use as a template for building custom themes
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## Haskell 
 
@@ -1004,7 +1005,6 @@
 - [dylanaraps/writing-a-tui-in-bash](https://github.com/dylanaraps/writing-a-tui-in-bash) - How to write a TUI in BASH
 - [fphoenix88888/ttf-mswin10-arch](https://github.com/fphoenix88888/ttf-mswin10-arch) - MS Windows 10 Fonts for Arch Linux
 - [sindresorhus/awesome-electron](https://github.com/sindresorhus/awesome-electron) - Useful resources for creating apps with Electron
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## PHP 
 
