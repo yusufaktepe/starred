@@ -448,6 +448,7 @@
 - [oniony/TMSU](https://github.com/oniony/TMSU) - TMSU lets you tags your files and then access them through a nifty virtual filesystem from any other application.
 - [knqyf263/pet](https://github.com/knqyf263/pet) - Simple command-line snippet manager
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
+- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [benhoyt/goawk](https://github.com/benhoyt/goawk) - A POSIX-compliant AWK interpreter written in Go, with CSV support
 - [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don't need to remember a passcode
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
@@ -549,6 +550,7 @@
 
 ## JavaScript 
 
+- [aaronraimist/DontFuckWithPaste](https://github.com/aaronraimist/DontFuckWithPaste) - Google Chrome and Firefox extension that prevents the blocking of pasting into input fields
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [urin/vscode-web-visual-editor](https://github.com/urin/vscode-web-visual-editor) - Edit HTML files visually.
@@ -1032,7 +1034,7 @@
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [gps1539/stock_quote](https://github.com/gps1539/stock_quote) - python script to get stock quotes and calculate gains and losses
 - [miseran/i3-tools](https://github.com/miseran/i3-tools) - Some of my personal tools for the i3 window manager.
-- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - Brand new TTS solution
+- [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [SUSE/suse-font](https://github.com/SUSE/suse-font) - 
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [Try V7!] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
@@ -1231,7 +1233,7 @@
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
-- [elijah-potter/harper](https://github.com/elijah-potter/harper) - The Grammar Checker for Developers
+- [Automattic/harper](https://github.com/Automattic/harper) - The Grammar Checker for Developers
 - [fioncat/otree](https://github.com/fioncat/otree) - A command line tool to view objects (JSON/YAML/TOML) in TUI tree widget.
 - [one-d-wide/random-rs](https://github.com/one-d-wide/random-rs) - Generate random numbers from CLI
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -1604,7 +1606,6 @@
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
-- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [honkit/honkit](https://github.com/honkit/honkit) - :book: HonKit is building beautiful books using Markdown - Fork of GitBook
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
