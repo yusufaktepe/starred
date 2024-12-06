@@ -237,7 +237,7 @@
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 - [imgbot/Imgbot](https://github.com/imgbot/Imgbot) - An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once i
 - [fedarovich/qbittorrent-cli](https://github.com/fedarovich/qbittorrent-cli) - Command line interface for QBittorrent
-- [IngvarX/Camelot](https://github.com/IngvarX/Camelot) - Camelot is cross-platform file manager written in C#
+- [IngvarX/Camelot](https://github.com/IngvarX/Camelot) - Camelot is a cross-platform file manager written in C#
 
 ## C++ 
 
@@ -1568,6 +1568,7 @@
 
 ## TypeScript 
 
+- [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and more...
 - [Make-md/makemd](https://github.com/Make-md/makemd) - 
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
