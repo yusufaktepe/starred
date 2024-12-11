@@ -640,7 +640,7 @@
 
 - [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Restore link control on Android 12+
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
-- [catpuppyapp/PuppyGit](https://github.com/catpuppyapp/PuppyGit) - 
+- [catpuppyapp/PuppyGit](https://github.com/catpuppyapp/PuppyGit) - An android git client
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 - [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - #mpv-android @ libera.chat
 - [puutaro/CommandClick](https://github.com/puutaro/CommandClick) - "another history" browser in android: has transparent UI, gif URL history, Ubuntu, and unique addon
