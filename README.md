@@ -651,6 +651,7 @@
 
 ## Lua 
 
+- [Saghen/blink.compat](https://github.com/Saghen/blink.compat) - Compatibility layer for using nvim-cmp sources on blink.cmp
 - [benlubas/cmp2lsp](https://github.com/benlubas/cmp2lsp) - use nvim-cmp sources as if they were native LSP sources (mostly)
 - [neolooong/whichpy.nvim](https://github.com/neolooong/whichpy.nvim) - Python interpreter selector for Neovim. Switch interpreters without restarting LSP.
 - [sho-87/kanagawa-paper.nvim](https://github.com/sho-87/kanagawa-paper.nvim) - Remixed Kanagawa colourscheme with muted colors. For Neovim.
