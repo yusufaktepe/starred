@@ -851,6 +851,7 @@
 
 ## flutter 
 
+- [conventoangelo/OverKeys](https://github.com/conventoangelo/OverKeys) - An open-source, customizable on-screen keyboard visualizer for Windows. Learn and practice alternative layouts, personalize appearance, and improve your typing.
 - [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
@@ -1319,6 +1320,7 @@
 
 ## linux 
 
+- [mdSlash/nata](https://github.com/mdSlash/nata) - Nata is an application-aware switching layer for Kanata on Linux.
 - [CachyOS/ananicy-rules](https://github.com/CachyOS/ananicy-rules) - ananicy-cpp-rules for CachyOS
 - [luisbocanegra/linux-guide-split-audio-ports](https://github.com/luisbocanegra/linux-guide-split-audio-ports) - Split jack(headphones)/speakers outputs into individual sinks on Linux to allow simultaneous playback (listen to different audio streams on each port)
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
@@ -2112,6 +2114,7 @@
 
 ## others 
 
+- [veyxov/qanata](https://github.com/veyxov/qanata) - Application aware layer switching in `kanata`
 - [benlubas/wrapping-paper.nvim](https://github.com/benlubas/wrapping-paper.nvim) - Simple plugin which simulates wrapping a single line at a time using floating windows and virtual text trickery
 - [Aqaao/kanawin](https://github.com/Aqaao/kanawin) - Automatic switch layer plugin for kanata.
 - [hseliger/window-calls-extended](https://github.com/hseliger/window-calls-extended) - Gnome Extension for getting windows list in wayland
@@ -2232,12 +2235,12 @@
 - [chrisgrieser/nvim-genghis](https://github.com/chrisgrieser/nvim-genghis) - Lightweight and quick file operations without being a full-blown file manager.
 - [miversen33/sunglasses.nvim](https://github.com/miversen33/sunglasses.nvim) - Put on your shades so you only see what you care about
 - [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) - Automagical editing and creation of snippets.
-- [hakonharnes/img-clip.nvim](https://github.com/hakonharnes/img-clip.nvim) - Effortlessly embed images into any markup language, like LaTeX, Markdown or Typst
+- [hakonharnes/img-clip.nvim](https://github.com/hakonharnes/img-clip.nvim) - Embed images into any markup language, like LaTeX, Markdown or Typst
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for developers
 - [siduck/bubbly](https://github.com/siduck/bubbly) - Show beautiful keystrokes  & generate chat bubble widgets while typing on Linux
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [dgagn/diagflow.nvim](https://github.com/dgagn/diagflow.nvim) - LSP diagnostics in virtual text at the top right of your screen
-- [hinell/lsp-timeout.nvim](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop LSP servers upon demand; keeps RAM usage low
+- [hinell/lsp-timeout.nvim](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop LSP servers, keeps RAM usage low
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
 - [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - Add inline-comments to ignore rules, or lookup rule documentation online.
@@ -3140,6 +3143,7 @@
 
 ## shell 
 
+- [mdSlash/nata](https://github.com/mdSlash/nata) - Nata is an application-aware switching layer for Kanata on Linux.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [tycho-kirchner/shournal](https://github.com/tycho-kirchner/shournal) - Log shell-commands and used files. Snapshot executed scripts. Fully automatic.
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
@@ -3578,6 +3582,7 @@
 
 ## windows 
 
+- [conventoangelo/OverKeys](https://github.com/conventoangelo/OverKeys) - An open-source, customizable on-screen keyboard visualizer for Windows. Learn and practice alternative layouts, personalize appearance, and improve your typing.
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [KunalBagaria/rustyvibes](https://github.com/KunalBagaria/rustyvibes) - A Rust CLI that makes mechanical keyboard sound effects on every key press
 - [mackron/miniaudio](https://github.com/mackron/miniaudio) - Audio playback and capture library written in C, in a single source file.
