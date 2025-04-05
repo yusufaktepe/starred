@@ -1076,6 +1076,7 @@
 
 ## Python 
 
+- [mdSlash/hyprkan](https://github.com/mdSlash/hyprkan) - ⌨️ kanata Layer Switcher for Hyprland
 - [mijorus/whisper](https://github.com/mijorus/whisper) - 🎤  →  🎧️  Listen to your mic - with Pipewire
 - [autonomio/chances](https://github.com/autonomio/chances) - Package that implements several pseudo, quasi, and true, including quantum random methods into a unified single-line command interface.
 - [SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - 
