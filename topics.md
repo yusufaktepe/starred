@@ -1320,6 +1320,7 @@
 
 ## linux 
 
+- [mdSlash/hyprkan](https://github.com/mdSlash/hyprkan) - ⌨️ kanata Layer Switcher for Hyprland
 - [mdSlash/nata](https://github.com/mdSlash/nata) - Nata is an application-aware switching layer for Kanata on Linux.
 - [CachyOS/ananicy-rules](https://github.com/CachyOS/ananicy-rules) - ananicy-cpp-rules for CachyOS
 - [luisbocanegra/linux-guide-split-audio-ports](https://github.com/luisbocanegra/linux-guide-split-audio-ports) - Split jack(headphones)/speakers outputs into individual sinks on Linux to allow simultaneous playback (listen to different audio streams on each port)
@@ -2839,6 +2840,7 @@
 
 ## python 
 
+- [mdSlash/hyprkan](https://github.com/mdSlash/hyprkan) - ⌨️ kanata Layer Switcher for Hyprland
 - [SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [devlocalhost/pyspodl](https://github.com/devlocalhost/pyspodl) - pyspodl - a spotify downloader using librespot
