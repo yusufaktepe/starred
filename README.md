@@ -714,7 +714,7 @@
 - [mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim) - Imitate VSCode's "Render Whitespace" feature in visual mode
 - [catgoose/telescope-helpgrep.nvim](https://github.com/catgoose/telescope-helpgrep.nvim) - Telescope extension that uses Telescope builtins (live_grep or grep_string) to grep through help files
 - [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) - Manage Gitlab resources in Neovim
-- [Fildo7525/pretty_hover](https://github.com/Fildo7525/pretty_hover) - A small and customizable neovim plugin for pretty printing the hover information from LSP servers
+- [Fildo7525/pretty_hover](https://github.com/Fildo7525/pretty_hover) - A small and customizable Neovim plugin for pretty printing the hover information from LSP servers
 - [Zren/mpv-osc-tethys](https://github.com/Zren/mpv-osc-tethys) - An OSC UI replacement for MPV with icons from the bomi video player. Also contains thumbnail preview and a picture-in-picture button.
 - [yetone/cosmos-nvim](https://github.com/yetone/cosmos-nvim) - A must-have configuration for Spacemacs users after defecting to Vim
 - [theHamsta/nvim-dap-virtual-text](https://github.com/theHamsta/nvim-dap-virtual-text) - 
