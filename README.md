@@ -438,7 +438,7 @@
 - [maaslalani/gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI.
 - [xyproto/gendesk](https://github.com/xyproto/gendesk) - :herb: Generate .desktop files and download .png icons by specifying a minimum of information
-- [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
+- [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
 - [variadico/noti](https://github.com/variadico/noti) - Monitor a process and trigger a notification.
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON
 - [birchb1024/frangipanni](https://github.com/birchb1024/frangipanni) - Program to convert lines of text into a tree structure.
@@ -659,6 +659,7 @@
 
 ## Kotlin 
 
+- [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
 - [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) - Android mobile git client for syncing a repository between remote and a local directory
 - [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Link handling for modern Android
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
@@ -1274,6 +1275,7 @@
 
 ## Rust 
 
+- [reubeno/brush](https://github.com/reubeno/brush) - bash/POSIX-compatible shell implemented in Rust
 - [veyxov/qanata](https://github.com/veyxov/qanata) - Application aware layer switching in `kanata`
 - [Aqaao/kanawin](https://github.com/Aqaao/kanawin) - Automatic switch layer plugin for kanata.
 - [saivert/pwvucontrol](https://github.com/saivert/pwvucontrol) - Pipewire Volume Control
@@ -1287,7 +1289,7 @@
 - [xremap/xremap](https://github.com/xremap/xremap) - Key remapper for X11 and Wayland
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder TUI 📺
 - [KunalBagaria/rustyvibes](https://github.com/KunalBagaria/rustyvibes) - A Rust CLI that makes mechanical keyboard sound effects on every key press
-- [meli/meli](https://github.com/meli/meli) - 🐝 terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
+- [meli/meli](https://github.com/meli/meli) - terminal mail client, mirror of https://git.meli-email.org/meli/meli.git https://crates.io/crates/meli
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool
 - [desbma/pacman-hooks](https://github.com/desbma/pacman-hooks) - Arch Linux Pacman hooks
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
