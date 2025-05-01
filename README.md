@@ -363,8 +363,8 @@
 
 ## Dart 
 
-- [conventoangelo/OverKeys](https://github.com/conventoangelo/OverKeys) - An open-source, customizable on-screen keyboard visualizer for Windows. Learn and practice alternative layouts, personalize appearance, and improve your typing.
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [conventoangelo/OverKeys](https://github.com/conventoangelo/OverKeys) - An open-source keyboard layout visualizer for Windows. Learn and practice alternative layouts, personalize appearance, and improve your typing.
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [GitJournal/GitJournal](https://github.com/GitJournal/GitJournal) - Mobile first Note Taking integrated with Git
 
 ## Dockerfile 
