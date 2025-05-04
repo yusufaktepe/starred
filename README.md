@@ -66,6 +66,7 @@
 
 ## C 
 
+- [herrhotzenplotz/gcli](https://github.com/herrhotzenplotz/gcli) - Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool
 - [gamelinux/passivedns](https://github.com/gamelinux/passivedns) - A network sniffer that logs all DNS server replies for use in a passive DNS setup
 - [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
 - [Blezzing/blezz](https://github.com/Blezzing/blezz) - Keystroke Launcher
