@@ -455,7 +455,7 @@
 - [blrsn/zentile](https://github.com/blrsn/zentile) - Automatic Tiling for EWMH Compliant Window Managers
 - [boreq/eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
 - [FooSoft/md2vim](https://github.com/FooSoft/md2vim) - Tool for automatically converting markdown to vimdoc format
-- [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Terminal stock ticker with live updates and position tracking
+- [achannarasappa/ticker](https://github.com/achannarasappa/ticker) - Track stocks, crypto, and derivatives prices and positions in real time from your terminal
 - [mlafeldt/sysrq](https://github.com/mlafeldt/sysrq) - Go client to the Linux SysRq interface
 - [tj/triage](https://github.com/tj/triage) - Interactive command-line GitHub issue & notification triaging tool.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -540,6 +540,7 @@
 - [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [Changaco/unicode-progress-bars](https://github.com/Changaco/unicode-progress-bars) - A generator of Unicode progress bars
 - [Vimux/blank](https://github.com/Vimux/blank) - Starter Hugo theme for use as a template for building custom themes
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## Haskell 
@@ -1251,7 +1252,6 @@
 - [corrad1nho/qomui](https://github.com/corrad1nho/qomui) - Qomui (Qt OpenVPN Management UI)
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [t-wissmann/rofi-bibbrowser](https://github.com/t-wissmann/rofi-bibbrowser) - A bibtex powered browser for your PDF document collection
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
 - [stav121/i3wm-themer](https://github.com/stav121/i3wm-themer) - 🎨 Theme collection manager for i3-wm
 - [alexanderjeurissen/ranger_devicons](https://github.com/alexanderjeurissen/ranger_devicons) - Ranger plugin that adds file glyphs / icon support to Ranger
