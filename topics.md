@@ -144,6 +144,7 @@
 - [qt](#qt)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
+- [react-native](#react-native)
 - [reactjs](#reactjs)
 - [rest-api](#rest-api)
 - [ruby](#ruby)
@@ -2337,7 +2338,7 @@
 - [mariusae/trickle](https://github.com/mariusae/trickle) - Trickle is a userland bandwidth shaper for Unix-like systems.
 - [chubin/cheat.sheets](https://github.com/chubin/cheat.sheets) - cheat.sh cheat sheets repository
 - [yusufaktepe/rofi-gpaste](https://github.com/yusufaktepe/rofi-gpaste) - Rofi frontend for GPaste clipboard manager.
-- [smallwat3r/synonym](https://github.com/smallwat3r/synonym) - CLI tool to find synonyms in 15 different languages.
+- [smallwat3r/synonym](https://github.com/smallwat3r/synonym) - CLI tool to find synonyms in different languages.
 - [measurement-factory/dnstop](https://github.com/measurement-factory/dnstop) - Stay on top of your DNS traffic
 - [phisch/giph](https://github.com/phisch/giph) - simple video (gif, webm, mp4) recorder
 - [astrand/xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
@@ -2988,6 +2989,10 @@
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5800 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
+
+## react-native 
+
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
 
 ## reactjs 
 
