@@ -66,6 +66,7 @@
 
 ## C 
 
+- [tfonteyn/Sshd4a](https://github.com/tfonteyn/Sshd4a) - An Android 'sshd' server with shell access, rsync and scp/sftp services.
 - [herrhotzenplotz/gcli](https://github.com/herrhotzenplotz/gcli) - Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool
 - [gamelinux/passivedns](https://github.com/gamelinux/passivedns) - A network sniffer that logs all DNS server replies for use in a passive DNS setup
 - [plp13/qman](https://github.com/plp13/qman) - A more modern man page viewer for our terminals
@@ -393,6 +394,7 @@
 
 ## Go 
 
+- [natesales/q](https://github.com/natesales/q) - A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH.
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A TUI bluetooth manager for Linux.
 - [tomnomnom/anew](https://github.com/tomnomnom/anew) - A tool for adding new lines to files, skipping duplicates
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
