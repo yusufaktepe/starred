@@ -1283,6 +1283,7 @@
 
 ## Rust 
 
+- [dnut/clipboard-sync](https://github.com/dnut/clipboard-sync) - Synchronizes the clipboard across multiple X11 and wayland instances running on the same machine.
 - [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, memory-safe web server written in Rust.
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [veyxov/qanata](https://github.com/veyxov/qanata) - Application aware layer switching in `kanata`
