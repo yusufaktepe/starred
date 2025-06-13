@@ -252,6 +252,7 @@
 
 ## C++ 
 
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [vimpostor/blobdrop](https://github.com/vimpostor/blobdrop) - Drag and drop files directly out of the terminal
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
@@ -560,6 +561,7 @@
 
 ## Java 
 
+- [mafik/echo](https://github.com/mafik/echo) - Time travelling recorder for Android.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
@@ -577,6 +579,7 @@
 
 ## JavaScript 
 
+- [doubleyoustew/youtube-inline-fullscreen](https://github.com/doubleyoustew/youtube-inline-fullscreen) - Maximize Youtube videos inside your browser window.
 - [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs) - 📖 A free, lightweight, modern documentation theme for Hugo
 - [shweshi/terminal-stocks](https://github.com/shweshi/terminal-stocks) - terminal-stocks is a terminal based application that provide stock price information.
 - [hseliger/window-calls-extended](https://github.com/hseliger/window-calls-extended) - Gnome Extension for getting windows list in wayland
@@ -848,7 +851,7 @@
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) - 🖼️ Bringing images to Neovim.
 - [rockyzhang24/arctic.nvim](https://github.com/rockyzhang24/arctic.nvim) - Neovim color schemes ported from VSCode Dark+ and Dark Modern with Treesitter and semantic token highlighting
 - [00sapo/visual.nvim](https://github.com/00sapo/visual.nvim) - First select, then edit. A helix/kakoune-like editing in neovim
-- [chrisgrieser/nvim-origami](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance. A collection of Quality-of-life features related to folding.
+- [chrisgrieser/nvim-origami](https://github.com/chrisgrieser/nvim-origami) - Fold with relentless elegance. A collection of quality-of-life features related to folding.
 - [aznhe21/actions-preview.nvim](https://github.com/aznhe21/actions-preview.nvim) - Fully customizable previewer for LSP code actions.
 - [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) - A performant lsp progress status for Neovim.
 - [tomiis4/hypersonic.nvim](https://github.com/tomiis4/hypersonic.nvim) - A Neovim plugin that provides an explanation for regular expressions.
@@ -1699,7 +1702,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
 - [Bismuth-Forge/bismuth](https://github.com/Bismuth-Forge/bismuth) - KDE Plasma add-on, that tiles your windows automatically and lets you manage them via keyboard, similarly to i3, Sway or dwm.
 - [JeffreyCA/spotify-recently-played-readme](https://github.com/JeffreyCA/spotify-recently-played-readme) - Display your recently played Spotify tracks on your GitHub profile README.
-- [giscus/giscus](https://github.com/giscus/giscus) - A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
+- [giscus/giscus](https://github.com/giscus/giscus) - A commenting system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:
 - [utterance/utterances](https://github.com/utterance/utterances) - :crystal_ball: A lightweight comments widget built on GitHub issues
 - [banga/git-split-diffs](https://github.com/banga/git-split-diffs) - Syntax highlighted side-by-side diffs in your terminal
 - [conwnet/github1s](https://github.com/conwnet/github1s) - One second to read GitHub code with VS Code.
