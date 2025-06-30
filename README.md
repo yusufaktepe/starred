@@ -66,6 +66,7 @@
 
 ## C 
 
+- [moverest/wl-kbptr](https://github.com/moverest/wl-kbptr) - Control the mouse pointer with the keyboard on Wayland.
 - [tfonteyn/Sshd4a](https://github.com/tfonteyn/Sshd4a) - An Android 'sshd' server with shell access, rsync and scp/sftp services.
 - [herrhotzenplotz/gcli](https://github.com/herrhotzenplotz/gcli) - Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool
 - [gamelinux/passivedns](https://github.com/gamelinux/passivedns) - A network sniffer that logs all DNS server replies for use in a passive DNS setup
@@ -536,7 +537,7 @@
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [kaiiiz/hugo-theme-monochrome](https://github.com/kaiiiz/hugo-theme-monochrome) - Monochrome is a fast, clean and responsive hugo theme
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
-- [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - DEPRECATED. A fork of the iconic font and CSS toolkit
+- [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit Being revived.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
 - [victorstanciu/hugo-tweets](https://github.com/victorstanciu/hugo-tweets) - 
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
@@ -1106,7 +1107,7 @@
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [SUSE/suse-font](https://github.com/SUSE/suse-font) - 
-- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+- [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [conda/conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
 - [byroot/pysrt](https://github.com/byroot/pysrt) - Python parser for SubRip (srt) files
 - [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate) - Open-source offline translation library written in Python
@@ -1285,6 +1286,8 @@
 
 ## Rust 
 
+- [MaxVerevkin/wlr-which-key](https://github.com/MaxVerevkin/wlr-which-key) - Keymap manager for wlroots-based compositors
+- [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀
 - [dnut/clipboard-sync](https://github.com/dnut/clipboard-sync) - Synchronizes the clipboard across multiple X11 and wayland instances running on the same machine.
 - [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, memory-safe web server written in Rust.
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
@@ -1306,7 +1309,7 @@
 - [desbma/pacman-hooks](https://github.com/desbma/pacman-hooks) - Arch Linux Pacman hooks
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [theiskaa/markdown2pdf](https://github.com/theiskaa/markdown2pdf) - Convert markdown to pdf (a md to pdf transpiler)
+- [theiskaa/markdown2pdf](https://github.com/theiskaa/markdown2pdf) - convert markdown to pdf (a md to pdf transpiler)
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
