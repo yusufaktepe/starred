@@ -109,7 +109,7 @@
 - [Mange/rofi-emoji](https://github.com/Mange/rofi-emoji) - Emoji selector plugin for Rofi
 - [posva/catimg](https://github.com/posva/catimg) - 🦦 Insanely fast image printing in your terminal
 - [bulwarkid/virtual-fido](https://github.com/bulwarkid/virtual-fido) - A Virtual FIDO2 USB Device
-- [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as Wayland.
+- [bk138/gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as XWayland.
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
 - [lotuskip/cursetag](https://github.com/lotuskip/cursetag) - NCurses based audio file tag (metadata) editor
 - [valr/cbatticon](https://github.com/valr/cbatticon) - A lightweight and fast battery icon that sits in your system tray
@@ -1088,6 +1088,7 @@
 
 ## Python 
 
+- [c4pt0r/gmailtail](https://github.com/c4pt0r/gmailtail) - tail -f your gmail
 - [mdSlash/hyprkan](https://github.com/mdSlash/hyprkan) - App-aware Kanata layer switcher for Linux
 - [mijorus/whisper](https://github.com/mijorus/whisper) - 🎤  →  🎧️  Listen to your mic - with Pipewire
 - [autonomio/chances](https://github.com/autonomio/chances) - Package that implements several pseudo, quasi, and true, including quantum random methods into a unified single-line command interface.
