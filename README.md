@@ -565,7 +565,6 @@
 - [mafik/echo](https://github.com/mafik/echo) - Time travelling recorder for Android.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
-- [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [thevindu-w/clip_share_client](https://github.com/thevindu-w/clip_share_client) - Clip Share Android client. Share clipboard between devices. Share files and screenshots securely.
 - [viktorholk/push-notifications-api](https://github.com/viktorholk/push-notifications-api) - 📱 Send Instant Push Notifications to your Android Phone through a REST-API.
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
@@ -686,6 +685,7 @@
 
 ## Lua 
 
+- [ldelossa/gh.nvim](https://github.com/ldelossa/gh.nvim) - A fully featured GitHub integration for performing code reviews in Neovim.
 - [linguisticmind/mpv-scripts](https://github.com/linguisticmind/mpv-scripts) - A collection of scripts for mpv player.
 - [miroshQa/debugmaster.nvim](https://github.com/miroshQa/debugmaster.nvim) - What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!
 - [benlubas/wrapping-paper.nvim](https://github.com/benlubas/wrapping-paper.nvim) - Simple plugin which simulates wrapping a single line at a time using floating windows and virtual text trickery
@@ -1311,7 +1311,7 @@
 - [desbma/pacman-hooks](https://github.com/desbma/pacman-hooks) - Arch Linux Pacman hooks
 - [sigoden/dufs](https://github.com/sigoden/dufs) - A file server that supports static serving, uploading, searching, accessing control, webdav...
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
-- [theiskaa/markdown2pdf](https://github.com/theiskaa/markdown2pdf) - convert markdown to pdf (a md to pdf transpiler)
+- [theiskaa/markdown2pdf](https://github.com/theiskaa/markdown2pdf) - markdown to pdf transpiler written in pure Rust
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -1674,7 +1674,7 @@
 - [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - On the road of Remastersys, Refracta, Systemback and father Knoppix!
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents.
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [Make-md/makemd](https://github.com/Make-md/makemd) - 
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
