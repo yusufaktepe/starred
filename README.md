@@ -113,7 +113,7 @@
 - [hoyon/mpv-mpris](https://github.com/hoyon/mpv-mpris) - MPRIS plugin for mpv
 - [lotuskip/cursetag](https://github.com/lotuskip/cursetag) - NCurses based audio file tag (metadata) editor
 - [valr/cbatticon](https://github.com/valr/cbatticon) - A lightweight and fast battery icon that sits in your system tray
-- [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map
+- [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map in real-time
 - [AdamantGarth/toggler](https://github.com/AdamantGarth/toggler) - Simple toggle with custom commands for your system tray (usually)
 - [jgmenu/jgmenu](https://github.com/jgmenu/jgmenu) - An X11 menu
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
@@ -685,6 +685,7 @@
 
 ## Lua 
 
+- [webhooked/kanso.nvim](https://github.com/webhooked/kanso.nvim) - 
 - [ldelossa/gh.nvim](https://github.com/ldelossa/gh.nvim) - A fully featured GitHub integration for performing code reviews in Neovim.
 - [linguisticmind/mpv-scripts](https://github.com/linguisticmind/mpv-scripts) - A collection of scripts for mpv player.
 - [miroshQa/debugmaster.nvim](https://github.com/miroshQa/debugmaster.nvim) - What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!
