@@ -794,6 +794,7 @@
 
 ## docker 
 
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
@@ -883,7 +884,7 @@
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [BriLHR/FirefoxCSS-Darknight](https://github.com/BriLHR/FirefoxCSS-Darknight) - Firefox userChrome CSS theme
 - [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - For dark theme lovers / More compact / Modular / Blur
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - userChromeJS / autoconfig.js and extensions
@@ -939,7 +940,7 @@
 
 ## git 
 
-- [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) - Android mobile git client for syncing a repository between remote and a local directory
+- [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) - Mobile git client for syncing a repository between remote and a local directory
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 - [moyiz/git-dev.nvim](https://github.com/moyiz/git-dev.nvim) - Open remote git repositories in the comfort of Neovim.
@@ -1117,6 +1118,7 @@
 
 ## hacktoberfest 
 
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [shweshi/terminal-stocks](https://github.com/shweshi/terminal-stocks) - terminal-stocks is a terminal based application that provide stock price information.
 - [kokarare1212/librespot-python](https://github.com/kokarare1212/librespot-python) - Open Source Spotify Client
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
@@ -1379,6 +1381,7 @@
 
 ## linux 
 
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - a language server implementation for systemd unit files made in rust 🦀
 - [dnut/clipboard-sync](https://github.com/dnut/clipboard-sync) - Synchronizes the clipboard across multiple X11 and wayland instances running on the same machine.
@@ -2912,7 +2915,7 @@
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search) - A self-hosted, ad-free, privacy-respecting metasearch engine
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
 - [umputun/remark42](https://github.com/umputun/remark42) - comment engine
 - [Tribler/tribler](https://github.com/Tribler/tribler) - Privacy enhanced BitTorrent client with P2P content discovery
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
@@ -2924,7 +2927,7 @@
 
 ## productivity 
 
-- [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) - Android mobile git client for syncing a repository between remote and a local directory
+- [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) - Mobile git client for syncing a repository between remote and a local directory
 - [houmain/keymapper](https://github.com/houmain/keymapper) - A cross-platform context-aware key remapper.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, cross-platform terminal for seamless workflows
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -3237,7 +3240,7 @@
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [life4/enc](https://github.com/life4/enc) - 🔑🔒 A modern and friendly CLI alternative to GnuPG: generate and download keys, encrypt, decrypt, and sign text and files, and more.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [arkenfox/user.js](https://github.com/arkenfox/user.js) - Firefox privacy, security and anti-tracking: a comprehensive user.js template for configuration and hardening
 - [monero-project/monero](https://github.com/monero-project/monero) - Monero: the secure, private, untraceable cryptocurrency
@@ -3736,6 +3739,7 @@
 
 ## windows 
 
+- [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [conventoangelo/OverKeys](https://github.com/conventoangelo/OverKeys) - An open-source keyboard layout visualizer for Windows. Learn and practice alternative layouts, personalize appearance, and improve your typing.
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
 - [KunalBagaria/rustyvibes](https://github.com/KunalBagaria/rustyvibes) - A Rust CLI that makes mechanical keyboard sound effects on every key press
