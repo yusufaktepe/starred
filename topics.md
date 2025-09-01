@@ -1600,7 +1600,7 @@
 - [gaoDean/autolist.nvim](https://github.com/gaoDean/autolist.nvim) - Automatic list continuation and formatting for neovim, powered by lua
 - [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim) - 🏔️ A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
 - [Zabooby/mpv-config](https://github.com/Zabooby/mpv-config) - Personal mpv config files aiming to get the best quality and viewing experience
-- [echasnovski/mini.align](https://github.com/echasnovski/mini.align) - Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.
+- [nvim-mini/mini.align](https://github.com/nvim-mini/mini.align) - Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.
 - [abeldekat/lazyflex.nvim](https://github.com/abeldekat/lazyflex.nvim) - An addon for lazy.nvim. Easily enable/disable multiple plugins.
 - [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv) - cmp import and use all environment variables from .env.* and system
 - [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim) - Show diagnostics and lsp info inside a custom window
@@ -1652,22 +1652,22 @@
 - [kvrohit/rasmus.nvim](https://github.com/kvrohit/rasmus.nvim) - A color scheme for Neovim
 - [anuvyklack/keymap-layer.nvim](https://github.com/anuvyklack/keymap-layer.nvim) - Create a key layer in Neovim
 - [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim) - Create custom submodes and menus
-- [echasnovski/mini.starter](https://github.com/echasnovski/mini.starter) - Neovim Lua plugin with fast and flexible start screen. Part of 'mini.nvim' library.
+- [nvim-mini/mini.starter](https://github.com/nvim-mini/mini.starter) - Neovim Lua plugin with fast and flexible start screen. Part of 'mini.nvim' library.
 - [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) - You can attach a terminal-buffer for each buffer.
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) - Neovim plugin to manage the file system and other tree like structures.
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context
-- [echasnovski/mini.indentscope](https://github.com/echasnovski/mini.indentscope) - Neovim Lua plugin to visualize and operate on indent scope. Part of 'mini.nvim' library.
-- [echasnovski/mini.animate](https://github.com/echasnovski/mini.animate) - Neovim Lua plugin to animate common Neovim actions. Part of 'mini.nvim' library.
-- [echasnovski/mini.ai](https://github.com/echasnovski/mini.ai) - Neovim Lua plugin to extend and create `a`/`i` textobjects. Part of 'mini.nvim' library.
+- [nvim-mini/mini.indentscope](https://github.com/nvim-mini/mini.indentscope) - Neovim Lua plugin to visualize and operate on indent scope. Part of 'mini.nvim' library.
+- [nvim-mini/mini.animate](https://github.com/nvim-mini/mini.animate) - Neovim Lua plugin to animate common Neovim actions. Part of 'mini.nvim' library.
+- [nvim-mini/mini.ai](https://github.com/nvim-mini/mini.ai) - Neovim Lua plugin to extend and create `a`/`i` textobjects. Part of 'mini.nvim' library.
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
-- [echasnovski/mini.surround](https://github.com/echasnovski/mini.surround) - Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.
+- [nvim-mini/mini.surround](https://github.com/nvim-mini/mini.surround) - Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.
 - [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) - Add/change/delete surrounding delimiter pairs with ease. Written with :heart: in Lua.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) - autopairs for neovim written in lua
 - [nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim) - Integration with github cli
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort
+- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) - A neovim lua plugin to help easily manage multiple terminal windows
@@ -1928,7 +1928,7 @@
 - [olimorris/onedarkpro.nvim](https://github.com/olimorris/onedarkpro.nvim) - 🎨 Atom's iconic One Dark theme. Cacheable, fully customisable, Tree-sitter and LSP semantic token support. Comes with variants
 - [rmehri01/onenord.nvim](https://github.com/rmehri01/onenord.nvim) - 🏔️ A Neovim theme that combines the Nord and Atom One Dark color palettes for a more vibrant programming experience.
 - [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) - Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.
-- [echasnovski/mini.align](https://github.com/echasnovski/mini.align) - Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.
+- [nvim-mini/mini.align](https://github.com/nvim-mini/mini.align) - Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.
 - [abeldekat/lazyflex.nvim](https://github.com/abeldekat/lazyflex.nvim) - An addon for lazy.nvim. Easily enable/disable multiple plugins.
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
 - [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv) - cmp import and use all environment variables from .env.* and system
@@ -2021,7 +2021,7 @@
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) - 🌅  Twilight is a Lua plugin for Neovim 0.5 that dims inactive portions of the code you're editing using TreeSitter.
 - [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim) - Create custom submodes and menus
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) - A tree like view for symbols in Neovim using the Language Server Protocol. Supports all your favourite languages.
-- [echasnovski/mini.starter](https://github.com/echasnovski/mini.starter) - Neovim Lua plugin with fast and flexible start screen. Part of 'mini.nvim' library.
+- [nvim-mini/mini.starter](https://github.com/nvim-mini/mini.starter) - Neovim Lua plugin with fast and flexible start screen. Part of 'mini.nvim' library.
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 - [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) - You can attach a terminal-buffer for each buffer.
 - [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) - A starting point to setup some lsp related features in neovim.
@@ -2031,16 +2031,16 @@
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) - UI Component Library for Neovim.
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) - Simple winbar/statusline plugin that shows your current code context
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) - a lua powered greeter like vim-startify / dashboard-nvim
-- [echasnovski/mini.indentscope](https://github.com/echasnovski/mini.indentscope) - Neovim Lua plugin to visualize and operate on indent scope. Part of 'mini.nvim' library.
+- [nvim-mini/mini.indentscope](https://github.com/nvim-mini/mini.indentscope) - Neovim Lua plugin to visualize and operate on indent scope. Part of 'mini.nvim' library.
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) - Neovim plugin to improve the default vim.ui interfaces
-- [echasnovski/mini.animate](https://github.com/echasnovski/mini.animate) - Neovim Lua plugin to animate common Neovim actions. Part of 'mini.nvim' library.
-- [echasnovski/mini.ai](https://github.com/echasnovski/mini.ai) - Neovim Lua plugin to extend and create `a`/`i` textobjects. Part of 'mini.nvim' library.
+- [nvim-mini/mini.animate](https://github.com/nvim-mini/mini.animate) - Neovim Lua plugin to animate common Neovim actions. Part of 'mini.nvim' library.
+- [nvim-mini/mini.ai](https://github.com/nvim-mini/mini.ai) - Neovim Lua plugin to extend and create `a`/`i` textobjects. Part of 'mini.nvim' library.
 - [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) - 🧘  Distraction-free coding for Neovim
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) - 🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.
 - [folke/persistence.nvim](https://github.com/folke/persistence.nvim) - 💾  Simple session management for Neovim
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) - 💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
-- [echasnovski/mini.surround](https://github.com/echasnovski/mini.surround) - Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.
+- [nvim-mini/mini.surround](https://github.com/nvim-mini/mini.surround) - Neovim Lua plugin with fast and feature-rich surround actions. Part of 'mini.nvim' library.
 - [folke/neoconf.nvim](https://github.com/folke/neoconf.nvim) - 💼 Neovim plugin to manage global and project-local settings
 - [Wansmer/sibling-swap.nvim](https://github.com/Wansmer/sibling-swap.nvim) - Neovim plugin for swaps closest siblings with Tree-Sitter
 - [jose-elias-alvarez/null-ls.nvim](https://github.com/jose-elias-alvarez/null-ls.nvim) - Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.
@@ -2053,7 +2053,7 @@
 - [debugloop/telescope-undo.nvim](https://github.com/debugloop/telescope-undo.nvim) - A telescope extension to view and search your undo tree 🌴
 - [nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim) - Integration with github cli
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) - Neovim's answer to the mouse 🦘
-- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) - Library of 40+ independent Lua modules improving overall Neovim (version 0.9 and higher) experience with minimal effort
+- [nvim-mini/mini.nvim](https://github.com/nvim-mini/mini.nvim) - Library of 40+ independent Lua modules improving Neovim experience with minimal effort
 - [lukas-reineke/headlines.nvim](https://github.com/lukas-reineke/headlines.nvim) - This plugin adds horizontal highlights for text filetypes, like markdown, orgmode, and neorg.
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
@@ -2356,7 +2356,7 @@
 - [hinell/lsp-timeout.nvim](https://github.com/hinell/lsp-timeout.nvim) - Automatically start/stop LSP servers, keeps RAM usage low
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) - 
 - [Inlyne-Project/inlyne](https://github.com/Inlyne-Project/inlyne) - Introducing Inlyne, a GPU powered yet browserless tool to help you quickly view markdown files in the blink of an eye.
-- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - All-around helper for dealing with errors and diagnostics: Add inline-comments to ignore rules or suppress formatters. Lookup rule documentation online.
+- [chrisgrieser/nvim-rulebook](https://github.com/chrisgrieser/nvim-rulebook) - All-around helper for dealing with errors and diagnostics: Prettify typescript errors, add inline-comments to ignore rules, and lookup rule documentation online.
 - [previm/previm](https://github.com/previm/previm) - Realtime preview by Vim. (Markdown, reStructuredText, textile)
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
 - [Aasim-A/scrollEOF.nvim](https://github.com/Aasim-A/scrollEOF.nvim) - Scroll past the end of file just like scrolloff option
@@ -2832,7 +2832,6 @@
 - [svenstaro/rofi-calc](https://github.com/svenstaro/rofi-calc) - 🖩 Do live calculations in rofi!
 - [hastinbe/i3-volume](https://github.com/hastinbe/i3-volume) - Volume control and volume notifications
 - [leehblue/texpander](https://github.com/leehblue/texpander) - Text expander for linux
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [pulseaudio-equalizer-ladspa/equalizer](https://github.com/pulseaudio-equalizer-ladspa/equalizer) - Pulseaudio LADSPA Equalizer
 - [LukeSmithxyz/LARBS](https://github.com/LukeSmithxyz/LARBS) - Luke's Auto-Rice Bootstrapping Scripts: Installation Scripts for My Arch Linux Meta-Distribution
 - [DoTheEvo/ANGRYsearch](https://github.com/DoTheEvo/ANGRYsearch) - Linux file search, instant results as you type
@@ -3074,6 +3073,7 @@
 - [VioletGiraffe/file-commander](https://github.com/VioletGiraffe/file-commander) - Cross-platform Total Commander-like orthodox file manager for Windows, Mac and Linux
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [j2969719/doublecmd-plugins](https://github.com/j2969719/doublecmd-plugins) - Additions for Double Commander (third-party)
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 
 ## raspberry-pi 
