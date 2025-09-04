@@ -2794,7 +2794,6 @@
 - [hastinbe/i3blocks-battery-plus](https://github.com/hastinbe/i3blocks-battery-plus) - An enhanced battery status indicator for i3blocks
 - [ap/vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
 - [cornerman/i3-easyfocus](https://github.com/cornerman/i3-easyfocus) - Focus and select windows in i3
-- [BlackIkeEagle/dotfiles](https://github.com/BlackIkeEagle/dotfiles) - my dotfiles (backup)
 - [cruegge/pam-gnupg](https://github.com/cruegge/pam-gnupg) - Unlock GnuPG keys on login
 - [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
 - [Miserlou/Loop](https://github.com/Miserlou/Loop) - UNIX's missing `loop` command
