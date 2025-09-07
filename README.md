@@ -116,7 +116,6 @@
 - [AdamantGarth/toggler](https://github.com/AdamantGarth/toggler) - Simple toggle with custom commands for your system tray (usually)
 - [jgmenu/jgmenu](https://github.com/jgmenu/jgmenu) - An X11 menu
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
-- [dreamcat4/skippy-xd](https://github.com/dreamcat4/skippy-xd) - A full-screen Exposé-style standalone task switcher for X11.
 - [electrickite/batsignal](https://github.com/electrickite/batsignal) - Lightweight battery daemon written in C
 - [mphe/picom-flicker-workaround](https://github.com/mphe/picom-flicker-workaround) - Fix picom flickering when waking up the screen
 - [unixdj/xssstart](https://github.com/unixdj/xssstart) - xssstart — run a command when X screen saver activates
