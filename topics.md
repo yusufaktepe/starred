@@ -2472,7 +2472,6 @@
 - [theryangeary/choose](https://github.com/theryangeary/choose) - A human-friendly and fast alternative to cut (and sometimes awk)
 - [christoph-heinrich/mpv-quality-menu](https://github.com/christoph-heinrich/mpv-quality-menu) - A userscript for MPV that allows you to change the streamed video and audio quality (ytdl-format) on the fly.
 - [doublecmd/doublecmd](https://github.com/doublecmd/doublecmd) - Double Commander is a free cross platform open source file manager with two panels side by side.
-- [dreamcat4/skippy-xd](https://github.com/dreamcat4/skippy-xd) - A full-screen Exposé-style standalone task switcher for X11.
 - [lifepillar/vim-gruvbox8](https://github.com/lifepillar/vim-gruvbox8) - A simplified and optimized Gruvbox colorscheme for Vim
 - [thenishantsapkota/spotbee](https://github.com/thenishantsapkota/spotbee) - Insert a Spotify Playlist, Get a list of YouTube URLs from it.
 - [electrickite/batsignal](https://github.com/electrickite/batsignal) - Lightweight battery daemon written in C
