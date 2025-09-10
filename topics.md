@@ -20,6 +20,7 @@
 - [babel](#babel)
 - [backend](#backend)
 - [bash](#bash)
+- [beginner-project](#beginner-project)
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
@@ -395,6 +396,10 @@
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 - [Ventto/batify](https://github.com/Ventto/batify) - Only one udevrule file triggering plug and critical battery level notifications (multi-x sessions support)
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
+
+## beginner-project 
+
+- [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 
 ## bitcoin 
 
@@ -863,7 +868,7 @@
 - [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) - This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [stove-panini/fontconfig-emoji](https://github.com/stove-panini/fontconfig-emoji) - Emoji prioritization rules
-- [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi and rofi-likes
+- [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi, wofi and similar selectors on X11 and Wayland
 
 ## eslint 
 
@@ -1524,7 +1529,7 @@
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [VioletGiraffe/file-commander](https://github.com/VioletGiraffe/file-commander) - Cross-platform Total Commander-like orthodox file manager for Windows, Mac and Linux
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
-- [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi and rofi-likes
+- [fdw/rofimoji](https://github.com/fdw/rofimoji) - Emoji, unicode and general character picker for rofi, wofi and similar selectors on X11 and Wayland
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [dyne/tomb](https://github.com/dyne/tomb) - the Crypto Undertaker
 - [preservim/tagbar](https://github.com/preservim/tagbar) - Vim plugin that displays tags in a window, ordered by scope
@@ -2215,6 +2220,7 @@
 
 ## others 
 
+- [siyia2/iso-commander](https://github.com/siyia2/iso-commander) - The Fastest ISO Manager on the Planet for the GNU/Linux Ecosystem.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [screensy/screensy](https://github.com/screensy/screensy) - Simple peer-to-peer screen sharing
 - [gianni-rosato/aviator](https://github.com/gianni-rosato/aviator) - A lightweight, Flatpak-first, easy-to-use GUI utility for encoding with SVT-AV1 & Opus.
@@ -2554,7 +2560,7 @@
 - [fritzw/ld-preload-open](https://github.com/fritzw/ld-preload-open) - Library to map files or directories to another location, for use with LD_PRELOAD.
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
-- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - The fastest pixel-by-pixel image visual difference tool in the world.
+- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - A very fast SIMD-first image comparison library (with nodejs API)
 - [ArturKovacs/emulsion](https://github.com/ArturKovacs/emulsion) - DISCONTINUED - A fast and minimalistic image viewer
 - [lifepillar/vim-outlaw](https://github.com/lifepillar/vim-outlaw) - The wanted outliner!
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
