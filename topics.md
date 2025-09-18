@@ -123,6 +123,7 @@
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
+- [obsidian](#obsidian)
 - [obsidian-md](#obsidian-md)
 - [obsidian-plugin](#obsidian-plugin)
 - [open-source](#open-source)
@@ -2167,6 +2168,16 @@
 
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 
+## obsidian 
+
+- [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) - Mobile git client for syncing a repository between remote and a local directory
+- [catpuppyapp/PuppyGit](https://github.com/catpuppyapp/PuppyGit) - An android git client
+- [IlyasYOY/obs.nvim](https://github.com/IlyasYOY/obs.nvim) - Obsidian-like NeoVim plugin.
+- [jackyzha0/quartz](https://github.com/jackyzha0/quartz) - 🌱 a fast, batteries-included static-site generator that transforms Markdown content into fully functional websites
+- [Ellpeck/ObsidianCustomFrames](https://github.com/Ellpeck/ObsidianCustomFrames) - An Obsidian plugin that turns web apps into panes using iframes with custom styling. Also comes with presets for Google Keep, Todoist and more.
+- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
+- [shashwatah/jot](https://github.com/shashwatah/jot) - ⚡Rapid note management for the terminal.
+
 ## obsidian-md 
 
 - [Make-md/makemd](https://github.com/Make-md/makemd) - 
@@ -2274,7 +2285,6 @@
 - [projekt0n/github-theme-contrib](https://github.com/projekt0n/github-theme-contrib) - GitHub's themes ports and extras
 - [benlubas/cmp2lsp](https://github.com/benlubas/cmp2lsp) - use nvim-cmp sources as if they were native LSP sources (mostly)
 - [jiaoshijie/undotree](https://github.com/jiaoshijie/undotree) - neovim undotree written in lua
-- [catpuppyapp/PuppyGit](https://github.com/catpuppyapp/PuppyGit) - An android git client
 - [Sysmagine/SemanticDiff](https://github.com/Sysmagine/SemanticDiff) - Community support for SemanticDiff, the programming language aware diff for Visual Studio Code and GitHub.
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) - 🍿 A collection of QoL plugins for Neovim
 - [madsen/vbindiff](https://github.com/madsen/vbindiff) - Visual Binary Diff (VBinDiff) displays files in hex & ASCII and can highlight the differences between 2 files
