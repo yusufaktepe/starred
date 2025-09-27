@@ -581,6 +581,7 @@
 
 ## JavaScript 
 
+- [planetarian/TamperMonkey-Scripts](https://github.com/planetarian/TamperMonkey-Scripts) - Small collection of handy TamperMonkey scripts.
 - [mcastillof/FakeTraveler](https://github.com/mcastillof/FakeTraveler) - Fake where your phone is located (Mock location for Android).
 - [doubleyoustew/youtube-inline-fullscreen](https://github.com/doubleyoustew/youtube-inline-fullscreen) - Maximize Youtube videos inside your browser window.
 - [colinwilson/lotusdocs](https://github.com/colinwilson/lotusdocs) - 📖 A free, lightweight, modern documentation theme for Hugo
@@ -688,6 +689,7 @@
 
 ## Lua 
 
+- [slugbyte/lackluster.nvim](https://github.com/slugbyte/lackluster.nvim) - a delightful and customizable mostly monochrome colorscheme thats soft on the eyes and supports treesitter, lsp, and heaps of neovim plugins.
 - [mikesmithgh/kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim) - 😽 Open your Kitty scrollback buffer with Neovim. Ameowzing!
 - [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - Not a plugin manager, but plugin magazine 💅
 - [webhooked/kanso.nvim](https://github.com/webhooked/kanso.nvim) - 
@@ -1297,6 +1299,7 @@
 
 ## Rust 
 
+- [143mailliw/hummingbird](https://github.com/143mailliw/hummingbird) - Modern music player written in Rust using GPUI with a focus on design and performance
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [MaxVerevkin/wlr-which-key](https://github.com/MaxVerevkin/wlr-which-key) - Keymap manager for wlroots-based compositors
@@ -1510,6 +1513,7 @@
 
 ## Shell 
 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [mdSlash/nata](https://github.com/mdSlash/nata) - Application-aware switching layer for Kanata on Linux.
 - [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland) - For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros
