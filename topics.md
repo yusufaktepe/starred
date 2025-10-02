@@ -194,6 +194,7 @@
 - [web](#web)
 - [webapp](#webapp)
 - [website](#website)
+- [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [xcode](#xcode)
 - [xml](#xml)
@@ -1146,6 +1147,7 @@
 
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
+- [conventoangelo/OverKeys](https://github.com/conventoangelo/OverKeys) - An open-source keyboard layout visualizer for Windows. Learn and practice alternative layouts, personalize appearance, and improve your typing.
 - [shweshi/terminal-stocks](https://github.com/shweshi/terminal-stocks) - terminal-stocks is a terminal based application that provide stock price information.
 - [kokarare1212/librespot-python](https://github.com/kokarare1212/librespot-python) - Open Source Spotify Client
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
@@ -1197,6 +1199,7 @@
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
+- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - A very fast SIMD-first image comparison library (with nodejs API)
 - [kernc/xsuspender](https://github.com/kernc/xsuspender) - 👀 💻 💤 🔋 Save battery by auto-suspending unfocused X11 applications.
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
@@ -1858,6 +1861,8 @@
 
 ## music 
 
+- [Andeskjerf/waybar-module-music](https://github.com/Andeskjerf/waybar-module-music) - Dynamic player controls module for Waybar, using DBus & MPRIS
+- [stefur/lizzy](https://github.com/stefur/lizzy) - A customizable Waybar module for media playback that uses DBus signals
 - [jakiepari/deezspot](https://github.com/jakiepari/deezspot) - Downloads songs, albums, episode or playlists from deezer and spotify with this packages!
 - [devlocalhost/pyspodl](https://github.com/devlocalhost/pyspodl) - pyspodl - a spotify downloader using librespot
 - [GuillemCastro/spotify-dl](https://github.com/GuillemCastro/spotify-dl) - A command-line utility to download songs and playlists directly from Spotify
@@ -2257,6 +2262,7 @@
 
 ## others 
 
+- [domenkozar/redland](https://github.com/domenkozar/redland) - A Wayland screen color temperature adjuster with automatic day/night cycle support, written in Rust.
 - [planetarian/TamperMonkey-Scripts](https://github.com/planetarian/TamperMonkey-Scripts) - Small collection of handy TamperMonkey scripts.
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
 - [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
@@ -2599,7 +2605,6 @@
 - [fritzw/ld-preload-open](https://github.com/fritzw/ld-preload-open) - Library to map files or directories to another location, for use with LD_PRELOAD.
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [n7olkachev/imgdiff](https://github.com/n7olkachev/imgdiff) - Faster than the fastest in the world pixel-by-pixel image difference tool.
-- [dmtrKovalenko/odiff](https://github.com/dmtrKovalenko/odiff) - A very fast SIMD-first image comparison library (with nodejs API)
 - [ArturKovacs/emulsion](https://github.com/ArturKovacs/emulsion) - DISCONTINUED - A fast and minimalistic image viewer
 - [lifepillar/vim-outlaw](https://github.com/lifepillar/vim-outlaw) - The wanted outliner!
 - [marin-m/SongRec](https://github.com/marin-m/SongRec) - An open-source Shazam client for Linux, written in Rust.
@@ -3158,6 +3163,7 @@
 
 ## rust 
 
+- [stefur/lizzy](https://github.com/stefur/lizzy) - A customizable Waybar module for media playback that uses DBus signals
 - [143mailliw/hummingbird](https://github.com/143mailliw/hummingbird) - Modern music player written in Rust using GPUI with a focus on design and performance
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
@@ -3790,6 +3796,10 @@
 ## website 
 
 - [schollz/pywebsitechanges](https://github.com/schollz/pywebsitechanges) - Change detection with a simple Python script to email you whenever a website changes.
+
+## whatsapp-bot 
+
+- [adeekshith/watomatic](https://github.com/adeekshith/watomatic) - Auto reply app to enable auto reply for messengers like WhatsApp and Facebook Messenger
 
 ## windows 
 
