@@ -1098,6 +1098,7 @@
 
 ## Python 
 
+- [DraftKinner/zotify](https://github.com/DraftKinner/zotify) - A fast and customizable music and podcast downloader.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [gianni-rosato/aviator](https://github.com/gianni-rosato/aviator) - A lightweight, Flatpak-first, easy-to-use GUI utility for encoding with SVT-AV1 & Opus.
 - [c4pt0r/gmailtail](https://github.com/c4pt0r/gmailtail) - tail -f your gmail
