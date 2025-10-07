@@ -1209,6 +1209,7 @@
 - [angt/totp](https://github.com/angt/totp) - A tiny command line utility to generate OTP tokens
 - [ym1234/colorpicker](https://github.com/ym1234/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
 - [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - 📃 Get lyrics of currently playing Spotify song so you don't sing along with the wrong ones and embarrass yourself later. Very fast.
+- [nicotine-plus/nicotine-plus](https://github.com/nicotine-plus/nicotine-plus) - Graphical client for the Soulseek peer-to-peer network
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [melbahja/got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
@@ -2265,6 +2266,7 @@
 
 ## others 
 
+- [DraftKinner/zotify](https://github.com/DraftKinner/zotify) - A fast and customizable music and podcast downloader.
 - [domenkozar/redland](https://github.com/domenkozar/redland) - A Wayland screen color temperature adjuster with automatic day/night cycle support, written in Rust.
 - [planetarian/TamperMonkey-Scripts](https://github.com/planetarian/TamperMonkey-Scripts) - Small collection of handy TamperMonkey scripts.
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Opinionated Arch/Hyprland Setup
