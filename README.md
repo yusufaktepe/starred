@@ -538,7 +538,6 @@
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
 - [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit Being revived.
 - [robinmoisson/staticrypt](https://github.com/robinmoisson/staticrypt) - Password protect a static HTML page, decrypted in-browser in JS with no dependency. No server logic needed.
-- [victorstanciu/hugo-tweets](https://github.com/victorstanciu/hugo-tweets) - 
 - [ericchiang/pup](https://github.com/ericchiang/pup) - Parsing HTML at the command line
 - [securitytxt/security-txt](https://github.com/securitytxt/security-txt) - A proposed standard that allows websites to define security policies.
 - [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
