@@ -1168,6 +1168,7 @@
 - [shweshi/terminal-stocks](https://github.com/shweshi/terminal-stocks) - terminal-stocks is a terminal based application that provide stock price information.
 - [kokarare1212/librespot-python](https://github.com/kokarare1212/librespot-python) - Open Source Spotify Client
 - [hwittenborn/celeste](https://github.com/hwittenborn/celeste) - GUI file synchronization client that can sync with any cloud provider
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [topgrade-rs/topgrade](https://github.com/topgrade-rs/topgrade) - Upgrade all the things
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [tamton-aquib/zone.nvim](https://github.com/tamton-aquib/zone.nvim) - Screensaver plugin for neovim.
@@ -2541,7 +2542,6 @@
 - [thezbyg/gpick](https://github.com/thezbyg/gpick) - Advanced color picker written in C++ using GTK+ toolkit
 - [riquito/tuc](https://github.com/riquito/tuc) - When cut doesn't cut it
 - [noctuid/zscroll](https://github.com/noctuid/zscroll) - A text scroller for panels or terminals
-- [victorstanciu/hugo-tweets](https://github.com/victorstanciu/hugo-tweets) - 
 - [darkhz/adbtuifm](https://github.com/darkhz/adbtuifm) - A TUI File Manager for ADB
 - [dtolnay/faketty](https://github.com/dtolnay/faketty) - Wrapper to exec a command in a pty, even if redirecting the output
 - [oliver-machacik/batdistrack](https://github.com/oliver-machacik/batdistrack) - 
