@@ -532,6 +532,7 @@
 ## HTML 
 
 - [dayvid3/Vivaldi-Tracker_Ad_Blocking_Lists-Customized](https://github.com/dayvid3/Vivaldi-Tracker_Ad_Blocking_Lists-Customized) - Vivaldi: Custom Tracker and Ad Blocker Sources
+- [screensy/screensy](https://github.com/screensy/screensy) - Simple peer-to-peer screen sharing
 - [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites
 - [kaiiiz/hugo-theme-monochrome](https://github.com/kaiiiz/hugo-theme-monochrome) - Monochrome is a fast, clean and responsive hugo theme
 - [doctorfree/nvim-lazyman](https://github.com/doctorfree/nvim-lazyman) - Neovim configuration manager and Lazy/Lua/Mason based Neovim config. Manage multiple Neovim configurations with the lazyman command.  ☕
@@ -561,7 +562,6 @@
 
 - [jazzm0/ssh-daemon](https://github.com/jazzm0/ssh-daemon) - 
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
-- [Catfriend1/syncthing-android](https://github.com/Catfriend1/syncthing-android) - Syncthing-Fork - A Syncthing Wrapper for Android.
 - [JonasBernard/FakeStandby](https://github.com/JonasBernard/FakeStandby) - An Android app for turning the screen off while keeping apps running.
 - [adeekshith/watomatic](https://github.com/adeekshith/watomatic) - Auto reply app to enable auto reply for messengers like WhatsApp and Facebook Messenger
 - [mafik/echo](https://github.com/mafik/echo) - Time travelling recorder for Android.
@@ -1289,7 +1289,7 @@
 
 ## QML 
 
-- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri & hyprland. Check out the niri community Discord below.
+- [AvengeMedia/DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) - Desktop shell for wayland compositors built with Quickshell & GO, optimized for niri, hyprland, sway, and dwl (MangoWC). Check out the niri community Discord below.
 - [3ximus/aerial-sddm-theme](https://github.com/3ximus/aerial-sddm-theme) - SDDM theme with Apple TV Aerial videos
 - [g-fb/haruna](https://github.com/g-fb/haruna) - Moved to https://invent.kde.org/multimedia/haruna
 
