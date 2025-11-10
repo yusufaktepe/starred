@@ -675,6 +675,7 @@
 
 ## Kotlin 
 
+- [wiiznokes/gitnote](https://github.com/wiiznokes/gitnote) - Android note app with real file. Can be sync with git providers such as Github
 - [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
 - [ooni/probe-multiplatform](https://github.com/ooni/probe-multiplatform) - 
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
@@ -1308,6 +1309,7 @@
 
 ## Rust 
 
+- [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [domenkozar/redland](https://github.com/domenkozar/redland) - A Wayland screen color temperature adjuster with automatic day/night cycle support, written in Rust.
