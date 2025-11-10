@@ -2293,6 +2293,8 @@
 
 ## others 
 
+- [wiiznokes/gitnote](https://github.com/wiiznokes/gitnote) - Android note app with real file. Can be sync with git providers such as Github
+- [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
 - [jazzm0/ssh-daemon](https://github.com/jazzm0/ssh-daemon) - 
 - [ooni/probe-multiplatform](https://github.com/ooni/probe-multiplatform) - 
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
