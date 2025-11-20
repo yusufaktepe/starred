@@ -1627,7 +1627,6 @@
 - [alex-popov-tech/store.nvim](https://github.com/alex-popov-tech/store.nvim) - 🤖 5500+ neovim plugins database with automatic installation! 🚀
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
 - [nvzone/showkeys](https://github.com/nvzone/showkeys) - Minimal Eye-candy keys screencaster for Neovim  200 ~ LOC
-- [thesimonho/kanagawa-paper.nvim](https://github.com/thesimonho/kanagawa-paper.nvim) - 🌊 Remixed Kanagawa colourschemes with muted colors. For Neovim.
 - [loctvl842/monokai-pro.nvim](https://github.com/loctvl842/monokai-pro.nvim) - Monokai Pro theme for Neovim written in Lua, with multiple filters: Pro, Classic, Machine, Octagon, Ristretto, Spectrum
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) - Prismatic line decorations for the adventurous vim user
 - [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
