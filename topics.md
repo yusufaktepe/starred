@@ -2400,6 +2400,7 @@
 
 ## others 
 
+- [MariaSolOs/dotfiles](https://github.com/MariaSolOs/dotfiles) - Files important enough for version control
 - [noamsto/resolved.nvim](https://github.com/noamsto/resolved.nvim) - 
 - [miphreal/python-rofi-menu](https://github.com/miphreal/python-rofi-menu) - Build rofi menu via python
 - [gausian-AI/Gausian_native_editor](https://github.com/gausian-AI/Gausian_native_editor) - Gausian - Rust-based local video editor for AI video production
@@ -2584,7 +2585,7 @@
 - [stevenxxiu/sshfs](https://github.com/stevenxxiu/sshfs) - A network filesystem client to connect to SSH servers
 - [ofirgall/open.nvim](https://github.com/ofirgall/open.nvim) - Open the current word with custom openers, GitHub shorthands for example.
 - [mikesart/inotify-info](https://github.com/mikesart/inotify-info) - Linux inotify info reporting app
-- [alfaaarex/Stake-Hack-Trick](https://github.com/alfaaarex/Stake-Hack-Trick) - A simple, keystroke-centered CSS for Firefox.
+- [alfaaarex/keyfox](https://github.com/alfaaarex/keyfox) - A simple, keystroke-centered CSS for Firefox.
 - [hacel/recent](https://github.com/hacel/recent) - 
 - [chentoast/marks.nvim](https://github.com/chentoast/marks.nvim) - A better user experience for viewing and interacting with Vim marks.
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
