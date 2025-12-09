@@ -1108,6 +1108,7 @@
 
 ## Python 
 
+- [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 - [miphreal/python-rofi-menu](https://github.com/miphreal/python-rofi-menu) - Build rofi menu via python
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [DraftKinner/zotify](https://github.com/DraftKinner/zotify) - A fast and customizable music and podcast downloader.
