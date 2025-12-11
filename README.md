@@ -250,6 +250,7 @@
 
 ## C++ 
 
+- [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
 - [siyia2/iso-commander](https://github.com/siyia2/iso-commander) - The Fastest ISO Manager on the Planet for the GNU/Linux Ecosystem.
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers.
 - [vimpostor/blobdrop](https://github.com/vimpostor/blobdrop) - Drag and drop files directly out of the terminal
@@ -332,7 +333,6 @@
 - [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux (and macOS!)
 - [Coffee2CodeNL/gebaar-libinput](https://github.com/Coffee2CodeNL/gebaar-libinput) - Gebaar, A Super Simple WM Independent Touchpad Gesture Daemon for libinput
 - [flacon/flacon](https://github.com/flacon/flacon) - Audio File Encoder. Extracts audio tracks from an audio CD image to separate tracks.
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [crow-translate/crow-translate](https://github.com/crow-translate/crow-translate) - A simple and lightweight translator that allows you to translate and speak text using Google, Yandex Bing, LibreTranslate and Lingva.
 - [Leinnan/lwa-hot-corners](https://github.com/Leinnan/lwa-hot-corners) - 
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
@@ -544,6 +544,7 @@
 - [Track3/hermit](https://github.com/Track3/hermit) - A minimal & fast Hugo theme for bloggers
 - [Changaco/unicode-progress-bars](https://github.com/Changaco/unicode-progress-bars) - A generator of Unicode progress bars
 - [Vimux/blank](https://github.com/Vimux/blank) - Starter Hugo theme for use as a template for building custom themes
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 
 ## Haskell 
@@ -695,6 +696,7 @@
 
 ## Lua 
 
+- [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts in neovim
 - [noamsto/resolved.nvim](https://github.com/noamsto/resolved.nvim) - 
 - [A7Lavinraj/fyler.nvim](https://github.com/A7Lavinraj/fyler.nvim) - A neovim file manager which can edit file system like a buffer with tree view
 - [oribarilan/lensline.nvim](https://github.com/oribarilan/lensline.nvim) - Modular nvim codelens support with inline references, git blame and more
