@@ -51,6 +51,7 @@
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
 - [database](#database)
+- [deep-learning](#deep-learning)
 - [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
@@ -158,6 +159,7 @@
 - [pwa](#pwa)
 - [python](#python)
 - [python3](#python3)
+- [pytorch](#pytorch)
 - [qt](#qt)
 - [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
@@ -871,6 +873,10 @@
 
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
+
+## deep-learning 
+
+- [Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 
 ## deno 
 
@@ -2186,7 +2192,7 @@
 - [zk-org/zk-nvim](https://github.com/zk-org/zk-nvim) - Neovim extension for zk
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
 - [folke/styler.nvim](https://github.com/folke/styler.nvim) - Simple Neovim plugin to set a different colorscheme per filetype.
-- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim, winbar alternative
+- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim
 - [catgoose/nvim-colorizer.lua](https://github.com/catgoose/nvim-colorizer.lua) - The fastest Neovim colorizer
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [Wansmer/treesj](https://github.com/Wansmer/treesj) - Neovim plugin for splitting/joining blocks of code
@@ -3269,6 +3275,10 @@
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 
+## pytorch 
+
+- [Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
+
 ## qt 
 
 - [vimpostor/blobdrop](https://github.com/vimpostor/blobdrop) - Drag and drop files directly out of the terminal
@@ -3331,6 +3341,7 @@
 
 ## rust 
 
+- [Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 - [wong-justin/vic](https://github.com/wong-justin/vic) - Trim videos in the terminal
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
@@ -3879,7 +3890,7 @@
 - [navarasu/onedark.nvim](https://github.com/navarasu/onedark.nvim) - One dark and light colorscheme for neovim &gt;= 0.5.0 written in lua based on Atom's One Dark and Light theme. Additionally, it comes with 5 color variant styles
 - [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) - Fluent navigation and management of markdown notebooks
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) - The neovim tabline plugin.
-- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim, winbar alternative
+- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
 - [EdenEast/nightfox.nvim](https://github.com/EdenEast/nightfox.nvim) - 🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
