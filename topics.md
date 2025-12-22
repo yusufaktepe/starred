@@ -2424,6 +2424,7 @@
 
 ## others 
 
+- [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
 - [Trihedron1240/FolderFresh](https://github.com/Trihedron1240/FolderFresh) - FolderFresh is a small tool that organises messy folders automatically. It sorts files into simple categories such as Documents, Images, Videos, Audio, Archives, Code, and Other. Nothing is deleted, a
 - [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
 - [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts in neovim
