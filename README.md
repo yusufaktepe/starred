@@ -1322,6 +1322,7 @@
 
 ## Rust 
 
+- [flowsurface-rs/flowsurface](https://github.com/flowsurface-rs/flowsurface) - A native desktop charting platform for crypto markets
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [wong-justin/vic](https://github.com/wong-justin/vic) - Trim videos in the terminal
 - [gausian-AI/Gausian_native_editor](https://github.com/gausian-AI/Gausian_native_editor) - Gausian - Rust-based local video editor for AI video production
