@@ -392,6 +392,7 @@
 
 ## Go 
 
+- [tonymajestro/reddit-tui](https://github.com/tonymajestro/reddit-tui) - Terminal UI for reddit
 - [yusukebe/gh-markdown-preview](https://github.com/yusukebe/gh-markdown-preview) - GitHub CLI extension to preview Markdown looks like GitHub.
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager
 - [noperator/jqfmt](https://github.com/noperator/jqfmt) - like gofmt, but for jq
@@ -710,7 +711,7 @@
 - [webhooked/kanso.nvim](https://github.com/webhooked/kanso.nvim) - 
 - [ldelossa/gh.nvim](https://github.com/ldelossa/gh.nvim) - A fully featured GitHub integration for performing code reviews in Neovim.
 - [linguisticmind/mpv-scripts](https://github.com/linguisticmind/mpv-scripts) - A collection of scripts for mpv player.
-- [PascalCaseFan/debugmaster.nvim](https://github.com/PascalCaseFan/debugmaster.nvim) - What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!
+- [MironPascalCaseFan/debugmaster.nvim](https://github.com/MironPascalCaseFan/debugmaster.nvim) - What happens if you try to combine dap-view and hydra.nvim? debugmaster.nvim – a modern dap-ui alternative!
 - [benlubas/wrapping-paper.nvim](https://github.com/benlubas/wrapping-paper.nvim) - Simple plugin which simulates wrapping a single line at a time using floating windows and virtual text trickery
 - [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim) - A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) - A Neovim plugin for displaying inline diagnostic messages with customizable styles and icons.
@@ -1322,6 +1323,7 @@
 
 ## Rust 
 
+- [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
 - [flowsurface-rs/flowsurface](https://github.com/flowsurface-rs/flowsurface) - A native desktop charting platform for crypto markets
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [wong-justin/vic](https://github.com/wong-justin/vic) - Trim videos in the terminal
