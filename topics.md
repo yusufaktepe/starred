@@ -528,6 +528,7 @@
 
 ## chatgpt-api 
 
+- [omer-faruq/assistant.koplugin](https://github.com/omer-faruq/assistant.koplugin) - Assistant: AI Helper Plugin for KOReader : lets you interact with AI language models (Claude, GPT-4, Gemini, DeepSeek, Ollama etc.) while reading
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 
 ## chrome 
