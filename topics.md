@@ -1575,8 +1575,8 @@
 - [dnut/clipboard-sync](https://github.com/dnut/clipboard-sync) - Synchronizes the clipboard across multiple X11 and wayland instances running on the same machine.
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
 - [herrhotzenplotz/gcli](https://github.com/herrhotzenplotz/gcli) - Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool
-- [hai-tham/hyprkan](https://github.com/hai-tham/hyprkan) - App-aware Kanata layer switcher for Linux
-- [hai-tham/nata](https://github.com/hai-tham/nata) - Application-aware switching layer for Kanata on Linux.
+- [haithium/hyprkan](https://github.com/haithium/hyprkan) - App-aware Kanata layer switcher for Linux
+- [haithium/nata](https://github.com/haithium/nata) - Application-aware switching layer for Kanata on Linux.
 - [CachyOS/ananicy-rules](https://github.com/CachyOS/ananicy-rules) - ananicy-cpp-rules for CachyOS
 - [luisbocanegra/linux-guide-split-audio-ports](https://github.com/luisbocanegra/linux-guide-split-audio-ports) - Split jack(headphones)/speakers outputs into individual sinks on Linux to allow simultaneous playback (listen to different audio streams on each port)
 - [mkckr0/audio-share](https://github.com/mkckr0/audio-share) - Audio Share can share Windows/Linux computer's audio to Android phone over network, so your phone becomes the speaker of computer. (You needn't buy a new speaker😄.)
@@ -3199,7 +3199,7 @@
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
-- [hai-tham/hyprkan](https://github.com/hai-tham/hyprkan) - App-aware Kanata layer switcher for Linux
+- [haithium/hyprkan](https://github.com/haithium/hyprkan) - App-aware Kanata layer switcher for Linux
 - [SergeyPirogov/webdriver_manager](https://github.com/SergeyPirogov/webdriver_manager) - 
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [devlocalhost/pyspodl](https://github.com/devlocalhost/pyspodl) - pyspodl - a spotify downloader using librespot
@@ -3538,7 +3538,7 @@
 
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
-- [hai-tham/nata](https://github.com/hai-tham/nata) - Application-aware switching layer for Kanata on Linux.
+- [haithium/nata](https://github.com/haithium/nata) - Application-aware switching layer for Kanata on Linux.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [tycho-kirchner/shournal](https://github.com/tycho-kirchner/shournal) - Log shell-commands and used files. Snapshot executed scripts. Fully automatic.
 - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh) - Gogh is a collection of color schemes for various terminal emulators, including Gnome Terminal, Pantheon Terminal, Tilix, and XFCE4 Terminal also compatible with iTerm on macOS.
