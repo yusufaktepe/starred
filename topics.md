@@ -294,7 +294,7 @@
 - [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland) - For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros
 - [moson-mo/pacseek](https://github.com/moson-mo/pacseek) - A terminal user interface for searching and installing Arch Linux packages
 - [Morganamilo/paccat](https://github.com/Morganamilo/paccat) - Print pacman package files
-- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - A set of bash script programs to create bootable Arch Linux images and to create bootable USB flash drives with a desktop environment.
+- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - A collection of Bash scripts for creating bootable Arch Linux images and USB drives with desktop environments.
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [ouuan/pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper that helps you watch important package updates.
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
