@@ -1334,6 +1334,7 @@
 - [flowsurface-rs/flowsurface](https://github.com/flowsurface-rs/flowsurface) - A native desktop charting platform for crypto markets
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [wong-justin/vic](https://github.com/wong-justin/vic) - Trim videos in the terminal
+- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [gausian-AI/Gausian_native_editor](https://github.com/gausian-AI/Gausian_native_editor) - Gausian - Rust-based local video editor for AI video production
 - [tealdeer-rs/tealdeer](https://github.com/tealdeer-rs/tealdeer) - A very fast implementation of tldr in Rust.
 - [nomad/nomad](https://github.com/nomad/nomad) - Make coding delightful
@@ -1593,7 +1594,7 @@
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
 - [ropery/FFcast](https://github.com/ropery/FFcast) - Run command on rectangular screen regions
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
-- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - A set of bash script programs to create bootable Arch Linux images and to create bootable USB flash drives with a desktop environment.
+- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - A collection of Bash scripts for creating bootable Arch Linux images and USB drives with desktop environments.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
 - [wulfgarpro/history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
@@ -1728,7 +1729,6 @@
 
 ## TypeScript 
 
-- [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [pieroproietti/penguins-eggs](https://github.com/pieroproietti/penguins-eggs) - A professional and universal remastering tool for all major distributions
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
