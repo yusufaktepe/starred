@@ -2985,7 +2985,7 @@
 - [tsujan/BreezeEnhanced](https://github.com/tsujan/BreezeEnhanced) - A fork of KDE Breeze decoration with additional options
 - [emersion/kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration (mirror)
 - [phillipberndt/autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
-- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
+- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool
 - [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [Y2Z/monolith](https://github.com/Y2Z/monolith) - ⬛️ CLI tool and library for saving complete web pages as a single HTML file
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
