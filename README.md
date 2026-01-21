@@ -212,7 +212,7 @@
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
 - [emersion/grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
 - [emersion/kanshi](https://github.com/emersion/kanshi) - Dynamic display configuration (mirror)
-- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
+- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool
 - [tsl0922/ttyd](https://github.com/tsl0922/ttyd) - Share your terminal over the web
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility
@@ -689,7 +689,6 @@
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
 - [RikkaApps/Shizuku](https://github.com/RikkaApps/Shizuku) - Using system APIs directly with adb/root privileges from normal apps through a Java process started with app_process.
-- [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
 - [LinkSheet/LinkSheet](https://github.com/LinkSheet/LinkSheet) - Link handling for modern Android
 - [Mygod/VPNHotspot](https://github.com/Mygod/VPNHotspot) - Share your VPN connection over hotspot or repeater! (root required)
 - [catpuppyapp/PuppyGit](https://github.com/catpuppyapp/PuppyGit) - An android git client
@@ -1563,6 +1562,7 @@
 - [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland) - For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros
 - [mikeroyal/PipeWire-Guide](https://github.com/mikeroyal/PipeWire-Guide) - PipeWire Guide. Learn about how PipeWire gives your Linux system a Professional Audio/Video Processing workflow.
 - [luisbocanegra/linux-guide-split-audio-ports](https://github.com/luisbocanegra/linux-guide-split-audio-ports) - Split jack(headphones)/speakers outputs into individual sinks on Linux to allow simultaneous playback (listen to different audio streams on each port)
+- [InfinityLoop1308/PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube, NicoNico and BiliBili freely.
 - [projekt0n/github-theme-contrib](https://github.com/projekt0n/github-theme-contrib) - GitHub's themes ports and extras
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
