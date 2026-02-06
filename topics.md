@@ -483,7 +483,7 @@
 - [angt/totp](https://github.com/angt/totp) - A tiny command line utility to generate OTP tokens
 - [salman-abedin/devour](https://github.com/salman-abedin/devour) - X11 window swallower
 - [phillbush/xmenu](https://github.com/phillbush/xmenu) - a x11 menu utility
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [91861/wayst](https://github.com/91861/wayst) - A simple terminal emulator
 - [phillbush/xprompt](https://github.com/phillbush/xprompt) - A dmenu rip-off with contextual completion
 - [Titor8115/mandown](https://github.com/Titor8115/mandown) - man-page inspired Markdown viewer
@@ -1362,7 +1362,7 @@
 - [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [melbahja/got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
@@ -1434,12 +1434,12 @@
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [TheWaWaR/simple-http-server](https://github.com/TheWaWaR/simple-http-server) - Simple http server in Rust (Windows/Mac/Linux)
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 
 ## https 
 
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [trimstray/nginx-admins-handbook](https://github.com/trimstray/nginx-admins-handbook) - How to improve NGINX performance, security, and other important things.
 
 ## icon-font 
@@ -1567,7 +1567,7 @@
 
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
 - [natecraddock/zf](https://github.com/natecraddock/zf) - a commandline fuzzy finder and zig module designed for filtering filepaths
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, S
+- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTMP, RTMPS, 
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
 
 ## linux 
@@ -1800,7 +1800,7 @@
 - [nvim-mini/mini.align](https://github.com/nvim-mini/mini.align) - Neovim Lua plugin to align text interactively. Part of 'mini.nvim' library.
 - [abeldekat/lazyflex.nvim](https://github.com/abeldekat/lazyflex.nvim) - An addon for lazy.nvim. Easily enable/disable multiple plugins.
 - [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv) - cmp import and use all environment variables from .env.* and system
-- [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim) - Show diagnostics and lsp info inside a custom window
+- [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim) - A Neovim plugin that provides a floating window for diagnostics and LSP information.
 - [OscarCreator/rsync.nvim](https://github.com/OscarCreator/rsync.nvim) - neovim plugin which synchronises project with rsync on save.
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) - A duck that waddles arbitrarily in neovim.
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) - Neovim :airplane: Pastebins
@@ -2146,7 +2146,7 @@
 - [abeldekat/lazyflex.nvim](https://github.com/abeldekat/lazyflex.nvim) - An addon for lazy.nvim. Easily enable/disable multiple plugins.
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
 - [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv) - cmp import and use all environment variables from .env.* and system
-- [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim) - Show diagnostics and lsp info inside a custom window
+- [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim) - A Neovim plugin that provides a floating window for diagnostics and LSP information.
 - [OscarCreator/rsync.nvim](https://github.com/OscarCreator/rsync.nvim) - neovim plugin which synchronises project with rsync on save.
 - [carbon-steel/detour.nvim](https://github.com/carbon-steel/detour.nvim) - Use popup windows to navigate files/buffer and to contain shells/TUIs
 - [nvim-java/nvim-java](https://github.com/nvim-java/nvim-java) - Painless Java in Neovim
