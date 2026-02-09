@@ -251,6 +251,7 @@
 
 ## C++ 
 
+- [daijro/camoufox](https://github.com/daijro/camoufox) - 🦊 Anti-detect browser
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
 - [siyia2/iso-commander](https://github.com/siyia2/iso-commander) - The Fastest ISO Manager on the Planet for the GNU/Linux Ecosystem.
@@ -295,7 +296,7 @@
 - [easymodo/qimgv](https://github.com/easymodo/qimgv) - Image viewer. Fast, easy to use. Optional video support.
 - [nomacs/nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
 - [hank/dsf2flac](https://github.com/hank/dsf2flac) - Code for converting DSF to FLAC files
-- [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt and KDE
+- [tsujan/Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt
 - [Luwx/Lightly](https://github.com/Luwx/Lightly) - A modern style for qt applications.
 - [shundhammer/qdirstat](https://github.com/shundhammer/qdirstat) - QDirStat - Qt-based directory statistics (KDirStat without any KDE - from the original KDirStat author)
 - [ReanGD/rofi-proxy](https://github.com/ReanGD/rofi-proxy) - Rofi-proxy is a plugin that allows you to manage rofi state with an external application
@@ -486,7 +487,7 @@
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [robin-mbg/may](https://github.com/robin-mbg/may) - CLI tool to easily list and manage git repositories all across your system.
 - [itchyny/mmv](https://github.com/itchyny/mmv) - rename multiple files with editor
-- [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
+- [mpolden/echoip](https://github.com/mpolden/echoip) - A simple IP address lookup service.
 - [cespare/reflex](https://github.com/cespare/reflex) - Run a command when files change
 - [dakyskye/dxhd](https://github.com/dakyskye/dxhd) - daky's X11 Hotkey Daemon
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
@@ -1342,7 +1343,7 @@
 - [stefur/lizzy](https://github.com/stefur/lizzy) - A customizable Waybar module for media playback that uses DBus signals
 - [hummingbird-player/hummingbird](https://github.com/hummingbird-player/hummingbird) - Modern music player written in Rust using GPUI with a focus on design and performance
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
-- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
+- [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [MaxVerevkin/wlr-which-key](https://github.com/MaxVerevkin/wlr-which-key) - Keymap manager for wlroots-based compositors
 - [JFryy/systemd-lsp](https://github.com/JFryy/systemd-lsp) - language server for systemd unit files - embedded documentation + complete LSP implementation in rust.
 - [dnut/clipboard-sync](https://github.com/dnut/clipboard-sync) - Synchronizes the clipboard across multiple X11 and wayland instances running on the same machine.
