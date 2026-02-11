@@ -1316,7 +1316,6 @@
 - [axieax/urlview.nvim](https://github.com/axieax/urlview.nvim) - 🔎 Neovim plugin for viewing all the URLs in a buffer
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
-- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
