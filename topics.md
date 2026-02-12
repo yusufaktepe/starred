@@ -454,7 +454,7 @@
 
 ## bootstrap 
 
-- [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit Being revived.
+- [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - Deprecated: A fork of the iconic font and CSS toolkit
 - [mailslurper/mailslurper](https://github.com/mailslurper/mailslurper) - Local, web-based mail server application. Slurp mails into oblivion!
 
 ## bot 
@@ -1444,7 +1444,7 @@
 
 ## icon-font 
 
-- [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - A fork of the iconic font and CSS toolkit Being revived.
+- [ForkAwesome/Fork-Awesome](https://github.com/ForkAwesome/Fork-Awesome) - Deprecated: A fork of the iconic font and CSS toolkit
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## image-processing 
