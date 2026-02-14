@@ -2566,7 +2566,7 @@
 - [cortex/ripasso](https://github.com/cortex/ripasso) - A simple password manager written in Rust
 - [m00qek/plugin-template.nvim](https://github.com/m00qek/plugin-template.nvim) - A template to create Neovim plugins written in Lua
 - [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) - Find And Replace plugin for neovim
-- [KlingTeam/LivePortrait](https://github.com/KlingTeam/LivePortrait) - Bring portraits to life!
+- [KlingAIResearch/LivePortrait](https://github.com/KlingAIResearch/LivePortrait) - Bring portraits to life!
 - [mluders/comfy-line-numbers.nvim](https://github.com/mluders/comfy-line-numbers.nvim) - A Neovim plugin that makes vertical motions more comfortable
 - [gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim) - A Neovim plugin for changing keyword case.
 - [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) - Faster LuaLS setup for Neovim
@@ -3561,6 +3561,7 @@
 - [ekzhang/bore](https://github.com/ekzhang/bore) - 🕳 bore is a simple CLI tool for making tunnels to localhost
 - [boreq/eggplant](https://github.com/boreq/eggplant) - Eggplant is a self-hosted music streaming service
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## server 
 
@@ -3890,6 +3891,7 @@
 - [LuanRT/YouTube.js](https://github.com/LuanRT/YouTube.js) - A JavaScript client for YouTube's private API, known as InnerTube.
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
 - [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 
 ## ubuntu 
