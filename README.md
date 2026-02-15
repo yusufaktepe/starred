@@ -21,7 +21,6 @@
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
-- [JSON](#json)
 - [Janet](#janet)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -560,10 +559,6 @@
 - [erebe/greenclip](https://github.com/erebe/greenclip) - Simple clipboard manager to be integrated with rofi - Static binary available
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
-## JSON 
-
-- [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
-
 ## Janet 
 
 - [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context) - Show code context
@@ -625,6 +620,7 @@
 - [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
 - [dralletje/Windowed](https://github.com/dralletje/Windowed) - Chrome extension to keep fullscreen windows contained
 - [Robbendebiene/Gesturefy](https://github.com/Robbendebiene/Gesturefy) - Navigate, operate, and browse faster with mouse gestures! A customizable Firefox mouse gesture add-on with a variety of different commands.
+- [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [strawdynamics/luminous](https://github.com/strawdynamics/luminous) - A simple, lightweight, no-dependencies JavaScript lightbox
 - [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
