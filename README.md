@@ -1110,7 +1110,6 @@
 ## Perl 
 
 - [curl/trurl](https://github.com/curl/trurl) - a command line tool for URL parsing and manipulation.
-- [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
 - [trizen/youtube-viewer](https://github.com/trizen/youtube-viewer) - Lightweight YouTube client for Linux
 
@@ -1624,6 +1623,7 @@
 - [kgizdov/send_email.sh](https://github.com/kgizdov/send_email.sh) - Script to send an email in bare-bone environments with minimal requirements
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [modernish/modernish](https://github.com/modernish/modernish) - Modernish is a library for writing robust, portable, readable, and powerful programs for POSIX-based shells and utilities.
+- [wofr06/lesspipe](https://github.com/wofr06/lesspipe) - lesspipe - display more with less
 - [adelin-b/yawhich-key](https://github.com/adelin-b/yawhich-key) - An universal which-key command to provide spacemacs-like shortcut tooltip on desktop and any windows
 - [pabloariasal/zfm](https://github.com/pabloariasal/zfm) - Zsh Fuzzy Marks
 - [bigH/git-fuzzy](https://github.com/bigH/git-fuzzy) - interactive `git` with the help of `fzf`
