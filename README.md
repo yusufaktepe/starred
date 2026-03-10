@@ -526,7 +526,7 @@
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
 - [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [skanehira/gtran](https://github.com/skanehira/gtran) - Google translate CLI
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
