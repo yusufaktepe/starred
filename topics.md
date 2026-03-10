@@ -423,7 +423,7 @@
 - [bpkg/bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
 - [cyberark/bash-lib](https://github.com/cyberark/bash-lib) - Library for bash utility methods and tools
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server) - A language server for Bash
 - [roddhjav/progressbar](https://github.com/roddhjav/progressbar) - A pacman like progress bar in bash
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -1213,7 +1213,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [laurent22/massren](https://github.com/laurent22/massren) - massren - easily rename multiple files using your text editor
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -3633,7 +3633,7 @@
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [bpkg/bpkg](https://github.com/bpkg/bpkg) - Lightweight bash package manager
 - [niieani/bash-oo-framework](https://github.com/niieani/bash-oo-framework) - Bash Infinity is a modern standard library / framework / boilerplate for Bash
-- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [p-gen/smenu](https://github.com/p-gen/smenu) - smenu started as a lightweight and flexible terminal menu generator, but quickly evolved into a powerful and versatile CLI selection tool for interactive or scripting use.
 - [dyne/tomb](https://github.com/dyne/tomb) - the Crypto Undertaker
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
@@ -4268,6 +4268,7 @@
 - [webpro/awesome-dotfiles](https://github.com/webpro/awesome-dotfiles) - A curated list of dotfiles resources.
 - [kutsan/zsh-system-clipboard](https://github.com/kutsan/zsh-system-clipboard) - System clipboard key bindings for Zsh Line Editor with vi mode. It is similar to what `set clipboard=unnamed` does for vim.
 - [deoplete-plugins/deoplete-zsh](https://github.com/deoplete-plugins/deoplete-zsh) - 
+- [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [CSaratakij/i3-rice-rin-shelter](https://github.com/CSaratakij/i3-rice-rin-shelter) - My i3wm rice with theme "Rin : shelter"
 - [kristijanhusak/neovim-config](https://github.com/kristijanhusak/neovim-config) - Neovim configuration
 - [ardagnir/athame](https://github.com/ardagnir/athame) - Full vim for your shell (bash, zsh, gdb, python, etc)
