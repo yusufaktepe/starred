@@ -1115,6 +1115,7 @@
 
 ## Python 
 
+- [jfsicilia/kwanata](https://github.com/jfsicilia/kwanata) - A bridge between KDE Plasma's window focus events and the [Kanata](https://github.com/jtroo/kanata) keyboard remapper. KWanata switches Kanata layers and activates virtual keys based on the currently 
 - [Rikorose/DeepFilterNet](https://github.com/Rikorose/DeepFilterNet) - Noise supression using deep filtering
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
 - [miphreal/python-rofi-menu](https://github.com/miphreal/python-rofi-menu) - Build rofi menu via python
