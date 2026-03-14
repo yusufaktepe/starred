@@ -243,6 +243,7 @@
 
 ## android 
 
+- [SMS2Email/SMS2Email](https://github.com/SMS2Email/SMS2Email) - Android app that forwards SMS messages to SMTP (Email) server
 - [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [JonasBernard/FakeStandby](https://github.com/JonasBernard/FakeStandby) - An Android app for turning the screen off while keeping apps running.
@@ -965,6 +966,8 @@
 
 ## dotfiles 
 
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
+- [snowarch/iNiR](https://github.com/snowarch/iNiR) - A Niri shell illogical-impulse based - with some modifications..
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 - [RaphGL/Tuckr](https://github.com/RaphGL/Tuckr) - Super powered replacement for GNU Stow
@@ -1572,6 +1575,8 @@
 
 ## linux 
 
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
+- [snowarch/iNiR](https://github.com/snowarch/iNiR) - A Niri shell illogical-impulse based - with some modifications..
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - ‼️ No waybar here ‼️
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible
 - [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
@@ -1999,6 +2004,7 @@
 
 ## material-design 
 
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
@@ -2462,6 +2468,7 @@
 
 ## others 
 
+- [chrisling-dev/hyperliquid-cli](https://github.com/chrisling-dev/hyperliquid-cli) - Unofficial Hyperliquid CLI for high performance, low-latency trading and real time data monitoring
 - [jfsicilia/kwanata](https://github.com/jfsicilia/kwanata) - A bridge between KDE Plasma's window focus events and the [Kanata](https://github.com/jtroo/kanata) keyboard remapper. KWanata switches Kanata layers and activates virtual keys based on the currently 
 - [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - A protocol handler for mpv. Use mpv and yt-dlp to play video and music from the websites.
 - [russelltg/wl-screenrec](https://github.com/russelltg/wl-screenrec) - High performance wlroots screen recording, featuring hardware encoding
