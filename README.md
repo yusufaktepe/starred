@@ -1330,6 +1330,7 @@
 
 ## Rust 
 
+- [7mind/kanata-switcher](https://github.com/7mind/kanata-switcher) - Kanata layer switcher based on focused application, for *all* Linux desktop environments  (Wayland and X11)
 - [Satty-org/Satty](https://github.com/Satty-org/Satty) - Satty - Modern Screenshot Annotation.
 - [nongio/otto](https://github.com/nongio/otto) - A stacking window manager built around animation, gesture, and spatial interaction.
 - [akiirui/mpv-handler](https://github.com/akiirui/mpv-handler) - A protocol handler for mpv. Use mpv and yt-dlp to play video and music from the websites.
@@ -1736,6 +1737,7 @@
 
 ## TypeScript 
 
+- [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [chrisling-dev/hyperliquid-cli](https://github.com/chrisling-dev/hyperliquid-cli) - Unofficial Hyperliquid CLI for high performance, low-latency trading and real time data monitoring
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
