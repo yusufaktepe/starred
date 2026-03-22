@@ -1244,7 +1244,7 @@
 - [gcla/termshark](https://github.com/gcla/termshark) - A terminal UI for tshark, inspired by Wireshark
 - [ddworken/hishtory](https://github.com/ddworken/hishtory) - Your shell history: synced, queryable, and in context
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
-- [enricofoltran/simple-go-server](https://github.com/enricofoltran/simple-go-server) - A simple golang web server with basic logging, tracing, health check, graceful shutdown and zero dependencies
+- [3n21c0/simple-go-server](https://github.com/3n21c0/simple-go-server) - A simple golang web server with basic logging, tracing, health check, graceful shutdown and zero dependencies
 - [itchyny/gojq](https://github.com/itchyny/gojq) - Pure Go implementation of jq
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
 - [abdfnx/tran](https://github.com/abdfnx/tran) - 🖥 Securely transfer and send anything between computers with TUI.
