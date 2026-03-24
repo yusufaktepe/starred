@@ -622,7 +622,7 @@
 - [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [strawdynamics/luminous](https://github.com/strawdynamics/luminous) - A simple, lightweight, no-dependencies JavaScript lightbox
-- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 5900 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+- [tabler/tabler-icons](https://github.com/tabler/tabler-icons) - A set of over 6000 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 - [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [gitalk/gitalk](https://github.com/gitalk/gitalk) - Gitalk is a modern comment component based on Github Issue and Preact.
 - [sachinchoolur/lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
