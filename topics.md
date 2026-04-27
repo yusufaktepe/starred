@@ -50,6 +50,7 @@
 - [dart](#dart)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
+- [data-visualization](#data-visualization)
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [deno](#deno)
@@ -311,7 +312,7 @@
 - [r-darwish/alma](https://github.com/r-darwish/alma) - Create Arch Linux based bootable USB drives
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
 - [Nudin/getrid](https://github.com/Nudin/getrid) - Simple terminal user interface to decide which packages to keep and which to get rid of
-- [doums/milcheck](https://github.com/doums/milcheck) - Display the status of your pacman mirrorlist and the Arch Linux lastest news right in your terminal
+- [doums/milcheck](https://github.com/doums/milcheck) - A cli to get pacman mirrorlist status and the Arch Linux latest news
 - [aurutils/aurutils](https://github.com/aurutils/aurutils) - Helper tools for the AUR.
 - [ilpianista/arch-audit](https://github.com/ilpianista/arch-audit) - A utility like pkg-audit for Arch Linux. Based on Arch Security Team data.
 
@@ -887,11 +888,17 @@
 ## data-analysis 
 
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [codekitchen/pipeline](https://github.com/codekitchen/pipeline) - the `pipeline` shell command
 
 ## data-science 
 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [alexhallam/tv](https://github.com/alexhallam/tv) - 📺(tv) Tidy Viewer is a cross-platform CLI csv pretty printer that uses column styling to maximize viewer enjoyment.
+
+## data-visualization 
+
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 
 ## database 
 
@@ -924,6 +931,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [sayanarijit/xplr](https://github.com/sayanarijit/xplr) - A hackable, minimal, fast TUI file explorer
 - [heyman/heynote](https://github.com/heyman/heynote) - A dedicated scratchpad for power users
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [cristianoliveira/funzzy](https://github.com/cristianoliveira/funzzy) - A lightweight blazingly fast file watcher.
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
@@ -2508,7 +2516,7 @@
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [tonymajestro/reddit-tui](https://github.com/tonymajestro/reddit-tui) - Terminal UI for reddit
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
-- [Trihedron1240/FolderFresh](https://github.com/Trihedron1240/FolderFresh) - FolderFresh is a small tool that organises messy folders automatically. It sorts files into simple categories such as Documents, Images, Videos, Audio, Archives, Code, and Other. Nothing is deleted, a
+- [Trihedron1240/FolderFresh](https://github.com/Trihedron1240/FolderFresh) - FolderFresh is a Windows file automation app that safely organizes folders using rule-based profiles, previews, undo history, Recycle Bin deletes, snapshots, watched folders, and starter packs.
 - [OHF-Voice/piper1-gpl](https://github.com/OHF-Voice/piper1-gpl) - Fast and local neural text-to-speech engine
 - [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts in neovim
 - [maxdorninger/MediaManager](https://github.com/maxdorninger/MediaManager) - A modern selfhosted media management system for your media library
@@ -3537,7 +3545,7 @@
 - [greymd/teip](https://github.com/greymd/teip) - Masking tape to help commands "do one thing well"
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [doums/milcheck](https://github.com/doums/milcheck) - Display the status of your pacman mirrorlist and the Arch Linux lastest news right in your terminal
+- [doums/milcheck](https://github.com/doums/milcheck) - A cli to get pacman mirrorlist status and the Arch Linux latest news
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
@@ -4174,13 +4182,13 @@
 ## web 
 
 - [ferronweb/ferron](https://github.com/ferronweb/ferron) - A fast, memory-safe web server written in Rust.
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [nwtgck/piping-server](https://github.com/nwtgck/piping-server) - Infinitely transfer between every device over pure HTTP with pipes or browsers
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 
 ## webapp 
 
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 
 ## website 
