@@ -241,7 +241,7 @@
 
 ## C# # 
 
-- [Trihedron1240/FolderFresh](https://github.com/Trihedron1240/FolderFresh) - FolderFresh is a small tool that organises messy folders automatically. It sorts files into simple categories such as Documents, Images, Videos, Audio, Archives, Code, and Other. Nothing is deleted, a
+- [Trihedron1240/FolderFresh](https://github.com/Trihedron1240/FolderFresh) - FolderFresh is a Windows file automation app that safely organizes folders using rule-based profiles, previews, undo history, Recycle Bin deletes, snapshots, watched folders, and starter packs.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [btcpayserver/btcpayserver](https://github.com/btcpayserver/btcpayserver) - Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.
 - [imgbot/Imgbot](https://github.com/imgbot/Imgbot) - An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once i
@@ -1504,7 +1504,7 @@
 - [neXromancers/shotgun](https://github.com/neXromancers/shotgun) - Minimal X screenshot utility
 - [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [doums/milcheck](https://github.com/doums/milcheck) - Display the status of your pacman mirrorlist and the Arch Linux lastest news right in your terminal
+- [doums/milcheck](https://github.com/doums/milcheck) - A cli to get pacman mirrorlist status and the Arch Linux latest news
 - [Shizcow/dmenu-rs](https://github.com/Shizcow/dmenu-rs) - A pixel perfect port of dmenu, rewritten in Rust with extensive plugin support
 - [chmln/handlr](https://github.com/chmln/handlr) - A better xdg-utils
 - [max-baz/wluma](https://github.com/max-baz/wluma) - Automatic brightness adjustment based on screen contents and ALS
