@@ -1931,7 +1931,7 @@
 - [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
 - [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
-- [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
+- [vim-polyglot/vim-polyglot](https://github.com/vim-polyglot/vim-polyglot) - A solid language pack for Vim.
 - [ap/vim-css-color](https://github.com/ap/vim-css-color) - Preview colours in source code while editing
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
 - [lambdalisue/vim-suda](https://github.com/lambdalisue/vim-suda) - 🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows
