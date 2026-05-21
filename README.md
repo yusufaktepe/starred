@@ -683,7 +683,7 @@
 - [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) - Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
 - [SMS2Email/SMS2Email](https://github.com/SMS2Email/SMS2Email) - Android app that forwards SMS messages to SMTP (Email) server
 - [wiiznokes/gitnote](https://github.com/wiiznokes/gitnote) - Android note app with real file. Can be sync with git providers such as Github
-- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
+- [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - An Android app for searching torrents across multiple providers - fast, detailed, and packed with actions.
 - [ooni/probe-multiplatform](https://github.com/ooni/probe-multiplatform) - 
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [adeekshith/watomatic](https://github.com/adeekshith/watomatic) - Auto reply app to enable auto reply for messengers like WhatsApp and Facebook Messenger
@@ -1743,6 +1743,7 @@
 
 ## TypeScript 
 
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [chrisling-dev/hyperliquid-cli](https://github.com/chrisling-dev/hyperliquid-cli) - Unofficial Hyperliquid CLI for high performance, low-latency trading and real time data monitoring
 - [tonyantony300/alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
