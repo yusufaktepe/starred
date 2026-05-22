@@ -271,7 +271,7 @@
 - [rolandriegel/nload](https://github.com/rolandriegel/nload) - Real-time network traffic monitor
 - [mawww/kakoune](https://github.com/mawww/kakoune) - mawww's experiment for a better code editor
 - [Slackadays/Clipboard](https://github.com/Slackadays/Clipboard) - 😎🏖️🐬 Your new, 𝙧𝙞𝙙𝙤𝙣𝙠𝙪𝙡𝙞𝙘𝙞𝙤𝙪𝙨𝙡𝙮 smart clipboard manager
-- [pixop/video-compare](https://github.com/pixop/video-compare) - Split screen video comparison tool using FFmpeg and SDL2
+- [pixop/video-compare](https://github.com/pixop/video-compare) - Split-screen video comparison tool using FFmpeg and SDL2
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator
 - [thezbyg/gpick](https://github.com/thezbyg/gpick) - Advanced color picker written in C++ using GTK+ toolkit
 - [rodlie/powerkit](https://github.com/rodlie/powerkit) - Desktop Independent Power Manager
@@ -571,6 +571,7 @@
 
 ## Java 
 
+- [elementdavv/chaka](https://github.com/elementdavv/chaka) - Android book reader
 - [jazzm0/ssh-daemon](https://github.com/jazzm0/ssh-daemon) - 
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
 - [JonasBernard/FakeStandby](https://github.com/JonasBernard/FakeStandby) - An Android app for turning the screen off while keeping apps running.
