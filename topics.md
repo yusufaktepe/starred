@@ -3116,7 +3116,6 @@
 - [altdesktop/i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [zbaylin/rofi-wifi-menu](https://github.com/zbaylin/rofi-wifi-menu) - a bash script using nmcli and rofi to make a wifi menu in i3/openbox/bspwm
 - [firecat53/networkmanager-dmenu](https://github.com/firecat53/networkmanager-dmenu) - Control NetworkManager via dmenu
-- [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [mobile-shell/mosh](https://github.com/mobile-shell/mosh) - Mobile Shell
 - [TxGVNN/i3-config](https://github.com/TxGVNN/i3-config) - i3wm configuration files
 - [maxrd2/SubtitleComposer](https://github.com/maxrd2/SubtitleComposer) - Subtitle Composer - KF5/Qt Video Subtitle Editor
