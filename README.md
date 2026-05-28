@@ -591,6 +591,7 @@
 
 ## JavaScript 
 
+- [aminought/firefox-second-sidebar](https://github.com/aminought/firefox-second-sidebar) - A Firefox userChrome.js script that brings a second sidebar with web panels like in Vivaldi/Edge/Floorp but better.
 - [mafintosh/peerflix](https://github.com/mafintosh/peerflix) - Streaming torrent client for node.js
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [planetarian/TamperMonkey-Scripts](https://github.com/planetarian/TamperMonkey-Scripts) - Small collection of handy TamperMonkey scripts.
@@ -679,6 +680,8 @@
 
 ## Kotlin 
 
+- [marcomorosi06/WiFiAudioStreaming-Android](https://github.com/marcomorosi06/WiFiAudioStreaming-Android) - An Android application for streaming audio over a local network. It allows you to stream your Android device's internal audio to any device on the network. Developed in Kotlin and Jetpack Compose.
+- [marcomorosi06/WiFiAudioStreaming-Desktop](https://github.com/marcomorosi06/WiFiAudioStreaming-Desktop) - A desktop application for streaming audio over a local network. It allows you to stream your computer's internal audio to any device on the network. Developed in Kotlin and Jetpack Compose.
 - [chayanforyou/QuickBall](https://github.com/chayanforyou/QuickBall) - A Quick Action Ball that gives fast access to system controls (volume, brightness, lock) with smart positioning
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 - [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
@@ -809,7 +812,7 @@
 - [arnamak/stay-centered.nvim](https://github.com/arnamak/stay-centered.nvim) - A neovim plugin to keep your cursor at the center of the screen.
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) - This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed
 - [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
-- [IlyasYOY/obs.nvim](https://github.com/IlyasYOY/obs.nvim) - Obsidian-like NeoVim plugin.
+- [IlyasYOY/obs.nvim](https://github.com/IlyasYOY/obs.nvim) - Obsidian-like Neovim plugin.
 - [michaelPotter/secure-settings.nvim](https://github.com/michaelPotter/secure-settings.nvim) - 
 - [altermo/nwm](https://github.com/altermo/nwm) - A graphical display window manager in neovim
 - [altermo/iedit.nvim](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
