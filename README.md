@@ -680,6 +680,7 @@
 
 ## Kotlin 
 
+- [potatameister/PaperKnifePlus](https://github.com/potatameister/PaperKnifePlus) - Privacy-first PDF utility: merge, split, rotate, and protect
 - [marcomorosi06/WiFiAudioStreaming-Android](https://github.com/marcomorosi06/WiFiAudioStreaming-Android) - An Android application for streaming audio over a local network. It allows you to stream your Android device's internal audio to any device on the network. Developed in Kotlin and Jetpack Compose.
 - [marcomorosi06/WiFiAudioStreaming-Desktop](https://github.com/marcomorosi06/WiFiAudioStreaming-Desktop) - A desktop application for streaming audio over a local network. It allows you to stream your computer's internal audio to any device on the network. Developed in Kotlin and Jetpack Compose.
 - [chayanforyou/QuickBall](https://github.com/chayanforyou/QuickBall) - A Quick Action Ball that gives fast access to system controls (volume, brightness, lock) with smart positioning
@@ -1137,7 +1138,7 @@
 - [DraftKinner/zotify](https://github.com/DraftKinner/zotify) - A fast and customizable music and podcast downloader.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [gianni-rosato/aviator](https://github.com/gianni-rosato/aviator) - A lightweight, Flatpak-first, easy-to-use GUI utility for encoding with SVT-AV1 & Opus.
-- [c4pt0r/gmailtail](https://github.com/c4pt0r/gmailtail) - tail -f your gmail
+- [c4pt0r/gs](https://github.com/c4pt0r/gs) - tail -f your gmail
 - [haithium/hyprkan](https://github.com/haithium/hyprkan) - App-aware Kanata layer switcher for Linux
 - [mijorus/whisper](https://github.com/mijorus/whisper) - 🎤  →  🎧️  Listen to your mic - with Pipewire
 - [autonomio/chances](https://github.com/autonomio/chances) - Package that implements several pseudo, quasi, and true, including quantum random methods into a unified single-line command interface.
