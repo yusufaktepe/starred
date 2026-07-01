@@ -2820,7 +2820,7 @@
 - [vitalif/grive2](https://github.com/vitalif/grive2) - Google Drive client with support for new Drive REST API and partial sync
 - [erjoalgo/chromeurl](https://github.com/erjoalgo/chromeurl) - a chrome extension to expose the current url to local processes
 - [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
-- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A command-line utility for taking automated screenshots of websites
+- [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
 - [chuxinh/trading-strategy-simulation](https://github.com/chuxinh/trading-strategy-simulation) - Comparing dollar-cost averaging frequencies 🤓
 - [caarlos0/timer](https://github.com/caarlos0/timer) - A `sleep` with progress
 - [korreman/sway-overfocus](https://github.com/korreman/sway-overfocus) - "Better" focus navigation for sway and i3
