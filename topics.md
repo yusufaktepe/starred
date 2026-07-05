@@ -1403,7 +1403,6 @@
 - [angt/totp](https://github.com/angt/totp) - A tiny command line utility to generate OTP tokens
 - [ym1234/colorpicker](https://github.com/ym1234/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
 - [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - 📃 Get lyrics of currently playing Spotify song so you don't sing along with the wrong ones and embarrass yourself later. Very fast.
-- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [melbahja/got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
 - [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
@@ -2528,6 +2527,7 @@
 
 ## others 
 
+- [hthienloc/dms-quick-capture](https://github.com/hthienloc/dms-quick-capture) - Quick screenshot and annotation plugin for DankMaterialShell
 - [marcomorosi06/WiFiAudioStreaming-Android](https://github.com/marcomorosi06/WiFiAudioStreaming-Android) - An Android application for streaming audio over a local network. It allows you to stream your Android device's internal audio to any device on the network. Developed in Kotlin and Jetpack Compose.
 - [marcomorosi06/WiFiAudioStreaming-Desktop](https://github.com/marcomorosi06/WiFiAudioStreaming-Desktop) - A desktop application for streaming audio over a local network. It allows you to stream your computer's internal audio to any device on the network. Developed in Kotlin and Jetpack Compose.
 - [chayanforyou/QuickBall](https://github.com/chayanforyou/QuickBall) - A Quick Action Ball that gives fast access to system controls (volume, brightness, lock) with smart positioning
@@ -2917,6 +2917,7 @@
 - [Earnestly/sx](https://github.com/Earnestly/sx) - Start an xorg server
 - [Bad-ptr/xsetprop](https://github.com/Bad-ptr/xsetprop) - Program for setting X window properties, like xprop, but for 'set' only(not 'get') and allow setting list of atoms ( or patch for xprop ).
 - [jkulesza/usbreset](https://github.com/jkulesza/usbreset) - 
+- [jhaals/yopass](https://github.com/jhaals/yopass) - Secure sharing of secrets, passwords and files
 - [ReanGD/rofi-proxy](https://github.com/ReanGD/rofi-proxy) - Rofi-proxy is a plugin that allows you to manage rofi state with an external application
 - [Tomas-M/iotop](https://github.com/Tomas-M/iotop) - A top utility for IO
 - [vinayak-mehta/present](https://github.com/vinayak-mehta/present) - A terminal-based presentation tool with colors and effects.
