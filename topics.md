@@ -229,10 +229,12 @@
 
 ## agent 
 
+- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 
 ## ai 
 
+- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -242,6 +244,7 @@
 
 ## ai-agents 
 
+- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -484,6 +487,7 @@
 
 ## bot 
 
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [imgbot/Imgbot](https://github.com/imgbot/Imgbot) - An Azure Function solution to crawl through all of your image files in GitHub and losslessly compress them. This will make the file size go down, but leave the dimensions and quality untouched. Once i
 
 ## c 
@@ -1976,6 +1980,7 @@
 
 ## macos 
 
+- [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
 - [bluetuith-org/bluetuith](https://github.com/bluetuith-org/bluetuith) - A cross-platform TUI bluetooth manager.
@@ -2074,6 +2079,7 @@
 
 ## mcp 
 
+- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
 - [nukeop/nuclear](https://github.com/nukeop/nuclear) - Streaming music player that finds free music for you
 
 ## mobile 
@@ -2187,7 +2193,6 @@
 - [arnamak/stay-centered.nvim](https://github.com/arnamak/stay-centered.nvim) - A neovim plugin to keep your cursor at the center of the screen.
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) - This is the lua implementation of nvim-hlchunk, you can use this neovim plugin to highlight your indent line and the current chunk (context) your cursor stayed
 - [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
-- [IlyasYOY/obs.nvim](https://github.com/IlyasYOY/obs.nvim) - Obsidian-like Neovim plugin.
 - [altermo/nwm](https://github.com/altermo/nwm) - A graphical display window manager in neovim
 - [altermo/iedit.nvim](https://github.com/altermo/iedit.nvim) - Edit one occurrence of text and simultaneously have other selected occurrences edited in the same way.
 - [Makaze/watch.nvim](https://github.com/Makaze/watch.nvim) - A scrollable `watch` alternative for Neovim.
@@ -3484,6 +3489,7 @@
 
 ## rust 
 
+- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
 - [mohsen1/git-lazy-mount](https://github.com/mohsen1/git-lazy-mount) - Lazily mount a git repo without cloning it. Works with ordinary git commands
 - [tlipinski/rura](https://github.com/tlipinski/rura) - Interactive TUI scratchpad for building shell pipelines
 - [rpgp/rpgp](https://github.com/rpgp/rpgp) - OpenPGP implemented in pure Rust, permissively licensed
@@ -3988,6 +3994,7 @@
 
 ## typescript 
 
+- [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
@@ -4240,6 +4247,7 @@
 
 ## whatsapp-bot 
 
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [adeekshith/watomatic](https://github.com/adeekshith/watomatic) - Auto reply app to enable auto reply for messengers like WhatsApp and Facebook Messenger
 
 ## windows 
