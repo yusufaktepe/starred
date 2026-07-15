@@ -692,7 +692,7 @@
 - [SMS2Email/SMS2Email](https://github.com/SMS2Email/SMS2Email) - Android app that forwards SMS messages to SMTP (Email) server
 - [wiiznokes/gitnote](https://github.com/wiiznokes/gitnote) - Android note app with real file. Can be sync with git providers such as Github
 - [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - An Android app for searching torrents across multiple providers - fast, detailed, and packed with actions.
-- [ooni/probe-multiplatform](https://github.com/ooni/probe-multiplatform) - 
+- [ooni/probe-multiplatform](https://github.com/ooni/probe-multiplatform) - OONI Probe Multiplatform: free and open source app to measure internet censorship and network interference on Android, iOS, and Desktop
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [adeekshith/watomatic](https://github.com/adeekshith/watomatic) - Auto reply app to enable auto reply for messengers like WhatsApp and Facebook Messenger
 - [Droid-ify/client](https://github.com/Droid-ify/client) - Clutterfree F-Droid client
