@@ -1149,6 +1149,7 @@
 
 ## git 
 
+- [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) - A tree-sitter grammar for gitcommit messages
 - [mohsen1/git-lazy-mount](https://github.com/mohsen1/git-lazy-mount) - Lazily mount a git repo without cloning it. Works with ordinary git commands
 - [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) - Mobile Git client for syncing a repository between remote and a local directory
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
