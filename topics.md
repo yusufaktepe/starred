@@ -1647,7 +1647,7 @@
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
-- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
+- [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
 - [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet) - The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://docs.cakewallet.com
@@ -2541,6 +2541,7 @@
 
 ## others 
 
+- [OctopusTakopi/bitcoin_sessions](https://github.com/OctopusTakopi/bitcoin_sessions) - How Bitcoin trades across regional market sessions (Asia/UAE/Europe/US) — returns, aggressive flow, volume share & open-interest positioning from cached Binance data.
 - [Omochice/Surfingkeys](https://github.com/Omochice/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [hthienloc/dms-quick-capture](https://github.com/hthienloc/dms-quick-capture) - Quick screenshot and annotation plugin for DankMaterialShell
 - [marcomorosi06/WiFiAudioStreaming-Android](https://github.com/marcomorosi06/WiFiAudioStreaming-Android) - An Android application for streaming audio over a local network. It allows you to stream your Android device's internal audio to any device on the network. Developed in Kotlin and Jetpack Compose.
