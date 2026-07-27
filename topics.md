@@ -595,6 +595,7 @@
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
 - [gdh1995/vimium-c](https://github.com/gdh1995/vimium-c) - A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar
+- [andy-portmen/external-application-button](https://github.com/andy-portmen/external-application-button) - Communicate with external applications of your OS through a toolbar button or context menu item.
 - [b0o/surfingkeys-conf](https://github.com/b0o/surfingkeys-conf) - 🏄 A SurfingKeys config which adds 180+ key mappings & 50+ search engines
 
 ## claude 
@@ -2109,7 +2110,7 @@
 - [AdnanHodzic/auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - Automatic CPU speed & power optimizer for Linux
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
-- [tgraf/bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
+- [Jafaral/bmon](https://github.com/Jafaral/bmon) - bandwidth monitor and rate estimator
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 
 ## music 
@@ -3065,7 +3066,7 @@
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [hrkfdn/ncspot](https://github.com/hrkfdn/ncspot) - Cross-platform ncurses Spotify client written in Rust, inspired by ncmpc and the likes.
-- [DO-SAY-GO/dn](https://github.com/DO-SAY-GO/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
+- [DO-SAY-GO/tdf](https://github.com/DO-SAY-GO/tdf) - 🌱 TDF - Tree Document Format - a universal file format for web collections
 - [jbensmann/xmouseless](https://github.com/jbensmann/xmouseless) - A fast and simple way to control the mouse.
 - [kchmck/vim-coffee-script](https://github.com/kchmck/vim-coffee-script) - CoffeeScript support for vim
 - [Zebradil/xkb-switch-i3](https://github.com/Zebradil/xkb-switch-i3) - Switch your X keyboard layouts from the command line
@@ -3100,7 +3101,6 @@
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [ziishaned/learn-regex](https://github.com/ziishaned/learn-regex) - Learn regex the easy way
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
-- [andy-portmen/external-application-button](https://github.com/andy-portmen/external-application-button) - Communicate with external applications of your OS through a toolbar button or context menu item.
 - [zsh-users/fizsh](https://github.com/zsh-users/fizsh) - Friendly Interactive ZSHell.
 - [skanehira/translate.vim](https://github.com/skanehira/translate.vim) - translate language plugin
 - [skanehira/gtran](https://github.com/skanehira/gtran) - Google translate CLI
