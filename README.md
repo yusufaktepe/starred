@@ -98,7 +98,6 @@
 - [att/ast](https://github.com/att/ast) - AST - AT&T Software Technology
 - [mariusae/trickle](https://github.com/mariusae/trickle) - Trickle is a userland bandwidth shaper for Unix-like systems.
 - [measurement-factory/dnstop](https://github.com/measurement-factory/dnstop) - Stay on top of your DNS traffic
-- [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [astrand/xclip](https://github.com/astrand/xclip) - Command line interface to the X11 clipboard
 - [mptre/yank](https://github.com/mptre/yank) - Yank terminal output to clipboard
 - [NikitaIvanovV/ctpv](https://github.com/NikitaIvanovV/ctpv) - Image previews for lf file manager
@@ -147,7 +146,7 @@
 - [jkulesza/usbreset](https://github.com/jkulesza/usbreset) - 
 - [Tomas-M/iotop](https://github.com/Tomas-M/iotop) - A top utility for IO
 - [Hummer12007/brightnessctl](https://github.com/Hummer12007/brightnessctl) - A program to read and control device brightness
-- [tgraf/bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
+- [Jafaral/bmon](https://github.com/Jafaral/bmon) - bandwidth monitor and rate estimator
 - [jcorporation/myMPD](https://github.com/jcorporation/myMPD) - myMPD is a standalone and mobile friendly web mpd client with a tiny footprint and advanced features.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [salman-abedin/devour](https://github.com/salman-abedin/devour) - X11 window swallower
@@ -657,7 +656,7 @@
 - [pkalogiros/AudioMass](https://github.com/pkalogiros/AudioMass) - Free full-featured web-based audio & waveform editing tool
 - [iamcco/vim-language-server](https://github.com/iamcco/vim-language-server) - VImScript language server, LSP for vim script
 - [floccusaddon/floccus](https://github.com/floccusaddon/floccus) - :cloud: Sync your bookmarks privately across browsers and devices
-- [DO-SAY-GO/dn](https://github.com/DO-SAY-GO/dn) - 💾 dn - offline full-text search and archiving for your Chromium-based browser.
+- [DO-SAY-GO/tdf](https://github.com/DO-SAY-GO/tdf) - 🌱 TDF - Tree Document Format - a universal file format for web collections
 - [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets) - 👩‍💻👨‍💻 Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
@@ -1088,6 +1087,7 @@
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
 - [newmanls/rofi-themes-collection](https://github.com/newmanls/rofi-themes-collection) - Themes Collection for Rofi Launcher
+- [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [termstandard/colors](https://github.com/termstandard/colors) - Color standards for terminal emulators
 - [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner) - A collection of handy Bash One-Liners and terminal tricks for data processing and Linux system maintenance.
 - [forwardemail/free-email-forwarding](https://github.com/forwardemail/free-email-forwarding) - Repository archived and moved to monorepo
