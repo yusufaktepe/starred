@@ -640,7 +640,7 @@
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [Jelmerro/Vieb](https://github.com/Jelmerro/Vieb) - Vim Inspired Electron Browser - Vim bindings for the web by design
 - [jaden/Tab-Position-Customizer-2](https://github.com/jaden/Tab-Position-Customizer-2) - Chrome extension to change where tabs are opened (forked from original extension that has since been removed)
-- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - Free your memory: a Manifest V3 Chrome extension that suspends inactive tabs to save memory and CPU. Session backup, tab health checks, Google Drive sync, 18 languages. No ads, no tracking.
+- [gioxx/MarvellousSuspender](https://github.com/gioxx/MarvellousSuspender) - A free, open-source Chrome extension - no ads, no tracking. Based on The Great Suspender, cleaned up and actively maintained.
 - [einaregilsson/Redirector](https://github.com/einaregilsson/Redirector) - Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.
 - [xiaoxiaoflood/firefox-scripts](https://github.com/xiaoxiaoflood/firefox-scripts) - userChromeJS / autoconfig.js and extensions
 - [learn-crypto-trading/learn-crypto-trading.github.io](https://github.com/learn-crypto-trading/learn-crypto-trading.github.io) - valuable sources for TA, FA, Algorithmic \ Quant Trading
@@ -1368,7 +1368,7 @@
 - [domenkozar/redland](https://github.com/domenkozar/redland) - A Wayland screen color temperature adjuster with automatic day/night cycle support, written in Rust.
 - [Andeskjerf/waybar-module-music](https://github.com/Andeskjerf/waybar-module-music) - Dynamic player controls module for Waybar, using DBus & MPRIS
 - [stefur/lizzy](https://github.com/stefur/lizzy) - A customizable Waybar module for media playback that uses DBus signals [read-only mirror]
-- [hummingbird-player/hummingbird](https://github.com/hummingbird-player/hummingbird) - [MIRROR - MIGRATED TO CODEBERG] Modern music player written in Rust using GPUI with a focus on design and performance
+- [hummingbird-player/hummingbird](https://github.com/hummingbird-player/hummingbird) - [mirror] Modern music player written in Rust using GPUI with a focus on design and performance
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [MaxVerevkin/wlr-which-key](https://github.com/MaxVerevkin/wlr-which-key) - Keymap manager for wlroots-based compositors
