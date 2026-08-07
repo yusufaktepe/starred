@@ -2560,7 +2560,7 @@
 - [AvengeMedia/dank-greeter](https://github.com/AvengeMedia/dank-greeter) - Greetd-based Greeter for the Dank Linux Suite
 - [OctopusTakopi/bitcoin_sessions](https://github.com/OctopusTakopi/bitcoin_sessions) - How Bitcoin trades across regional market sessions (Asia/UAE/Europe/US) — returns, aggressive flow, volume share & open-interest positioning from cached Binance data.
 - [Omochice/Surfingkeys](https://github.com/Omochice/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
-- [hthienloc/dms-quick-capture](https://github.com/hthienloc/dms-quick-capture) - Quick screenshot and annotation plugin for DankMaterialShell
+- [hthienloc/dms-quick-capture](https://github.com/hthienloc/dms-quick-capture) - Screenshot annotation plugin for DankMaterialShell
 - [marcomorosi06/WiFiAudioStreaming-Android](https://github.com/marcomorosi06/WiFiAudioStreaming-Android) - An Android application for streaming audio over a local network. It allows you to stream your Android device's internal audio to any device on the network. Developed in Kotlin and Jetpack Compose.
 - [marcomorosi06/WiFiAudioStreaming-Desktop](https://github.com/marcomorosi06/WiFiAudioStreaming-Desktop) - A desktop application for streaming audio over a local network. It allows you to stream your computer's internal audio to any device on the network. Developed in Kotlin and Jetpack Compose.
 - [chayanforyou/QuickBall](https://github.com/chayanforyou/QuickBall) - A Quick Action Ball that gives fast access to system controls (volume, brightness, lock) with smart positioning
