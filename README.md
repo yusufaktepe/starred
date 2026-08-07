@@ -1325,7 +1325,7 @@
 
 ## QML 
 
-- [hthienloc/dms-quick-capture](https://github.com/hthienloc/dms-quick-capture) - Quick screenshot and annotation plugin for DankMaterialShell
+- [hthienloc/dms-quick-capture](https://github.com/hthienloc/dms-quick-capture) - Screenshot annotation plugin for DankMaterialShell
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [snowarch/iNiR](https://github.com/snowarch/iNiR) - A Niri shell illogical-impulse based - with some modifications..
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
