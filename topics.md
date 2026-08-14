@@ -612,7 +612,7 @@
 
 ## cli 
 
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Build shell pipelines interactively, without the edit-rerun loop
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Terminal UI for building shell pipelines
 - [Yakitrak/notesmd-cli](https://github.com/Yakitrak/notesmd-cli) - Obsidian CLI (Community) -  Interact with Obsidian in the terminal!
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
@@ -3102,7 +3102,7 @@
 - [vivien/i3blocks](https://github.com/vivien/i3blocks) - The hacker-friendly status_command for Sway and i3
 - [tremby/imgur.sh](https://github.com/tremby/imgur.sh) - Bart's Imgur uploader bash script
 - [sstephenson/bats](https://github.com/sstephenson/bats) - Bash Automated Testing System
-- [tadfisher/pass-otp](https://github.com/tadfisher/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
+- [pass-extension/pass-otp](https://github.com/pass-extension/pass-otp) - A pass extension for managing one-time-password (OTP) tokens
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [christoomey/vim-conflicted](https://github.com/christoomey/vim-conflicted) - Easy git merge conflict resolution in Vim
 - [machakann/vim-swap](https://github.com/machakann/vim-swap) - Reorder delimited items.
@@ -3702,7 +3702,7 @@
 
 ## shell 
 
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Build shell pipelines interactively, without the edit-rerun loop
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Terminal UI for building shell pipelines
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [haithium/nata](https://github.com/haithium/nata) - Application-aware switching layer for Kanata on Linux.
@@ -3815,7 +3815,7 @@
 
 ## terminal 
 
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Build shell pipelines interactively, without the edit-rerun loop
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Terminal UI for building shell pipelines
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [wong-justin/vic](https://github.com/wong-justin/vic) - Trim videos in the terminal
 - [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions ( previously Altsendme )
@@ -3949,7 +3949,7 @@
 ## tui 
 
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
-- [tlipinski/rura](https://github.com/tlipinski/rura) - Build shell pipelines interactively, without the edit-rerun loop
+- [tlipinski/rura](https://github.com/tlipinski/rura) - Terminal UI for building shell pipelines
 - [nvzone/volt](https://github.com/nvzone/volt) - Create blazing fast & beautiful reactive UI in Neovim
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [wong-justin/vic](https://github.com/wong-justin/vic) - Trim videos in the terminal
