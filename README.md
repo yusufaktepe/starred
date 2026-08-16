@@ -136,7 +136,7 @@
 - [fritzw/ld-preload-open](https://github.com/fritzw/ld-preload-open) - Library to map files or directories to another location, for use with LD_PRELOAD.
 - [bbidulock/xdg-launch](https://github.com/bbidulock/xdg-launch) - A command line XDG compliant launcher and tools
 - [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool
-- [kernc/xsuspender](https://github.com/kernc/xsuspender) - 👀 💻 💤 🔋 Save battery by auto-suspending unfocused X11 applications.
+- [kernc/xsuspender](https://github.com/kernc/xsuspender) - 👀 💻 💤 🔋 Save battery by auto-suspending unfocused X11 apps
 - [Usbac/nmly](https://github.com/Usbac/nmly) - Easy to use bulk rename utility for the terminal
 - [htop-dev/htop](https://github.com/htop-dev/htop) - htop - an interactive process viewer
 - [randoragon/mousemode](https://github.com/randoragon/mousemode) - An intuitive, home-row mouse replacement.
@@ -345,7 +345,6 @@
 - [alfaaarex/keyfox](https://github.com/alfaaarex/keyfox) - A simple, keystroke-centered CSS for Firefox.
 - [BriLHR/FirefoxCSS-Darknight](https://github.com/BriLHR/FirefoxCSS-Darknight) - Firefox userChrome CSS theme
 - [datguypiko/Firefox-Mod-Blur](https://github.com/datguypiko/Firefox-Mod-Blur) - Firefox CSS Theme - Dark theme / More compact / Modular / Blur
-- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [akshat46/FlyingFox](https://github.com/akshat46/FlyingFox) - An opinionated set of configurations for firefox.
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [braver/programmingfonts](https://github.com/braver/programmingfonts) - Test drive programming fonts online: the definitive list of fonts for code.
@@ -1218,6 +1217,7 @@
 - [ssut/py-googletrans](https://github.com/ssut/py-googletrans) - (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge.
 - [Li4n0/hugo_encryptor](https://github.com/Li4n0/hugo_encryptor) - A tools for encrypting hugo posts
 - [erjoalgo/chromeurl](https://github.com/erjoalgo/chromeurl) - a chrome extension to expose the current url to local processes
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 - [simonw/shot-scraper](https://github.com/simonw/shot-scraper) - A CLI utility for taking screenshots of websites, recording video demos and scraping sites using JavaScript
 - [casualsnek/cassowary](https://github.com/casualsnek/cassowary) - Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuratio
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
