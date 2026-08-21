@@ -2671,7 +2671,7 @@
 - [SUSE/suse-font](https://github.com/SUSE/suse-font) - 
 - [Explosion-Scratch/firebuilder](https://github.com/Explosion-Scratch/firebuilder) - A comprehensive firefox profile, themes, userCSS and userChrome builder
 - [debricked/dmarc-visualizer](https://github.com/debricked/dmarc-visualizer) - Analyse and visualize DMARC results using open-source tools
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+- [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [TheTumultuousUnicornOfDarkness/CPU-X](https://github.com/TheTumultuousUnicornOfDarkness/CPU-X) - CPU-X is a Free software that gathers information on CPU, motherboard and more
 - [HiPhish/rainbow-delimiters.nvim](https://github.com/HiPhish/rainbow-delimiters.nvim) - Rainbow delimiters for Neovim with Tree-sitter
 - [antonk52/markdowny.nvim](https://github.com/antonk52/markdowny.nvim) - Markdown like keymaps for toggling text formatting
