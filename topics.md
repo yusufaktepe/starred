@@ -158,6 +158,7 @@
 - [perl](#perl)
 - [php](#php)
 - [pixel-art](#pixel-art)
+- [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -325,7 +326,7 @@
 - [JaKooLit/Arch-Hyprland](https://github.com/JaKooLit/Arch-Hyprland) - For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros
 - [moson-mo/pacseek](https://github.com/moson-mo/pacseek) - A terminal user interface for searching and installing Arch Linux packages
 - [Morganamilo/paccat](https://github.com/Morganamilo/paccat) - Print pacman package files
-- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - A collection of Bash scripts for creating bootable Arch Linux images and USB drives with desktop environments.
+- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Bash toolkit for building Arch Linux live ISO/IMG media and USB layouts from archiso-style profiles, plus utilities for persistence, full install-to-USB, hybrid media, and ZFS package builds.
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [ouuan/pacwatch](https://github.com/ouuan/pacwatch) - A pacman wrapper that helps you watch important package updates.
 - [Morganamilo/paru](https://github.com/Morganamilo/paru) - Feature packed AUR helper
@@ -353,7 +354,7 @@
 ## awesome 
 
 - [kraloveckey/venom](https://github.com/kraloveckey/venom) - 👽 The collection of awesome software, tools, libraries, documents, books, resources and cool stuff about information security, penetration testing and offensive cybersecurity.
-- [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - Continuous updates on how to stay safe from NPM supply chain attacks
+- [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - [Updated for AI] Continuous updates on how to stay safe from NPM supply chain attacks
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
 - [mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends) - Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
@@ -949,7 +950,7 @@
 
 ## deno 
 
-- [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - Continuous updates on how to stay safe from NPM supply chain attacks
+- [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - [Updated for AI] Continuous updates on how to stay safe from NPM supply chain attacks
 
 ## deployment 
 
@@ -1545,7 +1546,7 @@
 
 ## javascript 
 
-- [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - Continuous updates on how to stay safe from NPM supply chain attacks
+- [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - [Updated for AI] Continuous updates on how to stay safe from NPM supply chain attacks
 - [dnakov/little-rat](https://github.com/dnakov/little-rat) - 🐀 Small chrome extension to monitor (and optionally block) other extensions' network calls
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [classvsoftware/under-new-management](https://github.com/classvsoftware/under-new-management) - Detect when your installed extensions have changed owners.
@@ -2472,7 +2473,7 @@
 ## nodejs 
 
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
-- [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - Continuous updates on how to stay safe from NPM supply chain attacks
+- [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - [Updated for AI] Continuous updates on how to stay safe from NPM supply chain attacks
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [jesec/flood](https://github.com/jesec/flood) - A modern web UI for various torrent clients with a Node.js backend and React frontend.
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
@@ -2486,7 +2487,7 @@
 
 ## npm 
 
-- [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - Continuous updates on how to stay safe from NPM supply chain attacks
+- [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - [Updated for AI] Continuous updates on how to stay safe from NPM supply chain attacks
 - [bitwarden/cli](https://github.com/bitwarden/cli) - The command line vault (Windows, macOS, & Linux).
 
 ## obsidian 
@@ -3259,6 +3260,10 @@
 
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper's color scheme / palette, OCR with VLM's Traditional & Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image pro
 
+## portfolio 
+
+- [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
+
 ## postgresql 
 
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
@@ -3650,7 +3655,7 @@
 ## security 
 
 - [kraloveckey/venom](https://github.com/kraloveckey/venom) - 👽 The collection of awesome software, tools, libraries, documents, books, resources and cool stuff about information security, penetration testing and offensive cybersecurity.
-- [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - Continuous updates on how to stay safe from NPM supply chain attacks
+- [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - [Updated for AI] Continuous updates on how to stay safe from NPM supply chain attacks
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [OpenVPN/openvpn](https://github.com/OpenVPN/openvpn) - OpenVPN  is  an open source VPN daemon
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
