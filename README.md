@@ -1128,7 +1128,7 @@
 ## PowerShell 
 
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - Continuous updates on how to stay safe from NPM supply chain attacks
+- [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - [Updated for AI] Continuous updates on how to stay safe from NPM supply chain attacks
 
 ## Python 
 
@@ -1623,7 +1623,7 @@
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
 - [ropery/FFcast](https://github.com/ropery/FFcast) - Run command on rectangular screen regions
 - [dylanaraps/pure-sh-bible](https://github.com/dylanaraps/pure-sh-bible) - 📖 A collection of pure POSIX sh alternatives to external processes.
-- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - A collection of Bash scripts for creating bootable Arch Linux images and USB drives with desktop environments.
+- [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Bash toolkit for building Arch Linux live ISO/IMG media and USB layouts from archiso-style profiles, plus utilities for persistence, full install-to-USB, hybrid media, and ZFS package builds.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
 - [wulfgarpro/history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
