@@ -1128,7 +1128,7 @@
 ## PowerShell 
 
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
-- [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - [Updated for AI] Continuous updates on how to stay safe from NPM supply chain attacks
+- [bodadotsh/npm-security-best-practices](https://github.com/bodadotsh/npm-security-best-practices) - [Updated for AI 🤖] Continuous updates on how to stay safe from NPM supply chain attacks
 
 ## Python 
 
