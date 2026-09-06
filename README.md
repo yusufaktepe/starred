@@ -714,7 +714,7 @@
 - [WilliamHsieh/overlook.nvim](https://github.com/WilliamHsieh/overlook.nvim) - Stackable popups for Neovim. Peek around the code without overlooking the bigger picture.
 - [SeriousHornet/KOReader.patches](https://github.com/SeriousHornet/KOReader.patches) - Some of the patches I created for KOReader.
 - [omer-faruq/assistant.koplugin](https://github.com/omer-faruq/assistant.koplugin) - Assistant: AI Helper Plugin for KOReader : lets you interact with AI language models (Claude, GPT-4, Gemini, DeepSeek, Ollama etc.) while reading
-- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - VSCode-style diff, merge and git history for Neovim. Side-by-side or inline, with character-level highlighting from VSCode's own diff algorithm in C.
+- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - Live code review workspace for Neovim with VSCode style diffs. Inspect Git changes as coding agents work, stage or discard hunks, review pull requests and history, and resolve merge conflicts.
 - [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts in neovim
 - [noamsto/resolved.nvim](https://github.com/noamsto/resolved.nvim) - Surfaces stale issue and PR references in your code, so workarounds get deleted when the bug closes
 - [FylerOrg/fyler.nvim](https://github.com/FylerOrg/fyler.nvim) - A neovim file manager which can edit file system like a buffer with tree view
@@ -1326,7 +1326,7 @@
 
 ## QML 
 
-- [hthienloc/dms-quick-capture](https://github.com/hthienloc/dms-quick-capture) - Screenshot annotation plugin for DankMaterialShell
+- [hthienloc/dms-quick-capture](https://github.com/hthienloc/dms-quick-capture) - Screenshot annotation and screen recording plugin for DankMaterialShell
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 - [snowarch/iNiR](https://github.com/snowarch/iNiR) - A Niri shell illogical-impulse based - with some modifications..
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
