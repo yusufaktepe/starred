@@ -122,7 +122,6 @@
 - [tpm2-software/tpm2-totp](https://github.com/tpm2-software/tpm2-totp) - Attest the trustworthiness of a device against a human using time-based one-time passwords
 - [zsugabubus/interception-k2k](https://github.com/zsugabubus/interception-k2k) - Configurable plugin for Interception Tools (caps2esc, space2meta, tab2altgr...)
 - [LemonBoy/bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
-- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [wmutils/core](https://github.com/wmutils/core) - Set of window manipulation tools
 - [Jack12816/colorpicker](https://github.com/Jack12816/colorpicker) - Click on a pixel on your screen and print its color value in RGB. Written for X11.
 - [Keruspe/GPaste](https://github.com/Keruspe/GPaste) - Clipboard management system
@@ -714,7 +713,7 @@
 - [WilliamHsieh/overlook.nvim](https://github.com/WilliamHsieh/overlook.nvim) - Stackable popups for Neovim. Peek around the code without overlooking the bigger picture.
 - [SeriousHornet/KOReader.patches](https://github.com/SeriousHornet/KOReader.patches) - Some of the patches I created for KOReader.
 - [omer-faruq/assistant.koplugin](https://github.com/omer-faruq/assistant.koplugin) - Assistant: AI Helper Plugin for KOReader : lets you interact with AI language models (Claude, GPT-4, Gemini, DeepSeek, Ollama etc.) while reading
-- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - Live code review workspace for Neovim with VSCode style diffs. Inspect Git changes as coding agents work, stage or discard hunks, review pull requests and history, and resolve merge conflicts.
+- [esmuellert/codediff.nvim](https://github.com/esmuellert/codediff.nvim) - Live code review for Neovim with VSCode style diffs
 - [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) - A plugin to visualise and resolve merge conflicts in neovim
 - [noamsto/resolved.nvim](https://github.com/noamsto/resolved.nvim) - Surfaces stale issue and PR references in your code, so workarounds get deleted when the bug closes
 - [FylerOrg/fyler.nvim](https://github.com/FylerOrg/fyler.nvim) - A neovim file manager which can edit file system like a buffer with tree view
@@ -962,7 +961,7 @@
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) - The superior project management solution for neovim.
 - [s1n7ax/nvim-window-picker](https://github.com/s1n7ax/nvim-window-picker) - This plugins prompts the user to pick a window and returns the window id of the picked window
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) - Peek lines just when you intend
-- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
+- [smart-splits-nvim/smart-splits.nvim](https://github.com/smart-splits-nvim/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
 - [kvrohit/rasmus.nvim](https://github.com/kvrohit/rasmus.nvim) - A color scheme for Neovim
 - [anuvyklack/keymap-layer.nvim](https://github.com/anuvyklack/keymap-layer.nvim) - Create a key layer in Neovim
 - [anuvyklack/fold-preview.nvim](https://github.com/anuvyklack/fold-preview.nvim) - Preview folds in float window
@@ -1626,6 +1625,7 @@
 - [laurent85v/archuseriso](https://github.com/laurent85v/archuseriso) - Bash toolkit for building Arch Linux live ISO/IMG media and USB layouts from archiso-style profiles, plus utilities for persistence, full install-to-USB, hybrid media, and ZFS package builds.
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [NullSense/fuzzy-sys](https://github.com/NullSense/fuzzy-sys) - Utility tool for using systemctl interactively
+- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [wulfgarpro/history-sync](https://github.com/wulfgarpro/history-sync) - An oh-my-zsh plugin for GPG encrypted internet synchronised Zsh history, with Git.
 - [jabirali/tmux-tilish](https://github.com/jabirali/tmux-tilish) - Plugin which makes tmux work and feel like i3wm
 - [adoyle-h/lobash](https://github.com/adoyle-h/lobash) - A modern, safe, powerful utility/library for Bash script development.
@@ -1763,7 +1763,7 @@
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [chrisling-dev/hyperliquid-cli](https://github.com/chrisling-dev/hyperliquid-cli) - Unofficial Hyperliquid CLI for high performance, low-latency trading and real time data monitoring
-- [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions ( previously Altsendme )
+- [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Share files nearby and beyond.
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [pieroproietti/penguins-eggs-legacy](https://github.com/pieroproietti/penguins-eggs-legacy) - A professional and universal remastering tool for all major distributions
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
