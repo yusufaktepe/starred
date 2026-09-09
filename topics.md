@@ -2559,7 +2559,6 @@
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 - [AvengeMedia/dank-greeter](https://github.com/AvengeMedia/dank-greeter) - Greetd-based Greeter for the Dank Linux Suite
 - [OctopusTakopi/bitcoin_sessions](https://github.com/OctopusTakopi/bitcoin_sessions) - How Bitcoin trades across regional market sessions (Asia/UAE/Europe/US) — returns, aggressive flow, volume share & open-interest positioning from cached Binance data.
-- [Omochice/Surfingkeys](https://github.com/Omochice/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [hthienloc/dms-quick-capture](https://github.com/hthienloc/dms-quick-capture) - Screenshot annotation and screen recording plugin for DankMaterialShell
 - [marcomorosi06/WiFiAudioStreaming-Android](https://github.com/marcomorosi06/WiFiAudioStreaming-Android) - An Android application for streaming audio over a local network. It allows you to stream your Android device's internal audio to any device on the network. Developed in Kotlin and Jetpack Compose.
 - [marcomorosi06/WiFiAudioStreaming-Desktop](https://github.com/marcomorosi06/WiFiAudioStreaming-Desktop) - A desktop application for streaming audio over a local network. It allows you to stream your computer's internal audio to any device on the network. Developed in Kotlin and Jetpack Compose.
@@ -4024,6 +4023,7 @@
 
 ## typescript 
 
+- [Omochice/Surfingkeys](https://github.com/Omochice/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust
@@ -4084,6 +4084,7 @@
 
 ## vim 
 
+- [Omochice/Surfingkeys](https://github.com/Omochice/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [nvzone/volt](https://github.com/nvzone/volt) - Create blazing fast & beautiful reactive UI in Neovim
 - [oribarilan/lensline.nvim](https://github.com/oribarilan/lensline.nvim) - Modular nvim codelens support with inline references, git blame and more
 - [thesimonho/kanagawa-paper.nvim](https://github.com/thesimonho/kanagawa-paper.nvim) - 🌊 Remixed Kanagawa colourschemes with muted colors. For Neovim.
