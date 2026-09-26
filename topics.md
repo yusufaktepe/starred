@@ -239,7 +239,7 @@
 ## ai 
 
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and explainer videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
@@ -771,7 +771,7 @@
 
 ## code 
 
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and explainer videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 
 ## code-quality 
@@ -1216,7 +1216,7 @@
 ## github 
 
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and explainer videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
 - [Link-/gh-stars](https://github.com/Link-/gh-stars) - Search your starred ★ repositories on GitHub from your terminal
 - [projekt0n/github-nvim-theme](https://github.com/projekt0n/github-nvim-theme) - GitHub's Neovim themes
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) - Edit and review GitHub issues and pull requests from the comfort of your favorite editor
@@ -1656,6 +1656,7 @@
 
 ## linux 
 
+- [peteonrails/voxtype](https://github.com/peteonrails/voxtype) - Voice-to-text with push-to-talk for Wayland compositors
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [archlinux/archinstall](https://github.com/archlinux/archinstall) - Arch Linux installer - guided, templates etc.
 - [kraloveckey/venom](https://github.com/kraloveckey/venom) - 👽 The collection of awesome software, tools, libraries, documents, books, resources and cool stuff about information security, penetration testing and offensive cybersecurity.
@@ -3523,6 +3524,7 @@
 
 ## rust 
 
+- [peteonrails/voxtype](https://github.com/peteonrails/voxtype) - Voice-to-text with push-to-talk for Wayland compositors
 - [crmne/spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
 - [agavra/tuicr](https://github.com/agavra/tuicr) - a code review TUI with vim keybindings
 - [Antiz96/arch-update](https://github.com/Antiz96/arch-update) - An interactive update notifier & applier for Arch Linux that assists you with important pre / post update tasks (including a systray applet and extensive CLI).
@@ -4081,7 +4083,7 @@
 ## video 
 
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and explainer videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [Zabooby/mpv-config](https://github.com/Zabooby/mpv-config) - Personal mpv config files aiming to get the best quality and viewing experience
 - [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
