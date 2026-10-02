@@ -182,7 +182,7 @@
 - [florentc/xob](https://github.com/florentc/xob) - A lightweight overlay volume (or anything) bar for the X Window System.
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [fanglingsu/vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a complete
-- [mchehab/zbar](https://github.com/mchehab/zbar) - ZBar is an open source software suite for reading bar codes from various sources, including webcams. As its development stopped in 2012, I took the task of keeping it updated with the V4L2 API. This i
+- [mchehab/zbar](https://github.com/mchehab/zbar) - ZBar is an open source software suite for reading bar codes from various sources, including webcams.  This is the main repository for reporting issues and send PRs. There's a clone at at https://git.l
 - [Xfennec/progress](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, mv, dd, ... (formerly known as cv)
 - [OmarCastro/rofi-blocks](https://github.com/OmarCastro/rofi-blocks) - A Rofi modi that allows controlling rofi content throug communication with an external program
 - [jcs/xbanish](https://github.com/jcs/xbanish) - Hide the mouse cursor when typing and show it again when the mouse moves
@@ -1455,7 +1455,7 @@
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [mgunyho/tere](https://github.com/mgunyho/tere) - Terminal file explorer
 - [riquito/tuc](https://github.com/riquito/tuc) - When cut doesn't cut it
-- [pvolok/dekit](https://github.com/pvolok/dekit) - Run multiple commands in parallel
+- [pvolok/dekit](https://github.com/pvolok/dekit) - Process manager for dev and prod
 - [01mf02/jaq](https://github.com/01mf02/jaq) - A jq clone focussed on correctness, speed, and simplicity
 - [devmatteini/dra](https://github.com/devmatteini/dra) - A command line tool to download release assets from GitHub
 - [dtolnay/faketty](https://github.com/dtolnay/faketty) - Wrapper to exec a command in a pty, even if redirecting the output
