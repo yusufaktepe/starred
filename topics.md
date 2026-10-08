@@ -2193,7 +2193,7 @@
 - [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) - Git Blame plugin for Neovim written in Lua
 - [fcancelinha/nordern.nvim](https://github.com/fcancelinha/nordern.nvim) - A carefully crafted Nord❄️ color scheme written in Lua for Neovim.
 - [max397574/better-escape.nvim](https://github.com/max397574/better-escape.nvim) - Map keys without delay when typing
-- [mawkler/demicolon.nvim](https://github.com/mawkler/demicolon.nvim) - Overloaded ; and , keys in Neovim
+- [mawkler/demicolon.nvim](https://github.com/mawkler/demicolon.nvim) - Repeat more motions with ; and , keys in Neovim
 - [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) - A minimal and blazing fast indentline plugin
 - [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) - multiple cursors in neovim
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
