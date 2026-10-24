@@ -681,7 +681,7 @@
 
 ## Kotlin 
 
-- [potatameister/PaperKnifePlus](https://github.com/potatameister/PaperKnifePlus) - Privacy-first PDF utility: merge, split, rotate, and protect
+- [potatameister/PaperKnifePlus](https://github.com/potatameister/PaperKnifePlus) - Privacy-first PDF utility Android app: merge, split, rotate, and protect your PDF.
 - [marcomorosi06/WiFiAudioStreaming-Android](https://github.com/marcomorosi06/WiFiAudioStreaming-Android) - An Android application for streaming audio over a local network. It allows you to stream your Android device's internal audio to any device on the network. Developed in Kotlin and Jetpack Compose.
 - [marcomorosi06/WiFiAudioStreaming-Desktop](https://github.com/marcomorosi06/WiFiAudioStreaming-Desktop) - A desktop application for streaming audio over a local network. It allows you to stream your computer's internal audio to any device on the network. Developed in Kotlin and Jetpack Compose.
 - [chayanforyou/QuickBall](https://github.com/chayanforyou/QuickBall) - A Quick Action Ball that gives fast access to system controls (volume, brightness, lock) with smart positioning
