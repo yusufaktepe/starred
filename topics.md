@@ -11,6 +11,7 @@
 - [algorithm](#algorithm)
 - [algorithmic-trading](#algorithmic-trading)
 - [android](#android)
+- [android-app](#android-app)
 - [animation](#animation)
 - [api](#api)
 - [archlinux](#archlinux)
@@ -202,6 +203,7 @@
 - [telegram](#telegram)
 - [telegram-bot](#telegram-bot)
 - [terminal](#terminal)
+- [termux](#termux)
 - [terraform](#terraform)
 - [testing](#testing)
 - [text-to-speech](#text-to-speech)
@@ -266,6 +268,9 @@
 
 ## android 
 
+- [jemcik/JemRec](https://github.com/jemcik/JemRec) - Call recorder for unrooted Android: phone, WhatsApp, Telegram, Viber and Google Meet calls, both sides, and an answering machine that takes a message when you can’t answer a phone call. No root, no Sh
+- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A modern clean interface android app to save videos, music, and playlists from YouTube and 1500+ sites with zero ads, tracking, or account setups
+- [cryptrr/AutoPie](https://github.com/cryptrr/AutoPie) - Swiss Army Knife For Android. Turn Linux commands into Android applets and automations.
 - [potatameister/PaperKnifePlus](https://github.com/potatameister/PaperKnifePlus) - Privacy-first PDF utility Android app: merge, split, rotate, and protect your PDF.
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 - [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
@@ -311,6 +316,16 @@
 - [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux (and macOS!)
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 
+## android-app 
+
+- [jemcik/JemRec](https://github.com/jemcik/JemRec) - Call recorder for unrooted Android: phone, WhatsApp, Telegram, Viber and Google Meet calls, both sides, and an answering machine that takes a message when you can’t answer a phone call. No root, no Sh
+- [anonfaded/FadCam](https://github.com/anonfaded/FadCam) - Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control
+- [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
+- [JonasBernard/FakeStandby](https://github.com/JonasBernard/FakeStandby) - An Android app for turning the screen off while keeping apps running.
+- [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
+- [mpv-android/mpv-android](https://github.com/mpv-android/mpv-android) - Video player for Android based on libmpv ↦ #mpv-android @ irc.libera.chat
+- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes, ToDo & Filemanager (for Android) - Markdown, todo.txt, plaintext, math, ..
+
 ## animation 
 
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - Community-built comprehensive 2D content creation appplication for graphic design, digital art, and interactive real-time motion graphics powered by a node-based procedural graphics engine
@@ -355,6 +370,7 @@
 
 ## automation 
 
+- [cryptrr/AutoPie](https://github.com/cryptrr/AutoPie) - Swiss Army Knife For Android. Turn Linux commands into Android applets and automations.
 - [adeekshith/watomatic](https://github.com/adeekshith/watomatic) - Auto reply app to enable auto reply for messengers like WhatsApp and Facebook Messenger
 - [houmain/keymapper](https://github.com/houmain/keymapper) - A cross-platform context-aware key remapper.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
@@ -1063,6 +1079,7 @@
 
 ## downloader 
 
+- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A modern clean interface android app to save videos, music, and playlists from YouTube and 1500+ sites with zero ads, tracking, or account setups
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [Code-Hex/pget](https://github.com/Code-Hex/pget) - The fastest, resumable file download client
 - [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
@@ -1604,6 +1621,8 @@
 
 ## jetpack-compose 
 
+- [jemcik/JemRec](https://github.com/jemcik/JemRec) - Call recorder for unrooted Android: phone, WhatsApp, Telegram, Viber and Google Meet calls, both sides, and an answering machine that takes a message when you can’t answer a phone call. No root, no Sh
+- [cryptrr/AutoPie](https://github.com/cryptrr/AutoPie) - Swiss Army Knife For Android. Turn Linux commands into Android applets and automations.
 - [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) - Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
 - [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - An Android app for searching torrents across multiple providers with fast search speed, detailed results, and packed with complete torrent actions.
 - [yash-garg/qBittorrent-Manager](https://github.com/yash-garg/qBittorrent-Manager) - [WIP] Modern qBittorrent WebUI Client for Android written in Kotlin
@@ -1632,6 +1651,9 @@
 
 ## kotlin 
 
+- [jemcik/JemRec](https://github.com/jemcik/JemRec) - Call recorder for unrooted Android: phone, WhatsApp, Telegram, Viber and Google Meet calls, both sides, and an answering machine that takes a message when you can’t answer a phone call. No root, no Sh
+- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A modern clean interface android app to save videos, music, and playlists from YouTube and 1500+ sites with zero ads, tracking, or account setups
+- [cryptrr/AutoPie](https://github.com/cryptrr/AutoPie) - Swiss Army Knife For Android. Turn Linux commands into Android applets and automations.
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 - [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
 - [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) - Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
@@ -1678,6 +1700,7 @@
 
 ## linux 
 
+- [cryptrr/AutoPie](https://github.com/cryptrr/AutoPie) - Swiss Army Knife For Android. Turn Linux commands into Android applets and automations.
 - [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui
 - [y3owk1n/neru](https://github.com/y3owk1n/neru) - Hints, grids and vim keys for your whole desktop. Built for macOS, linux and windows, natively.
 - [peteonrails/voxtype](https://github.com/peteonrails/voxtype) - Voice-to-text with push-to-talk for Wayland compositors
@@ -2554,6 +2577,7 @@
 
 ## open-source 
 
+- [cryptrr/AutoPie](https://github.com/cryptrr/AutoPie) - Swiss Army Knife For Android. Turn Linux commands into Android applets and automations.
 - [anonfaded/FadCam](https://github.com/anonfaded/FadCam) - Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control
 - [herrhotzenplotz/gcli](https://github.com/herrhotzenplotz/gcli) - Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https://lists.sr.ht/~herrhotzenplotz/gcli-devel
 - [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate) - Open-source offline translation library written in Python
@@ -3314,6 +3338,7 @@
 
 ## privacy 
 
+- [jemcik/JemRec](https://github.com/jemcik/JemRec) - Call recorder for unrooted Android: phone, WhatsApp, Telegram, Viber and Google Meet calls, both sides, and an answering machine that takes a message when you can’t answer a phone call. No root, no Sh
 - [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) - Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
 - [adeekshith/watomatic](https://github.com/adeekshith/watomatic) - Auto reply app to enable auto reply for messengers like WhatsApp and Facebook Messenger
 - [ai-robots-txt/ai.robots.txt](https://github.com/ai-robots-txt/ai.robots.txt) - A list of AI agents and robots to block.
@@ -3337,6 +3362,7 @@
 
 ## productivity 
 
+- [cryptrr/AutoPie](https://github.com/cryptrr/AutoPie) - Swiss Army Knife For Android. Turn Linux commands into Android applets and automations.
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
 - [ViscousPot/GitSync](https://github.com/ViscousPot/GitSync) - Mobile Git client for syncing a repository between remote and a local directory
@@ -3385,6 +3411,7 @@
 
 ## python 
 
+- [cryptrr/AutoPie](https://github.com/cryptrr/AutoPie) - Swiss Army Knife For Android. Turn Linux commands into Android applets and automations.
 - [kantord/headson](https://github.com/kantord/headson) - head/tail for structured data - summarize/preview JSON/YAML and source code
 - [pemistahl/grex](https://github.com/pemistahl/grex) - A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases
 - [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line.
@@ -3972,6 +3999,10 @@
 - [gnotclub/xst](https://github.com/gnotclub/xst) - st fork that uses Xresources and some pretty good patches
 - [dylanaraps/writing-a-tui-in-bash](https://github.com/dylanaraps/writing-a-tui-in-bash) - How to write a TUI in BASH
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+
+## termux 
+
+- [cryptrr/AutoPie](https://github.com/cryptrr/AutoPie) - Swiss Army Knife For Android. Turn Linux commands into Android applets and automations.
 
 ## terraform 
 
