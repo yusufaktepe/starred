@@ -2628,8 +2628,6 @@
 
 ## others 
 
-- [anomalyco/hokum-bluetooth](https://github.com/anomalyco/hokum-bluetooth) - Bluetooth manager for Linux, by Anomaly
-- [anomalyco/hokum-sound](https://github.com/anomalyco/hokum-sound) - Audio control for Linux, by Anomaly
 - [anomalyco/hokum](https://github.com/anomalyco/hokum) - Notifications for Wayland that look like they belong on a computer from this decade. Drawn with Rune.
 - [Oruk-AI/orukeet](https://github.com/Oruk-AI/orukeet) - Orukeet: multilingual ASR with fitted, frozen Gabor kernels and native inference
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
