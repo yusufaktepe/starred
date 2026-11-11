@@ -229,6 +229,7 @@
 - [web](#web)
 - [webapp](#webapp)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [whatsapp-bot](#whatsapp-bot)
 - [windows](#windows)
 - [workflow](#workflow)
@@ -4373,6 +4374,12 @@
 ## website 
 
 - [schollz/pywebsitechanges](https://github.com/schollz/pywebsitechanges) - Change detection with a simple Python script to email you whenever a website changes.
+
+## whatsapp 
+
+- [crmne/zapfast](https://github.com/crmne/zapfast) - ZapFast: a fast, native WhatsApp client in Rust and egui
+- [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
+- [adeekshith/watomatic](https://github.com/adeekshith/watomatic) - Auto reply app to enable auto reply for messengers like WhatsApp and Facebook Messenger
 
 ## whatsapp-bot 
 
