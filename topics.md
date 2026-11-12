@@ -2593,6 +2593,7 @@
 - [cryptrr/AutoPie](https://github.com/cryptrr/AutoPie) - Swiss Army Knife For Android. Turn Linux commands into Android applets and automations.
 - [anonfaded/FadCam](https://github.com/anonfaded/FadCam) - Open-source, ad-free Android multimedia recorder with background video recording, screen recording, live streaming, and remote camera control
 - [herrhotzenplotz/gcli](https://github.com/herrhotzenplotz/gcli) - Portable Git(hub|lab|tea)/Forgejo/Bugzilla CLI tool, Submit patches here: https://lists.sr.ht/~herrhotzenplotz/gcli-devel
+- [hwittenborn/alto](https://github.com/hwittenborn/alto) - The best application for all of your cloud storage
 - [argosopentech/argos-translate](https://github.com/argosopentech/argos-translate) - Open-source offline translation library written in Python
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
