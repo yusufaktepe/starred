@@ -1775,7 +1775,7 @@
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [pieroproietti/penguins-eggs-legacy](https://github.com/pieroproietti/penguins-eggs-legacy) - A professional and universal remastering tool for all major distributions
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
-- [thesimonho/kanagawa-paper](https://github.com/thesimonho/kanagawa-paper) - 🌊 Remixed Kanagawa colourschemes with muted colors.
+- [thesimonho/kanagawa-paper](https://github.com/thesimonho/kanagawa-paper) - Remixed Kanagawa colourschemes with muted colors.
 - [outerbase/studio](https://github.com/outerbase/studio) - A lightweight Database GUI in your browser. It supports connecting to Postgres, MySQL, and SQLite.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
 - [hwittenborn/alto](https://github.com/hwittenborn/alto) - The best application for all of your cloud storage
