@@ -2647,6 +2647,7 @@
 
 ## others 
 
+- [Vladimir-csp/xdg-terminal-exec](https://github.com/Vladimir-csp/xdg-terminal-exec) - Proposal for XDG Default Terminal Execution Specification and shell-based reference implementation.
 - [shell-pool/shpool](https://github.com/shell-pool/shpool) - Think tmux, then aim... lower
 - [xPMo/dtach](https://github.com/xPMo/dtach) - A simple program that emulates the detach feature of screen. (dtach-ng fork)
 - [crigler/dtach](https://github.com/crigler/dtach) - A simple program that emulates the detach feature of screen
