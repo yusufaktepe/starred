@@ -281,7 +281,7 @@
 ## android 
 
 - [jemcik/JemRec](https://github.com/jemcik/JemRec) - Call recorder for unrooted Android: phone, WhatsApp, Telegram, Viber and Google Meet calls, both sides, and an answering machine that takes a message when you can’t answer a phone call. No root, no Sh
-- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A modern clean interface android app to save videos, music, and playlists from YouTube and 1500+ sites with zero ads, tracking, or account setups
+- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A modern clean interface android app to save videos, music, images, multi post and playlists from YouTube and 1500+ sites with zero ads, tracking, or account setups
 - [cryptrr/AutoPie](https://github.com/cryptrr/AutoPie) - Swiss Army Knife For Android. Turn Linux commands into Android applets and automations.
 - [potatameister/PaperKnifePlus](https://github.com/potatameister/PaperKnifePlus) - Privacy-first PDF utility Android app: merge, split, rotate, and protect your PDF.
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
@@ -1094,7 +1094,7 @@
 
 ## downloader 
 
-- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A modern clean interface android app to save videos, music, and playlists from YouTube and 1500+ sites with zero ads, tracking, or account setups
+- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A modern clean interface android app to save videos, music, images, multi post and playlists from YouTube and 1500+ sites with zero ads, tracking, or account setups
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [Code-Hex/pget](https://github.com/Code-Hex/pget) - The fastest, resumable file download client
 - [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
@@ -1669,7 +1669,7 @@
 ## kotlin 
 
 - [jemcik/JemRec](https://github.com/jemcik/JemRec) - Call recorder for unrooted Android: phone, WhatsApp, Telegram, Viber and Google Meet calls, both sides, and an answering machine that takes a message when you can’t answer a phone call. No root, no Sh
-- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A modern clean interface android app to save videos, music, and playlists from YouTube and 1500+ sites with zero ads, tracking, or account setups
+- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A modern clean interface android app to save videos, music, images, multi post and playlists from YouTube and 1500+ sites with zero ads, tracking, or account setups
 - [cryptrr/AutoPie](https://github.com/cryptrr/AutoPie) - Swiss Army Knife For Android. Turn Linux commands into Android applets and automations.
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 - [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
