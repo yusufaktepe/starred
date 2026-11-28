@@ -280,8 +280,9 @@
 
 ## android 
 
+- [junkerderprovinz/arrowloop](https://github.com/junkerderprovinz/arrowloop) - Self-hosted two-way file sync for server, desktop and Android that shows you the plan before it moves anything: a state database, a trash and two brakes. Any rclone backend.
+- [archivekeep/archivekeep](https://github.com/archivekeep/archivekeep) - Keep your files archived on multiple places, in a reliable and simple way.
 - [jemcik/JemRec](https://github.com/jemcik/JemRec) - Call recorder for unrooted Android: phone, WhatsApp, Telegram, Viber and Google Meet calls, both sides, and an answering machine that takes a message when you can’t answer a phone call. No root, no Sh
-- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A modern clean interface android app to save videos, music, images, multi post and playlists from YouTube and 1500+ sites with zero ads, tracking, or account setups
 - [cryptrr/AutoPie](https://github.com/cryptrr/AutoPie) - Swiss Army Knife For Android. Turn Linux commands into Android applets and automations.
 - [potatameister/PaperKnifePlus](https://github.com/potatameister/PaperKnifePlus) - Privacy-first PDF utility Android app: merge, split, rotate, and protect your PDF.
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
@@ -1046,6 +1047,7 @@
 
 ## docker 
 
+- [junkerderprovinz/arrowloop](https://github.com/junkerderprovinz/arrowloop) - Self-hosted two-way file sync for server, desktop and Android that shows you the plan before it moves anything: a state database, a trash and two brakes. Any rclone backend.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [winboat-org/winboat](https://github.com/winboat-org/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
@@ -1094,7 +1096,7 @@
 
 ## downloader 
 
-- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A modern clean interface android app to save videos, music, images, multi post and playlists from YouTube and 1500+ sites with zero ads, tracking, or account setups
+- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - Hazel 🍂✨ -&gt; A modern clean interface android app to save videos, music, stories, highlights, posts, reels, images and playlists from YouTube, Instagram and 1500+ sites with zero ads, tracking, or a
 - [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full-featured audio/video downloader for Android using yt-dlp
 - [Code-Hex/pget](https://github.com/Code-Hex/pget) - The fastest, resumable file download client
 - [sylviiu/ezytdl](https://github.com/sylviiu/ezytdl) - Advanced electron-based frontend for yt-dlp
@@ -1343,6 +1345,7 @@
 
 ## golang 
 
+- [junkerderprovinz/arrowloop](https://github.com/junkerderprovinz/arrowloop) - Self-hosted two-way file sync for server, desktop and Android that shows you the plan before it moves anything: a state database, a trash and two brakes. Any rclone backend.
 - [pass-with-high-score/blockads-android](https://github.com/pass-with-high-score/blockads-android) - Block ads system-wide on Android using local VPN-based DNS filtering. No root needed. No data collection.
 - [Yakitrak/notesmd-cli](https://github.com/Yakitrak/notesmd-cli) - Obsidian CLI (Community) -  Interact with Obsidian in the terminal!
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
@@ -1444,7 +1447,6 @@
 - [axieax/urlview.nvim](https://github.com/axieax/urlview.nvim) - 🔎 Neovim plugin for viewing all the URLs in a buffer
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) - 🗺️ A legend for your keymaps, commands, and autocmds, integrates with which-key.nvim, lazy.nvim, and more.
 - [LuaLS/lua-language-server](https://github.com/LuaLS/lua-language-server) - A language server that offers Lua language support - programmed in Lua
-- [Murzchnvok/rofi-collection](https://github.com/Murzchnvok/rofi-collection) - Beautiful collection of Rofi themes
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) - :brain: :muscle: // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) - Indent guides  for Neovim
@@ -1485,7 +1487,6 @@
 - [SwagLyrics/SwagLyrics-For-Spotify](https://github.com/SwagLyrics/SwagLyrics-For-Spotify) - 📃 Get lyrics of currently playing Spotify song so you don't sing along with the wrong ones and embarrass yourself later. Very fast.
 - [melbahja/got](https://github.com/melbahja/got) - Got: Simple golang package and CLI tool to download large files faster 🏃 than cURL and Wget!
 - [noisetorch/NoiseTorch](https://github.com/noisetorch/NoiseTorch) - Real-time microphone noise suppression on Linux.
-- [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SF
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [wolfcw/libfaketime](https://github.com/wolfcw/libfaketime) - libfaketime modifies the system time for a single application
 - [muesli/gitomatic](https://github.com/muesli/gitomatic) - A tool to monitor git repositories and automatically pull & push changes
@@ -1668,8 +1669,9 @@
 
 ## kotlin 
 
+- [archivekeep/archivekeep](https://github.com/archivekeep/archivekeep) - Keep your files archived on multiple places, in a reliable and simple way.
 - [jemcik/JemRec](https://github.com/jemcik/JemRec) - Call recorder for unrooted Android: phone, WhatsApp, Telegram, Viber and Google Meet calls, both sides, and an answering machine that takes a message when you can’t answer a phone call. No root, no Sh
-- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - The art of saving media 🍂✨ -&gt; A modern clean interface android app to save videos, music, images, multi post and playlists from YouTube and 1500+ sites with zero ads, tracking, or account setups
+- [SibtainOcn/Hazel](https://github.com/SibtainOcn/Hazel) - Hazel 🍂✨ -&gt; A modern clean interface android app to save videos, music, stories, highlights, posts, reels, images and playlists from YouTube, Instagram and 1500+ sites with zero ads, tracking, or a
 - [cryptrr/AutoPie](https://github.com/cryptrr/AutoPie) - Swiss Army Knife For Android. Turn Linux commands into Android applets and automations.
 - [Nain57/Smart-AutoClicker](https://github.com/Nain57/Smart-AutoClicker) - An open-source auto clicker on images for Android
 - [keymapperorg/KeyMapper](https://github.com/keymapperorg/KeyMapper) - An Android app to remap the buttons on your devices
@@ -3228,8 +3230,8 @@
 - [FedoraQt/adwaita-qt](https://github.com/FedoraQt/adwaita-qt) - A style to bend Qt applications to look like they belong into GNOME Shell
 - [jamessan/vim-gnupg](https://github.com/jamessan/vim-gnupg) - This script implements transparent editing of gpg encrypted files.
 - [repomaa/passed](https://github.com/repomaa/passed) - A simple script to modify password store entries with sed commands
-- [roddhjav/pass-update](https://github.com/roddhjav/pass-update) - A pass extension that provides an easy flow for updating passwords.
-- [roddhjav/pass-import](https://github.com/roddhjav/pass-import) - A pass extension for importing data from most existing password managers
+- [pass-extension/pass-update](https://github.com/pass-extension/pass-update) - A pass extension that provides an easy flow for updating passwords.
+- [pass-extension/pass-import](https://github.com/pass-extension/pass-import) - A pass extension for importing data from most existing password managers
 - [LukeSmithxyz/dwm](https://github.com/LukeSmithxyz/dwm) - Luke's build of dwm
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
 - [tpope/vim-unimpaired](https://github.com/tpope/vim-unimpaired) - unimpaired.vim: Pairs of handy bracket mappings
@@ -3779,6 +3781,7 @@
 
 ## self-hosted 
 
+- [junkerderprovinz/arrowloop](https://github.com/junkerderprovinz/arrowloop) - Self-hosted two-way file sync for server, desktop and Android that shows you the plan before it moves anything: a state database, a trash and two brakes. Any rclone backend.
 - [rmyndharis/OpenWA](https://github.com/rmyndharis/OpenWA) - Free, Open Source, Self-Hosted WhatsApp API Gateway
 - [tonyantony300/dashbeam](https://github.com/tonyantony300/dashbeam) - Share files nearby and beyond.
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️ Self-hosted collaborative bookmark manager to collect, read, annotate, and fully preserve what matters, all in one place.
